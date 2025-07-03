@@ -7,8 +7,6 @@ WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 # RSS Feed URL for "Pune Traffic" from Google News
 RSS_FEED_URL = "https://news.google.com/rss/search?q=Pune+traffic&hl=en-IN&gl=IN&ceid=IN:en"
 
-# Replace with your actual webhook URL
-WEBHOOK_URL = "https://sasoffice365.webhook.office.com/webhookb2/8d876413-4bc7-4abd-b61a-8abfa60d7f05@b1c14d5c-3625-45b3-a430-9552373a0c2f/IncomingWebhook/c8475f982a214f8ea90e0b9ec0eb6fef/78155421-4474-4cfc-8a9f-2e54ba3c6e6b/V2NZOweqKq1eRhYiezPQyvFFg6mTHzqS-yiqYmy1-JaWY1"
 
 # File to store posted article links
 POSTED_LOG = "posted_links.txt"
