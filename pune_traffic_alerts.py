@@ -2,6 +2,7 @@ import os
 import requests
 import feedparser
 import random
+WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 
 # RSS Feed URL for "Pune Traffic" from Google News
 RSS_FEED_URL = "https://news.google.com/rss/search?q=Pune+traffic&hl=en-IN&gl=IN&ceid=IN:en"
