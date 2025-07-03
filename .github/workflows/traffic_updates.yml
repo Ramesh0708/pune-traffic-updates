@@ -1,0 +1,30 @@
+name: Pune Traffic Alerts
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 8:30 AM IST
+    - cron: '30 10 * * *' # 4:00 PM IST
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  run-traffic-updates:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run traffic update script
+      env:
+        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+      run: python pune_traffic_alerts.py
