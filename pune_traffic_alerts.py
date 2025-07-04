@@ -59,13 +59,17 @@ def send_teams_message(message):
         print("❌ WEBHOOK_URL is not defined.")
         return
 
-    payload = {"text": message}
+    # Replace single line breaks with double to improve formatting in Teams
+    formatted_message = message.replace("\n", "\n\n")
+
+    payload = {"text": formatted_message}
     response = requests.post(WEBHOOK_URL, json=payload)
 
     if response.status_code == 200:
         print("✅ Message sent successfully.")
     else:
         print(f"❌ Failed to send message. Status code: {response.status_code}")
+
 
 def main():
     print("🔄 Checking for new traffic updates...")
