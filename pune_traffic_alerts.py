@@ -2,25 +2,26 @@ import os
 import requests
 import feedparser
 import random
-import datetime
+from datetime import datetime
 
 # RSS Feed URL for "Pune Traffic" from Google News
 RSS_FEED_URL = "https://news.google.com/rss/search?q=Pune+traffic&hl=en-IN&gl=IN&ceid=IN:en"
 
-# Webhook URL from GitHub Secrets or local testing\WEBHOOK_URL = os.getenv("WEBHOOK_URL")
-
+# Webhook URL from environment variable (GitHub secret)
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 
 # File to store posted article links
 POSTED_LOG = "posted_links.txt"
 
-# Sample trivia list (used if trivia API fails)
-TRIVIA_LIST = [
-    "New York’s Times Square was once a major traffic intersection!",
+# List of traffic trivia
+TRAFFIC_TRIVIA = [
     "Delhi has one of the world’s highest car densities!",
-    "Drivers in Bengaluru waste nearly 243 hours/year in traffic.",
-    "In Tokyo, pedestrians cross from all sides at once at Shibuya crossing.",
-    "In Venice, traffic is managed on canals, not roads!"
+    "Bengaluru drivers waste over 243 hours/year in traffic.",
+    "Shibuya crossing in Tokyo sees 2,500+ people cross at once!",
+    "New York’s Times Square was once a major traffic intersection!",
+    "Los Angeles has more cars than people!",
+    "Mumbai’s traffic is slower than a walking elephant in peak hours!",
+    "The world’s longest traffic jam was over 100 km long in China!",
 ]
 
 def has_been_posted(url):
@@ -42,23 +43,20 @@ def get_new_traffic_updates():
         link = entry.link
 
         if not has_been_posted(link):
-            new_items.append({"title": title, "link": link})
+            new_items.append({'title': title, 'link': link})
             mark_as_posted(link)
 
     return new_items
 
+def get_monsoon_advisory():
+    return "☔ *Monsoon Advisory*: Roads may be slippery — drive cautiously and allow extra travel time!"
+
 def get_random_trivia():
-    try:
-        response = requests.get("https://uselessfacts.jsph.pl/random.json?language=en", timeout=5)
-        if response.status_code == 200:
-            return response.json().get("text", random.choice(TRIVIA_LIST))
-    except:
-        pass
-    return random.choice(TRIVIA_LIST)
+    return f"🚗 *Traffic Trivia of the Day*: {random.choice(TRAFFIC_TRIVIA)}"
 
 def send_teams_message(message):
     if not WEBHOOK_URL:
-        print("❌ WEBHOOK_URL is not set. Cannot send message.")
+        print("❌ WEBHOOK_URL is not defined.")
         return
 
     payload = {"text": message}
@@ -73,20 +71,22 @@ def main():
     print("🔄 Checking for new traffic updates...")
     updates = get_new_traffic_updates()
 
-    message = "🚦 **Pune Traffic Updates**\n"
+    message = "🚦 **Pune Traffic Updates**"
 
     if updates:
-        for item in updates:
-            message += f"\n• 📰 [{item['title']}]({item['link']})"
+        max_articles = 5
+        displayed_updates = updates[:max_articles]
+
+        news_section = "\n".join([f"• [{item['title']}]({item['link']})" for item in displayed_updates])
+        message += "\n" + news_section
+
+        if len(updates) > max_articles:
+            message += f"\n\n...and {len(updates) - max_articles} more updates. Stay tuned!"
     else:
-        message += "\n• No new traffic updates at the moment."
+        message += "\nNo new traffic updates at the moment."
 
-    # Add monsoon advisory
-    message += "\n\n☔ **Monsoon Advisory:** Roads may be slippery — drive cautiously and allow extra travel time!"
-
-    # Add traffic trivia
-    trivia = get_random_trivia()
-    message += f"\n🚗 **Traffic Trivia of the Day:** {trivia}"
+    message += f"\n\n{get_monsoon_advisory()}"
+    message += f"\n\n{get_random_trivia()}"
 
     send_teams_message(message)
 
