@@ -9,6 +9,8 @@ RSS_FEED_URL = "https://news.google.com/rss/search?q=Pune+traffic&hl=en-IN&gl=IN
 
 # Webhook URL from GitHub Secrets or local testing\WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 
+WEBHOOK_URL = os.getenv("WEBHOOK_URL")
+
 # File to store posted article links
 POSTED_LOG = "posted_links.txt"
 
