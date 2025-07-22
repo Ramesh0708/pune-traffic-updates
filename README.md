@@ -1,7 +1,5 @@
 # Pune Traffic Updates 🚦
 
-# Pune Traffic Updates
-
 ![Pune Traffic Alerts](https://github.com/Ramesh0708/pune-traffic-updates/actions/workflows/traffic_updates.yml/badge.svg)
 
 A simple automation that fetches Pune traffic news and posts it to a Teams channel — using GitHub Actions, Python, and a pinch of civic spirit!
