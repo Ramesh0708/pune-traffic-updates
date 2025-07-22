@@ -1,5 +1,11 @@
 # Pune Traffic Updates 🚦
 
+# Pune Traffic Updates
+
+![Pune Traffic Alerts](https://github.com/Ramesh0708/pune-traffic-updates/actions/workflows/traffic_updates.yml/badge.svg)
+
+A simple automation that fetches Pune traffic news and posts it to a Teams channel — using GitHub Actions, Python, and a pinch of civic spirit!
+
 **Automated Pune Traffic Updates Bot**
 
 This project automatically scrapes the latest Pune traffic news from Google News RSS feeds and posts a daily update to a Microsoft Teams channel, along with a monsoon advisory and fun traffic trivia.  
