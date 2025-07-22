@@ -1,0 +1,53 @@
+# ===============================
+# Python
+# ===============================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# ===============================
+# IDE and Editor configs
+# ===============================
+
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ===============================
+# OS generated files
+# ===============================
+
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Logs & Runtime files
+# ===============================
+
+*.log
+
+# ===============================
+# Env files & secrets
+# ===============================
+
+.env
+*.env
+
+# ===============================
+# Your custom files
+# ===============================
+
+posted_links.txt
