@@ -6,6 +6,9 @@ on:
     - cron: '30 10 * * *' # 4:00 PM IST
   workflow_dispatch:      # Allow manual trigger
 
+permissions:
+  contents: write  # Needed to push back to the repo
+
 jobs:
   run-traffic-updates:
     runs-on: ubuntu-latest
@@ -28,3 +31,11 @@ jobs:
       env:
         WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
       run: python pune_traffic_alerts.py
+
+    - name: Commit updated posted_links.txt
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add posted_links.txt
+        git commit -m "Update posted_links.txt with new links" || echo "No changes to commit"
+        git push
