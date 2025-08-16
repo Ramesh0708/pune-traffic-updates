@@ -1,41 +1,30 @@
-name: Pune Traffic Alerts
+name: Pune Traffic Updates
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # 8:30 AM IST
-    - cron: '30 10 * * *' # 4:00 PM IST
-  workflow_dispatch:      # Allow manual trigger
-
-permissions:
-  contents: write  # Needed to push back to the repo
+    - cron: "0 3 * * 1-5"   # 8:30 AM IST
+    - cron: "30 10 * * 1-5" # 4:00 PM IST
+  workflow_dispatch:
 
 jobs:
-  run-traffic-updates:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install requests feedparser
 
-    - name: Run traffic update script
-      env:
-        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-      run: python pune_traffic_alerts.py
-
-    - name: Commit updated posted_links.txt
-      run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        git add posted_links.txt
-        git commit -m "Update posted_links.txt with new links" || echo "No changes to commit"
-        git push
+      - name: Run Traffic Updates Script
+        env:
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+        run: python main.py
