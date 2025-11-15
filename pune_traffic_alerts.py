@@ -1,64 +1,145 @@
+#!/usr/bin/env python3
+"""
+Improved Pune traffic updater:
+- Multi-source RSS
+- Freshness filter (last N hours)
+- Clickable titles for Teams
+- Dedupe using posted_links.txt
+- Archive messages to traffic_archive.md
+"""
+
 import os
 import requests
-from datetime import datetime
 import feedparser
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 
-# File to store posted article links
+# Config
+RSS_FEEDS = [
+    "https://news.google.com/rss/search?q=Pune+Traffic&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://www.freepressjournal.in/feed/pune-traffic",
+    # Add more RSS URLs here if you want
+]
+HOURS_FRESH = 24          # consider only articles published in the last N hours
+MAX_ARTICLES = 5          # how many headlines to show in Teams
 POSTED_LOG = "posted_links.txt"
 ARCHIVE_FILE = "traffic_archive.md"
 
-# Secrets
+# Teams webhook (set as GitHub secret TEAMS_WEBHOOK_URL and passed into the workflow)
 TEAMS_WEBHOOK_URL = os.getenv("TEAMS_WEBHOOK_URL")
-OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
-# RSS Source
-RSS_FEED = "https://www.freepressjournal.in/feed/pune-traffic"
+if not TEAMS_WEBHOOK_URL:
+    print("ERROR: TEAMS_WEBHOOK_URL is not set. Add the webhook URL as an environment variable / secret.")
+    # continue so local runs can still be tested if user wants; but exits to avoid exceptions
+    # exit(1)
 
-def fetch_traffic_news():
-    """Fetch traffic news and assign severity"""
-    try:
-        feed = feedparser.parse(RSS_FEED)
-        news_items = []
-        for entry in feed.entries[:2]:
-            severity = get_severity(entry.title)
-            news_items.append(f"{severity} {entry.title} ({entry.link})")
-        return "\n".join(news_items) if news_items else "🟢 No major updates found."
-    except Exception:
-        return "⚠️ Unable to fetch traffic updates."
+def load_posted_links():
+    if not os.path.exists(POSTED_LOG):
+        return set()
+    with open(POSTED_LOG, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f if line.strip())
 
-def get_severity(title):
-    """Return emoji severity based on keywords"""
-    title_lower = title.lower()
-    if "heavy" in title_lower or "jam" in title_lower or "closed" in title_lower:
+def mark_as_posted(urls):
+    if not urls:
+        return
+    with open(POSTED_LOG, "a", encoding="utf-8") as f:
+        for u in urls:
+            f.write(u.strip() + "\n")
+
+def parse_entry_date(entry):
+    """Return a timezone-aware datetime for the entry if available, otherwise None."""
+    # try common fields in order
+    for key in ("published", "updated", "pubDate"):
+        val = entry.get(key)
+        if val:
+            try:
+                dt = parsedate_to_datetime(val)
+                if dt.tzinfo is None:
+                    # assume UTC if no tz
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except Exception:
+                pass
+    # feedparser provides published_parsed often
+    if entry.get("published_parsed"):
+        try:
+            dt = datetime.fromtimestamp(feedparser.mktime_tz(entry.published_parsed), tz=timezone.utc)
+            return dt
+        except Exception:
+            pass
+    return None
+
+def get_severity(title: str) -> str:
+    t = title.lower()
+    if any(k in t for k in ("heavy", "jam", "blocked", "closed", "accident", "collapse", "diversion")):
         return "🔴"
-    elif "slow" in title_lower or "congestion" in title_lower or "delay" in title_lower:
+    if any(k in t for k in ("slow", "congestion", "delay", "waterlogging", "snarl")):
         return "🟡"
     return "🟢"
 
-def get_weather_advisory(city="Pune"):
-    """Fetch weather advisory using OpenWeather"""
-    if not OPENWEATHER_API_KEY:
-        return "🌤️ Weather info not available."
-    try:
-        url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={OPENWEATHER_API_KEY}&units=metric"
-        res = requests.get(url, timeout=10)
-        data = res.json()
-        condition = data["weather"][0]["main"]
-        temp = data["main"]["temp"]
+def fetch_and_merge_feeds(hours_fresh=HOURS_FRESH):
+    """Fetch multiple feeds, merge, filter by recency and return sorted list of unique entries."""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_fresh)
+    items = []
+    seen_links = set()
+    for url in RSS_FEEDS:
+        try:
+            feed = feedparser.parse(url)
+        except Exception:
+            continue
+        for e in feed.entries:
+            link = e.get("link") or e.get("guid") or ""
+            if not link:
+                # try id or alternate
+                link = e.get("id", "")
+            if not link:
+                continue
+            if link in seen_links:
+                continue
+            seen_links.add(link)
 
-        if "rain" in condition.lower():
-            return "☔ Monsoon Advisory: Roads may be slippery — drive cautiously!"
-        elif temp > 35:
-            return "🔥 Heatwave Alert: Carry water, avoid long idling in traffic."
-        elif "fog" in condition.lower():
-            return "🌫️ Low Visibility Advisory: Use fog lights and keep safe distance."
-        else:
-            return f"🌤️ Current Weather in {city}: {condition}, {temp}°C."
-    except Exception:
-        return "🌤️ Weather info not available."
+            title = e.get("title", "").strip()
+            published = parse_entry_date(e) or datetime.now(timezone.utc)
+            # filter by recency
+            if published < cutoff:
+                continue
+            items.append({
+                "title": title,
+                "link": link,
+                "published": published
+            })
+
+    # sort newest first
+    items.sort(key=lambda x: x["published"], reverse=True)
+    return items
+
+def prepare_message(new_items):
+    """Create a Markdown-friendly Teams message from the list of items."""
+    timestamp = datetime.now().strftime("%d %b %Y • %I:%M %p")
+    header = f"🚦 Pune Traffic Updates • {timestamp}\n\n"
+
+    if not new_items:
+        return header + "🟢 No major updates found."
+
+    lines = []
+    for i, it in enumerate(new_items[:MAX_ARTICLES], start=1):
+        sev = get_severity(it["title"])
+        # use markdown link so titles are clickable in Teams
+        title_md = f"[{it['title']}]({it['link']})"
+        lines.append(f"{sev} {title_md}")
+
+    extra = ""
+    if len(new_items) > MAX_ARTICLES:
+        extra = f"\n\n...and {len(new_items) - MAX_ARTICLES} more updates. Stay tuned!"
+
+    # Rotate message (trivia/tip)
+    tip = rotate_message()
+
+    body = "\n\n".join(lines)
+    message = f"{header}{body}{extra}\n\n{tip}"
+    return message
 
 def rotate_message():
-    """Rotate between trivia, driving tips, and fun facts"""
     messages = [
         "🚗 Traffic Trivia: Istanbul drivers cross from Europe to Asia daily!",
         "🚦 Driving Tip: Maintain at least a 3-second distance from the car ahead.",
@@ -67,38 +148,49 @@ def rotate_message():
         "🚧 Safety Tip: Always slow down near pedestrian crossings.",
         "🛑 Red light rule: Don’t block zebra crossings — keep them free.",
     ]
-    return messages[datetime.now().day % len(messages)]
+    idx = datetime.now().day % len(messages)
+    return messages[idx]
 
 def post_to_teams(message):
+    if not TEAMS_WEBHOOK_URL:
+        print("Warning: TEAMS_WEBHOOK_URL not set — would have posted:\n")
+        print(message)
+        return
+
     payload = {"text": message}
     try:
-        response = requests.post(TEAMS_WEBHOOK_URL, json=payload)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"Error posting to Teams: {e}")
+        resp = requests.post(TEAMS_WEBHOOK_URL, json=payload, timeout=15)
+        resp.raise_for_status()
+        print("Posted to Teams (status):", resp.status_code)
+    except Exception as exc:
+        print("Error posting to Teams:", exc)
+        # do not raise, so archive still happens
 
 def archive_message(message):
-    """Save to archive log (Markdown for GitHub Pages later)"""
     with open(ARCHIVE_FILE, "a", encoding="utf-8") as f:
-        f.write(f"\n### {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n{message}\n")
+        f.write("\n### " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n")
+        f.write(message + "\n")
 
 def main():
-    traffic_updates = fetch_traffic_news()
-    weather_advisory = get_weather_advisory("Pune")
-    trivia = rotate_message()
+    posted = load_posted_links()
+    merged = fetch_and_merge_feeds()
+    # remove items that were posted already
+    new_items = [it for it in merged if it["link"] not in posted]
 
-    message = f"""🚦 Pune Traffic Updates  
-{traffic_updates}  
+    if not new_items:
+        message = f"🚦 Pune Traffic Updates • {datetime.now().strftime('%d %b %Y • %I:%M %p')}\n\n🟢 No major updates found."
+        post_to_teams(message)
+        archive_message(message)
+        return
 
-{weather_advisory}  
-{trivia}  
-
-📊 How was your commute today?  
-🟢 Smooth | 🟡 Moderate | 🔴 Nightmare
-"""
-
+    message = prepare_message(new_items)
     post_to_teams(message)
     archive_message(message)
+
+    # mark top MAX_ARTICLES URLs as posted (so they won't repeat)
+    urls_to_mark = [it["link"] for it in new_items[:MAX_ARTICLES]]
+    mark_as_posted(urls_to_mark)
+    print("Marked posted links:", len(urls_to_mark))
 
 if __name__ == "__main__":
     main()
