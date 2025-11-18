@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Pune traffic updater — enhanced:
-- multi-source RSS
-- freshness filter
-- clickable titles
-- lightweight article summary (1-2 sentences) using BeautifulSoup
-- Pune traffic map link in footer
-- time-based greeting for morning/evening (IST)
-- dedupe & archive
+Pune traffic updater (updated):
+- Multi-source RSS
+- Freshness filter
+- Clickable titles for Teams
+- Dedupe using posted_links.txt
+- Archive messages to traffic_archive.md
+- Baner-specific live map link
+- Quick keyword-based summary (generate_quick_summary)
 """
 
 import os
@@ -15,23 +15,22 @@ import requests
 import feedparser
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
-from bs4 import BeautifulSoup
 import re
 
 # ---------- CONFIG ----------
 RSS_FEEDS = [
     "https://news.google.com/rss/search?q=Pune+Traffic&hl=en-IN&gl=IN&ceid=IN:en",
     "https://www.freepressjournal.in/feed/pune-traffic",
-    # add more feeds if desired
+    # add other RSS feeds if you like
 ]
 HOURS_FRESH = 24
 MAX_ARTICLES = 5
-MAX_SUMMARIES = 2         # number of top articles to fetch a short summary for
 POSTED_LOG = "posted_links.txt"
 ARCHIVE_FILE = "traffic_archive.md"
 
-# Map link (users can click for a live traffic view)
-PUNE_TRAFFIC_MAP = "https://www.google.com/maps/search/traffic+Pune"  # simple helpful link
+# Baner-specific traffic map (traffic layer enabled, centered on Baner)
+PUNE_TRAFFIC_MAP = "https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1"
+PUNE_TRAFFIC_MAP_LABEL = "Baner Traffic Map"
 
 TEAMS_WEBHOOK_URL = os.getenv("TEAMS_WEBHOOK_URL")
 
@@ -76,44 +75,6 @@ def get_severity(title: str) -> str:
         return "🟡"
     return "🟢"
 
-# lightweight text cleaning
-def clean_text(s):
-    return re.sub(r"\s+", " ", s).strip()
-
-# fetch a short summary (1-2 sentences) by reading the article <p> text
-def fetch_short_summary(url, max_sentences=2):
-    try:
-        headers = {"User-Agent": "Mozilla/5.0 (compatible; PuneTrafficBot/1.0)"}
-        r = requests.get(url, headers=headers, timeout=8)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-        # prefer article tag paragraphs if present
-        article_text = []
-        article_tag = soup.find("article")
-        if article_tag:
-            ps = article_tag.find_all("p")
-        else:
-            ps = soup.find_all("p")
-        for p in ps:
-            txt = p.get_text(separator=" ", strip=True)
-            if txt:
-                article_text.append(txt)
-        if not article_text:
-            return None
-        joined = " ".join(article_text)
-        joined = clean_text(joined)
-        # split into sentences (naive)
-        sentences = re.split(r'(?<=[.!?])\s+', joined)
-        # return first max_sentences non-empty sentences
-        selected = [s for s in sentences if s][:max_sentences]
-        summary = " ".join(selected).strip()
-        # limit length to keep Teams message tidy
-        if len(summary) > 350:
-            summary = summary[:347].rsplit(" ", 1)[0] + "..."
-        return summary
-    except Exception:
-        return None
-
 def fetch_and_merge_feeds(hours_fresh=HOURS_FRESH):
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_fresh)
     items = []
@@ -138,29 +99,48 @@ def fetch_and_merge_feeds(hours_fresh=HOURS_FRESH):
     items.sort(key=lambda x: x["published"], reverse=True)
     return items
 
-def ist_greeting():
-    # IST is UTC+5:30
-    now_utc = datetime.now(timezone.utc)
-    now_ist = (now_utc + timedelta(hours=5, minutes=30))
-    h = now_ist.hour
-    # morning window 08:00-09:00, evening 16:00-17:00 (adjustable)
-    if 8 <= h < 9:
-        return "🌅 Good morning Pune! Here's the morning traffic pulse."
-    if 16 <= h < 17:
-        return "🌇 Evening traffic update — plan your commute!"
-    return None
+# ---------- QUICK KEYWORD-BASED SUMMARY ----------
+def generate_quick_summary(headlines):
+    """
+    headlines: list of strings (titles)
+    returns a short one-line summary based on keywords.
+    """
+    text = " ".join(headlines).lower()
+    # priority rules
+    if any(w in text for w in ["baner", "baner road", "aundh-baner", "balewadi"]):
+        return "🔍 Summary: Expect congestion around Baner & Balewadi — plan extra travel time."
+    if any(w in text for w in ["navale", "navale bridge", "bridge", "accident", "crash"]):
+        return "🔍 Summary: Delays likely near Navale Bridge due to reported incidents."
+    if any(w in text for w in ["hinjewadi", "it park", "phase", "traffic police implement"]):
+        return "🔍 Summary: Slow-moving traffic expected near Hinjewadi IT Park."
+    if any(w in text for w in ["metro", "construction", "roadwork", "work"]):
+        return "🔍 Summary: Roadworks/metro construction causing local slowdowns — expect delays."
+    if any(w in text for w in ["heavy", "gridlock", "jam", "standstill"]):
+        return "🔍 Summary: Heavy congestion reported in multiple locations."
+    # default
+    return "🔍 Summary: No major bottlenecks reported in the immediate area."
 
+# ---------- MESSAGE PREP & POST ----------
 def rotate_message():
     messages = [
         "🚗 Traffic Trivia: Istanbul drivers cross from Europe to Asia daily!",
         "🚦 Driving Tip: Maintain at least a 3-second distance from the car ahead.",
         "🛵 Fun Fact: Pune has more two-wheelers than four-wheelers combined.",
-        "🚍 Public Transport Fact: London buses carry 6 million passengers daily!",
         "🚧 Safety Tip: Always slow down near pedestrian crossings.",
         "🛑 Red light rule: Don’t block zebra crossings — keep them free.",
     ]
     idx = datetime.now().day % len(messages)
     return messages[idx]
+
+def ist_greeting():
+    now_utc = datetime.now(timezone.utc)
+    now_ist = now_utc + timedelta(hours=5, minutes=30)
+    h = now_ist.hour
+    if 8 <= h < 9:
+        return "🌅 Good morning Pune! Here's the morning traffic pulse."
+    if 16 <= h < 17:
+        return "🌇 Evening traffic update — plan your commute!"
+    return None
 
 def prepare_message(new_items):
     timestamp = datetime.now().strftime("%d %b %Y • %I:%M %p")
@@ -172,34 +152,27 @@ def prepare_message(new_items):
 
     if not new_items:
         body = "🟢 No major updates found."
-        footer = f"\n\n🗺️ Live Map: {PUNE_TRAFFIC_MAP}\n\n{rotate_message()}"
-        return header + body + footer
+        summary = generate_quick_summary([])
+        footer = f"\n\n🗺️ Live Map: [{PUNE_TRAFFIC_MAP_LABEL}]({PUNE_TRAFFIC_MAP})\n\n{rotate_message()}"
+        return header + body + "\n\n" + summary + footer
 
+    # top headlines, clickable and bulleted
     lines = []
-    # include summaries only for top N articles to limit message size
-    summaries = {}
-    for it in new_items[:MAX_SUMMARIES]:
-        s = fetch_short_summary(it["link"], max_sentences=2)
-        if s:
-            summaries[it["link"]] = s
-
+    titles_for_summary = []
     for it in new_items[:MAX_ARTICLES]:
         sev = get_severity(it["title"])
         title_md = f"[{it['title']}]({it['link']})"
-        line = f"{sev} {title_md}"
-        # attach tiny summary inline (italic) if available
-        summary = summaries.get(it["link"])
-        if summary:
-            line += f"\n_ {summary} _"
-        lines.append(line)
+        lines.append(f"• {sev} {title_md}")
+        titles_for_summary.append(it["title"])
 
     extra = ""
     if len(new_items) > MAX_ARTICLES:
         extra = f"\n\n...and {len(new_items) - MAX_ARTICLES} more updates. Stay tuned!"
 
-    body = "\n\n".join(lines)
-    footer = f"\n\n🗺️ Live Map: {PUNE_TRAFFIC_MAP}\n\n{rotate_message()}"
-    return header + body + extra + footer
+    body = "\n".join(lines)
+    summary = generate_quick_summary(titles_for_summary)
+    footer = f"\n\n🗺️ Live Map: [{PUNE_TRAFFIC_MAP_LABEL}]({PUNE_TRAFFIC_MAP})\n\n{rotate_message()}"
+    return header + body + extra + "\n\n" + summary + footer
 
 def post_to_teams(message):
     if not TEAMS_WEBHOOK_URL:
@@ -234,7 +207,7 @@ def main():
     message = prepare_message(new_items)
     post_to_teams(message)
     archive_message(message)
-    # mark top MAX_ARTICLES URLs as posted
+
     urls_to_mark = [it["link"] for it in new_items[:MAX_ARTICLES]]
     mark_as_posted(urls_to_mark)
     print("Marked posted links:", len(urls_to_mark))
