@@ -83,3 +83,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Safety Tip: Always slow down near pedestrian crossings.
+
+### 2025-11-18 10:44:34
+🚦 Pune Traffic Updates • 18 Nov 2025 • 10:44 AM
+🌇 Evening traffic update — plan your commute!
+
+• 🟢 [Pune Divisional Commissioner Orders Strict Crackdown; Driving Licence Suspension After Three Traffic Offences - PUNE PULSE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGktX2VJN0s3ajlWRXZTVTNBcjhmQl9uUzE4NGd5WmNSck5ZTGlDNm00aHBocVN2dFMteUJsbU5EeW10aEs3c3BqRWxRak5lVjE3RWR4dzFHbXlTczA4RnIwMHB0WkVIX3ktM3dIY0xKS2dNUnVJa29lWUNSeHpmbW1FTm1CTVNXYkplVWlhcGxUV21paC14bi1oeXl1Ykt5ejlkMWR2T2VZRTVXbGpNR1BGckNYU1Z5RlhFRWhzTTl0R2hRX3NDQWg0WnVoZW5iSHNF?oc=5)
+• 🔴 [Pune Accident: Young Women Lost Life in Hinjawadi After Dumper Crashes into Bike - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiogFBVV95cUxPandPVWY3d1R0TWVoQkxCUmczNENNNFFUX190UEpOX0c1QkJmUjY3bHdEN1RwYk5sMk1kZ2F1MVYta2hPUzlEQUJPV0VGcloyV2ZrZWNmQjRVdVhhamt5bF9FNkpyNGFtcnpISmM3S05vWC1pdEFOMUpxVXJ2TS1QcWtBRXVVN291aUtCcEVsd1JFd2o0clBYV1E5cDdFNlhLZnfSAa8BQVVfeXFMT0Vac245c1pJOEcydTJYUFZBMXl4d0hjYnBRaGdLakpqelVncG5tR0ZDeTZsMEJGZFl0VUxHcUdyM3ZadW5OTW8xc180WE5GRFhRRHZLdS16VWNBRzJrckFFRTdUdjFRaGlaVDlPMmZRY2dkMkZPX29TQVFkSzNGamtHLTJLOVdEWGVzbVdpal9QY2hZRUFJOEZ0My01QzhUb05VOElLR1FiOTZYSm52MA?oc=5)
+• 🟢 [Private Buses Restricted to Fixed Routes and Timings in Pune: New Traffic Plan Released - Pune Mirror](https://news.google.com/rss/articles/CBMitgFBVV95cUxObnNOVjl2SzR5RURpSnp3V2wxbmQ4RnlWMmFMbVVDdU1JS3EtcjN5QmZSQUlTTjdLdGVXTERBVzk4V0Y4REpXMXNnOHBGNktHcTZ4anNiVjVHc2ZTYUFjNEdtdzg4RnJVd29qcnNIemNjR1NiVWFQLUJxTG45ZHVzVjVVOXVxTlpLdDBIajZlT0pPUTloWXEyeHpCVTluQlNJY2dnRGs2d1hRZm1NVC04RURnNXc0QQ?oc=5)
+• 🟢 [Three Traffic Violations and Your Driving Licence Is Gone: Pune Divisional Commissioner - Punekar News](https://news.google.com/rss/articles/CBMitAFBVV95cUxORVVlOGpIUmNEa3huak1pSXc0RjBRNWI0UkNxTkZpSVBHWFNpaGlIRkRmcG9mdzdXbkF5djg4ZEFYM09JQ0FPanJ6WC0xNzhweUttNENtbFEtN0VEQ1hEelZCVmRPWXRTby1lZmNwQXQ2RmdpdVJQQmFTWFdYWm41dWU2RGRxZlNEMF92VDBQb01mTjE1YkVaS2pqX0VNbmEyMzBTRVhhdnlaZVpOeE9TMWxXUzM?oc=5)
+• 🟢 [Pune: One-Way Traffic Introduced in Viman Nagar Amid Support and Opposition - Punekar News](https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1p6a2NMTlYxT0pkb2dpTWF5QnVJM09ic1Q5c21XaHlOR2xPX3JoVU1WR25CT0Rxc0dGdXcyak90NmpPQ0s5TW9DV2hLOFN5Y29JZDNTX3ZMU19pWWVLa0M4YUVEOTJicDlOeV9IY2JJbzhET2NiYTVLQUlOQjJONnBMQ3pMUUswMTdRODgtUFBiNG5ETm1taUkyUDZXWEg4ekdPeg?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: Delays likely near Navale Bridge due to reported incidents.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Safety Tip: Always slow down near pedestrian crossings.
