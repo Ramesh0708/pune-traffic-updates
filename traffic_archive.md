@@ -116,3 +116,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛑 Red light rule: Don’t block zebra crossings — keep them free.
+
+### 2025-11-19 10:43:41
+🚦 Pune Traffic Updates • 19 Nov 2025 • 10:43 AM
+🌇 Evening traffic update — plan your commute!
+
+• 🔴 [Pune: Traffic Snarls After JCB Breaks Down On Sinhagad Road; Two-Kilometre Jam Reported - PUNE PULSE](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmdnSFZ1dFd1WEZoLTdaM3JJMldrRFRJZEpaLTdoWXI5ek5tOXkxQ0stb3BKN0cwM1lxMEtHUnVvSjI0VlhzNTVVNVZWZ3Rkd3JoZDdrd09henZwNVU2OGdYSDBwSGpaQWJCV1doMmZtY2E3eXhOM1FRaVhuQUt0RWN5WTVqaVVzV2pKb2dzOEx4V1YwWDJxMllvVS1LUVFDYkIxWHptUVphMzd2Q1QzVF9vbWQ?oc=5)
+• 🔴 [Pune: JCB Breakdown Caused Heavy Traffic Jam on Sinhagad Road Flyover near Vitthalwadi - The Bridge Chronicle](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnNDZ1p1eE9LaDUydmlYcndqa19GdVJSZk1PMFRLS3B6Q01uNG9yR0VSTVFsd0pOLVlKQ2tyc1g0RGpYQnpnQVRrb3lwQzEyMjQ3bUlBdFhyVEUwTFdQTENpanRKSU1nX3NGYU9JU01JSFhWcTlhV25FX19ZYWVmazJ1ZTRMYWlXdlk3bUtJYk5Obk5NWjRhcmREaDNma0lhb3pCMtIBsgFBVV95cUxPT2xjUS1pS3NkdTFtUXJ1N2JrNVZ0eEppWURGbkh1ZkZHYjd0X0pwaW9yR1JjQVo1VHR0ejJIUlFGYTV6b3gxVTI1OG5JNEtoNlNlZ2k3NmQzakFxT1dVbTJUZDZ0ZWVUdVgxblNCeWFoZkMyRzdlSVdxSjdROXJacmE0YV9FTS1TcjhuS0VsQjFxT0VtN1p4UWNEVXdWblFPS1lxay1RYlUwa2xrQVEyb1hn?oc=5)
+• 🟢 [Pune Police Announce New Routes for Private Buses, Enforce Strict 3-Minute Halt Rule - Pune Mirror](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM0dJNXBHUWNQTlE0RHQ1WTJSTG1FcU1FaGh2V3ZfRFZHNU8xUzZUbk9MdF9YM0U4NzhDdnVEZ0d4M2pONmdlM1FpUWowdTA1OHdXci03Z0VfTEVpbmFTUlpBM25LQnZVVXlxZDlLYVVzUVN3azFTR3lWYmFkc3l0TjctdHJGb2xGejEtZ3YzUXFacnFDNWk3WDdwNzNDeXB3b2VKY29NRUU2X0xUWWNRdmVSSkVXaDZUbVR2NTlQTm51OGhoWHpwVGFpa2FhODM1YUhuak1tZHFMYndabDk5TlZoRGRqdlllaUpkUXdR?oc=5)
+• 🟢 [Pune Police Fix New Routes For Private Buses, Strict 3-Minute Halt Rule Introduced - PUNE PULSE](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGhwZE5yUzZkT0tIcHVkOUgxRjYtaXhWNmUtOHNSS1U4QVhZU0RKakJYZGZXZkhLQk1qS3RsSWlDd01HVFVUd2JUUXZZTUhOZHdGa0p6bndRNWZTa3FFZmMteU9DX09DcFNzN3hFNWlvT1RoeWhMeTVZanRCWmdnSzltdTd3TFNTeGRROGZFLXdzZzJMWXVRTk1lMUtfQUc0cDc3cV9RTF9IcFN4alFJ?oc=5)
+
+🔍 Summary: Delays likely near Navale Bridge due to reported incidents.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛑 Red light rule: Don’t block zebra crossings — keep them free.
