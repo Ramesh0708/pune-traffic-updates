@@ -173,3 +173,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Driving Tip: Maintain at least a 3-second distance from the car ahead.
+
+### 2025-11-21 10:42:07
+🚦 Pune Traffic Updates • 21 Nov 2025 • 10:42 AM
+🌇 Evening traffic update — plan your commute!
+
+• 🔴 [Pune: i10 and XUV Crash Head-On on Jagtap Dairy–Wakad BRT Road, Family Injured - PUNE PULSE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTWoxNmFUaEJDdXJlUWhDY3dLMTExV3JTVHVwTWNQTU1QMG5mRVRkMjh3RzkxbF9aODc4YVJCNGpEUHU5clpKTmtPejVFWDZCbmpSbE9HSG1va1VqblhLeEpqR2FlVGxyWlZ6WnFnUGxFczVtUmc1UHNvazZjME8wZHNnYU9ucG1aV0M0Ukc3d1hkZXBGZUJzSFE5Vk1pdm5UTWQ1cWZ2ZnU?oc=5)
+• 🟢 [Pune Metro's New Report Unveils Poor Footpath Conditions Around Key Stations - NativePlanet](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXZ1YWZYd29LUW9wbEU5QUJSSG5JbXN4N3NnSXR1M3VhdTZ1YjFkWVFVcHl0eHhyb0ljRDV1ajZpOGFHb1BxVEVOMDJsVVRocW5DYnNXSS1BS2dBeU9GMmNJbGJ2eGU3UWpYQ3FmYm81R1pKamZyd1lTTndZZWlDMjJLMXo5RHU3aW1tYTIwaThOMzhMdExiTlk4QXlmZ0lCdUlEWHg4SHBvdzhiek4ycXlsMXVaMUxtZlk0SVNmU2tTSlp3Smc?oc=5)
+• 🟢 [Pune Metro footpaths in poor shape along 4-km stretch: Report | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1diREtYbjZQTGJDemtGb2wwOEUyM0Y3bzdidFpFOGpSNk5uU0h0d1FLNFE5U2wwQkJabGtDSEc3TnJqY2d6a0lBRXdqbjFQWU1LMGl3MUItSUx0ZnZZR2ZzTkFTX3Q0SkRsVVY4ZHc0UEZxaXZEMTd2VkpScmhXd3p1V1BZUTFCcElmdWVjR2xmWHhEOG5Gb1RrYmI4SWxqcnJyYUNqbnRUYmpoY1Nvam5NaVY2X0FITlBiVnRYZUJKSlY0RnZ0adIBzgFBVV95cUxNM2toX1pybldBaGRIWE9ONDc2WERTbjU1Q1FuTU5RdVBiQlVmZUp1Y3dZNFExSlN3cnhYbzVxYW5GLWxQUEMzYWRnZ3R3eHBRZGZGRmRMbVhuZ2Z2MzJZMzZQeXY5TndFUUZnbzNZOWxTcndJOXdlZ0p1WlNwQ0psYThPcTV3VUprNnNBRERwcFBPUVcxekRhOC1vdkhXemUyZmJRWUJVbE1uZjhQY1JvUEVLTW56WGNHVk1QanJvd1FaUkhOSHFHa094T21VUQ?oc=5)
+• 🔴 [PMC Proposes Alternate Road to Pune Airport to Ease Heavy Congestion - Pune Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2hESldRc3NURFl2VkxtNGlfTjFnVGxKRTlxck9aUmNjX0x0TExkbm55UDNYdVFBNHFjTjlfcW9mME9jS0hYVVc0ak4yNzc3NWZlX3gwelo3OUU5YW1ENFN6SVFYUGttS3dmYURpMTVvS3dYTlFROXhpMm9Jbno3Z1lfT3c?oc=5)
+
+🔍 Summary: Delays likely near Navale Bridge due to reported incidents.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Driving Tip: Maintain at least a 3-second distance from the car ahead.
