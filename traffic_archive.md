@@ -160,3 +160,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Traffic Trivia: Istanbul drivers cross from Europe to Asia daily!
+
+### 2025-11-21 03:40:48
+🚦 Pune Traffic Updates • 21 Nov 2025 • 03:40 AM
+
+• 🟢 [Pune Metro footpaths in poor shape along 4-km stretch: Report - Hindustan Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd1diREtYbjZQTGJDemtGb2wwOEUyM0Y3bzdidFpFOGpSNk5uU0h0d1FLNFE5U2wwQkJabGtDSEc3TnJqY2d6a0lBRXdqbjFQWU1LMGl3MUItSUx0ZnZZR2ZzTkFTX3Q0SkRsVVY4ZHc0UEZxaXZEMTd2VkpScmhXd3p1V1BZUTFCcElmdWVjR2xmWHhEOG5Gb1RrYmI4SWxqcnJyYUNqbnRUYmpoY1Nvam5NaVY2X0FITlBiVnRYZUJKSlY0RnZ0aQ?oc=5)
+• 🔴 [Weekend traffic diversions in Pimpri Chinchwad - Times of India](https://news.google.com/rss/articles/CBMiugFBVV95cUxONTJ5VDQ5Y1JfQkdJam1BcUs1S21jQlZFX0tGaFBacmVROXJtLVFkbjhjbmdyYUxJVmxyVGtNbm9IYkphTW8ySVYtT2FWWXNsWk1vaUlYWnNDeFMwVGxiaGdPSk5oM2h1SzVOT0pUbXlrUjZqV3BnZGZfT3dZSzgzZE0zcEhZWXlnZXZ4akdwZkxjLWFoYk4xRjBLZi15OUY2amFtOVV6eE55dUY5WjAwS0dLZFB4em44RVHSAb8BQVVfeXFMT0ZET2EzSXVCbHNoRTUwT1VDZW5WMmRVUTNURFpzWjdiUmtpc3dVMFFEV0VUTi1yTzcyeVU1X0pNWFNNZXF4R3pUU005aVUyWDExWWtqTnZlLUdISDQ0cFd0eUw2ZVV2Q0UyMzI4M21GUHd1VFd1dThwY2VUYWhoMER4MlNCeUJXT2VYNC1NTTVSX3pVdlFBLUNxUnlwcWRfVTI4cE5oQUVBbDliWVd3YkhZVml2cEYyUVNJcHdqZFU?oc=5)
+• 🟡 [Pune: PMC Plans Alternate Road To Pune International Airport To Ease Traffic Congestion - Free Press Journal](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVzVrRVNxS18tWExZcThOV1lYVzNWWDZJSmZGQ0xNdDdQN3RfbjJ3NmtIUGU3OXhVdXE1QnJvaEliNmxwOFFzdzFubDh3TkdhYVItMzhpcGFYWTJlcnE4R1VMOU1xbE93dHdkZTlxQnA3NEFOOGNrajI3LWpreHU5UVRtRzJPUVhmalhaS2RjdGYyQUNnYnAwUDd3ZU9tUG1oVVAwejBpS1UtbndKUGxGTWQ0cXlCSDVBU0hfRTRqckbSAcYBQVVfeXFMT2ptckxvWDBQZVpoRmpiRGZrZmtEeDdVbHd6VzVESy1TYXAyN193bVJTcHlwcWExTFYzOC1uZzdvUVdQek5RX1hVcW1XTkZTRGdDWTNWQnFwY3ZsR1ZyUGJPZThnVUFUMWM4S3k2cHRyZUJXb0VISDRoemFQaTNjSkxodUVkbWtfVkdMd19PWDdJTzdjZVoydnNMUXpwYl9meHVkZTR1ZzlXbllKNXhTVVphWjkxNlNlZ1FxXzFRekpYbUVtNlhR?oc=5)
+
+🔍 Summary: Roadworks/metro construction causing local slowdowns — expect delays.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Driving Tip: Maintain at least a 3-second distance from the car ahead.
