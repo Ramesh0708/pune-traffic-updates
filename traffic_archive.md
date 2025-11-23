@@ -232,3 +232,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚨 University Circle handles 1.2 lakh vehicles/day.
+
+### 2025-11-23 10:39:17
+🚦 Pune Traffic Updates • 23 Nov 2025 • 10:39 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [2 dead, 4 injured as Pune E-way head-on crash; truck crosses median; police suspect drowsy driving - Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZmVPMzhaTWgydVRYOFJhd2tOR3I3WVIxYzBXMHMyY3duNVh4UzRiQU00SWdKdDFVMTE0NndRbGN0ZFBLZV9uR3Jmb3lQdkxSRFQ3RUFFRThsVHdpdnZoQklKVnpZclI3N19idUdjU2dLUnVUdDRGYUd3ajdJMnJrMFhQZzg1UUxPVEE1NUpCcGtqa1phcUtyUzZlNEgzc1RBQm9RTGNYVjRLMUlkbnRvX1BYTGEtRVNyQkdobTJ4cE8ya0JNNk1pWmR6dTQyZ3U1ai0wUUMyLUhYS3I1ZDJyWktNNW5hX3d3WFZLT3hEY3FzT1M3T3pxeHFYVdIBgAJBVV95cUxPN2J1ZzU2SGIyZ3h3QlMzVnlsZDJDbm90QnZGVTF5ZkVMN0tfZmF3Wkt1NzE5NXVvc19VVldRZkNhZ01QTmMycFZNeUo1SjF0QlRXdUxPeklHSVhFS0pPbVhDZzlvSGt4MzdyVGZsU2YxOTV4WHkyX1FzY2NKbVEzYWY4VmZtcndzMlp0blZWd01qTHVzVHFmQmQzeFc3aW52WDFxX2pQbndtTmoxM2hSa3NGdTNGUGZSOGRGTXBCby1UUHpWaWsyUU5OUDhXMVJaNWNNX2J3RXlvYjdzRmlXdjRyTEI0X1VLcUVlM3o1N3UyUXVYeXJIREZyalV6a2d1?oc=5)
+• 🔴 [Oil Tanker Overturns Near Lonavala, Triggers Heavy Jam on Mumbai–Pune Expressway - PUNE PULSE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEhrbHFLS2o0STZxSTg0bElxS1FodmF0bWdGS1F6eGFBeGoxeWpaZHpQSThCSDdpY1VibmJ3eS1mcE9YVTRTVlVyeWZodFpUZ05odXNXZXNpdWZ4Vmp2WU16dnppa1JIaEUxaGVIMEpoS1JIeXVLR3BPVkJhSmNRSU1UTzdrUnRYd1VlTVVOYzNDRE4wdG14cURibXB1YTZ4SDVXeVBKWFY2SzFq?oc=5)
+• 🟢 [Shift to A-321 Aircraft Helps Pune Airport Manage High Traffic Without Extra Flights - Punekar News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGRFd0c5ODZWc1VhblBuRzZMSHBneFp6SDJCS0prelVVaF9PSGdMZUZKRTU3c3dEUGVqcVF1MXJ1QkZjUkZSX1NYcllSdzZCNE5zVm5EVmp4NjBaVGFfU2w0Vk1PUUkzWVFnUmhFRnRISk5uWl9TRnptLV82SlgycEVoRjRydlpMWmZHdDg3eEhla1Bjc3UtSThDaExwckJqelRIc2RIWE9YQjJiTld0Vjl3?oc=5)
+• 🔴 [Massive Traffic Jam on Mumbai–Pune Expressway After Tanker Accident Near Lonavala - Punekar News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGJuZFBPb3dDOWE4X2tvSGs2RVBxMm8wN1lfdXVheXdicVQ5Z2ltWnNjU1lpbEdIc1F0VWYwYmV6dEpkRHhINDQxajItTVlHeHRyd3FmdUctRXp0VTlJVFBQaGN0cVFaUk9RWkxOaGg4MDdjY25FM2ZISDRfNXRvY3FydjZldENES3RmME51aXBVNC1FYktRWVd2TWdtTmJWa3YxX1l4SWZYWDBMa2c?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 University Circle handles 1.2 lakh vehicles/day.
