@@ -299,3 +299,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Traffic is lowest on Sunday mornings.
+
+### 2025-11-25 10:46:06
+🚦 Pune Traffic Updates • 25 Nov 2025 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [178 Motorists Booked in 3-Day Drunk Driving Crackdown Across City - Pune Mirror](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LaW1UeXBHZkdOX1BMRExDMmlGRTNINk91VUtFeTV5ekdZNzNXRXpfTkFQNEdpaXdFMU9BYnRRRjVoOEtHd1dPZ1BPR0dBLUpldVU0N2FuXzE?oc=5)
+• 🟢 [Pune Traffic Police Conduct 3-Day Drive Against Drunk Driving, 178 Drivers Penalized - PUNE PULSE](https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFdQajRJRF9CbEpJejVEUVdvQllTTUt5YnFGcF9WTkw4WV9uQkgyVG9ZRlBHVEY3a2xTOVc1NVFXdWdrd2hSeFhpRFJIeEZjc3lFUDI5blo5UjUyaVMxZGZ6NHJHaDVrbTdPVnBwTEJpcWRSYkRnOGM2Z0ZHWHlhNE1tNWdvbko0S3ZrWWNmbENVQnRjTk8wNGN1ZUhISjA4dTJZa2UxWHB2QlJyRnRZNkx3?oc=5)
+• 🟢 [Mumbai Launches ‘Paatal Lok’ Tunnel Network To Ease Traffic Woes; Faster, Safer and more Predictable Travel - PUNE PULSE](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYlgyV2hCbDB4RmZUa1l2V3hFbUowX3FVU2dETEI1ZlBuaFJNOS1kd0hqci1FYWNPTUt3UUpicC14MmdwdVJBWEdiMk9VZlJXc04zOEVwRG9McUZVcFJCTDRCX3RTcURPWG5LSnhQbnlhb0dyUFE1bEdyVU11cEtJMGNEVXJIaDJuSEZqYnRmX2JfZUdtLTM2c0tqTklFSm4xU2Q3R3FuVjNyOTVwNVFwY2NqZnJKajlFV2xVU3ZnaU15NDNEMWpxLVRwY0I?oc=5)
+• 🔴 [Pune: Another Accident Near Navale Bridge as Speeding Car Overturns After Hitting Divider - lokmattimes.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb05XMnN0WUZkaVc5MHFyQWozWUhTOENVc0E2R0R0U3dNN1h2b1JrZk5qVExRMm9HN3FKS2tQQjdYV0xONWJaZkNnQ3FRWTRzZWFfdTdDWTk4ak02Y0w4anFEU3RkNUpJcjltV2RtOTFuU1NIUGtXaFBYdFRPQmp6ellpRTJtbGZQRHY3dHRNdG1mN1EtLTlMak0xYTBXVmhiWU42MXJyTm5hR2w2bmltQV9oUGtCSGlGTGJfTVFLWGlaX2F3dEHSAcsBQVVfeXFMTl8tS1NsUzF0SmlYRm9BaXRmNTd5U2oxVEw1bjVZektYb1ZWYXVsN3V2TUk1ajkwTlJBZEVjY2g0TjFNZG5xQmtRSkF6U1dweUdZSk5nOVowV1Bvc3JOMmFEMHJmVDlJUUo0Nzl3ejVCRTJpY0FpUkU0UjR5dlg5bUo5TWd5azkzSGpKNDRYLWpORVZJNmZSbFZ3a0psTDJWbHFybFVwTm5fXzlNTHVhdVJWX3B2LVZWSWhuUlozR1Y0TGZhU1JXTkp2MWM?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Traffic is lowest on Sunday mornings.
