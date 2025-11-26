@@ -314,3 +314,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Traffic is lowest on Sunday mornings.
+
+### 2025-11-26 03:45:13
+🚦 Pune Traffic Updates • 26 Nov 2025 • 03:45 AM
+
+• 🟢 [150 violators fined on first day of speed limit rule at Navale bridge | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaVUzc3dJaXVlUTFycVlEUU9yY3o0SnJORlhzc1RGQXF2OEFGOUpVLTI1aGVyZ19aanZCaHVraUJPb3lGbk9ONXd0clhqTTE1T0NTXy1SUmpudmtVd2ZBVHMxRE1BSVlKaThOOFdRRWV3cDFpZ2d3SzNoeVZkMTNqRWdKdmh1TmdjRURkdE9DVHdFVnAtLWw4VXpiMjluWERXcW1nc2FJTUVPZHN2Sl9pMEpTdlRRWTRiSlB2RWNIM2xjbmZZZERrZnZXcDRGU2RrMFJRVNIB2gFBVV95cUxQX2tuNHNVd0NnWEQ2c1B6UzJ5X0hmSm5mY2lmWHVZMXJKT1k3UWY5RTdfY0tGa3dteHBfNTZpLWRiV2R0RUdlSmdHV3BfTnNKUFNTSnN3VWlHZzdmT0FOel9KQVpaX3ZSWXMtOVJZVGtZQm9nbEVQTkhCaXVuZ3l6WGh6SUR1VHlQVGtzQ2tfOU1mdFBGZDdIYnljbXFOMW1LZ2pGWFhONmdfcmtnaFhISmg3emJPZG9nSjBxN0F3bnI4cnpKd0xRbVBoaVJZZ2RsdlBjM2lxQjN4Zw?oc=5)
+• 🔴 [Ekbote Colony residents renew plea as illegal parking turns stretch into accident zone - Pune Mirror](https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1I2YzhMTXo4b1M3OU04RXNSbVNjRHE5ZzB2SElIZ3Q5Wm82a3lVOVpyR2padzV1M2tnMjJ4WC1hUUt3YkxBR00zZzJMTGhIb3lkQnlUdzFia0tkeEVzdy1mWDlOc2tCOGo0SjFRcDA0SUo4Q19MVlB3Y0FjVWl6TFJ1ZmRucnJ0SHR2THhiSlY2dFhVb1FFd3RBZFZXWFlIdTFOVTlyczE3YWxmNkhmYVpiZEFRdw?oc=5)
+• 🟢 [Breathless Pune: Part 4-‘Eyes start to water’; air pollution on roads choking traffic cops, gig workers - The Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxPRElJMzlrd3NFRlIzQmplZE4waGl1by1hSEFOZVVXNEluZ2xVdHBVa3F0b1RWcG9LMzJRWXY1RHc2NnBURktiMFFtTmxfdDdBYXFud2dwcW1fc2pIVXgxMi1qU1E1aXNVY195YVhJZ3hKZXctV3FwNzh3OThBM1ZuTXVrZkRFQWNlLW13SlNSajVtZmhpb05QdWIyQm9ocjllU3lzN2lONGlOb01jQ2tFRkVjcnFteFAyZ2NwdEZ30gHEAUFVX3lxTFBnd195RTZxa3FsSWRTTWZvb3BJbEtKMXJvcGQ3SlFZTHc0RnVaZi1NZW9RbUpnQUZaeHBvcTJBZE02bTYxMy12ZXVrVEUxa3FWbkoyTnNWT3JLeTZYSGFsV2JieERKSzVDbUxTSENuV1JXSnUtdEZIWEkwcG5weUg3bUoyLXU0a1V6OVE4aU94R3VNWmpIdlJrTFVXVWlmaTU0TFhNNkI4SE9SUTJXS3pjU0tBcjZFOVNseVlDOGt4a2wtakM?oc=5)
+• 🔴 [PCMC Launches Crackdown on Heavy Vehicles After Spike in Fatal Accidents - Pune Mirror](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FR3VZdGJQdC1GTm1PYS0tcFR0UTFZQm9NdldXTWE4YjUtcFBoVGJjbWNpWXNLVFg0aGZPNzN3NUdWeWV6bnRXTm5pdVZULUU2am9rQlQ5cVNQbFVSS3VtdA?oc=5)
+• 🔴 [Pune: Traffic Diversions In Manjari From Nov 26–28 For Manjarai Devi Yatra - PUNE PULSE](https://news.google.com/rss/articles/CBMipAFBVV95cUxQekw5dldBRjlfY3dKU1J2TWFpQjRNSFQxaTlycEktVkhEcWhtZ0F2Q2xZanpCSjFiZjJ3U1BlcVAyaGdRbUtfaWs4MEtHU1BBeTNBTFRGeFp2SnhWNU1sb0R3ZGprTVJ3X1dibFJZdGtpMFNiVzRvcU85V1RHQ3lBV3FSQnNlcERTTFhuM19FcVprOC1zM1ZjeHBHTXZhUlI0bU9aLQ?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚲 Pune is building protected cycling tracks.
