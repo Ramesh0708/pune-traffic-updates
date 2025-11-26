@@ -331,3 +331,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚲 Pune is building protected cycling tracks.
+
+### 2025-11-26 10:44:25
+🚦 Pune Traffic Updates • 26 Nov 2025 • 10:44 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Drunken Woman Disrupts Traffic on Satara Highway, Sits on Vehicle Bonnets; Viral Video Raises Safety Concerns - PUNE PULSE](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1hwMEZ0c2U1YUtNTHliQUR2a0VvcFZZMm5ocXFXS1hyRW1rNmprdUFUelhMZ0VuRElONDlGOUczM1JiNml6eHk3ekNKbFh3SnZSVUtjZ0J4TzdlbWRBX1ZqRjlwZE15SVVIR2ZJMVFkT2hDRzNvYlY0ZlBOY1JxN2FHOFo4QzNvTlhGSThlWmt0XzNlWnJERE5qZ2o4MDBadC1lM0s5R3pPUjdZT3NoeDhKellqSkRNdDNlOVhPc2U1RUNMelpKNUNIY0lWWXFLR2c?oc=5)
+• 🟡 [Pune: Traffic Advisory Issued By Deccan Traffic Division As Water Pipeline Work Slows Movement Near Sarathi Office - PUNE PULSE](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlpfaXVnRGJJVlQ0UlN4anQzOU5xMHBXeW40cU50WEpoTGg0ajh6bVBIWVpQeG9QOW5pWjNmZmN6dTRWQnluNzdzYW5aREdmT1V0a2tyVno5MTZtUE1MN0xIS0s3M2d0WkNWRjJnckY3QXF1bFVjQXJKYlBOb0tUdVFMeVQ1eWFxN2dVWWJSQ014WU1GanE0X0wtNmVnUDdxWTY5dTU3dUhINnFiYm1uUTBnSmlGR3pSQ1dBcG1YUjFyRzJ0YkZObVp6LUd3ek5xNklKdm5zbWxNZw?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚲 Pune is building protected cycling tracks.
