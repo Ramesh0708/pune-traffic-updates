@@ -379,3 +379,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛵 Baner Road is among Pune’s top 10 busiest corridors.
+
+### 2025-11-28 03:42:29
+🚦 Pune Traffic Updates • 28 Nov 2025 • 03:42 AM
+
+• 🔴 [Pune: Access Roads Near Navale Bridge Closed After Fatal Accident; Traffic Safety Measures Strengthened - Punekar News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1ViNUhvSFRwYTZjWndibDV1SGloTzh2YnJUU2dUcEs0QmNIQXdOLVhXMzdldUdYcmQ5TV9tYVFBZkdqQ2NWVjAzNjR3dGgxQ3pWcGtCOHFOQkJHT1hiTjhySUwwRmRhaG5wdUMyTlJGQl9feGpLaWtlVVZHZ0UtUnNEX3hsTkJSYktSYkNha09CWi1iUEJIZ0FULUtPZjFMdlRRY21SdkRDVllHdHU1TVFfcnZSRkJxblhaQWpzelY3cnRveEhjeA?oc=5)
+• 🟢 [Pune: Police Fines 110 Vehicles on First Day as New 30 kmph Limit Enforced at Navale Bridge - The Bridge Chronicle](https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3BzWmpNb21FQkNwdnJmUDRzejdrTkVsOGV3SGhEZjZ5TTNuUW9lekhqTVlIQTVtV2RqT1hHakYtUHBYaHhmaGltZUczeW5zSUNkZm41bDZfaFZJenNoSHN5X3BMekE1WjFNanlONHM4WkRhSy1PZzNiT2VOWElhc0RMUlRZMmVCSlhnYmlrTzkzZWV3aXpla2U4RHBlWGN0bzdvdXZn?oc=5)
+• 🟢 [Day One: 110 Penalised - Pune Mirror](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2LTlaMlBCMDM0ajdKRjB6aGNoa2M2ODJVMlZQREpZUmZLY192WndtS0NMWUNodnZLbjE1UHFYblp2M0lLaVFVZDlZQk10YzA0RFBUZUJxYmpObEZpSzVR?oc=5)
+• 🟢 [Pune: Kausar Baug Residents Demand Action On Illegal Hotels, Traffic Chaos, Encroachments and Waste Management - PUNE PULSE](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWk9tSnhHSVJPN0RROWh0RVN4YXpXM0QtYWJGd3g2ZlQzdGVLQWp2SVFjdFNwOTlJcVRKWWpxT19laUJTVllkZ1RYbG9zMUJFMm16VDlDMndHMWZpeDZrNi1QNFNNa3RmVEQyaUUxU0FLXzJ4ZFJqNGRrNU1lSzlSNTNIMm4tNGlRUVNzOHEtQ0lkOUdXenNsX2lqN2NaNE1qdkNJUW5MU2VZcmVZVjVUWkdGYkV5QllCYWl2aWYwc1UxVUliTFV1cUhwOVdnQWRBb0E?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Hinjewadi Phase 3 sees surge every Monday morning.
