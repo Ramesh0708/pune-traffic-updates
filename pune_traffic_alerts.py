@@ -22,6 +22,8 @@ RSS_FEEDS = [
     "https://www.freepressjournal.in/feed/pune-traffic",
 ]
 
+YOUTUBE_LINK = "https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY"
+
 HOURS_FRESH = 24
 MAX_ARTICLES = 5
 POSTED_LOG = "posted_links.txt"
@@ -162,6 +164,18 @@ def rotate_message():
     idx = datetime.now().day % len(PUNE_FACTS)
     return PUNE_FACTS[idx]
 
+def creator_spotlight():
+    now_utc = datetime.now(timezone.utc)
+    now_ist = now_utc + timedelta(hours=5, minutes=30)
+    h = now_ist.hour
+
+    # Only show in morning update (8–9 AM IST)
+    if 8 <= h < 9:
+        return f"🎥 Creator Spotlight: Support Pune-based YouTube creator!\n{YOUTUBE_LINK}"
+
+    return ""
+
+
 # ---------- GREETING ----------
 def ist_greeting():
     now = datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)
@@ -205,10 +219,15 @@ def prepare_message(new_items):
 
     summary = generate_quick_summary(titles)
 
-    footer = (
-        f"\n\n🗺️ Live Map: [{PUNE_TRAFFIC_MAP_LABEL}]({PUNE_TRAFFIC_MAP})\n\n"
-        f"{rotate_message()}"
-    )
+   footer = (
+    f"\n\n🗺️ Live Map: [{PUNE_TRAFFIC_MAP_LABEL}]({PUNE_TRAFFIC_MAP})"
+    f"\n\n{rotate_message()}"
+)
+
+creator_msg = creator_spotlight()
+if creator_msg:
+    footer += f"\n\n{creator_msg}"
+
 
     return header + "\n".join(lines) + extra + "\n\n" + summary + footer
 
