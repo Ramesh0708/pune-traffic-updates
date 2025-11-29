@@ -219,16 +219,18 @@ def prepare_message(new_items):
 
     summary = generate_quick_summary(titles)
 
-footer = (
-    f"\n\n🗺️ Live Map: [{PUNE_TRAFFIC_MAP_LABEL}]({PUNE_TRAFFIC_MAP})"
-    f"\n\n{rotate_message()}"
-)
+    # -------- FIXED INDENTATION BELOW --------
+    footer = (
+        f"\n\n🗺️ Live Map: [{PUNE_TRAFFIC_MAP_LABEL}]({PUNE_TRAFFIC_MAP})"
+        f"\n\n{rotate_message()}"
+    )
 
-creator_msg = creator_spotlight()
-if creator_msg:
-    footer += f"\n\n{creator_msg}"
+    creator_msg = creator_spotlight()
+    if creator_msg:
+        footer += f"\n\n{creator_msg}"
 
-return header + "\n".join(lines) + extra + "\n\n" + summary + footer
+    return header + "\n".join(lines) + extra + "\n\n" + summary + footer
+
 
 
 # ---------- SEND ----------
