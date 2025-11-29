@@ -406,3 +406,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Hinjewadi Phase 3 sees surge every Monday morning.
+
+### 2025-11-29 18:01:53
+🚦 Pune Traffic Updates • 29 Nov 2025 • 06:01 PM
+
+• 🟢 [PMRDA Launches Action Plan to Combat Traffic Issues in Hinjawadi, Wagholi, Shikrapur - Pune Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTE95RExWelRHZU1wVlloTHc0blVtZExFMUJzeVRFX1JfR0FBNDFTOHVfZWg3a1psb28yb09XYWtZWHJ3a01nSzJFNm5RU04tU1d4MUZGSmc1dFh1T28wV1l4dEpIcTJ0WV9SXzdiOXRnUFg4SnlfV1Vhd2tR?oc=5)
+• 🟢 [Two Vehicles Flip on Old Pune–Mumbai Highway; Traffic Affected, No Injuries - Pune Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDQzOWV2cmgwMURQZUl4NW5nd3lmS0toVU40Tkl1elZZZk51MTBPNndfcUhYM0VkVTNXU1JJUHhJaXpQdmVZczI4NVItRUU4NXBteXpVWkh0QkJVdXRrc3VOV1FWZzRvYkl1U1FaSGdhd0RLamNNeHJyb0RKODFsUjNTM2k?oc=5)
+• 🟢 [Final Month’s Extension for HSRP Installation Offers Temporary Relief - Pune Mirror](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ldUVBRi15MGllQmpyQXZfRlVRN3dPRUNzUjliTUdidTRPNmh6ejV1SDJxYlRPZVIySGxSSjNhVC0wRTVjSHVuby1pM3NNY0dOSGlfWVRjVkc0UllmU05TQXZrd3IwcHhKZkZnMjFoSm1TQTg?oc=5)
+• 🟢 [Nearly half of Pune parched - Pune Mirror](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1NGQwM25WTklDbkhCbTVTSi0wcW1hTy1iaDhScHp6UUtaYkNYM2ZBTVkzc3dIY0FPWUdnR0hnUFVkNDk5bGt4SzI5UHplMFE4ZWxXeVVIODZvVzNObjdEX0xwVlplS3M?oc=5)
+• 🟢 [Pune Airport: AI Cameras Installed After Intelligence Alert; Aims to Stop Illegal Parking - The Bridge Chronicle](https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGRrN3dZV2RjRFd2QzVlVnhqUFk1WVBsdG5MVUlseGVjWG5HdXpienRzMFBleTZXeC1WdGR2ZzJrb2lNcmFHNGVJY2VLOF9UQU54Tnk1dUYtYWdBSU5aYlR0bFA5SnBqVi0xTU9kRE9BVmxRV2tHaWtNLVFYOV80Yjd3Y3hTaU9sRjRmdDEzaU0xNnA2UmfSAaMBQVVfeXFMTklfZ3l4TE1KNHpObS1xajh0VjZJMWY4ZUx1S0N0S19PNW0wal9LWFNFLVNuSGdIMTA3a0ZpUG9tdDFPZHJrR2VjeldINUNtSkdiWDloT3o4RHdPN0l3cUNaeFFiTC1mNThrSnZ3SVJnbzVNQ3ZtSUgzdzcxZHU3NU1JZFRaaF9QR0JSYkJUY2g3U3dLLW9leTZtbkdyd1NVWF9Taw?oc=5)
+
+...and 4 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌧 Balewadi reports the highest monsoon waterlogging.
