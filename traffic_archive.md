@@ -423,3 +423,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌧 Balewadi reports the highest monsoon waterlogging.
+
+### 2025-11-30 03:55:03
+🚦 Pune Traffic Updates • 30 Nov 2025 • 03:55 AM
+
+• 🟢 [Wakad and Punawale Societies Get On-Ground Sessions on Reporting Traffic Issues Through ‘Traffic Buddy’ - PUNE PULSE](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTlFOXFKaWhmSU5LUEtNTnplN055WEdoQzJkR1kxMXY2RjZ5T1ZlN3FKY0Z3MmswRWgxQVdERkQ4VFY3bDdib3hqd3V5bVJIRFpYakJrNTFDZzRuY0NMcmdEcS1ydGFubkNTUUUyZEFCSnMxU0d2aXFVOEpiaGx1VXhDVVdMQ2FDSWp0Q3EtMnhIWEtXOFFhVnQxYndsaDI0MzNhbmV4c1RsRVJGY2hiZ0VJS2NLdUdOOHhWUW5hOG9IMWtlRDlhQ2h3?oc=5)
+• 🟢 [Traffic police book 1,087 for illegal operation of autos in 15-day drive | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3NNaTlYbUZSUGpOMlE0T1dqVWttQTRMMDdqVWpEZTZlS0l5NXJEZkxYMG9ZWENnWVNmR3JnN09USTBQQnRYZTl5U0hNY2VUdEJYNlBNLVNrSWNlWjJEWUthYTRMRjBnUmxoN0pfUFU5OGh3cW5tM2gxZVFUZFpuRGRVOFUzcUpBZUFNWHhrWEJieHFSWFJEWlZEbXgwNGxBaDQ0M2RjbkJBTGthWkFIeHR6ZzBsSnlIemNGYi1WWkx3NUdZWlk3cGdLQW1Hdl9vQlR3TWxfVGN6Q2hrSUHSAd4BQVVfeXFMUFdzTWk5WG1GUlBqTjJRNE9XalVrbUE0TDA3alVqRGU2ZUtJeTVyRGZMWDBvWVhDZ1lTZkdyZzdPVEkwUEJ0WGU5eVNITWNlVHRCWDZQTS1Ta0ljZVoyRFlLYWE0TEYwZ1JsaDdKX1BVOThod3FubTNoMWVRVGRabkRkVThVM3FKQWVBTVh4a1hCYnhxUlhSRFpWRG14MDRsQWg0NDNkY25CQUxrYVpBSHh0emcwbEp5SHpjRmItVlpMdzVHWVpZN3BnS0FtR3Zfb0JUd01sX1RjekNoa0lB?oc=5)
+• 🔴 [Daily Chaos on Mundhwa’s B.G. Shirke Road: Heavy Trucks Block Stretch, Residents Warn of Rasta Roko - Pune Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMlRURkRoejFjcUNkTWltRUhFVzVVSWJrN2tTay00eUxnZVNURi1McEhTNlkxaDh3NURwQTNVMW85UXJya3Y4b2ttekNSTHZxMVVMZENXOHg1empjN29NdVpBMGl4R3FUZFQ4dWdHdUZGUGk0YWxiTk1RcGZlSDJKd29wenlXZTJTQS04UGN1Wlk?oc=5)
+• 🟡 [Two Buses Collide on Tilak Road; No Injuries Reported, Traffic Slows Down Briefly - Pune Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTE5oaDJOa1ZXa1R1TkRlS3E1c1RHRTJNb2pLTWFocFFzX1lVR19JVVpKeGNwZ1JNZTR2cFVUWkpfeDZhQ3l3b2twbWs2b2FVVUlGY1dhcnVJQVFFb1Flc3gxajVhYkZSUEl1TXpfcHJQRFhjMHl4aTRGdg?oc=5)
+• 🟢 [Crackdown on "Firecracker Silencers" Commences in Baramati - Pune Mirror](https://news.google.com/rss/articles/CBMickFVX3lxTE1QZ0VMM1hOMmtoNWJwelhManBUZnBBNHZnQ1U2ZGhJZmtrUHZJXy1uT0NrVUY0bmk0NEx3WjNZQW5aVmNFRVJrVUJXTElpUjNBYXZTLTdqdTlXSGtaampFSkJFX2VPWWxEWlpldkFxUkxQQQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Hadapsar flyover widening will reduce jams massively.
