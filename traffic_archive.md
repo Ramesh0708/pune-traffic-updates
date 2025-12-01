@@ -463,3 +463,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚴 Pune was once known as the 'Bicycle City of India'.
+
+### 2025-12-01 10:46:14
+🚦 Pune Traffic Updates • 01 Dec 2025 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Traffic curbs in Alandi today for municipal poll rally - Pune Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzg1blJTZjBwdUllMnQtcHlFUnZpTE9KYjhyTG55U0pURDNRTTRZV3dEcTRINUNiYkQ2dXRHY1o5dHRMUW93a0hwTkYxTUtVOUJfdEdDVjJ0azM4T1lIVGNUWkUxejdVejlUQTQtdUdNTUt0WllLam4yUVoxUG1sUg?oc=5)
+• 🟢 [Viman Nagar Residents Demand Rollback of One-Way Traffic Plan, Cite Safety Risks and Business Losses - PUNE PULSE](https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVd5M1Nmb3pjdVNMT2M1QlM2NFVXeGx5R293blRmTkFfNjZ0a3JpWldzX1pJbFBGWUMwaHNIMm9La1U1WF9kdnhuU0VweDlMQnVkeXk4YkRzM2pBRk9tWnNtNDdYTGxwQTR4LXM1aWZCT2tVVXJUZjVnbi01bmJkVTg0alZvTHlnbkM4VV9zZEFGd1AxR1AyZXNTaDFxZjhjclZ0cFlRV0pvbG43RVlvbVVpSW80MFhFRFNURHVpekxvMVdVcUpZ?oc=5)
+• 🟢 [Pune Airport Climbs to Rank 19th India in International Passenger Traffic in India - The Bridge Chronicle](https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUFwaXV0UmhQa1lBS2lHVXg4WUFjYnRLT2xNV2E1WlVNSnFqZDZXcWJnakZFdnBaOGpoWkJEWERmZ0VkdWJBTk1nQlpXYkl4ZW1TSG5HYkVBUUh4Z29YcWpaWExyWlkwMFllajdORTBPSGFVQWVpVjktVXFlZkgweFc2YklIZTlwUXRPei10Vk9GU05XZFFhd0tGZF9uRUNpRm9FVnRJQdIBtAFBVV95cUxOZmFGOVZVZmVQOEtXaWtYMlRfYzR4bVV2SVhOWkZHNUZFMGY0bjZGelB0SDRmSDhNUlN6Q1F0WFFmZU5FdjVzZTRRbmZ5NU9qamtwcTg4YjR0cldzNHluc3RTUE84OEgxNXUteDRGanFVR1EwMnBHSHNKalRBTXhCcnlIckJIbzNWdTJyZHFPNk9MeE9pcTAxSFNQUk96cUdSdGtCOUhnUk1VTmdhZlptdl9OR1E?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚴 Pune was once known as the 'Bicycle City of India'.
