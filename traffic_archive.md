@@ -450,3 +450,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Hadapsar flyover widening will reduce jams massively.
+
+### 2025-12-01 04:08:21
+🚦 Pune Traffic Updates • 01 Dec 2025 • 04:08 AM
+
+• 🟢 [It Often Takes Over An Hour To Travel 6Km On Mundhwa-Manjari Road, Say Commuters - Times of India](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYll0QlBlR1JURFE4QlBoSWc2UlBGMWE5ZnF1b2tjRzRQV3BhNnluYzE2SWp4Y0NQWi00MzlyRXNuXzBzZ29nc2FyTGZ2S21QcDVILTdtUGxTSjN2V3Bwb0gwTGpSV2hCa0lNbkV1UUtVdlh4Z2QyZXpQbF9WU1daamF4R1preEVGdTZYbm9QV2Vndzl3aGF6ZDhkYzhOM2J6ajhvdW1rM3dmSm1vRTAzSHNRTThoem4zXzR4S3U3Vkk5ZUt3NER0ZFZFXy13OVFfTDU2dHN4RXBOdjhlSEVfQnU1VG0zUdIB6wFBVV95cUxOYWVXWTYxVHVBMkF1X2wxUmdIcFNMUkpKd3dZdFpSWERuSThOcFpyX0NlUjN4MkpIUW04MF8zSV9BcGJXWmVxWVJsaU0wZTExM1FZd2VpM29PY2VNWlhFSVBIakg1aGZnNi1ya2pkRDI2X2haODBCNDd2S20xa1owZEtQZkU1YVM2NHVXY0hPQ1l4NnYyMHNIQUk5cTVmQW9EekpjcXNmU2pTeTdoTTZPclBZcktEUHVzdDVkZUxtU3dMaWhJSjItczNWOVVBX0JvMUIxb1RFZkE5cm9tRy0tQmt3bHlMRWdEWkJB?oc=5)
+• 🔴 [Traffic diversions in Alandi for poll rally - Times of India](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWttbW9Kel84SjFaY2xaM3VXNmNCa3VBYXRLNHNfU2dpUUt0MEQ0NUpZN094dEdiakxibW94dVV0VkJMVEl6T1VYVEhfeFNGY3paY2REcmd5dXpENmxIaEhFMWVkZGVoZjRJNkEzMFlGcjIzLXhJWmVFc1B5UFk1dXd2RzBreHRuemhWWVd3djl3RmwtcmF0a0ptajQxRlYtaG1na25tS3NMUGRBOUM0WXYtOFh4d9IBuwFBVV95cUxNeURTRXNOdm45RnJSQ2pqbGFhTjV3UlFDZWM0V1J0czlxOEVfdHhHQ3pPdlFDVU5QNnBxWjNoRVJzMFdtdHRDRXlqbElUOTlfSl9tRzl1akpybWJMSXdEYzZFVUhRZmRQZk43RWRzMmVHRlN5WXNudjU5b2Z3ejhONE53SWtfb1FJT28xU09DSUFMUTZ2b3NDejhLZVRqY3oxSFlfeXZsaGVnZUZsU2M4REZpV0ZsNUJyRUZF?oc=5)
+• 🟢 [HSRP Deadline Nears: Only 30% Pune Vehicles Compliant, Massive Action Expected After November 30 - PUNE PULSE](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHZZWjdZQ2x5eVdIOW5HQVhMdm9rZ3RBWF9GRmxVNnJ5V3F2bHE3N3V1a2VaM2hieGJlOEQ3VnZWNzNNaUo4d042Q0lKWUVUWjNLN2lqQVFwdzZQNndPSFZQb191Um05Y3IxRS1nd2lWVW1GWk5Wb01XNXVEbmh0Y2s0TWIyTTVLdkZaSktXWGdKWmJMMU5TVVBoektObFl2dFhWb0dnMklGVWVZREFCVXRjbW9Hd2tnTkxpOG1iUQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚴 Pune was once known as the 'Bicycle City of India'.
