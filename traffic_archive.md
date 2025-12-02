@@ -494,3 +494,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Pune introduced India’s first smart traffic signal system.
+
+### 2025-12-02 10:44:47
+🚦 Pune Traffic Updates • 02 Dec 2025 • 10:44 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune: Balewadi–Baner Records 90% Traffic Ease After Community-Deployed Wardens - PUNE PULSE](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXpRcmdkUC1zRXozZngzRmczbEJZM1FReGoyQWdXa0tQSFA0bWtHMU9ZajAzRWFfUXBaUHA0bHJGN05YWkprYmF3Uy1EN2VRQjMyTGhENks5eGZORHdnZWtlYzljRkdtUWs4X3NVTnpqd3ZsbG9SREhjcll2aTBQRlJNbkdkSjdoZnE0M1RCbnFPU3ZzV0VsNHhEcXRGeXBqeU5Sc3RaT0o?oc=5)
+• 🟢 [Pune Sets The Stage For Greater International Connectivity As Lohegaon Airport Sees Unstoppable Growth In Global Passenger Traffic With Urgent Calls For Expansion - Travel And Tour World](https://news.google.com/rss/articles/CBMitgJBVV95cUxPY0lfRW9aSjlMb3RFNHFWLXFudkphN3ZTOVlUWU9yODBaTUdHcTRrWFhWMThmVDNyQ2hEZjFoVFRIbDVYLXRSTE5IMHpOZGtwdjNNMGlqVnRUeU94T1d6dHl3UTB3SUlVT3ptTHFtS0ViZGNFSkVPSXdXUVg2Y2pMV05WOU1zM29fX296X2hVdVB0MWsyTGxCSVJPd3VDRVJWbWkxd1Y2bnZnZldwTVp1RXJ3NE9iN0V1a3ZZYkg2Z2R2TWU4QVdNR0h0Y0NrcGctd0pRUWNSVXdSSE5YLWo5YXJfM0JQNTlmZ2FubWd6bWRCOWJCT2RMZjdTV1V6OUFNQTR3aElLZHQ1dW13Y3Q1RFhuOWpaakNnTzJTX0d2cmlvSThpbkxRZVpsbkthUlRVYnlIaExn?oc=5)
+• 🟢 [Pune: Sinhagad Road Metro Work to Cut Through Flyover at 66 Spots; Width to Shrink, Traffic Impact Likely - PUNE PULSE](https://news.google.com/rss/articles/CBMiywFBVV95cUxPVVh3aDl3OE1jUXhjOVVpN3JpaWxxUDh5a1VkR015Umk0T2hKSG81U0c4R3p1WHZxSDdBTUxQTU5nMGtPYWNIWThMMmtkb0RaRncxNGxIaTBXekpPaE4yd2lsb2JxQ28wVzNXTTZKOEp5RUdOam1yRUxrVjFnbkozUnFMR3VKb0htYzdodjhCSkpjRTU4YjNKLXFtSDVBdUhGaEx5TTJ0aW5Delk4ejdmSUViYVh6OTdaTFhUUmprVi1EbWRydFJrMFFkaw?oc=5)
+• 🟢 [Two Routes in Pune Airport Area Converted into One Way to Decongest Traffic - The Bridge Chronicle](https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmZjSmloZ2F4XzIxYUg5UG9CdnNBRHZKUlY2Nk1LMzZkdlRGYWJPejlwNWJ6N1drMUJkaS01Y1dqYjkxajVBM1pLZDdITjcwN3JHZGFxOTFySXNHejJ0Qm1ILW5oTGxndEpSaVh1Z3ZKWWE2Wnl3dUpySlREamhKbWpLRkIzMXp4LWN6Q0FJV1pXaGtLXzVycGJaYjE3NDNEOW1kZUlCZ043aGI1X0N5UXVkZ3AyZ3NoeGM2Y1Nn0gHLAUFVX3lxTE84bzNIcmhYem84VElBb3piZGU5dVUwOWhVREkwMGhuUmxrUlY2Tmo4alBRb3VxNkxqNl8xUHVISGpCTi1yNFNwQlBsTG1GOU1VTGlERGFJMnVDNVVuRjQzZXhxbXBzVXFCZVc0VlRhWXZRcXE2QTJEQmRfcGIydWFqX083SllSVkdaT0diR0VVeXRSdmVONFZVc0VhQ1IzblNDS2s1bE5Qb1IwWHVfS3dxOWRpWVJsanRSakowcEN2bm85ZVN5aTdlZGow?oc=5)
+• 🟢 [Pune airport makes it to 'top 20' in India; Secures 19th in international passenger traffic in the country - Daily Excelsior](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLWhRMzV5OUdyYjd6ZGtEajQ4MG9GNnRyYXdZbHVYWGd1TUUyVU44QTFYdmtrZk5PTUhJV1RDU0JLNUtSdzhDMFpCYW9IS21oT0sxdVZTTDc3Nm9JRnZZalF0ZHdBTGZ0Uk5NVTBneFo3X2lIdFktb0VhcjFqVzZVd0ZHQUFtSmJQRU5Hdkg2WVd3dmd3bXV6dE5ObnotOC0tRFNIS3VpZUplYm0wcjNzbEp1ZzdEbFprMmdtelJEdjc5cEUxTzhuc3FWN1lTa2pZ?oc=5)
+
+...and 4 more updates. Stay tuned!
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Pune introduced India’s first smart traffic signal system.
