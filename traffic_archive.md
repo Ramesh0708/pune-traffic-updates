@@ -527,3 +527,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Baner Road sees peak congestion between 8:45–9:30 AM.
+
+### 2025-12-03 10:46:49
+🚦 Pune Traffic Updates • 03 Dec 2025 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Former Pune Deputy Mayor Nandkumar Mozhe Passes Away At 72 - Free Press Journal](https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2FuX2NpOEFQWTBITGhvaXNONVYyN3djdWJ6cTVhQWlpOWhPaTBfeWJkaThCWmlyRWlDeWZSUmNlVkVzU2Vyck9RZ2h5anVvSTRQc0ZfOUYyUS1FNVp6WDJjTnhrWmNrTzRmYkJnbTllMlcxTm9GcWRLblVYOFN3czdZSUdxWDc5YXZTd0dBSkVvSU51MXJySXF1Z9IBoAFBVV95cUxNM2ZLRWxyeDJkNFhEX2Mxc1dwcC1qZE5uZW1PWjVtT2FZSWx6RnhSaTZpLVByUjhYckpMRmtMbTN6di1yd2R4eVlSWjZIWF95QUlqYVdlNlMwQnpWZzNPZXVYQ2pndlN3QjVPVVdxSXp3UTVkcDBPWTIta281ajZGVndmbFFWS0phcV9IQ1RfMDRwc2VFQlBZb2YyeHptQThL?oc=5)
+• 🔴 [Pune Cracks Down: How City is Planning to Keep a Check on Drunk Driving Amid Rising Accidents - Times Now](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT1NQZHJqWlRmLVhLUGxJcG9iTHZNSF9CaDFYcWxKZGxuQm9Lc1VkdDJvS2gyQ3BfQUUxbFFBVmoyTXhOeDFDWFlhLUgzNG9YeW1KdGh0dlFKcUYzRmtFdUlPU1N5WUlWcTE5Q3RJUldVbmVaamN2QXdUdzNLM2RWZmVtRDg2ZnVBczdjanNDajVuQl9wOW9ybC1hbDFmRjhVeGxCQzFfbkstdXNIY0VtcGtsOGs1dmw5NnN2OWUwNGNXemJOWWYwd1lhWUFTcjdXWUFXSjF4d0VLcEFadlhVZjJhMjAySFh4U1HSAe8BQVVfeXFMTndkVnZ6ejVWYkRrelQweTMtbExETEZPS2FYWUVpN19VTlBLNkgwbDF4alJNUUVDM1g1aTIxYkdjRThtdnFzcldPQ1F6U29mUlJBYnBFaXozT3ZxZDBtbDZhZHE4c0RkX2R4dWNPa3hVQ2VwVHdUdXRjdEUwczdVR3B0ZkY5bnJ0eGJ2Qm1YdEJMQXFaLVEyekZPQVVLUlhHckJwcDFRTUw3dzEyeHhtdzVMQnhDb2RVc2hvZ1VuYW5od3F4eGd2ZVdjOWR6MUxnc0FUSG1fcUpOQjloc0F6OHA0NG5VTHppN0kxU1piYU0?oc=5)
+• 🟢 [Pune Airport Ranked 19th in India for International Passenger Traffic Despite Operational Constraints - Pune Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNemt5YUd1b19MbWV6bFhHMVpIVU0zWnctMnBWVk0tVmoxZ3ctTm1vamtiY0dYemRYYW1RcDdvVnhGaXdadlZyZGsteUo3RDMxbGtSZEFHTGRtMlNGZU9wd0tmbzdrcmNVNHg1cmxRdE1Fc3NMemtKVjE5Yy1pSTB1OVUyVjF1U0d4LUJCX1RB?oc=5)
+• 🟢 [Pune Traffic Disrupted After Crane-Laden Trailer Overturns Near Mundhwa Bridge - The Bridge Chronicle](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGNXVi1YdlZyUUhaM1NyeW1GU2xyZ2g3Rm9teTdlSnJjaFNSNzdGNE5HNF80YUZPVnUwT1VnekdZS2hWNjVGOTBZdVVtbFY5aTl0TG1QNmUxT0pzMjVHdHRoN1dFYnh1aUYtSkxHN1RrTFBaYVZfajNJMlVPYWtXZFVEZU1jNnBvQnlWOUNMZ2U0akZfRjhaRlcyNzA4ZE1mMWMtaktMQTFFSE5O0gG6AUFVX3lxTE9ocEZ0RE9scHpoU3Z1NzJ0YnhpU3daWS0xbVptUlVXVjF2QS1ZcmZ5em5xQXp5S2JfN3dqd0piZFZNTldjNW1wdm90T0tlRjdLZGxEbXlCdDdMejY4dGczN1lvdXFKdWI5OXpBOTdRY1dyeUF3YjBYLVNaVllISDZpR0VkMU90aUZ4UU5ULUJlRkI4bjdLTlBYSXM4ME5RU3J6QzFGbFBtREh3UVFMYjYyNjVLcmw3VkI0dw?oc=5)
+• 🟢 [Shocking Video: Drunk Driver Weaves Through Pune Traffic Despite Losing Tyre - Free Press Journal](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUtVRDJiekZuSExGa19YaTFuMjlkenZtNFUtaXAtYklUeW12b2Q5Z3N0OXJIbDdldy1LckRQQWkwd3RSNUFyTXVGdTdQWmpmV2tNb092M2xLb2pQaTBhNG1XN1p6UG9RYXFMU2k2VF8zQlFDZ2hzN0xSa2Q1bHhBNDhNeF8zRjdId0lEMjdRN1dvWjRrMjhrU0lyMVdhbzdHS1pDUzNsZmRheHZ3amxpQVZ30gG3AUFVX3lxTE45bXpVcVpHbVZ2RjNmQWtLVzNqZGRwSUZzaC1vNUhBeGstZi1WbVJQdlByRnRNMmxDanVzSjV2MlFYTVBmTDI2QWM4RDR3UU5ybFdyYjV2c3RQR25YV3llTnBMSUMyUUVDZXZHOFNHLUM0bERXRHRKNDhzazhBaUQzODZ2dFAzOTZZQ2ZiS1RUWDNkUU0tLU54dmRJcXJKaXRRaGN0T2h3cFo2eEgtMWRjaEJuSGRraw?oc=5)
+
+...and 8 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Baner Road sees peak congestion between 8:45–9:30 AM.
