@@ -576,3 +576,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Hinjewadi IT Park witnesses over 3 lakh commuter movements daily.
+
+### 2025-12-05 03:49:06
+🚦 Pune Traffic Updates • 05 Dec 2025 • 03:49 AM
+
+• 🟢 [Katraj Bypass: Pune Police revise speed limit to 40 kmph - The Indian Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxOVld3bXJNVFpNQW90NmlIeUxEZWxnNmFEclZaN21xTzRBSjRlVUpBX2xfbWNBbDl5OGpFNVVGdG1ZNVlnUEttNTJSdDhFRUFqZ2k2Umc1dlg5YU90RTZUZ2ZPYzY5RDJzRHBfenQ3UmQ4UDcxeXFPR0tVRU1lU3BVT1pDeVJFYXFrSVktMUZsQVp0Tk9sdjIya1lyUVloVmstLTdTel9od0hhLV9aSnNhcdIBtwFBVV95cUxQY3hVbmhDMVVfdnhqV245VHRkdnZBWEdmS08xOU9Wem8zR0FPeEZRYnR1VkNHTmFnVExOREtPMHVGVWlIR2ttSTFlZFdYSTQzVFZvc1FKbmhmNlFYSnluQmQ5Tm93dndvTkdkNTg2RGpzRjhUMTNJX3dkZjNBQURmVVVhSjdUSmN3M1hGODZXb2s3R1ZIQlduZnpPa0tCS0F6U3JEN050a1NSUWN5Rk9YS3JKRDJpRjA?oc=5)
+• 🟢 [Keshav Nagar–Mundhwa Residents Say Civic Neglect Continues as Roads, Traffic Control Remain Unaddressed - Pune Mirror](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGYtc0N0cGcwMnQycDlneDI5LXNGczJPNnozTXR4NHAyTXloYmx2Y0NKcDN6RkgxejlrdXJzTlFWVmxwa3ZxbmMtYzVrZ1Y3SnlPUnVoUVp2VHRKVUgtb09aTnU5WGZTOG8wdnVjMjR6dkNVRU9VMUh1QmhSYUZuUzJYd2hicGlDVl9xMS1STU1HeWtYZVFsZDhWNFA?oc=5)
+• 🟢 [Nigdi Residents Protest Harit Setu Project, Say Narrowed Roads Causing Daily Traffic Chaos - Pune Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxQRFRVR1lmMUdEdEZpMzF2WFJaU3o2YVVkSnA1YWpMM0I0SjhIWi0xeFk4S1dQNE9kYVNGNnhaX2drU0c2QTdhMHA4R08yWFFHOWZaNV83b29MWkRqWUkxM09KLUJUVEphbFN4YjBVaWp6NWlsWmNZdzhUWmtlTGNzbFQ5Sm1HdkdnN3dSWGR2QzBxS0FzREpRa2pOejFhdw?oc=5)
+• 🟢 [Pune: No Roads, No Traffic Police, No Relief; Mundhwa Keshav Nagar Residents Hit Out At Civic Apathy - PUNE PULSE](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHJ6cVlWcDF4OE00OXNfR1NKTi1RbzBleHUyWnhfelJmX2szU0Z3YXZnWnJVd3BLMkZYc0ZpN3NhWGdiZ2c5Z0R4WkFpeVJCcjdWaU5oTVhRQjg2ODFDZzVWUVQ4cVZTUW1JamV2NTljWjd2c1A4TEVEbFJkNmNjaXdxcnI2ZWR5Mkh0cHFSTFdKeHAweW0xYXJCVlB5aXNiTUdOZWpPUGw3NXJMVnJTNm1tZXdaWlpmbjdkZC1tQlFFeW8?oc=5)
+• 🟡 [Key Highway Projects Progress To Ease Pune Traffic Congestion - Construction World](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVlNUeEpVeDBET2dKcmtZMDhRQW5nb1MwN0pJaHdzc0M1cTZXZVBIVXlEMGJhU2xwLXNkYVh2TnUtOVNmcXV4bU1oTngzSk1ucUF2Y21GRkVxSU5PbnBDdnpBZHhUMmRYM1I1azRtVmR6cmtsaGFtRkxhRjhHdks5LVplc21jdEk1YW53MjFibUtqSnlBNUNMc3RRbU1XWE5Cd3F2S2RwYzBUbW15WmlfMU84WWEybnFPbU9pcGNWU1UwWlNJdDZrcTNUSy1aaTc2YUFsb0w4ZllXREludUFwcVl4aVFKQ3E4UEtpVU9MSGk?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚆 Pune Metro Phase 1 will reduce heavy corridor congestion.
