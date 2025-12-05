@@ -593,3 +593,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚆 Pune Metro Phase 1 will reduce heavy corridor congestion.
+
+### 2025-12-05 10:43:57
+🚦 Pune Traffic Updates • 05 Dec 2025 • 10:43 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Kalinda Punde Ends 20-Year Bottleneck: Upgraded Bhairoba Nala Bridge, Ganga Satellite – Netaji Nagar Road Ease Wanowrie Traffic - PUNE PULSE](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeDItVlNJVXRUQXpWaVlHY0pMRGpJLVhKMUdtRjZvZFlQUU9MTlB3SHNMMm1OYzIyNklJNmNnZHZvbjRITWhXN2RYWDcwSzR4dzNQNDB5YVRZek9LYWRuRVV1RTV5T0lGZUd0VGl2TFlMMlN3cXd2Mm45M0JtVUx3TzRheVJoMmNJd2FoaWFuWjRpbnlza19rc1RfUjBlNWFOaWh2VGotSFluaFRKSGNCbHRRWXBGRGk0cVlpYVRLNDYydHVGeEdlQjBWb2NLV2ZlWmJtdWc0OC1aSVJBZTJkMTZyZHl1Y2s?oc=5)
+• 🟢 [Speed Limit on Navale Bridge Raised to 40 kmph After Safety Review - Pune Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTl1SGNGZ2ZwdlNhMnVmWlpNOUdfajUxOTVsZDhRZW80WHdjRlpxbWV0cVlvd05vR0Y0VnBYZGdhRzhfbHpWRUE4UG1LOEJ4VEZhXy0tNzdIWWhkcDJNdkJLSUJXaHkyZ0xSVkgzVzZsU1VqWWlSZTZCbU9BTnlaWEZGQzYwa0xBUkNFZ0pDRW51Vjg?oc=5)
+• 🟢 [A Junction of Traffic Chaos! - Pune Mirror](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UU2V3SEZzM1ZVaWZNeFJJM3ltc1dHRkRfV0lZUElQOWtIQjBXZzZjakJKaTJkQmxBVmZDclpYSnpwODh4Qk00WlY3THZpMDByWnRnNUlOVXgzUExmY1BzX0l2aktpX3c?oc=5)
+• 🟢 [Pune: Speed Limit Raised To 40 Kmph On Navale Bridge - Free Press Journal](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZU02V1VPaEl5bFlPd1B5eDhJNG15b28yb1MzdkNGOGFlbHViaTdPdW5qVWRQS1U5aG5MbS1xbFFMUUd0Z2x3UUhVVW4zSEgwN0ExMl9fMWhKbjJuckZYXzFlTzFKTHNwd1hmSm5UdnBlN3lIWE10S1F4c2JGZHdvWkx5U2ZINm1iVElCQmFSZDk0UQ?oc=5)
+• 🟢 [Cost of Faulty Infra: `79 Crore! - Pune Mirror](https://news.google.com/rss/articles/CBMiakFVX3lxTE4welhaUnZSTVNzNXlrb2pBRHZ2dDhidzZPZXhRSE1BNVJ6a3F2eklHU05VR0RTVlFhMlF1Tm1jS3NXbWVXVVdtZUF3OWRCX2FReE1Oc0FSNUxBRjFmX3czVUV4eHZQX2lMWlE?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚆 Pune Metro Phase 1 will reduce heavy corridor congestion.
