@@ -628,3 +628,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
+
+### 2025-12-06 10:40:13
+🚦 Pune Traffic Updates • 06 Dec 2025 • 10:40 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune Records More Than 13 Lakh Traffic Violations in 2025; Raising Concerns of Road Discipline - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmR5ZWxLMThWWDJjdjlvSTktRnUwM3VMdWFJb3ZvNXFVaEE0bUJtVk1qMUY0OTA2ZnNKbnV4bnZjZlFXb2w4ajhoNzAxRkFDWXFUNUFaTTB4QTdObFByQ1Y1QnR6SXZ6ZThXV0s4RzBQa25CWEI5Y2locjRzR1BFb2hNazJzQVFfdmp4RV9HbVMzc2F0ZERybk1vVUExbm9BWWhHSGx5Q25IUdIBtwFBVV95cUxNOVZfMDgybUlVNTBaRnJXNW9rbTNBUnd2NDdnQ0VLWExMcVRYVkxZRkpONXlESTc1dkU4S3NtdEpTb2VfYWhKdGRJZ2w0LTJ0ZG9OX0VSNU9FdlpldjRtT2dPRC1OZm1fUndUaGh3ME1FeGdTdEo3RFZVT1pKUUNoMEhFX200S2ptQWkwUVAzcTFkeFJJRGFoYzNZWU90RnFrQy11eFpvRzl5c1RCSW9wNnl2R0VVRE0?oc=5)
+• 🟢 [Pune Records Over 13 Lakh Traffic Violations in 11 Months; Wrong-Side Driving Emerges as Top Offence - Pune Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXhkSmttVWx5ZlhfUkN5c1JUMy04SjhlWDkwcW1oUzBSWngyYlYyZHllQWtwcGw1YkM0alRVWFNlTlZzaV9Xa3ZrYWtwUlF1M09WeEJGZnNMVUpBY2FkNDZqLXQtQUoxRmhyTDY4bjh6X0tOc2prSnlFRllVdGhxUVp2OGlCZmRtcEl3dlJ2S0t0UmczdFE?oc=5)
+• 🟢 [Pune Records Over 13 Lakh Traffic Violations In 11 Months; Wrong-Side Driving Tops List - Free Press Journal](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVk4R1h6S1dramZsODNYRmhkX2s2VlFRa05wVy0xOVgteXRvcHZMcXkwY2NTa1VvZzhhNUtDOWlOWUs4Mkx1NVNUU1pfMUw4T2VKUTVuZ2REX1VrWXBYMVVPRkFrUE9sQ0RzNFJoT3diQUs4b25FTzJ0QnhIRVZnU2JNRFVIU0MyTDIzUWVsbzh4RnUzb3hQdWdrM2RQUDBidmlqai1hM0FuTzgxMVhrVkVRZUZDOFRtRkRFZkhtZmo?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
