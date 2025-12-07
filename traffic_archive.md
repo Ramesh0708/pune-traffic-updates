@@ -653,3 +653,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏍 Pune’s two-wheeler density is among the highest in India.
+
+### 2025-12-07 10:38:46
+🚦 Pune Traffic Updates • 07 Dec 2025 • 10:38 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Rs 6K-crore to spruce up Pune-Kolhapur highway: DPR Ready, Major Works on Tunnels, Bypasses and Service Lanes, Road Repairs to Ease Traffic, Accident-Prone Spots Under Review - Times of India](https://news.google.com/rss/articles/CBMi3AJBVV95cUxNZzRsdWl6VmpMR240WmowQVNuQmpScFRlckxhanh4MHI1Q1RlRHNpdktjRzlEQXkyZUtTeU9NUDA0X2FreUduYTlSa0NsbGEwZUNueHh5TXJxM0ZGWlJWRWRtVkRhUHFsOWM0V2VQUzBJaEprSG9qOEgzaUg4LVJnUnpKYV9wUFNOWWlRaWhjTC01VV95aWNhMEVEVHh5S0p0ajVncjdmeUZ1N2ZDTHhNUGstS01CNkc2N3J3RHdtS0s3cEZnd0xEc3lQTTVMd182UVZJejVvY0E5dVVHM1NBV0YzaTZra0ZvcmpCX2lfRVZGdWM0TE41YTl1QWhvbUNHSVo0TTFQaERyOWpwWldOMDZHYUhHdWdBbnBjSExlOXU4S1lLb1JJSUk1V0VxOXZOdEM0LVJBdWJUVlh6Z0pYUFE2MWVUQUlpVjFwcjhTWHZlWktic0hfMEVpTVHSAeQCQVVfeXFMUFdlYkEtRjFMWFhucUlHa095OTVMVzJZNTFrYUdlazlGb0ttbXljempHZDBlRjNmNEd3emctbU1pRy1iV0JlMTVIaWtaeWtiRGY5R3B4Um1vbVRvMVU2WG1oOUc4QU5BMHNtWUxvSHBHZ0tfbk5mWXBCbldpTHZGTTV3U1dORm1NN3FGcWw3a3M1Sl9Hc21vS3hhRnN3QnJzeXlMXy1YRFE4aThOTUpyOEI3c0VWWXozRmVzbnNnVnNvR1Uza1c1T0pHSDB5akdLTDhIMVp5NTZkekZ4VHFwc19kZGVYNGhxVVJSTFV1dVhXSU84MjdYblY5OUl1czNNMmpnb0RRZy1sNkxVcGdyaldyOHVNR3JIa05lSzNXVzFjYUhHdTctSERMS1dsdG5zZGlVci11b3FqeUE4aHdHMDNac25IcS1SV0MtcFZwSWtxaGlNUnlXVkRhNkNjTGszbUt3U0E?oc=5)
+• 🔴 [Pune: Despite Traffic Measures, Accidents Persist In Pimpri-Chinchwad -- Here’s Why & How Authorities Plan To Tackle Them - Free Press Journal](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ3NVX2ZJVkE2QUJjcFVRQzZzbmpzdVItM3VOYkJ3NVhlNTU4Ti1LTDl6dW5IUlhfN0lPNkRaQ0FYOFB1Zjcwa1ZHYzVlZ1M3aDRib3JZc0ZKRG9xY1E4LWFLSWduX2JrOHZJM1AwRjgyRDlmei1LQUxOVFlpQnVWWDVpdGV1UENfaDdLbTJ4d25OX0gxWEJWQlhldV96UXZ1WFhncHVGcXFuVFNMbExIWGZxWm1vVF9PQWV1NjlFZjFKVXRwcWR5aEhQWHhtdlhRSVAtSW5EZEZrTjRleWZoaFgxVDA?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏍 Pune’s two-wheeler density is among the highest in India.
