@@ -666,3 +666,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏍 Pune’s two-wheeler density is among the highest in India.
+
+### 2025-12-08 03:53:00
+🚦 Pune Traffic Updates • 08 Dec 2025 • 03:52 AM
+
+• 🟢 [Seven Vehicles Hit as Truck Loses Brakes Near Khambatki Tunnel on Pune–Satara Highway - PUNE PULSE](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNW9IUVJ4dXA2VzY1TWp6a0VoRDYwc2FKMmV2NnNFRjBzVmxMUjllVFdyb3lkVmhoajFTbjdXZjZNdFNoMDRmQ2JZQXNtSHhnRDlDXzc3eGs2aGhTT2hhdE5uYkpJRlhRd1lHT3hPNy05ckJCT0ItejJLdFVsMVhRYnNqcnpDXzFyMFFkSU5valpydnVNSm9EMjVqd0VNTTJ6R01VbjNibHowWkw3M2RGWGV0eVE?oc=5)
+• 🟢 [Pune: New Metro Line To Connect Ravet, Dange Chowk, Aundh & Chaturshringi? Here’s What Shiv Sena MP Shrirang Barne Requested From The Central Government - Free Press Journal](https://news.google.com/rss/articles/CBMijwJBVV95cUxNM0VQeHZKNVEwVG1lZjY4Ui1KWGtiTHB6R3RWVHZFeTBxZ3dIcEpKOE9uVHBRQ29icGxSd2VxUE5OTldPajZnTHY0dm9rSDRZcHlGNTAzT3dsNmNDXzg3a3E1MVVCQ2V4YmJoNGkzb2hzbDJxWjl5MFl0ckNNbWxxUEpRNG13RU1UYm05MDJFV1RpZkxCSnkyWnZDMEZwMzRRRDM2R1B6dkRtSlRlaWg0a1NtOWs2dzBiSXVFdjFfWlhqc0lPeXFRRWthQU5ub2hxZnhtUnlFUElneUZJRjhseWp1aWQtck56NlhoRWJVRjliYTc3R2lpVHM0Qm1aSHNUckNYTkpMTW55SDc5Ym9B?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
