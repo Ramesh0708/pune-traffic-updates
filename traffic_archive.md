@@ -678,3 +678,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
+
+### 2025-12-08 10:46:08
+🚦 Pune Traffic Updates • 08 Dec 2025 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune: Hadapsar Flyover Set For Major Repairs After Four Years, Work To Begin In Two Months - PUNE PULSE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeDZ3UUkySGdyMVM0T3ZWeXpRMnBHQmVXc0tORU5DUWRKMVRmSlpEVFlEQmtzamZXWk1Qdkl2blJHbHlub0NQRkZkbUpPY0l5aG50QzNwZkJGdEpwNXFwZmNXMkY5Z3lRSmNNY19SNGV4Qm1ueno0eTY4bGc3bUVvTy1xSUpMSU5PVmRGWVlXalRmR2xhcE9YMkdEWWNSbVp1YTNhTDJOU3pMLWpiYkpFWWxwMV85WEZR?oc=5)
+• 🟢 [Two Injured as School Bus Rams Car on Pune’s Navale Bridge - Pune Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdmNHaWh6N2FTSWpvRzR0cS1mRDdlWUlYQ2hCUkJSWlUxUTJrYURNeHgtdkVJMW5nc2VIMlQ5UTJzRGRGY0lRZWhMcG4xQUVTT2ZtamFjTEh6NVczdUtqSUt5ZF9ZTlh5Nk1yWVpiUUZyOGdLZjJXNV9DVmVtbFIwTVpzUjBRQmtZSEh1RA?oc=5)
+• 🟢 [Pune Traffic Police Crack Down on Drunk Driving: 176 Motorists Penalised - Punekar News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjR4UVVzYVhKaHg5amRhdDVkcmhXOTU0aTVHOWd0cmlmSExiNWdkRGdodkdUUk1nblB3dGgtcWtJNS1mejkwVkZFS2Y0MndKMlJLR0dzYXptdElnZDdIMzE4RWl3UzlaOHRPY1RFeXl3S0Z0YzAxNVdPNVZPTlQxa2REd1c2dWdjejNYSF8zczMxNlZKaERKU1MwbEd4TTNJ?oc=5)
+• 🟢 [Major Traffic & Power Blocks at Lonavala–BVT Yard to Impact Train Services from December 7 to 10 - PSU Connect](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0lBblB6VkNtQ3dYbGdqN01LejEweFBkbWQwUHpTTm95UzQtODVDYVd1WVNpcTI3LWpyeWZueG10Wk9IaUxLdllZcXRUdmxFX0R6MlFjcnZ4ekhRREFWMjNFNWpyVHpCREphMUpvaFk0MnhMVTZSal83MWUtTXR1TGtTaHcyc3dMRlViZk54MUg0VEFYeWNlb2JJZkpIYUoyZGluSDE0TU96X0YwWHhfbkNXVm1BTXVQNGpNcTlIT0I?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
