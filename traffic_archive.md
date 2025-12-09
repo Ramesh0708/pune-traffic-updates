@@ -710,3 +710,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚨 Drones help Pune Police monitor festival crowds.
+
+### 2025-12-09 10:46:06
+🚦 Pune Traffic Updates • 09 Dec 2025 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Traffic Advisory Issued for Pune’s Market Yard Road on December 9 - The Bridge Chronicle](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWdjeUM5bVNWTjU1NmJlZzJuZGlRbU52TmpBYjBkS1ZSOGdOcnFTUm9mRkc3XzN3VFB6S3lJeThjZ3FjbkdBLVZ3U1h3dUQzVFdoaDBuaDhIeWp6dE1GczJ6cUxXTm1uVUwxMEJJeG5FZ0tLdml3YXd2b1FSREoza1dkLTZ5NVd0RWdkMmF2c3NmaFV00gGiAUFVX3lxTE1OQ2E2Sk9jZ2w5Nm8xUVl3ek96dXV2cW5Kc2hoWmFST24xTFdZX3h6SC00SjFfbDNMZlJqOU5iM1Rld1dKM1FsejhhQ3dMLV91UktaRXNuQkdJY25Wd25yazYwWXIzaEY5TzIyQnpuOEhhM0FxaXFmN3MxTDB5enJwQ3lRQjJ2eW9pNXdGWldwSEppNHRDRGlHbVBYaUdFY0tkUQ?oc=5)
+• 🔴 [Pune Accident: Two Injured After School Bus Collides With Car on Navale Bridge, Traffic Disrupted - lokmattimes.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxNLUxxMUhnaVFncFRUaTlERENCMlFTR0xsNGpOcEkzVUo4NjZZNnRJX0N0T0R5NVNVQjlEVl9lb0g5TWVfbUFlbXAzTlZaRVJmWldwNXRLWjRrN3kwdjQxUDJWRFl6a0tmdWFBYjBEN0FieGxfX3o3VVF5X0JmMzVmRk5xMUVfMkhrdE1iRXpGZzhsd2lrdXA0SmF5X1hhZGJacmJOM1RncE84SWpDTHRHcHNsQmkxSW93UGd1MGx1SzU2Z3BiY293M05xRTg5a2_SAdQBQVVfeXFMTV9FTERWcDdMWGRjWFRpVllNTlAwMEtJNzhobHVTYU8yQm9uczhBaUZtMzdOZVhoMThucjFuZGhLblVCWUtzdDlKS0V3ODNLNEp2U1NuTnk3T1l3SHVVNmZPZkFmOWZyZTFpNFdHMmdEaXZGY1pNV2dvcEljMnJXOHFJeXVpa0l6NTFta0ZYS0RKU25RQkl2bVd3bDVPMDhqdFFuQnVOV1FtSXBMaGlPVXpjcVhOLWMyaGQ2UldDUWh0dzA5NG5sV1N5ZXM1LUJfejBQU2Q?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 Drones help Pune Police monitor festival crowds.
