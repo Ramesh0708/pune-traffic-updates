@@ -693,3 +693,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
+
+### 2025-12-09 03:48:32
+🚦 Pune Traffic Updates • 09 Dec 2025 • 03:48 AM
+
+• 🟢 [85% challans for violations on Mum-Pune E-way pending for over a year | Mumbai news - Hindustan Times](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjRaV0xDbFdlQW1vbldTc2FMWXN2aVBTX0lDeG5lM3hlRGNteWYxT2tkUThnNlJGRzZqejJxczJLZmFTVHFZTG5Xc24zbk5FWG15eVhseTVqUmVwV3RvdWFfbFhZRGtTenhMRDI4MGtrcDRWRFR1QjdYZXNjUk83X29kRzZVNHp0aUxEeVJScnBleTVNWE1hV1U5aFZZcG54dEllbnd5bUhWd1puaGZ0clZqcnNrNE0tTFNValpueGdGOXIwdWRQd3B0cFN4STl3ZjJZQVdn0gHbAUFVX3lxTE8tWVFscDM0VnBsYl9lYy1BdzlvTEpzdE0xTW0wd2cyVmJINGRQc2h4Tm43TlBNNEh1Zy1hdEtXLVNoT3R5SHlta2xmenJoVGU0cWd5LWFXYjY2eFdmT2tDNXJQWm1hUHZFMFdIeW11QXUzZDhqUlNtOEZKWXZVdU9rVW5EMU5pZThaZXFfbzRLd2JEOUg2dTBTSms0eC1BbWcza0t0T0tkTTFjWVlJbDFtT1FkTVhlSkhGcTlKZWpoTkpaUVF3YV9mMVZ5Z1pHdjUtQlpSdUdKcWhaWQ?oc=5)
+• 🟢 [Traffic police penalise 5,210 vehicles for overspeeding at Navale Bridge | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUml1QWdpMm9jVDBHdGtPM3FnS2p6N29LbnMwak44MFg3TjNiSDd4Y2I4Wk50SXI1b0JCSmRYWFkxMUMxX1ZZOEc3RWh2UmVuZ2xnN2FZRnRIUlg2S1pHOTdWU2JOeTl6U1FEVHhNdDNlWlFWREZJVDBacnBxdUVhN2dyM0l4cFkxbjRlNi1rbk55elYtV3AweUNPZ3pyWTkxakI3aTBfNldkaFFvSVVIWkVmejhFalhKdXVOcFU1UVhIU1VMdy1IRXBEdlEtQ25TSFBDOFVLTDnSAd4BQVVfeXFMT1QtVmdDMGo4N2pRempFckdFNXoxOF94aGZCTDQ1TkJoeFNYU1VzMUlQV01qUzJEYUZrcm1fZUlqbktBU0trcmZSc1dDMGIxTV9nS3Vxek93SzlocGkzYXlPZ0doaDZfLWFuLTlNazJyeEtIM1hsZzdma0ZvRTdzY000eHBxN2lQQld4VEdoVGZ6MnZxcXhkbDJVWGtqMHlOQVZGOWZrOXcwbmJORlNnSElHbU1Icklfbjk3MUZxZFBrTEp3dV9XWXBRN0ZPVzEtbl9rS0pMamlyVjlCRjNR?oc=5)
+• 🟢 [Pune Traffic Police Crack Down on Tinted Windows; Nearly 17,000 Vehicles Penalised, ₹1.82 Crore Collected - Pune Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5zU1ZkRkpZcC1QOTRlb2dmZ0xMMi1NTDFaZWJBcGVLSXJ2WGFfY2pDM3hKR250aWxqbDd6bUpZSUwxZFdSQ1c5aHdKalNZUmtBYU1CNVl6N3EtaXJrdlctUUxXelVCWk96cHRCbWRXMVlOcGxJTmFoTWFRZzY?oc=5)
+• 🟢 [Vimannagar Residents Angry as Public Event Blocks Key Road for Hours - Pune Mirror](https://news.google.com/rss/articles/CBMib0FVX3lxTE9aSHRCNnc0aUgyNUg4MW96aE9FbjlnZFYxTEFYVXQ0ckFIelk4N3psRHBZbHh5WHNwZWpyV0hfMmViN0NjWXJieDdCVk1CdmZQWVlJUzlKZVhJb2hfRzY2MXdNNmRmVTdXTmtBQ1F6MA?oc=5)
+• 🟢 [Pune Traffic Police Crack Down On Tinted Windows: Nearly 17,000 Vehicles Penalised, Rs 1.82 Crore Collected - Free Press Journal](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdDFlRElfYjZaSmJjVzd5R3lIZGVvbGtoSzNWVEMzZnUzOWV6V1BCcEw3SlNwRElhR0Y4d2h5WUJLWkZlUFRocUtYa2FlZldmeFd3N1NVM3QwaWtkUHZwRWxoeDF6WkU1WVh5eDVCOERMOTRYbUQzelBDTXZCd01XY1dlQ2xNNlQxbk5UejhXenBSa1o5OGJqY2tLREtZbHdiaWVRMW9ueFlobVFqbF90MnFvYlNuVFltaHdMd2JySTA4RjI4cDJPbXNxWjU0Ym5vMWFyZGpyZw?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 Drones help Pune Police monitor festival crowds.
