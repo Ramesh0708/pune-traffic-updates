@@ -723,3 +723,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚨 Drones help Pune Police monitor festival crowds.
+
+### 2025-12-10 03:53:12
+🚦 Pune Traffic Updates • 10 Dec 2025 • 03:53 AM
+
+• 🟢 [Pune Sees 1.11 Lakh Traffic Violation Reports On PTP App iIn 6 Months; Over 83,000 Challans Issued - PUNE PULSE](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHRsbTcyYmlaMjJpTFdZVGN5ZUJycXE1ekcyUWRLeUxoRnJDN3FXQTNLakFVVGpEN3RsVGIzbjBiMXhaSGZFRnU1aWwxd0JoM21HNTdXV005QVQ5bktQNWg0aEtHbGIxbXFnelI0TVB6b1BmbzJRUlI2NmZsa1BHVlhiQkE3aHdJaUU5d3hXT29pRHNlMHZ5Y0Zfc3B6bkpfaUxhZDUzdkgtNm13ZjA1Y3VGS293YVhoUVgxWXdqNWFwMzA?oc=5)
+• 🟢 [Mumbai–Pune Expressway Faces ₹600 Crore E-Challan Backlog for Over Speeding and Traffic Violations, with Only 15% Paid - PUNE PULSE](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRndfclkyY2luWkpsMVZaNFNGX2FLMUtNeUh5T0FqWkNndjdZNzJYRXdxa2ZsMVlqcTNXRW9yQ0Fwd1hSckpaZ1VZMVAtZ2gzVVZucWRFeDJ1RDFHZ0JCdXVHNUdZMl9XZUZES3ZaVWlnWEoxb0psc3pEZEk3OFZRcFhaaUxWSFh5eEpRU1Q4blNEdGtHWXhvdVUzRnVVbjNWRFNyN3l2dnU3aE1tQjhKN1J0dS1GNUZpN0dudXRYb2tPUElBLWgtYnRfU1NNYlhncFZKbmNCYjNHaVRENDRWQWN0VjRma1Vs?oc=5)
+• 🟢 [Pune: 1.11 Lakh Traffic Violation Complaints Filed Via PTP App In 6 Months; 83,785 Challans Issued - Free Press Journal](https://news.google.com/rss/articles/CBMiywFBVV95cUxNSnNYNmQzQk0tUnhxTXBfNFlFcHMxWXZTWnB4YzYydnJ0blVlQnhYTGw4Mi1IbDFfMnQtc2s2a3pTSFBNa3ZXWlZMNHdMaU1CNFdHNk1haWo2Tks3RjAwTGJsdUlWTGlLRlo4ckttMjZYYWwxSVRXcmptMUllNnlQdXJQUGVSd2lOU0JUTGFPOTBRY3UtTHE2V0VGVHJlUU9aT29icGNHVlc2R1ktdEdlMFBIYWJCd3NIZUhoMlhrVVcwcUo3VDBmODdXaw?oc=5)
+• 🟢 [Maharashtra Government Sanctions ₹200 Crore For Service Roads On Pune–Nashik Highway, Announces BJP MLA Mahesh Landge - Free Press Journal](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeGN6QTd2QU5mc3JhMkJfNjJmYXdhZnpIZ2lKeXpxeUx4OUJrZEYycU9qc1B5dkNWSlhGd0hoQWdhM0hUWGs2TXdyZllDNEhXSFpsNG43OGVSZzhDTUtXdGZrMnBhREV5Uk5xNThod1owc29qUEI0SmFqQ1NnT2hVQTBmOHBpdVZhNU1MeWhlSVNuQmttVGxPcG0xT2VWdTNmdGxLY1kwWGs4VEc3MzJvbVdPdFlRQVRpeTJGN1JWeTFtZWh5aHZqbGdIOVFybXhXdm5VZVpDeXhmWC10TnZqWHJYNDFqZw?oc=5)
+• 🟢 [‘No notice, no entry’ - Pune Mirror](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RMUVNd09wY1hmOFh2dFdpUFl6VG1wQ0Y3RXNuZlpLZi1heFl1eWJtTkdFNDVMbkJRODdERXRmUHU1Z3FmTFJsSFV3OXRmb1FERVo0Uk5UbVBybXZUY0dGT2dn?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🅿 FC Road enforces strict no-parking zones to ease jams.
