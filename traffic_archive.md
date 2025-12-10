@@ -740,3 +740,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🅿 FC Road enforces strict no-parking zones to ease jams.
+
+### 2025-12-10 10:47:43
+🚦 Pune Traffic Updates • 10 Dec 2025 • 10:47 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [‘Who will take it up and when?’: BJP MLA Hemant Rasane seeks clarification on stalled Pune tunnel project - The Indian Express](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmthMzNudjhUaGxnejZVOGdMOFJMdV9HTVRDdUxHcFJGYkxaTXJ5dS1KQkpEZ3FZLUs1X3FGX0l0VVM2d19IOVpkeHJKYmw3OGNZVVpDZC1TZ0p6YTZyYjdOd3hVRllwS0dBUDZxUll3TzZiQVFmNkNsVk9WRDAtSXhVUHl1V0FDTFIwaVNNaEFwcFVkcXRFaFFqUlpEbGZMMy1jN1ZYYm1tYkR1NTVxRTgwNkZoeTEyX1JlWWJBUk4tQlZqczZ30gHOAUFVX3lxTFBnanRkNThjMERHQjN0ZEo2Qm0xQWVWSjVTRkZqN0FXdFZ3aTY1S2ZqRDJqN004RXJDM1pNazh3UHFlZFpkcmhXYU5ETzFoTDkwSG9hRHpyTWFqR0djVEtnSVp0S3RDMEdwblFvZ2lJYmJ0ZE9ZSzRGVmRiV3MwMEFQemhkbHNkTWtDOXYyd3M5TncxdldfTE1SeDVuZHBSbXRkak9uMDhJYl9oallOdDVMbDU2S1VDS0Q0UFI1emowbU9UT29laC0zUEU1LVJB?oc=5)
+• 🟡 [Big Relief! CM Fadnavis Approves Six-Lane, 39-km Flyover To Ease Pune-Solapur Highway Congestion - Free Press Journal](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMUZVUllibUd1dXpLNjRsWjFMYkxtUGdGREdmd0FUSnUxRzhvUEZONmZQNm5SVWVLZU5wMUZ4V21QUXR1ajNQWXhKZVdoUTZSaE9KS3J0OXBGYzZRUjJObzJhWjF2VXRWOVFnVVpOQkdTYnBwQ2lOV3l2NEFweGtJTzVfalV5cUtkTzBGeXpXY2YyQW1VNktNVF9qekRWUVBJMlo1RVlJOEtua3dhazMxOHhBaU9icVlKYnRmcU1OZ19GWUdtYkc4U2tmbw?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🅿 FC Road enforces strict no-parking zones to ease jams.
