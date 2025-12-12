@@ -780,3 +780,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
+
+### 2025-12-12 03:54:46
+🚦 Pune Traffic Updates • 12 Dec 2025 • 03:54 AM
+
+• 🟢 [Pune: Woman Uses Humour and ‘Aarti’ Gesture to Stop Bikers Riding on Footpaths; Video Goes Viral - PUNE PULSE](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUo4OXFBbEdwY2xSa3pzOGdrSVl3RDJabjRSeDc5LUxpaGkzSHdicXkya0w1STJld2JQMXp2M0dJUXdrNmF4bnFrQkJqVmxlV05leElKelNsakJ5VnFxSlhUSjRDbmFHMUFPOGhyZEwyeER5TC1wYVpNenBKSVY3R20wLXZLd09ZSk9kODY1VGhKdG9lWE9CX2g1WnVtbTJXU3JQb1VERXdZblZLSUVOck5LYXRhZ3BXT0ZpZFJn?oc=5)
+• 🟢 [Pune: BJP MLA Mahesh Landge Flags 10 Critical Civic Issues In Assembly, Seeks Urgent Action For - Free Press Journal](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdmFUZzNVU1ZSekV1bVdNZ3JIVlR2YjM5V05NeF9VckNzU1RDcUxtVGVpZUJ4YmF3ZDFJV1d4RFE1dkZsSXRyRXhJT1VGdk1GYlI1RzN1dGg0QlJWY1FBcjBIRzZ3S2s1LWkwbDlQTU5fdmVnR1YwX3FZSDByTW5VWEJBYUxKampCdWdXOUgxT3JGaU1JemFtd1J6NVZwdjF4aC1tM29BSktyRkRCQWhhaXZYc3ExczNrcXNyY21GUWpNMXk0cjlFN0pVXzJpMWpKaHhUR1p3YmVDcWZqZGlMMtIB5gFBVV95cUxNRm80RTgyZ3NHMUJNNTJWa2JKSFdJWjdWRG85UjFGczJiNGlRcXNLN0w3QngyQ2lKZTFXcl9aWnpublJKUXZOUGZGUGtfdWJzR3A2MlhxaV90NHBRLVlUcEVGdWl2aDdhdmY5TVh1Ny1SRS13ZFlZMmsxRmdOZ1B0OGxMRDZTSDVpUlJLLWJDVFRIdG11RWcxRG1xdE5hUG43aVhJdXBiR2VFcE1ZUTE4aF9neEZXWUc1Q3I1b1hWZ1h0cEktRVR3UWEtaHNOdXFsdUIxZzhZbXppVGhhQkdfVlJFZnpOQQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Baner–Balewadi traffic grew 40% in just 3 years.
