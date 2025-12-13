@@ -804,3 +804,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Baner–Balewadi traffic grew 40% in just 3 years.
+
+### 2025-12-13 03:46:26
+🚦 Pune Traffic Updates • 13 Dec 2025 • 03:46 AM
+
+• 🔴 [Pune Book Festival 2025: Traffic Diversions Announced on FC Road and JM Road - Punekar News](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcnVrY1FZMUdSSVAybmxFLW5WVUt1Yk5Ja1YxbXdqektlUTVnM1lmaVU5cFBnS3hvdWZFMHdvX1BFbVpfNnVPbmRYZGYxR3J6OE9JTGdrdUgzWTFvNG9PbHQ1QUI1eGo4M0xWQm00S1FXVVR6aFMtNzVjQkxOOW5FWlVIdzloTFh2ek5pay0wQVVOajFJWm05cVRvQ2lvN0NNeUpJTENn?oc=5)
+• 🟢 [Pune: Shivne–Nanded Bridge Road to Shut Overnight for Power Line Work - Punekar News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdE9BTXp3WlNrOU1RRk41dFBEUUwydXZkMVhieUQtX1NMa0ppUjVUakV2YTVVUl9XcVMxeG1tODBGSW9wWFJiRnpGdFVGMVAwcHVpUFEtVGNOVFVRNHNyV0ZOa0wyeU00VTZrU3A2dlhnNTZSSXhpUkV6UWp4QW8wV2k5bDJDRUg4VFN3RkYwTkw3OFc0Rm1nMnZQdGE?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
