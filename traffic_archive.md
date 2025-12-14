@@ -851,3 +851,19 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Metro barricades shift traffic patterns every 3–6 weeks.
+
+### 2025-12-14 10:40:51
+🚦 Pune Traffic Updates • 14 Dec 2025 • 10:40 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune-Mumbai Expressway, other highways choke as weekend, festive and tourist rush peaks - The Indian Express](https://news.google.com/rss/articles/CBMixwFBVV95cUxNX0EzT2ZtX2xKd2lsRFBUV2J1ejUxS3Blb0JBRGgzTzBQWHRjUTZpU2Q1WER6OFZuY3RJb0pLMXJLcG51OTdPc1hTSUFTNllId0xJaEVVSVVhQ3J4a0RQWHY5R2hxcmdxcmUwVklQdlluNnZRdllJQWxhVURFR19MSm56c2hrX3JiYnFDNGptWWttZF9iNXNCeEpMUzlEUGZzZHplWW9vQUFNSTE1SG9aQWZQVHFoU0FOYm05X3JidklkYjVYYTNB0gHOAUFVX3lxTE1Fd1p5V29WTkJBZWtyOFhPU1Z6bDVGWGJJd1VVRzdEMGlzUW1XZ056X19Wdnd4T0xFYk9iMWpSaHdGSGxFNXE5NVZQUlJfM0gtV0gxWjZ1VXV2bmlBYlA2bDI0MkQyRmtGM0ZaSlNaVVg4WWJ0YzBDS1d5RVd1c2otcXRFSHNRa2NBOEtvWFZJY1Y0OTJlanJKUGtPbWx3MTFpRDRHU0lPUVpybFNERUFXdi1VaWhuMmllMzQ2ZklmZVplOXR5ZmxrMDNLdkRn?oc=5)
+• 🟢 [Weekend Rush Brings Mumbai-Pune Roads To A Standstill, Traffic Crawls Near Lonavala | India News - News18](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOS1XTTBwM3hsQi1jdEE5aG5EMVhYQXgyOWRSOG9YWVZ5QnlQc3p5YXNBM1FxTTNZYTlQMU83TmpBVVdtZm1fWXZ3X1FiOUtnVnpRZkd5YUtUZ0dMTzh4QV9tSVlZQ0I0M0lySlNDOUVld2lQZnNrTDBvUU1idGtHQU1wUHVnd2s1UjExaFNBMjMzdFFTTXhSSG1jUlJlVVdLeXZEazBxM1MtOE5zQ2xJS2hvUTBNOF8xejMzMDBhRk4xQQ?oc=5)
+• 🟢 [Indrayani River Bridge in Alandi Declared Unsafe, Traffic Fully Diverted - Pune Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxNU28yaXBWS1NiRm9fLUJma2xVRGJlVFI3OUF0QWNyWXE3VlNZVENXTkJDUi16TDBfTDJjS0VzbGRDS1VMZGQzVExrMVBQRGtsRnlRdnFNam1SQnIxUlBCSG5MczZZYUpBeGhzUFhLSldOS3FiVngzb1RwanRlVW9uS2tNTUljaE1ZNlE?oc=5)
+• 🟢 [Indrayani River Bridge at Alandi Declared Unsafe; Authorities Enforce Complete Traffic Ban - Punekar News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlFFcVRoTThiZ3dXb1U5dmlmcFc5SVpjWjRaS2l6cDhzamtMYjRCUWFmVGhFVzQwYVNHRGZ0enNKRjNIVXpOczhCbm41X3FwNEMxUTZsb2s2RDNqUVhSeUE3LWV3MlNMVkhNUTJraWJhVzdOdnU1Mmd3T0g3SUNxWUpHMnBVZjZvNElKR3gzTGdvaWpxN3JKdFJjNlBOcjVvTFlqeXpmeDU3N2s4aGs5a2gya3dmVTlz?oc=5)
+• 🟢 [Traffic Gridlock in Pune Echoes in Assembly; Govt Sets Deadlines for Ring Road, Metro and Key Roads - Pune Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0pnanU5OWxiQUE4aDR2aC1FR2t5Z2F4bElJRTgxQ0tYd295VVJ5NFBPTW5lSzFFQ3Nmd2ZvbVlVa2FLejVIYlRNZnFsb0ktdnRocksxWjZ1d1A2UTdNWGh4eVNFaWR3VWpfU3JPNHowVTEtZDRfLUUyWkdUZXRpcjdVc05wNWZ6SU8yeVpEVHBqdEFGZ0tJ?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Metro barricades shift traffic patterns every 3–6 weeks.
