@@ -880,3 +880,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Pune has 260+ synchronized traffic lights.
+
+### 2025-12-15 10:49:27
+🚦 Pune Traffic Updates • 15 Dec 2025 • 10:49 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Pune: Woman Dies After Road Accident On Katraj–Kondhwa Road Amid Traffic Diversions - PUNE PULSE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0NzbUkxNFBhNXZra3NTYTdRMUNjX3dLaW1JSnVEbVd0OTBsY05wRUhtM2YyZHVTNkZ1NWFRY3MyTjZzdEVMWEpYZFdZMjEzdWcxWFZENmVFNjgwMThOQTZVM1Q5NWNBanVhdUZ6V2gtQ1ZtaGw3bUhPbnpKRWNGUFNkNzk4Q2I3NU90SlZidTdoWWQ3V2V1VzNNZXhyZzN5a001TkR2TmFhWTBsMDNLVA?oc=5)
+• 🔴 [Pune Accident: Woman Dies After Container Truck Runs Over Scooter on Katraj–Kondhwa Road - Punekar News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTdQaC1DWWpXSVhBaURqazlyT1hXWEVRUU1iWnNKbndKbHgxMnpDcWtQSFRCWERvTHI1Sm9zTHVla3BTeElKc0VzLUdaeEFlSzVMMFF6NlEyZjF1eXZkelR5WHhFUldBVWR3ZnBjRy1sZFI4ckFGWUVyclNrc3dqaFMzc241QWR0c3VzMk0zMWhKd0pXR3pRa01qVG5FU1NhTUFIeEhDdmVYbWtnUUh3UG02emJIUQ?oc=5)
+• 🔴 [Pune: Bus–Truck Collision Near Metro Pillar Triggers Major Traffic Jam on University Road - The Bridge Chronicle](https://news.google.com/rss/articles/CBMingFBVV95cUxPWkc4Z0xtRkhiV1ZLbjFpbWJRZU5qMjVPTGlpclNTanJpMmk0d3FlQ09UWmtHbVZpQ3NfTnFPM3hnNjJEdkpmZ0NoYlplVG1FVGFwSlJjeXg4NF9HLUx0eEl1YUJZeUN6N18tRjh4bDhMUXZyWmw4eGFwbWJzS08zN3lNQ2pwbVZ1dkdwSHdwQjh4U21lOWkzd1BXTEF4Z9IBqwFBVV95cUxPVVZ1NlNMRktYWC1NaG9RU0N1cGVNZ2hKUy05R1pEaUN1NGJ1RHUzUXJjemZCdWtfTGZYVTE0QThKdHU0SWRFNmZzYlItUjRIX1ItNkgyYUZiZ1ZHc0lkVjEyMlhsWm9mcUlKTmZ3RTdFV19obFllVWhZYVVBRzljQk5CV1F1RmNuTDgyTGpIRmxROVZkS0JDOGNIZHhubU5fT0xWd0RmZjl1Y28?oc=5)
+• 🟢 [Separator will be extended - Pune Mirror](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tLTI5QTVXZzBTaEFSa3ViRFJUeTEyLWxodE9jLXprUG44UEpkdFkzRmRCZmZRVFN0TEJ0aDhTWW5XM0J1dGNfZVFPdFFuQThXbVBaOGZ1TGQyYnJoQzlXQWJKbUE1UQ?oc=5)
+• 🔴 [Pune road horror: How minor brush left Mumbai HR executive with a bloodied eye; traffic jam turned trap f - Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxNQ0Ffb1ZCaS1ocW1WeVZMdzBybERTc3BrdXdvaVdKRG12TkhjUmRrTmM3SzVfZ21RQmxhaVhvNVItTVB1cURnVlFydkgyd3lybExpWERpWFFnYlNPdlJ3T1B0anpXc1ZZODZEODBqNjlYX3V5NEdaUExrNUV0V2NpNThUZGstNzYwZjJSVUtTcERsSTdfVldJSURGWU4xYUk0dTA2aXYtb01meWdyY1ZuQlNwSHpoVVFJdncwZmZLMDNNVDhtRk4tNHdjcl9rbmk2VmlpODQ4TmlvMXZXOEpoV0JkZHNoR2FzZUxWQU5PUFJtOTZGT1ZKSDBINDBpVjFYcnNwaE5pZWk4aWZ6aGN4LWFB0gGXAkFVX3lxTE55Q0RDYUQwVy15XzRLXzdkTzR2b2ZxV0lCdzBYNGttX2daUFNHQ2FlbkpTVERuMktpRUx3VmlxUVh1WUx5Wl9WanhQRDRKdTExd0hUSWFZZGpuUERhR2p0WHA1VHdYTlNGR1JzcUNpU1A1ME52SkFPT3pzVm1vWFpBMUFQRnpHb3BhQ0x1dGRBalk2bDA3Wk5JcUNsYmZjV1U5WWNJZTJ3b29jRHA1ZnczaGZLTWZ3UVd3S2ZfeUhPYXFORFZmWk13OXpNOW1MVDBvcDA1NnAyd3l0WEF3ZDZjcHVnTDNjU1JsVnNzYXptWjZZSGNSMW8zVHlJQUhzTy1PMm5GQXpNLXVvT0hnYzFkdGY4NzBKSQ?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Pune has 260+ synchronized traffic lights.
