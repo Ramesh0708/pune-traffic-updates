@@ -933,3 +933,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Baner Road spikes heavily during school timings.
+
+### 2025-12-17 03:52:13
+🚦 Pune Traffic Updates • 17 Dec 2025 • 03:52 AM
+
+• 🔴 [Increasing Road Accidents Darken Pune’s Streets - Pune Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQNUk1VENJYWtldzNfalFqa0Fybzk3TTU2MkEzaHlQaGV2UmpuT3lXaHhCQ1pTWUVvdXlEUFNHNGdqZGRvcWt1anhRQ1pjTnhLeGNHY044U3dDOGtvYUF6ZC1DTXp1LVlHZTNqQi1CM1MweFZOcGNvQmljbmFxM0JjZFJZQVRpVDQ?oc=5)
+• 🟢 [Convoy Restrictions Cause Traffic Chaos in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE94Z1ozZ1o0UUUtQWZYU1hKSGFIU1RBTkxrQUhwQXhqZGxKd2lLSXhMSHU2NTJBRVQzSXdKODQtdDVvVUFScnZNeGtvQnVnNS0wbmJRT01jcTFWbzdMNElYVWYxbGUzaTZJSzkwVWw2SHJYOHY0cmkyT29PR0tMUQ?oc=5)
+• 🟡 [Nigdi–Dapodi Road Turns Traffic Nightmare as Delays Mount in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMieEFVX3lxTFAwMDFRZi1ELVcyUzNmbHZxaG1SV3RhSkRZZ0Q3c2g0RUVOd01DUEdteEt0eEprNk1SMlNrTVNiRktydno3cjFMa0V4bkw2ZS1qVTBBZ1BYWms0VWRfS1Ezek0zeGI4NGZpX0lscnItSzdMLXNiLVBnRA?oc=5)
+• 🟢 [Pune to get network of road tunnels to fix major traffic concerns: Fadnavis - The Indian Express](https://news.google.com/rss/articles/CBMiygFBVV95cUxORWdhT3A1N2t6TnNYNngwNzEzcXRDTDRlc1VKNFJtQWpMUnFnaVlVQ25NZ0dGYlVmMVV3aUpTbWJmUjhhelVjVXNpcVpZWGh3RjdOYTdBcVd1djlNVU11T09BN2RnVnBtWjV4XzkxSWlGUXpGSVZsU3A5Y1RKa0RoZ3gydUlmUzlDcGNJYlVLc1ZKYklLQWk5dkdQZ2lwV1Q3bUdFekJyTzBzSDRRdTd0eXZvSS0tUWpZZTBndVRJSlZ0MEpwbm9oUWpn0gHQAUFVX3lxTE4zNUhYdWpGQkFqZy0yNThjRG5Qb3ctSmRrUWYzTG4xTGV3UzRUOG1sMTd4cFRsZVdfS0ZXTnlZMm1ZMlFWeGczX19obFVqUnRjUG03YUg2UnpRWmM5ZnlSOTJKY3FQVDBZT3dBb3VObmVHTXp6bUtmWmRkREtTX1VuUlV1TU5oYVNidXZGRXBRcndmNDF6X2VvZGdVbnN3d0tNaF9tY0pZaGV2aFZsUERiR0RCUWIyRGg3a2p1bk1YUTFicFYwOXNCRVdGdzUybDQ?oc=5)
+• 🟢 [TRAFFIC FLOW SET TO EASE - Pune Mirror](https://news.google.com/rss/articles/CBMiY0FVX3lxTE13VVVkcjdxdU1sUEVDSmxjYkRVOGVwLWZnZldVOTZjZkhkUnpUN3BRWVR6MUE5dGxKOHUyRUN2OTFISUllVU81am9oQXU2VXF5YlJ1cVI1dEZCMUV2a2F2TTJMcw?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
