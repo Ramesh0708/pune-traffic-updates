@@ -948,3 +948,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+### 2025-12-17 10:46:24
+🚦 Pune Traffic Updates • 17 Dec 2025 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Pune Road Accident: Two Separate Crashes Near Warje Bridge Trigger Massive Traffic Snarl on Satara Highway - lokmattimes.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWJFdHBXbFlJRm05U3ZxX2ZhdXM4aDd1YnpGeEFsWW5tMXBnSU9keE9hMm5hUmRmcVhGYTVmZGFqTURBTDdVQXR3V2lIbWk4dDRQbWh1aVVpSFhjbDhXbUJVaGkzT1VLN3RlMzh2XzR4SEphaXZ2QVE2SHlTc3c5ZC1HN2xoUFlMWHBGLVZwWElFSlVhNkpPeUE2OEpHWGpCVWpHYUs0WDFqOEF5V3FNMm1EemFUV0pDd0wtTVZjcGdZcXhXNjcxajEzWVRPdVd5WDQ3V3pmSlh4aWtw0gHiAUFVX3lxTE51UDFjdE83RkJYd3JwUWdqcjhlZENXcDhLYkxQTlNBVndzTElab0hjbW5SQ0hqbFhJUXVjMEExWHktMVk3NGthWXJ4UlM3TGwwVHVScGZIV3dBSmk0QWZ2WDVkb3ZIZXhqbXNJOWozUWVaQ0c2dV81Vk5hYWFEM0FSdmhXRkI5bWZFd0ZYMnExbHQ4eEtGYlNxckJ0MWNFUlJ4R1JKWWoyMDVFVHBHUXFVVVBkaXNQN1h0LURWd2xVb0dGZWFWdDhSYjYwbE9vVmJhckstdXpQNkFLM193VmNxNFE?oc=5)
+• 🟢 [Pune Ring Road Gets Timeline: West Section by 2026, East by 2028 - Pune Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTE5LT2ktN2xRZWxtaXROeFZPMDFkMDFBblYtN3RxQ1RyZm9JZzlld0xxTzhZc0xDWVpKZmR2RVZnZGNiYnF4UHVYeDNEX0JVd1JOaUhCSHF0T2tDRWhRVnRwd0JyTDV2NGZMWjlnTENGZDh5N2EwdTNSMmZTNG4?oc=5)
+• 🟢 [Flyovers irk Ajit Pawar - Pune Mirror](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zVVNNMmlkU29pRy1TQUF4cVJiZ0JjbnB4VU1vUENxOGxPaXFsUlR6QjFYSV84YnJIVm5JS2VQaFk1QTd4cXZRemlyR2laNV9XU1lwWjZQTDdSOUhydGUtOFVR?oc=5)
+• 🟢 [Pune Double-decker Flyover Is Ready For Traffic: Will It Ease Shivajinagar–Aundh & Baner Corridor Congestio - News18](https://news.google.com/rss/articles/CBMizgFBVV95cUxQalJ3czR2cE45VU9ETkhuX0ktOXZSa0tPenBqY19Sd2U0ZDhUaXV2bGVTbUdKTkFlMlpqa1BSdGc4bEs4QUhZTFdoZ1lYYlBmVHdwb3MxbFhSd2VoakNJbHplSGctVlN2Tzd5MHFsSzRwdlVKUTdnRmViRFo0RVRONm9iUjR4M093TE9vVzRXWm5aVEczN2hOX3E2WFpBNDlIR1JOczhCc25Pa045a19QWUhLYVdXaHY4WVZ1ZjB2T2tFSk11dmJlVWQ5SDEtUdIB0wFBVV95cUxQZElqVmY0OG1aWFAySk1ZSTVlNjR1QXllWkVFTlhzZTREYnB0LVJtNXVEVnZWLUVfQzlCTHRTTHNZcGE5QVF3d3owYVFqT295M2tZT2EzTkJnc2JCckpoQzBlcEV1ZWwycmJud2tTZEREWVc4cU5SMUdkMmh4Q3dGOVlzRW1FN2hJVWdadUl0OXNqQ0ZpTGZ5RnNMZWFvOW9vRVFUdzNtbVI4dElUVlJFNHF5b0t0NW5QMndNQzlKeU5kai04cVpybGFwNlNVUkFrbE9j?oc=5)
+• 🟢 [Pune Double-decker Flyover Is Ready For Traffic: Will It Ease Shivajinagar–Aundh & Baner Corridor Congestio - News18](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZElqVmY0OG1aWFAySk1ZSTVlNjR1QXllWkVFTlhzZTREYnB0LVJtNXVEVnZWLUVfQzlCTHRTTHNZcGE5QVF3d3owYVFqT295M2tZT2EzTkJnc2JCckpoQzBlcEV1ZWwycmJud2tTZEREWVc4cU5SMUdkMmh4Q3dGOVlzRW1FN2hJVWdadUl0OXNqQ0ZpTGZ5RnNMZWFvOW9vRVFUdzNtbVI4dElUVlJFNHF5b0t0NW5QMndNQzlKeU5kai04cVpybGFwNlNVUkFrbE9j0gHTAUFVX3lxTFBkSWpWZjQ4bVpYUDJKTVlJNWU2NHVBeWVaRUVOWHNlNERicHQtUm01dURWdlYtRV9DOUJMdFNMc1lwYTlBUXd3ejBhUWpPb3kza1lPYTNOQmdzYkJySmhDMGVwRXVlbDJyYm53a1NkRERZVzhxTlIxR2QyaHhDd0Y5WXNFbUU3aElVZ1p1SXQ5c2pDRmlMZnlGc0xlYW85b29FUVR3M21tUjh0SVRWUkU0cXlvS3Q1blAyd01DOUp5TmRqLThxWnJsYXA2U1VSQWtsT2M?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
