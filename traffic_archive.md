@@ -966,3 +966,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+### 2025-12-18 03:53:34
+🚦 Pune Traffic Updates • 18 Dec 2025 • 03:53 AM
+
+• 🟢 [Contract lapse bars traffic police from towing in no-parking zones - Times of India](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUmdOdXNPeVAwb3NqaEtyNk1QcEdOVEgwY2hxTkdjQ3NRWldpd1RVME9Uak5uQm1VcWxNTElWV180Q29FalU3Wk9zNC1yR1psM2ZqQlEwWFFwX1VMUzdrOVBVZU1qd2ltejg2aFhsYV9JY2IxcnBqQlozdVhTU0FLN1VkYndQcW1sV0xkUXhoN251MkxXYzgyaldCN3ZsTTlKZ3BNX3JMUEdDVlM2clNCWTBrTDRVQmo2WmxHb0U3RFB2Yl9LR2U0c2gxRy16SzlhYzR6etIB2gFBVV95cUxPeFNaZE9vVlU1TWVIQWY2c2lSR1M3Zlk3eloxcU5fRWQzeXpQanVDblNlVHZxekRzbC1PbjFNRXQ1NHMzWmpjTGtWbU0zZVJYT3FBMFVhWHpYal9iOGd0UTcybVd1bTBoT0ZMdk92Sml6Z1dUdzhhVXZrQUdubXJkNEhaaUlqWmpTcVJIX1FxY21IMDlJVXhRZjRQX3dVOE1DTVB0aGdUQm9KLVlUN19RbXg4NEdLaG5pWnFmTVFUcmc3RlZtc1V4cFlKSnBXNE9GLWRxSjhxR1hDQQ?oc=5)
+• 🟢 [PMPML bus breakdowns hit traffic, Pune RTO to issue notice | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2RDNENZbVQ5VUtUWVdlWUVPbXZrdGdxYy1Na29PZzRhM0hIaThPRHZieGh4OGpBVTJBS0ZoZlFTVWpqVjZSQ0tOQ1d2dWthNE1xdW1wdzJwRFp5SFlKWUdQekVoaWZkQmJTSXV5eGVtR3BpMUJuVThpaUVoN1p4bFZxSlJBWUlFamdVY0k0d240cW85THQyTEdNN3BHTUZoaG5wYm5DYU5rbGpGckVqQ3I5cnJiTUVKQXNGUDAtVnItN2xi0gHKAUFVX3lxTE00SHNhQVI2dHN4VXNWNk9pSlVIaUV3QmxoclRBSGN6dnNwRGlLMnpmNWlPeTVWZWhCTVhaaGotaHZNeVlFTEQ5R0lMRHY5MTJMMHRNUk9qN01DTlZhNXJMX3p3eU1JdHZTTkFtZ2djaVRJMzBoRll2R2x3SXpZaVlfNGN6c18wVXpNc3djcExMWUhZUkpxQlJVbDVQU2g4VHpGMVRHbXJKUXJQOG1oWlkwV19YUzZRUVZYRlNsWk5FNEtodTFwalh5MWc?oc=5)
+• 🟢 [Elderly Rider’s Simple Truth During Traffic Check Wins Hearts Online - PUNE PULSE](https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWtfQVdvQ1Zad1E2T003NTVXRFFkRVlxemF0b3ZTU0NYSVZEMmI0VlpWY205amU4bWxyd19lTDJVV1h6SVVqbmVDcW1mQzF3NzFaeXhqMjVXYTR3R1BfMW5HN0xwRHFCcXJJb3M5OG1PemtWa2l6eU5ob1lzYl9Rb2dHZUZyRXB4UDM0Q2thX2RvaUdZa21HdHlZa2Q?oc=5)
+• 🟢 [Cloudflare 2025 Report: Google and ChatGPT Dominate as Traffic Surges - Pune Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUV0RE9vTC03NUpoMXNtZ1d5VzVST2ItVEo2cWpNQ3UtR09oenFuaHUtUGs1aEJHZ2FERWw1dUd0TG9qWGF5ZlNIZFJaSGlPTTNzdGlsZ1cxT3hYYjI2dFpTcmpsY0pTdTVkcVl3SERMUEU3MVlkQ05zY0NiNTJac3NJNXk1b1k?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
