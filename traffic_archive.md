@@ -1056,3 +1056,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚓 Pune Traffic Police issue over 10,000 challans a day.
+
+### 2025-12-21 03:57:54
+🚦 Pune Traffic Updates • 21 Dec 2025 • 03:57 AM
+
+• 🟢 [VIP movement, road work & book fair frenzy paralyse traffic on key roads; commuters fume - Times of India](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS2VtcFBHNmU2RWE5SEhhQjk4OHBsYU9Bb0hOakpuNXNoZXF2dWp3ZElDTGxYWVQ5Y204TVNWNTJ6LUNqbGJyQnkxYnFpdTBaSElsX2ROYzRicS1zSUNqV3JfTlNkZmR3OTBidTRqVFRJYUtuSDA5NXpDbEsyeVh0cVMzeFQtZzEtV21xcW9yOG0zOW01eENCc2FnNHo0ZEFWNW0tMDhhbmxOMmNZeWJTbWo0NTNOS2M3NDMxNFZlZVp6cy03eEJhRVNnQmNpa2JjcHVtVExqMWRyX1FHTTRSTldpOURxdGJxYm1IaNIB8gFBVV95cUxQN0V1Ml9DcVJMbFNwbGlSbUVlVmtGVF9TQWhrUHAtZ2FCWlZKYWJ5TFIxaFlCSkFLQXlIMWFySF96eWNoUXZYOFhYcGNfRDlGc1czZHc2Y3kxMG5LTmowX1YzUUxYV2s2ZE02OWJ1Z1p0aXI4T2I4cXpJa2YyWEpnbC1vLUhSR29ScXFtUlc5U3R6eVE1LVdSbHBXaWhxdkYwMFBCWTBheFgtM01hc2FqNk85cFJfM2hIcnJjY2lMYnBBOFlLY0V4LTg0TkV0YXJyOHcycWdkUFgxQ1JBZktNQy1PQTVoNGc5ZzZKVnB2bHJmQQ?oc=5)
+• 🔴 [Breaking the traffic rule proved costly, one killed in accident - Times of India](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEN5akVRRVlmNE5xZFFiY19SemJSWGpnSE14WEF5V3BVWElNOUc0eEhtaTVlWmFwTDdTRklyQnc0TVVxRHFiZXZRVHAyeGJPeVlEQS0zWjRvY2ZNTzE1N0cyRVhNSlZHdk9rRmFScTVCMGVtWC1wYlJZUGVVYnR5U1Jld1ZVU3YzbEN0QkZlUjJtQWdVWEpsdnkxRy1xN1NXU200bTJtbFc0dnU5X2EweFZfUFZ3WVRETElnRjhOcDdlMmVESEhKS1lUMF9LZm_SAdQBQVVfeXFMTm5waVgyMzY4NF8tT2VMcGc4bmM5VUVTTWU5YngxZGJLX0J3N1VhV041ZGV2N21tOEVPVEhZd3V0N1FNWVI5WjNFQWtvbXQycEpqc0h0clN6ak9tQWJveC1odTR0QXAwUVFxd1BjdmF2dmxmVFJETDlsVlZmSWRtemw1UkdYQTJVekZxbUh2Qk8wU3dNYWk4Q1IzZFF4QzdxYmJtZDRGWGpQOXA3RHQ2LUJoUTBkeUw3cUo4WE5tSmppVmdNS282OWtUSVM0enpOX0RfRl8?oc=5)
+• 🟢 [Stuck in Transit: How Traffic Is Stealing Time from Pune’s Gen Z - Pune Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnVIMFFfTUp5N2hkTWFidHQzSElReW04Q2pndGttX04wV2poZzhicHdqRlpuSG5UMi16OFc2UTVCd2dzUzBuT25HcFRjWl9yRE5rQmV5X2drTkx6V196eHh2U2QzaHM5M284N25xNGZQN3QyVTRhdGctQ2FfbnF6Q0s1YjdEdw?oc=5)
+• 🟢 [CITY EXPANSION PUTS NEW WARDS TO TEST - Pune Mirror](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ucGZfWGt0VXdrWVdoVGd3S1JsQlpRVC04dHAyWDNlVF9nZEhIS3R1VVB0T3dGcHZJU0c5dWluNjVKaFR3Z2JXUDJGZUktVmFIbnFXREltSXcxWThxam5BUjI4VG5LdHRxR3YycmIxQl9ER0Vp?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
