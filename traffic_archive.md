@@ -1082,3 +1082,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2025-12-22 04:02:32
+🚦 Pune Traffic Updates • 22 Dec 2025 • 04:02 AM
+
+• 🔴 [Mumbai–Pune Expressway Traffic Jam: Vehicles Stuck for Hours in Borghat Near Lonavala - Punekar News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPREJpdHRLSW93R1Y1d0hfcXFaUFYya2p1NUtBMjZpTGp5aVpkcEJIbDdIelE3eFRuMlBPUEtyUFNBNURjdjV0ODI4cVFIcm8wWndiemowSnpHeFRySE1uckVKVFUtamFEU1ZqampRZTI0eDNZV1h0OFVQUU16Y1dHT1BVNlg3VnNlZ0tUb0gwdzBmUFQ4aU5JcmJqdU5WLXMtVEZXLXRnWVVKMU1UOGtMQU1B?oc=5)
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
