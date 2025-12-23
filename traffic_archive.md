@@ -1105,3 +1105,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
+
+### 2025-12-23 03:57:43
+🚦 Pune Traffic Updates • 23 Dec 2025 • 03:57 AM
+
+• 🟢 [Pune Police Against Drunk Driving; Action Against 201 Drivers in Three Days - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVRlaEdkYWVxbzBNazJObEl2eTBXb1FCa3JPODR4VlotdWF2elhZVFVoRU9rbkV1blk3dTJialBmWGYwM3BjSkUyUDRWYlpFUlVXTjZuLUY1dXFoajVrMFlNSEZVaHlPZExDZ1BtYXNuRVIyS2FJMW83R0ZHbnFZTFR2TkVHTFZYZEh5OHZHQUNyQ29tX2ttbDZfXzVxQk1pVTQ4UVU5SnHSAbYBQVVfeXFMTW5uY2VHVEtfcFRlYTR2UUxvOUc2MGhyLTFqQlF0MzN4YTNCd1VfUTJTMXBwZTdSVTF1VHdPWEZudFFvV25XUDNFTXhGRU5nR25vZ2tqZHN3SkdDdEk1MFhVTkZGSzNROVpxODRHY0VOcHBJZ2Zhei1nd2JKZHdaNl9KSHVoa0wxQ3J3RjBLTlpkNktoNGlsbTNvMDV5aC0tZjNNWlpqQkYxSnNSLVVFTVJnSU9WSXc?oc=5)
+• 🔴 [Pune cops slap attempt to culpable homicide charge on heavy vehicles flouting rules - The Indian Express](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeHZwbUliTURfTzNtWmFFX2xHSVYtZHJWcU1OX3dxYmFSQnlxVlF2VEQ1NmRTSDNDc3hmWnNOcFBPUzhPWmM5aFNPNUpKclVUSnZvcGEzRVJ6RjRwdXdnd0lDVlFsaGdtc2hKU0lZLUZjNE5iUkRCNkFmR20wWFNuekg1bWVBcklTNldwTWtXTkRCdEpJTzlxd3dJZ1locWZkMXktSTI2NzI3Y2Q4bUx3dVA0QmkwdmFwUXNKTUNQSG44aEwyV3NGQjBPTGQxUTl2Yi0xaVlVRnlWNlhJZll5VzJzZFprVHljamfSAfABQVVfeXFMTTZZcTU5X01MdzkwRm1CVHhzeDVfMGloSXlqUmozM1llLVhzVHFsQnprODhsa2M3NTFRdG5JczFJRUxnNTIxQXA3RWVtaDNDcWgyWU9zY2RXbmM1NHM4WjB1M2MxdHI5UHFuTEl3Wm1ZcS1DaFZSTEEtSHdEWURvdTVqVE1UdUs1SUQ5M0tPN1UtWnlHWHhjS3VFOGpQQm5pOEpjS2ZnNDM2MTBQTzhKeGpoQ2t6b2h6Mmc5cnZBaHFQMEJGSGxSV0lXUklIQmN4ZFBCMGEzWktwOE15anZyQXA4R052a3A2Q05COGVSTzN3?oc=5)
+• 🟢 [Pune City Police Call on Creators to Join Road Safety Reel Challenge - Punekar News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOEpnNVU2Z2NKcFRKWG1yN3pWVWphRG1oWDdaZl9kYnNXcDkwalBVZnVsaFRYRi1xdUtjMUxqM3VMaFMyeHVqd0pyRGFpWlM0SFhNVFBFYllBRXNtRWhPU0MtelI4bkI1VGdXMExtRFpORkQwLXlaek9EbWgyaXJqT3VMeEliaHNmS3FkNlBJNlZ5MDJTd3dma1BXbHY?oc=5)
+• 🟢 [Pune Traffic Police Book 201 Drivers in Three-Day Drunk Driving Crackdown - Punekar News](https://news.google.com/rss/articles/CBMiowFBVV95cUxORkoxTi01YW9teEpPd0tyVy1JSFFZMTZGUVo2ZEVnaFZ3dS1BdkJlU254cHloUEZYcXFKVE9RNjJfeC1PZEpncTZDTjVueGJ3emlEVFk5Nmx5SEQ4VE9xU3R4My1JSkFaX3ZyYndXWVdyZmxPNzhMTzNnSmlYalA0MVhUNzRWU19ZSzRLR3pqU2s2X1hQbVhjMC1sOWVOVGJ2N2Nr?oc=5)
+• 🟢 [Undri, Mohammadwadi, NIBM Residents Renew ‘Sadak Aur Paani’ Demand Ahead of PMC Polls - Pune Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmlWYkxLTDR3Tl9VUEdCNmhzeXQ2eXhwRlNuaXk5eXRFQWxjbEtKS0c4VHc3NU42cVZoRGcwWmZ0OEFZS19rc29hOWk3X0h6UlVKSE02NDYxczFoU2VYc0xfcmlRclJ0N1g0dm5MNGg1bUNJLUhXQXYzTGpuQzVVUmFMUU96N1dqZ0h5aW1oaDlST280Z0E?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 University Circle handles 1.2 lakh vehicles/day.
