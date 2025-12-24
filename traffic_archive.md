@@ -1135,3 +1135,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚨 University Circle handles 1.2 lakh vehicles/day.
+
+### 2025-12-24 03:55:12
+🚦 Pune Traffic Updates • 24 Dec 2025 • 03:55 AM
+
+• 🟢 [Ganeshkhind Road crossing shows pedestrians’ safety not top priority - Times of India](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnlSTExNQ0F3cGVlckVZa2dVcXBxaDdTYUZ5RFRzRkFIRkFsbUNVNU9FYXozSldyNnV2QVk1WXllSTMzeHU4MVNqREM1clFSM3UtbndJeTNNRjk4RDVwcWV2UE00Y0dwYnlReDc3MTVsUWgwU085OGRlaXRfTlF5TlpHejdPM3pwdFR0M2Y0ZXJjUDczeEdoUkoyMXRLeThxUFBZSnRyZXZCVTY1NWIxOXkwTWQ4YW10eWJ4VGZpRFJqc2hqaXpqb1JoX0dfNnpTVnFnUVVn0gHbAUFVX3lxTE15QXF2S1RYX19TNTJHMXg0bEE5MnpPUndIakFHQ09YTDZ4V2UzQTV4WmVlNk1XaEVJalg1enFaREd2Q09HMXR6ai1zU3d3OEJIbGlCcGc0bWRFb0xpMlNiTk5GYkVJWmpRYkFZc1VPc2tzdTZ2c01GdXNDNXhPYURRZ3FWT3NXQ0dEM1FGS0h6UmEtTnhLODM0bHhQXzJVU1huQ01tZXdEajVRTDRaOXpRNURpdHNlRGs3OGtXUWFzb2REXzVXMEphVUVIdk5lQW14SlJQUTlicDNlSQ?oc=5)
+• 🔴 [Christmas celebrations prompt traffic diversions, road closures for two days in Pune Camp area - The Indian Express](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNamhueVMxT2JsV3dVY01VeXJrVHNrYWVNT3ZuRzh5WGJHMHRIbHY5VUJwNHUwYU1RLUdsYlB3MG1lRnE4Z0RBb0ljVWFFT2lFS3JmTUR1OF9yQVhHMzFYUWl5UUJEaEdZNWR0STctZmdsV2hHRGJNbHNOTGpfSi1Kcy1BYkoyVkdaMHBFTWF6QUR4NVRfSHpXRFZFSDZ2VzI1eU9teUp0Nk5oaVJaTVpFektQNTNocDFRY2RYN293RUQ5R2YwWm5jb1pKQ2FzeUVaZHBHZlJ1cER2UTJOQlplbjdsONIB6gFBVV95cUxQVjI3bUJsbHd4LXp1TzV6cng4ZHFnTVl0c3VnYmNOVTdIQXh4N0IzT0kwdV9GUkF1cFQxeGNaMHhVS1AyckVJd3pyOV9Icnc1eUZmU2lxYWRwZDNQREJTMXA2WXdHS3ZHSTBGeTk2R2V2NlFqdEZYVEcwVWw4NnJDNTEyaGczV1FMc0pySWF4ZTJuRkxFX2VBVkhhY0p0M3QxdUtaN3ZRMVQzMURtX3dlckhxTXZtSm44cE1ZWDBBdVEwa0Fza1UzY09xdVRuaEdzRFlqZk9lUE1xaTBYbVozZXFyZGpPalVzZmc?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Nal Stop flyover reduced Karve Road congestion.
