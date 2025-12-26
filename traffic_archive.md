@@ -1193,3 +1193,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Traffic is lowest on Sunday mornings.
+
+### 2025-12-26 03:55:21
+🚦 Pune Traffic Updates • 26 Dec 2025 • 03:55 AM
+
+• 🟡 [Massive traffic snarls bring Mumbai-Pune Expressway to a standstill during Christmas holidays - Mid-day](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeGM1WFlDM2QzUHBDUkU4R190XzBNUXpuQTBwRGloTktpekxHajNwU2swRU1RMFJpNVJTM0NPb1JWSXgzLWFrdTlfYmFNT194RHIwS3ZJcElVa05MT0RuWUlZcFdXRjdQVG1DNWVPc2pteEpURjQ2M1NYdDFGZllfcTByVUh5QTlUcjZ2V3JwRjUyenYybmVhMnNQM05GYzRWMGx6R1lfTU5KdG1DUGd3OWk5eVhLZHgwaHJTOHA1b1VBdmRWYkx1ekN5aHdhMmlfUjdfblZzNzZnTmJHQy1Fa2N6bkJOVzhY0gHuAUFVX3lxTE44N3E3dFVYREFWcm96RExjQUdlQy1nTUlxTDBRa1Q4b3hVMzV1SHMzNkFlMTZtTjFodzA3a2o1ZGlYVUktZm9TMzQzWDVJVDFUZmFHZ09Zb080V21RVnZKcUQwLWxYdTgwQ2JWLTNMWHF6c2tNMTk1UndST0paTkVLUnNoLVo5T3dXY2RyejZFbmtEd1luZWxnRWcwX1RGb2EzeUV1UDFiaHBmWmlUQkZXbUVqNG5OQlptUklvQXdHb2VadUtTMWw5Nm9OckpIczNqU0x0cjlvYndMRFp4Nkoxb0VWRGhfZ2ZQbGJrR2c?oc=5)
+• 🔴 [Festive rush triggers massive jam on Pune–Mumbai E-way - Hindustan Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEtKNkxHT3k5dU5KWHd4TnNsN3RYU3Zxd2lzVjFRRHo0eUx5czZRazM5bWZuNDRhVk5kQl9ZUjRVd1luN0k4TFJQR01ZUU1RNnQ2WHBIMERrMmhNX2pkdldHSnJFY3gzYzRtdF9zbkdnWFhQLThmbkZKdTlwVnhKWEZjN2hKOTNVbThuZEFaMktNZEFBX2w0Z2FacFltUmM2cU9UOFYxWC1DdEVfdXBrSkhrd1RjckxCd09LSEY0VQ?oc=5)
+• 🔴 [Pune Traffic: Christmas–New Year Travel Jam Hits Pune Exits and Major Highways Including Mumbai–Pune Expressway, Pune Nagar Road, Chakan Road and More - PUNE PULSE](https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmhCRmgxaDkyb0gzUFhRVlJQRjVsUGFWYmhmRnl5QjBxcDBxT0txRlZ2Y2MtTVNyR0RxQmxjbXdpMkxhM1Zxbmc3cEhQWW9pSjJ6MVdaWTNZNGJQcFZodEdCNVZ3NXJhQ0tUWkhDeV9SVnlGSU04ZUt1ZTJmMkRCd24zSEo5VDB0YzJkZHZMN25JTjcyTm9ZZE9oRUo3b2hZR2c2WFg0aFpBcFRFZUY0VWNXWm9IWnZfTmExSEtGaGhweUEzOVZrSjJaZks2dWZEWW9HNVJSVkc1cXJpNm1hdHBOU0V5cm9JTE5ILWQ4LXVYTWNKNVh6T2dlNWZmU2lsRDZ5eVBvRQ?oc=5)
+• 🟢 [Christmas–New Year Rush Brings Mumbai–Pune Expressway to a Crawl - Pune Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa21PZ0FCOHZTRDFNbUtWOEFfeEppVFhfeEh2cUR4WDRwcGZLRGJOblJ3Y0o5VXAtbnlHeUhWdDRXQWNBZnJ3UFVlVm9JMVpwQThBN2RBYUdnMWhYbW55UGhIRlFJcEJKYU12TC1sNEtReXExdUdRMzJ4RHQ4X3BmNkthcmlEMXdfaWFr?oc=5)
+• 🟢 [Mumbai Pune 2nd Expressway Approved: 90 Mins Travel, Rs 15,000 Crore Budget - Trak.in](https://news.google.com/rss/articles/CBMingFBVV95cUxPd0ZJdTY4U2VuYlJjWUIwalhLUWdmX2RsdEdwVkhtSGtTMUJoZTZzR3lmSXlNaWw4UzZaTk40Qjd0eEF1SzVYZlM3Z0RVbDNieWtvbm5OQjc4S0p4ek85cmhFdnlxZjZjc21XclRlLXE3ZnFCR2xKaEt2QXFIX1oxSjNhYVlyS1BGQzFmTHR5cXh0elltQVhXNDkwNk1YQQ?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚲 Pune is building protected cycling tracks.
