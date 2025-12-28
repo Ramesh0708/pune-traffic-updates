@@ -1250,3 +1250,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛵 Baner Road is among Pune’s top 10 busiest corridors.
+
+### 2025-12-28 04:04:54
+🚦 Pune Traffic Updates • 28 Dec 2025 • 04:04 AM
+
+• 🟢 [Dosa Craze Triggers Traffic Chaos Outside Rameshwaram Café in Viman Nagar - Pune Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE5LTGh5OVRvWEVvem5oVEExTkdnaHVMSHkwN1pHOUxNdzRudkRoY2N5TTE4aS1ELVdNOW5ZbmdJU3UwOVBuWWM4UUE2YUFzektvemNqZEhXbm1FU08zMmMxTEQtRzhfbEtyUFVkWk13TjRzVkdqd2Z6WVlIWQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Hinjewadi Phase 3 sees surge every Monday morning.
