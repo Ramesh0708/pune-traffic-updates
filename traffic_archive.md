@@ -1261,3 +1261,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Hinjewadi Phase 3 sees surge every Monday morning.
+
+### 2025-12-28 10:42:16
+🚦 Pune Traffic Updates • 28 Dec 2025 • 10:42 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune: Zero Tolerance for Drunk Driving as Police Set Up Five-Day Checkpoint Drive Before December 31 Parties - lokmattimes.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT0U1cTU4TWY1eHJaZFBFZGgtR19vZUNhSnA3U0YwZk9LSUlyaUNxQ2JiRlFvVWhuWU12Z2xXSlVFQkZnZTQ3NTQtYXNTYy1oZzN1S1d2Sm54bUw2MFN0c3FtNGtYSDlYcE9mSWZHaTNYeUc4Y0hWZGhPOTRkdXhGemZscmhYcmFoMFZnVHZGWE43ZDhNQXc3V1ZjQWpHOWtvVzBPQklIQ3FaWXJqRXJqeVVjZl9KZDVxLXBoUU9UV3ozcWtWUEpyMklTZHRwT3RFVEhtY2planNZdGRxc2hN0gHkAUFVX3lxTE9pVFEwRnlSRHFOZjdWU0xrckduNjgzaUdaSUxJb1l5ekFuT0o3MzNMOVBmVWJGYXdyeGY3OGNTNVFZN2MxNUVkX05Md0RqRXJ1X0FfY1RZZERlSG5VaUFadERmYWltNXdZeVRUX09lM2dpeDViZ0otaUFPUEZfLTJLVXZ2UEF4UFh5V0VsdUk2cnI5R0RLTlpFUWFfcEp0eFp1MzN3S1cxclQ3eW15Q1NzQ2Y0RW1FTkUxeFplUGRBeFE4LUcyVWpzVXhkUF9haFZCSXU2ZzJwQU50LVhTajhHX0l5OA?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Hinjewadi Phase 3 sees surge every Monday morning.
