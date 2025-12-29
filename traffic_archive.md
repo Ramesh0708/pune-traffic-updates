@@ -1287,3 +1287,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌧 Balewadi reports the highest monsoon waterlogging.
+
+### 2025-12-29 10:46:36
+🚦 Pune Traffic Updates • 29 Dec 2025 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Drunk Driving Crackdown in Pune: 242 Motorists Fined Over 4 Days - Punekar News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPeV9tLWNvbGJNUjFUZnBzSVJ1aFNyUEZaUnRUVUZsRHJmSE1EaVFqaXpqZ1hDa3YwNWdXcDVQRmtIUWFOaFJuR1B4Nm5LakNQUlhpUHNqak05dU1BQzBJMW1JakVqN01fVmpjZkFJUTBJMGdiTjNiWGk0UHE0blhrRzBaRXdINER0ZDA0VzNVaDh5SzJZdHc?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌧 Balewadi reports the highest monsoon waterlogging.
