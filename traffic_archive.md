@@ -1299,3 +1299,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌧 Balewadi reports the highest monsoon waterlogging.
+
+### 2025-12-30 03:58:51
+🚦 Pune Traffic Updates • 30 Dec 2025 • 03:58 AM
+
+• 🟡 [Pune airport sees minor flight delays due to fog | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ044UnQ0T3kwdURJVFRqaG82cm41R1JiY2xEUGVycDBjcFBaZGdrZkgyQ00xMlMyS2dTTUtUeFVMaXdLb1hSTFZQRDRVY0t5SHZBTDJfYUlEajBhS3pCdFp1bWxnTHVFM0pWNEtKVE5wZ0k0QnBZMG9wUUNOUG1UaV9PUC1nMTBMZEhKNnVsSFYtak9CWTJVbEJzU01pYV9PbnBMV1BqNHNNUEhtRmtKM1VEV1RYMnhK0gG-AUFVX3lxTE9yUXNnNXcxY1FhYjFpWVhtc2ZDbkc1amlTSGRGSF9NVzFTVW5rVHJNUWVZYmp0QkRJS2hUYVNPZXhPQXRTUmpGXzN3Z3ZEMDdTWmhYOEVVYXQzYjNZbFl6Zll5cUlHSE81Wks3T1o4MEE1UVg2dzJhYVZBZkNrbTUwTXFJOWhtYllwdzJrdTZ5WVlKQ3Jkc19wTGFBenN0WEhBS28tQTBDYW9IQzBRbk5CcllFbmVqZGtlYVRQQ2c?oc=5)
+• 🟢 [Pune traffic police book 242 motorists for drunk driving ahead of New Year celebrations | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRnFlaXJmVV9vZE11Vjl0T214cFJLcFNXcFdjU3hhWTF5a3A5eUxHN2w4ZGxHZUNLVXA0elNQTzVocjRmOE43ZUpFWFVFdVI1Q2k4WGhFQzhBRlVHbVdMQUoyb3pPZmdPSXBESXpGREZsa0diaXB4MTgtdlRaUnpSZnRzdWd2NTI1UzJQUHFZRy1PS2NqRDJZWEd2NzdRWWkwWnlKNzNrLVR3dmZQOWRjWkVGOWdQQ25mTVpBQVlSd0VkekJ4YjhQUnVnQVZVb2ZtTUZKQnZfTDFacTFCZUlmUTZPbWJreVpEMGhGeNIB8gFBVV95cUxQYm51a19HbmpkMUVfYVlYWWJjdG5YUEMtZEs5aVFiRFM3VTE1VzBkU0RkMThNWUd2MXN1ZVlQVmJZdGlPT0h6QlRDd3QtOWNZZEluRXViNkRyYmJNbGwtTk84ZGVXaUE5ZVJ1N1RpdGJBcG5QX1h3Qk4tekI2REFSSl9qWE5SRjZRQ3AwYklYNEo5NlU3UHluSGdlVUdpdHhCTVNtWVkwOEpmUTBlMkVvQkE4U3d1RlZRMWQ1bDZvQkRUd3FSdEVXS3lqOFdqdURQU29aZ0FueFN6R0RkbWxQLTBidlBiZkk3Sy12YnNxbFk1Zw?oc=5)
+• 🟢 [Average vehicle speeds on main roads in Pune rises by 10 percent: Police - The Indian Express](https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFAtRkIxOC1fdGFFY2dxeE8yNlFuTFRQOXgzMGQxb0I1SVBIUjl2d3pjS2tXWW40X2lITGI5X0VxQzByYk1laUxsSW1qUG9HRzB4a1hESnItbEFXQmJ6ZE50cHdrT1dPbTgwdnlDOWtOcHc4LVRpOUFyRllYQV92S050Q0M3Ymw1bE9WbndZTHlzQmk0WlZiZEppOWN1UV9FRktUUmNCREp6NGFTZ3U1WEUxLTZReGhNT2lNaG44N1FEajBvOGfSAcwBQVVfeXFMTWFaZFREVEVDR0ZEQ1dPWFlNVEV0M3hQZ1RITm8zY2hPX2gwbGxDQXNiQlNZSzRxbmVlU3N3b1FkaUZNaTAtN1VrVGxTQ1pWSzJ2WjJFWnRnWk5ZTkZ2cGdmcndOWi1sV3FTZjN5QTI0Z253X2NmVVRVcFA3NEl2d1AyZnNMMzZkdHFrdVNlTWJJekM2Vm1XclF2NEJDUDdadFpNUGpvdndFQVQxNFBjdDZzUEc4X1pTYWoxYjBQemNrMXdHN2pOLVRCOUNt?oc=5)
+• 🟢 [THE PUNE PIVOT: WHY STARTUPS ARE LEAVING BENGALURU’S CHAOS FOR PUNE! - Pune Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxPUk5vMk1feDB0MXpibFgyejJ5QlIydkxWcTJDNW95WFIwTWcwajgybDJFWTJRV1ZnSEk1NUdJWTBhRE1QVGJ2S3JLbDNLY3dsRERNNGw5MDNrNGU0NjRtMTBWN2RCdDNCTC1fSnVLLVNsenYtajdmTTRrUnBqN2lvNFF3?oc=5)
+• 🟢 [One-Way Traffic System in Viman Nagar Cuts Travel Time by Eight Minutes: Police - Pune Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGMzMTBVSVlPc2VzSHcxZVRfNmtuYmVmRTBpSVFTTTkzWUVTcFpTM0UtcVdlbTBheXFNTkI1UGFjNnJsak4yUXdnM01pbXk3T0VocHVHTTZ3Y2s3Vm9LU0RBU2V3NzNzeUEwaHhrVHFwQzZUZHVuRWtTTDg3RUFDYVJGak5QMjRMZ3ow?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Hadapsar flyover widening will reduce jams massively.
