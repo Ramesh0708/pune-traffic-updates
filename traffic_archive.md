@@ -1351,3 +1351,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Pune-Mumbai Expressway crowds spike on Friday evenings.
+
+### 2025-12-31 10:43:57
+🚦 Pune Traffic Updates • 31 Dec 2025 • 10:43 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune’s Next Game-Changer: University Road Flyover Rises To Untangle One Of The City’s Worst Traffic Knots - Times of India](https://news.google.com/rss/articles/CBMigwJBVV95cUxNeTN0LU9CN2FzdVZ0NVJNN2R2VE5Hc2RBTGlLRGVfWVpEQ3VKWGdWU1hLeXN2eHZCWjFUOWl5YjRNZmJsU2xuX2ZKMi12S3VyVnZ4SlBIWkhrVjVKYXVzRUNaVmwzR2RyS1Y2bTBYQXRxMDliOHkyWk9mM2tMOXkyemctMTN3elpCSTZfejhaQmhzdlRaUUJkY3dXTGhKVEJVUTRwUlJMM01KRnBQNXFhWTFVLWZzSklDVXpISEl2Yk5aNHlzZjBzdnNFM1lRYlc4Sy1haksyMnZaRk9mWVBmM0lXTFY4ZklVSnJHNnNOa2YyZHhMR2ZGOWRNb1ExdGxHYjdZ0gGLAkFVX3lxTE13NHp5aXNKbHUxUFFEcDh2MlZJRzN0Q0JuN3g3LVpNWVBKR3U0ZEtzaW9kTmJfTnhHWVZMOElWRGJOTHJ5dlFXWGdSd01IR3o2NzgyXzZ4eGJha044TUVOWE10d0pIOXNHZ0M1Vzc5VmUwbnlFbTA5RDlVRDBiZnJhUHZlNEZUby1VbGd6MEdWcXp1UFE5ckZ5ZzJ5WldYcXhpdUNBNHBMd250UkJnRmppcEtQcTZFYzVjMkJYRldaZ01FWDd6UFFxU0J0NWhXbmVFZHctcVJhakRUNmg4OWYwM1RLbV9rVHhxQjZwQmFYanVJMjdHT3FBclJtQkZtSEl3UUhaQ1h5M3phZw?oc=5)
+• 🟢 [Where wrong is ‘right’ - Pune Mirror](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwZlU5aGM2TzE0LXV5X2ZmUmMtZ2swUU4tb3B6M1oyeEJaOGh0TUJJWTRmcXRGcWJPMG9sa2NRR044VkZMM0NLVUlRRmlESmlsYjRJWGJOU0xYZDVDbXc?oc=5)
+• 🔴 [Bhima Koregaon Anniversary: Traffic Curbs Announced on Pune–Ahilyanagar Highway, Heavy Vehicles Diverted - Pune Mirror](https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2Vyak5zY1dQSUkxdWtEUDBBdTByS0VWaXBBcUpMMEZrZU45QzZnSUVCOUVoRUQxQVNoME1IcEozd3RPV1FkZmRMZl9yQ2dYemxiaWZzTnIyejNhVC13QWxmR09YeFp2Y2ZGNFhTYnZlZkZIM25kRzFyUzl6azFjcFJHR3BWMGVXUkZ3ODgtRGFWM1ktSW91SA?oc=5)
+• 🔴 [Pune Traffic Alert: Road Closures and Diversions for New Year Eve 2025 - Punekar News](https://news.google.com/rss/articles/CBMingFBVV95cUxQRjAyaU81WlFHN2ZfckJieUxlU0VCSnVVNDNkM2pIUDZsZ01TaUczbVNzSDNCLVZ4RHEweXA2aEFvVGlCSDcxXzhKZHk0UkRtS2dFcTVsbk5UdER0Q0JMMVJmUnF2dWFJZXk4c3NtbVFBcFFENFR2bVBsMUNBQXJyQmNZOUxCZ0JmdzZMSTQ0T2dBN1dSSl9BX1k1R0FPdw?oc=5)
+• 🟢 [Bhima Koregaon Battle Anniversary On January 1: Traffic Changes Announced On Pune-Ahilyanagar Highway, PMPML - Free Press Journal](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPS0pxS0YweUF1MF9VeTJkXzlZZFFpUmJBQ2FVcnZSNkpyZlhPeko2cnJ0aXk4LUNub0o1aVpiYVp3a2RKWjVjVmpjY2MyYkhacFpMdGxVQXY0R1lnRzhIdmc3bi1fdkwwRHRQS0dBaUViM0U4VVZ6Zy1kc1NvZU5OV0hMckRlX2xTQ2lqZDNrc3NYdmVucVRpT24yanhoeDhGYzdrTkgwQ0pYZzktYXRfMF9EOEFGOFJPdkRDbldKamxkMXVYN2ZaWXRMNXg5ODd6ejlNUDNXM3BIa0hlTkNKMFhZeEJ6V2tIbTlXUGlRT19yVFNzX1o2TWZsWjDSAYICQVVfeXFMUFBBeDlsQjdEVzMtT2FuVHNRR2Rya2pOa0tET3c4eG5KRGhmZDRnTlhNeG9UTUdOZjNPUGZHcElfZjV5S1dzb2JJNkNlek13dFlJdnhJRFFCSVhLVWY2cjNPU01UWFV2Q3MtbHdlSTg1X1QwbXJXZTJwZjcyQmpxa0o2Q1JpTFh3eFd2STVONFRNSFVLWGlJQzJWRUJmUkllX000Nmd0c0J2UDR3elB6cVhpTklnQ2Q0Ql94S3RlRWE2eFNXNDQ4QXhkTThhRVdnanJpbk50UGFCcWE2NnloRXBGQWVacHp0Q3pHYUdkb0xXR2JTNWV4VUxEQVlZMVhpNE13?oc=5)
+
+...and 7 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Pune-Mumbai Expressway crowds spike on Friday evenings.
