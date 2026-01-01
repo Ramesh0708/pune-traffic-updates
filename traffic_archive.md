@@ -1369,3 +1369,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Pune-Mumbai Expressway crowds spike on Friday evenings.
+
+### 2026-01-01 04:07:26
+🚦 Pune Traffic Updates • 01 Jan 2026 • 04:07 AM
+
+• 🟢 [Criminals on police records beat up traffic police constable at Dhayari Phata - Times of India](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVFN1dUNIWEdXOGloVkJKMTlZYnd1X0lmQVo3b0VzOG0xVmlRTFhNOHBJX3lzTEpEUUdweVlTenc3R2VkTGRWalRYWnUtVGI5VVZpOWk3ZVliWEZXZTM1TDNjMkRPYWloWTF0UFRmcnBuSDlaWml6d29RZzlZZTR6Q2hYTFVkZWI3NFBBNzNwQndQV096a2ZhX0R2aTdnamxyNG1UUEFuLVIwN0lYVlZ6eFdXbFU2ZGtiaG9OUkl0Szl4RmpHZTJsREpOTzF0UWI0Ylk0b0R6RVg1VTM1UXBhQlpVZ9IB6AFBVV95cUxQNEtsRXVLWlo1ZFFmaGFnTzdDQlB1UThNRnNzaEk4TUxpTzFoTG9VcjJtaC1Ib1J1a3I2V0FiSlNpWjBuTWJaTXU0Zk9JeEVQV1p3RWpjUHJGVUFTNUFTWHNYYzhic3VreGpaNFNIdWpQRDVzcTFwNGwtSk1ibEw0aVZERGpic19vbk5IdGJSQ1UwTjVxcmYxUFk1SE9IaFlQMi1Ma3RaMHlVSmNIRmFpUzVuZE9ITlB3SDF1ZGJIbFM3ZlhPVVh4TDBKNk9nbHExTjVmMmswWjF2ZFhKT0xlZndNUEVCSzla?oc=5)
+• 🟢 [Curbs on key tourist routes to ease traffic movement - Times of India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjRwbkc1TTBZY3A2TC1JZlphTGpaRGdlTjJHRVVkUWVUMktWUktlU1pMZG1wSGRzUGlDS3JudU96RnJVMzlYVUNIOXJ4VXYyQV9FQTFjYVpFSE9mS25hX1Vhb2MyUkt1andEdmU3YVRvTHdpVmdJVzNnRUpxazBHUHNiVWhCU0hobFdxRTN1QTRkOU5NdDVoYjlFSjNhQ1VDLWRBY1NqMzA4WjV0RnBqZEcxX3FPbXN1LWNYREJaWElaQdIBxwFBVV95cUxNUWhkOHFhejRRcU44YlBQejliX2pzX3hhY0pveDM3Y3MzTlNrS3B5b05pYmhFc3Z3UDVFa2lmeTVtdV9VdS1oSFFjcFVET1BwTS1td01PMnNybFk1YXVVOXJITy03blYzekFOZ19jWjZFU3N5WEMzVHdLV0hhdWxIUnJuRHczN2VaQlhnR2NmM2ljZFQ0VzZFYnIwS0VOQ3ZnQ3RRLTgtNGRnczlrM3pITmYwUWVyV2FDbllIWnk0MXZrSzdCb0E0?oc=5)
+• 🟢 [PMPML Takes Action: No More Drunk or Distracted Driving! - Pune Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2VCMEY0aVlDR1BfR0lKMWpwZGwyNDhVdUJ2a3AwOTJpMUIyRVp5UEZBZWhBTDl5OVpZZHpNZ3ZfVjdUMWcwLWs1Vmhsb01hMXk0QkR5c1lmNGRfRXpQWjVTVjFzMmZTd3hxVUlGVF9TQ25SeGRUQkJGZnlxa1d5N2N5c19Sdw?oc=5)
+• 🟢 [Pune Police Publish Final List of Depositors in D S Kulkarni Fraud Case - Punekar News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTNvbm5JTkoyX19rTk1zR1VMcmpYOGNnVXcwNE9ZdWZld2lPVlAtdHVfdFFNX2RhSVJ2YUxBU1ZjMlBMY28yOGFCcGdmdjRTaVh3VFJ2ZTF1Y0JSSzBWNkhkR0RFQXJob1B5eXJxVFYyWjRpLW13Y1hwemdVa3dnVWJCUXRBMnpJdnJrZldLQzlFaFluNXlpWlVxaUUxOGpK?oc=5)
+• 🔴 [Pune Traffic Update for New Year’s Eve: Police Issue Advisory for Diversions, Alternate Routes, and R... - lokmattimes.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeURBWGJsTFpJazVxMFVLRVJ2cUhpWGxCN2lzVU1RcUNjMjVqTVZ1eWVjcEUxWDI5aHRhTmM1WXZnLWRDR3FpQU0weVFyR0QtTHRod2Z6ZmwybFBFRXN5VG0yWm5EaTdWRTNBYzdocS0tOEsybG8yMkZwVmtwc2hUMFhrSGlVbUVTcXp3Nl8yNnZuRGVUcFMzRElwSHUzRlNfMklVOHU0UmZwcEViMk9GU3FLZjF3a3J2ZVF2Yzd4M0pLUTVLVEp5d2hWb3VYZVpQczZVMGlsOEFrVFJ5ZlRyadIB5gFBVV95cUxQanNfZGJ4LUktSVVGZG5YYVpTMWEyTXlKaENON0RUOU9JRGdibGVZZEtFS0EtRGdIcE9mWFFUNXM5UzItY0pZZG54c3lRYUVVWUd2SFAxaS1nSG0zSklRbnROeWRod25GQzRoUFpvUFVtMUZPV0FvajE3NlRoV1UxWldGOTdjbWJ1Sm9FV19GcTZyMFFLWFJCbDg4ZXd5NVNveWhHUEtlck1ucGdCWFRlcHRmR2Y5RW5CdnNoaVcyaXRzR2R5Yzc0elFlc0E2UDY2UUlFTzdibTBpcDBnbTU1bXBudHgwUQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚴 Pune was once known as the 'Bicycle City of India'.
