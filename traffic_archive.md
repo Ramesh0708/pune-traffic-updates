@@ -1425,3 +1425,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Pune introduced India’s first smart traffic signal system.
+
+### 2026-01-03 03:53:18
+🚦 Pune Traffic Updates • 03 Jan 2026 • 03:53 AM
+
+• 🟢 [448 people booked for drunk driving during New Year celebrations in Pune, Pimpri-Chinchwad - The Indian Express](https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjVyQjNkdmxEOFJTWjAwMkl2ZExfOVdNRFRnWTNQYXBsZXV1TlF0WDZiWlV4eUZjdG8yWF9OTVdRcWZkRldwaEtLR1NyZHE0czA2R2lJSy1kTzUtN0NNN2hWNmEwdmJWU2thQ2lmaXE5U1Q5bFRtd1JhQnVuUVlnWjB2S1V6MXVmQzhVMkI2VVFDdTFOTnA5dnhSdDh0UmpTMGpTbFc1cEZsVjJxTllmWXpITdIBugFBVV95cUxNYXAxUTk3WXA0Y3hOMHBlbjFMTzlLdkZkb0dCUjFHN25WNzliUVMyVFA1NnZxM3dmbjJwVXdqZ0lSaklmbVRycTgtRzVWSVhQek93STlSSUpKWUphdFBVYU9jRU5XM3I4cWFpQ0k0MTFDZFBiZXVJV2tyTWRoamxVU1JYOGZHNnFOamprTXQ0dTEtbGsyTVl1R0Nrbk5wQ29lejA4N1NZYjZsWDVYWTFrOTRVU3ZsbXk4Qmc?oc=5)
+• 🟢 [6,700+ Drunk Driving Cases in Pune in 2025, New Year’s Eve Sees Fresh Spike - Pune Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmFNOTZ1aXJqYl9jcjRxaFc5UFdIMFY4TktfXzFwT2NQUl9jVlVJazdPbS1vUFl2eVR2LXZqdU41TGhMY3RyX0lVbFVyNW1VMkQ1QTBlUFFaQ1U3ZEFkNVNOenNHWXFzOWRzd2s3T0xYRU5KN1BUc2RMdktBZ3JybzBSeWM?oc=5)
+• 🟢 [Pune Traffic Police Book 208 Drunk Drivers During New Year Celebrations - Punekar News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFFnX0JILVZ2MU1jdUFlRnRXei16OWlpZDFSLU9xNkgwNEdqeWFPNFcyMHV5N3ZaYUxnZ1dZcDVmQjd4QWJRa0pGNk1aZUpjeFR6N2ZvS09jeTc2ODVkSTFfSnBwUmJucW0tVUZLMDI3RnlqMFhEaGl1OHNaNUIxLUQtN1ZqNkUyc2pqUjRsSVoxMnY2LTBpZk5sSzJhdmM5?oc=5)
+• 🟢 [The Pune Road Paradox: Who is the Real Boss of the Asphalt? - Pune Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRlRMZGVxd0w0LWJhWFg3Y0RnWHl1NTZKZW5JOFVRMHBvdGNZbzZiQk1rRVFpaUkzdE01akNlTjlSUzlINks0a19PTkxIMnhINHV0dVZxdEJJQWNDTzYwalhZLTVxeWtReElSMUpHaG9GcFQ5WjVacERyYmhWYk9oWEZn?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Baner Road sees peak congestion between 8:45–9:30 AM.
