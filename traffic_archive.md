@@ -1439,3 +1439,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Baner Road sees peak congestion between 8:45–9:30 AM.
+
+### 2026-01-03 10:42:31
+🚦 Pune Traffic Updates • 03 Jan 2026 • 10:42 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [New Year Crackdown: 208 Drivers Booked in Pune For Drink and Drive - The Bridge Chronicle](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUGczdU5xX1N0OUQ4b2MtT0VlcjR4ZzQzcGdGZWR3YWFhSHBSaGQ1YWExVjJ5d05lZktXSkJlcWtGVTlVM1VzdWZBRnBSeVk5Nmp5R2tIa2NYYU92T05pQVQzcEt2YTUtZHlRNFJFMk9yMTdhTjh4ZHV5a1RUa2JBLTBNX0hfaVBmUEVTeExVRWFFT0R6clIwT1VJMXXSAaoBQVVfeXFMTVN2aDZKWmNKc2dsZ0IwT1ZVNW0zU3JNUEw1aDRpd0tGMVp3dVNBdGxVOTFhVWw4dklrSU1CQ05teEVDQmRVT0lzZGFEUnFQSlRrdkJuc1ZnQk4wODFQbE9LYUtScmptVXNuSDFvTEtYZ2w2cnpQeldvc3hiTlpRUm85djlfdXpWTVZsYjFYNFA4T2RrR0hkZTFOZ2hjdWFMZ0dZMElyTHFoUXc?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Baner Road sees peak congestion between 8:45–9:30 AM.
