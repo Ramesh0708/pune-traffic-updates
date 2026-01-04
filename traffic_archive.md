@@ -1463,3 +1463,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Hinjewadi IT Park witnesses over 3 lakh commuter movements daily.
+
+### 2026-01-04 10:41:54
+🚦 Pune Traffic Updates • 04 Jan 2026 • 10:41 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [​Relief for Pune commuters: Double-decker flyover at SPPU Chowk nears completion; Metro Line-3 trial begins - Times of India](https://news.google.com/rss/articles/CBMihgJBVV95cUxQUGlRMjB2SHZscGgtZ2J2a29wdHQ3bmlHaUU4MFZoT2ZRR0lfTlN2UGNiMXlCNmd0NXlNTktfbmVIekVMTWRKdkI1djVfdTN4VUp0T1o1YklEN0F6OWp5TjZYVFI0V3lLa1dhRGplTGIzMEp5YTlaTUM0SUo3dk96cGpvN2F5Nkk0bmpIMmYwbmtTcDRENzJWRmI5QkFZbHktc29VcEk3UGtjdGVUdnVvdjhSb1hwQUFzaEtkMHFqb1RySVRaREc3NXQzTWR2eUJORWlCZmh4T29wTmVPTFM0MF9qa1ZfWjdILXk4eGpjNDVBVVViMUc5cGJONEpzcXc5dDNDYnV30gGOAkFVX3lxTFAwdHZVNnozblBYUVM0WV9YN2tIMmdMLW0tYmtsU1NFTXA1Z2xCTDI0UjlEamVqSl9TVmhiVlFRRmJqYzlCbUhBaTh4VnFTSjNzWHM4MDA5NkJsb3FfZ3pzMHY1RXJybGV0aC1mZ2lITkJ5RnRnZjVjUDZuTThuVHBQSUtPU3dBTV9LRFlfNXpDWjlHb2JKd2RpOVFnaUtSMTI2MFFVcnVOdVVaWFBnZ3V5VjhVX2N4c2c5TGhicFJGNjFkMjBEaFdsWDNrLTNMUjZ0Rm4zck1QTUJSOVpfb0JTZkJuTVBTcHJ4NVFVZDNuakNQT1R3UU1rQnlxNGpZVXFvYndhcDhTdkprUWNBQQ?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Hinjewadi IT Park witnesses over 3 lakh commuter movements daily.
