@@ -1504,3 +1504,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚆 Pune Metro Phase 1 will reduce heavy corridor congestion.
+
+### 2026-01-06 03:59:55
+🚦 Pune Traffic Updates • 06 Jan 2026 • 03:59 AM
+
+• 🟢 [Pune Traffic Police Crack Down on Drunk Driving, Triple-Seat Violations; 121 Bikes Seized - lokmattimes.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWM2MWNZdWppTGZmRkxhRUY2ZjVtejlVR01JdUVZTmV0RFdBeFlYYU1SUHdsMzN3OXcxWjFISUxKOXdtRTAtVmVWXzAycE1IMnFsa3VWMUxBUEI4WGsyYm1FbzdUYjRfRzJZNXk0N2pDNVl2cy1CeC1NQU1vVXVXcm9DcWRqS19zZTdZbVJPT2lFYmJhbzJ2ejBxWFJhVnFIT0dJdE9POHpaNmgwaVN0emZXcmxwNjJLb3VSeFpraFpmUzhm0gHKAUFVX3lxTE82RjBTaXRJT0x0T3Mtc3pCRENabnFKcEN5R2VkT0ZlNFBKWkhRY3VYNFYzSFZIZzVxVm93aTVMZlYwNFVEVXBnQV9TUlhyZ1pZV0lfbWk0UGZteEx4QlhhU1JhMS1jczQ1RVpZN2pZUGNuS2JPUFRyTHUyRXNUQmw1WndfSnRaaEhmN1RKc3pCU1hTNTQ2Q21QdmhfdFVmNS1lVTZ5RVMxOW9wanNjOEoxa25BYTBReTA2YlRPUEloaVdrWXN0MC0zSUE?oc=5)
+• 🟢 [Pune Commuters to Get Relief as SPPU Double-Decker Flyover Nears Opening, Metro Line-3 Clears Safety Checks - Pune Mirror](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTTJsWUVQS3d6ZnZaZldGaG5VN0w5VFFKYWY2dWFTWU5OUWhJU3FGLUdfbnc4R2hOcDh4RVNkQnNGVGhtNkR4aUpXcndhUDVqREpPWUhsTWppQko3SzlibTdmNjE0SHEweVFhZzJrTWNjcTJLeU9HbVptZHJUa1NucV9hOUJaMnVFbEEyakFCeFNpUnBibHFwaQ?oc=5)
+• 🟡 [Mumbai–Pune Corridor Set for Congestion Relief as Twin Projects Promise Faster Travel - Oneindia](https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWxZcUZ0a3JuVnZDcXVzWXZBVFkybjBVTktxMFJYanVaTThYT0NPbVJ1NUZvTkpYMHp2bFRZOVA2YWRWNHU0STFDWmNmUmI2Zllrb09qaHVWdnpUc3JZd0E1ZG13MHM0QTdzc1RLYjNfVmxBUFZWYldpeVF5ZDVDWUUwemdxMUNXSkZ0OVpkb2prWWpHaVN4NmVlc1MzM20wZDZYMzdmZW9STlZ2NGljVEhMV0E0Ump1SUJ3WDI3UUFsSVpqZXJVdVJn?oc=5)
+• 🟢 [‘Deliver or be rejected’ - Pune Mirror](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LS0FSYjQwS2JxTDFjYUNwb25RUWJCS1RvdHc5ano3NzRPZW9yaVFQUUJZRi03d3lNajZtdGNCUU0wWWpITG11SmFDRjBsc05HODNtZG50SVB6OUhGR3hqQQ?oc=5)
+• 🟢 [PMRDA Confirms Final Phase Of University Chowk Flyover Construction In Pune - timesproperty](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZVJjTVZ0VzlEakVBZkc0V0duRHNJYUZUSm15YXZQTjNWa2w2QWZkOTc2enRtVm12dW81LXp1VU15N2w3Tnp0azB4bEpoaVczdE9ZVkRLWHlpaEp6ejdyQXZaZW83aGl0VC1ROXZPMTNMcXM0Tk9HYUlQNXhqdVBORVdZODlRMWNvelRiOWg1MmdSZDFkWmI5MWJzNFJwdXlRS0FHb0xEUmpkUzhlN2VQaDR5aURLODdI?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
