@@ -1519,3 +1519,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
+
+### 2026-01-06 10:47:17
+🚦 Pune Traffic Updates • 06 Jan 2026 • 10:47 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Mumbai–Pune Expressway Missing Link to Cut Travel Time by 30 Minutes: Fadnavis - Pune Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVZxanZRbnVrcUxiWWpkdzJtSFJhQm91UkFzVW42M3JOamtLY2V4OFJiZm90M2ZTZXVIVXBWeTBpVEtiNkZ5X2kzM3hyZW1BaTRyeTVxOWtMd1hFOGY3ckxmSXNGTVRmd2tpS2VNOExxNEtxQi1ieGkwNGp4Y0ZUR3RCc2FsbTRUbjJKRjN5NDczRDQ?oc=5)
+• 🟢 [Residents flag 26 key issues - Pune Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUhpcUcyQldGekZ5ZWljREo4ZzF3eGJWVDVyUV9EdTVwUkNLaXZUajgyOUpTYVhJYWdabDM0bHFlLW1uYkFYRUF5c0lfeExTMWpBY1FBU1lXcmlENlN4TmZUQVVtTkNGZjVFby1pMTJiamRoekxTNlNhUjRLUFFhX0lR?oc=5)
+• 🟢 [‘Traffic woes a concern’ - Pune Mirror](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Cd0RyWWZWQll6eEdscWdCazFhMUduT2lhWUhjczZkQ2NmTzEtVjItS2hHVFduRGc3bVhRYlloQzZ1dmVoWVh2TnhmMlZQRDh5SjRLNjh1TExEVzhnWlZXag?oc=5)
+• 🟢 [Pune: IAF Airman Booked for Attacking Traffic Cop, Damaging Breathalyser During Drunk-Driving Check in Pune - Punekar News](https://news.google.com/rss/articles/CBMizgFBVV95cUxPanA1NGg0cVJFTklUMkJya3hreGxxWHZUY3gxUUV4ZG1pR2F1b2dEZ3pMUWVMWDhMdmhGVnlPc0pnNlhJVndKMTQtSDNwMWVaZ1JTejlwWnRoNmdRYXhXTVFHLTg1OTBaaHc5ZXcxNVMtSk1tYXlPU19aTWF3MUtJTklQSXdmZ1VaektlNnROU1VkaEtDTy1uMV9vdGtzbWZwM3dDeWxqQmNWUmpYWUtCZ0hTT0l0ZUdvdHBQZ1pYcHZUVTJURDlhRE96OUQwUQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
