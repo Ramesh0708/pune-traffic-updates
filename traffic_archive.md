@@ -1563,3 +1563,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏍 Pune’s two-wheeler density is among the highest in India.
+
+### 2026-01-08 03:59:57
+🚦 Pune Traffic Updates • 08 Jan 2026 • 03:59 AM
+
+• 🟢 [With no towing vehicles, city traffic cops struggle to act against illegal parking | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQanpUMnVEOVNlc3Q4OURxSU5NbjBxYlJqcE5ySF95cm5nWHh5eGttbFA3eGU3cEc1U1hUMEN6YU9fbk11Tk45TWkyRkhObzNHMDdSLTF4Z21RbXdHZjNWSnBzVDNlY18tSllMSEZ5dFVjZ19JS3VOakxEa0NReVpRemhGVmtnUHhlMGx2TktQdmo4NjF3Z1FNZURMV09jSHJDYzZ6YUpyUzF1WHJ1VVBJVHU3X1FLOERNampuSnNQLTNkdjdNcHA1UDcwaFYtdzRiTWtGSUZBYk5sMmFYSXF4b01UcDdwOGt6VlHSAeoBQVVfeXFMUGp6VDJ1RDlTZXN0ODlEcUlOTW4wcWJSanBOckhfeXJuZ1h4eXhrbWxQN3hlN3BHNVNYVDBDemFPX25NdU5OOU1pMkZITm8zRzA3Ui0xeGdtUW13R2YzVkpwc1QzZWNfLUpZTEhGeXRVY2dfSUt1TmpMRGtDUXlaUXpoRlZrZ1B4ZTBsdk5LUHZqODYxd2dRTWVETFdPY0hyQ2M2emFKclMxdVhydVVQSVR1N19RSzhETWpqbkpzUC0zZHY3TXBwNVA3MGhWLXc0Yk1rRklGQWJObDJhWElxeG9NVHA3cDhrelZR?oc=5)
+• 🟢 [Pune’s Shivajinagar–Baner and Pashan Flyovers Near Completion; Major Traffic Relief Expected - Punekar News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNYTBNZDZFc0JqZ0V4Z1dXTmpjYTNFZ0k1YjZVcU4wRE5Eb0tuYzhBNHh3dEVCUnhSZ2hYTzRhZUlEQVM4M3I4aGN6SHozOWNrdFRJTDVCNGlGOC0tMWtLckhwM2tZTmM3YmZNSDBycDl0MWFhNnVCOXQyTEVwamc1WTNfSmF5Sk5VRF90RzkxMmNFeUEzcTJmbW80RE1wOVlYTFdqbFgyX1RFQlEyM0ZoamptVXpMWExCR3c?oc=5)
+• 🟡 [Railways write to traffic police about congestion outside Pune railway station - MSN](https://news.google.com/rss/articles/CBMixgFBVV95cUxPTVJhWFl6SERQME5NbzlpeVRQX3RtQ0FySVFfLVdWRnB2YkJQNGxTRzNzUE8wRWRjUnVpaFRJS0ZLU0FmMUI3WjZVU0gwaW45UDlGM2N3RzdTVFNldjZIZW1POEx1RURScU5QTGFIUFl0eEhKazJOS1BhVGQ1bTMweGVYeDc0dmJZVHpBUGhVQVdpSWJfSWRCMVp0eTVWYVloaU5mRmxZQ2luY1EyU0RIZmJMQUFRMk1vd2gtYno5RFVlUE1Kb2c?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
