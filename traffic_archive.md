@@ -1576,3 +1576,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
+
+### 2026-01-08 10:47:51
+🚦 Pune Traffic Updates • 08 Jan 2026 • 10:47 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [PMRDA Readies Report for Yerawada–Katraj Underground Tunnel Project - timesproperty](https://news.google.com/rss/articles/CBMipAFBVV95cUxPdjVUVzdWQXFKUFJiMGtvT2V3ZDNHZ1NpX182b0FDZDZyY1dYTmRtTnlFWXQ5bmRuVk9oMk85VjJURlV1bzFTUXZEZGlZeDVEdG9iWnh4UkJLTUNyRHVDZkk2VzNnbkhuYzdJWDlkSEh2LUxhaDZJcWw2RjNDWmU3eTBKVjhGVEN5ZEFybGszNzFDVnFPaU1Md25rN09Ma01tdXBERQ?oc=5)
+• 🔴 [Pune: Bopdev Ghat to Remain Closed for 7 Days, Traffic Advisory Issued, Alternate Routes Suggested - PUNE PULSE](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa0dlOTJOR1NuQ3JsdDNRLTl1NEVvM0VMZUFQSk4xMDRuNDdYeUhoT0tmUWw3aVk5cVlwYUpsdDRNbUVQSGZCZWRyTjYxMHFULXpudjMzbjVVZllrNUNPSFRRb09hcTZNeHRxUlZ3ZDUtbVFIU2UwTmdfWE1lU0lEeG1sWTBTUENRajI3MXE2RzlITkJzVWYwdmxvTVJDNGhjVDNJTE1mOHJNci1zd25YbXdiekY1bThmc1dMWFF3b3FQQQ?oc=5)
+• 🔴 [Pune: Bopdev Ghat Road Closed for Traffic Till January 14 - The Bridge Chronicle](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDdXQkdXSUZmQ2UzWVFBNUZ5emlKNW9JRzdWdEh5VUl1akdZNUtxNzI3UXJleUpLNkZqYlRzT3V4T19XYXV5OWxoZVoxRktjaG1Ec2hYUzVObndhcHRYcTFndzl4Y0ZpbmhHY1R6SjVia1BBSVZWUWlsWk04MjdCSUUwYkpnMWxTYlpIWkIzN3U5bjkz0gGiAUFVX3lxTE01WWJRM1c2d3V3b09EcGxNVzEyWGw3a2lCX010SEZLQXUwU0gtR01rRTNiWWxnYVExcjNhRWstZW1jYUpxVW9GR0VWOGw1R2FaYldwUFFCOGtuN3E4YTBPOEpRY0lxa0xjdTRHbW41X0pMYXhTdk9JamtkSURQUFdJdjlpai1WQW41enh6dXpUaVRveDBuMWpINjNxRXdST21IUQ?oc=5)
+• 🟢 [With no towing vehicles, city traffic cops struggle to act against illegal parking | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUFBKMEQ4elVmOTY5SWc2VFFHRkQ4NEM3WjFWQmJmR1NMbHZwb1JuZzhJQy1tLU5FM3U2Y1NncmF4UUVnNXA1YlpIQm5WcnlQajRhMTZGLUZidW9ySDBSdWZnalFUcW5jVXFsNjhhZ1dSN3ZIc2t5eGhZRS00UVgyU1hvR25TMTBIaU5xcDRXVDhfM21xMjRuVmhNamJzeF9jU0JybzYyV0tNWENkN1FOa3BVZU5TcXBjTFF5RWVGZ2MxUUt5eVJEcDQ0THpfWFpZZGs3VjRsWm9KcS1QQXpqZ0JLejnSAeoBQVVfeXFMUGp6VDJ1RDlTZXN0ODlEcUlOTW4wcWJSanBOckhfeXJuZ1h4eXhrbWxQN3hlN3BHNVNYVDBDemFPX25NdU5OOU1pMkZITm8zRzA3Ui0xeGdtUW13R2YzVkpwc1QzZWNfLUpZTEhGeXRVY2dfSUt1TmpMRGtDUXlaUXpoRlZrZ1B4ZTBsdk5LUHZqODYxd2dRTWVETFdPY0hyQ2M2emFKclMxdVhydVVQSVR1N19RSzhETWpqbkpzUC0zZHY3TXBwNVA3MGhWLXc0Yk1rRklGQWJObDJhWElxeG9NVHA3cDhrelZR?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
