@@ -1608,3 +1608,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚨 Drones help Pune Police monitor festival crowds.
+
+### 2026-01-09 10:46:43
+🚦 Pune Traffic Updates • 09 Jan 2026 • 10:46 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Polls and issues: Gridlocked Pune and why flyovers are not the answer - The Indian Express](https://news.google.com/rss/articles/CBMingFBVV95cUxQYlc5YjFQRm50bV84LUZ3SnhjbzFhYjFTcVRrT1VnTUhrRDdVZjNXUFJ6Z01uZjJ6Ti1BSmhKMC1DZVZFeVBvcUNVQ3REMzM0WTlwVXNCLWJjbDA5MTJzbkUxeUY1dlhZVTlLRzh5aHpHanVObE1DWGRkRGdkZ0xJUmxwTy1CMkxnaVNhaEMydTRYbl9MLTBYYXhmVWJ2d9IBpAFBVV95cUxOQWxaajNHbjNYNW1yZHlwa3JsaG5VYTNETjc2c3YzUjVTYVZtLW5DZ0dZSjdjZ1dWQ0hUTWJuNmRsempJN1N5NGljOE5PaGdmM2QzcDhjaVVEajV6aHZabFN4MHFGdDQ4dVpHYjMwN3JCRUdheGhwZk9TVV9ZcFVtaTkwbzBIYnU3X1NSNzVrR2NlSVcxb0xBV0RXaG9nZG1SZDg1aA?oc=5)
+• 🟢 [Good Roads Make Life Easier: Usha Kalmkar’s Stand on Urban Development - Pune Mirror](https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1ZoZ0RvRThnbWNIcFpsNWJUekw2c0pPNnZBdEtrLUFVX1BCazNEd0xlVlVBaXdlMmlSUWpjSUpZQzFGenpaSjZkNDVRckE0UGN2MUJURHJSeTQ1akF2SkpLNnl3bGdHSldVOERjcmdtNmRmb2Y4N2J2cHVkaWY3MFM0clh1RDZRQVBlQ0xKZ0hpbmkxak5FLW81bUI5QmZlbFFVeg?oc=5)
+• 🟡 [“Low-Cost Traffic Management has Reduced Pune's Traffic Congestion by Half,” says Manoj Patil - The Bridge Chronicle](https://news.google.com/rss/articles/CBMingFBVV95cUxPU2N2c3drZUVnNjdBdm9JTDBMUWVzaE5mQ1dYVjZxWGp1SEN3cEVfaEw3R1BWbmFUSXlNb1Qxc0lTbVJYMmJ5NmFNbjFlcWRYZk82Y1ZZYVg3aHVKZEYwS2tjNFMyRTJTcXZCWXJSQmIydkNNcHlSM2E2aGhTblEtQnM4d1BvRFVzT1lNREF6anVlUkxyR29aOWRUZTVBUdIBqwFBVV95cUxPdlgxU3lMaG90UFZUZDdmU2daem1qWmdYNVY2NUd5dElyNDF0TGFXWHVjSjU1RG1kY3NxUlFaNWN0akppMDlzdjdHSE5uNHhYY0pqZGp5WmZkQnlkOUg2M0dUdnFxQVVhR2wyUmFKQXo3dDhkX0g1LVJKTTlaOTFSY0NFR2dxQjlBRzZoSklIZGVQaDMzUUdzVFJfMFJHMHRLTV8xNnJCTFFmNXM?oc=5)
+• 🟢 [Meet Pune’s ‘traffic warriors’, honoured for reporting maximum violations | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi2wFBVV95cUxORE9LUVpHa0s4SmZBc1RzN1lxQ2phN0dhUG0yX0w3ZkkxZkZKWXZBUWgwTFFoM0VZYmVyQW80UHluZjBwNHpBXzNlSmhHY3ZFU09Fb2xKa0tuUXVUSEI2bFAwR2I2T2ZhN3BGdlUxZ3h0X0VjUjRXUjBPd2g5Q18yTEZTTDdnSE1BQmpEaDl1RllzZHROb1RTNkVqNGZNNFV3VlJPQkVnZlZuMDM0R0steWlvYmVhT1BjQVdxODY5RHVFVFNpZGN0eGo5dHI5cDRKMUNnaHVESFJPWjDSAdsBQVVfeXFMTkRPS1FaR2tLOEpmQXNUczdZcUNqYTdHYVBtMl9MN2ZJMWZGSll2QVFoMExRaDNFWWJlckFvNFB5bmYwcDR6QV8zZUpoR2N2RVNPRW9sSmtLblF1VEhCNmxQMEdiNk9mYTdwRnZVMWd4dF9FY1I0V1IwT3doOUNfMkxGU0w3Z0hNQUJqRGg5dUZZc2R0Tm9UUzZFajRmTTRVd1ZST0JFZ2ZWbjAzNEdLLXlpb2JlYU9QY0FXcTg2OUR1RVRTaWRjdHhqOXRyOXA0SjFDZ2h1REhST1ow?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 Drones help Pune Police monitor festival crowds.
