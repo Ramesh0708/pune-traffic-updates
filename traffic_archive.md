@@ -1669,3 +1669,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
+
+### 2026-01-11 10:42:55
+🚦 Pune Traffic Updates • 11 Jan 2026 • 10:42 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Maharashtra Rules Out HSRP Extension as Pune Sees Major Compliance Backlog; 15 Lakh in Pune Still Pending - Punekar News](https://news.google.com/rss/articles/CBMizAFBVV95cUxNTThxSENURVBTN0oxMDRPb0pPN0JYbmFrYjJhWnVuMVg0ZlpvajZhbnQwQUNuQ2lEbkx2dmJOQ2VzRHg2cVgzNHdTcHl4MXM0YXlFX3c5TGMxWmw3aGFtUHo0ZllDQVJIdlo2SzhYTkI0YXlZWlpzWXJOYl9jcjN1YklRT0dTeU43SHoxemdBVzQ0THQ0TFllZVYzM2phQ21mYmUzc3lfcW1OUDk3YUpEd1F5bU1kWWF2LWYyelByUlpsUTZfTm1MTHhnTU0?oc=5)
+• 🟢 [Whither towing vans? - Pune Mirror](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yc2NGM2IzLWtwWEsyOXoyNk5KQlR2Z0JlMzZNTWlZR2VwTkx3VW5zd055WGZYOWI1dmJPTmYwNUdDM0sxMDZ4dUJvVThIRGZiVkZUQ0JCMGR6TDRB?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
