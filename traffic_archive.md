@@ -1652,3 +1652,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🅿 FC Road enforces strict no-parking zones to ease jams.
+
+### 2026-01-11 04:07:35
+🚦 Pune Traffic Updates • 11 Jan 2026 • 04:07 AM
+
+• 🟢 [Alliance of NCP factions promises free Metro and bus rides for all commuters in Pune - Times of India](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWXJFNnpRVnY3a3oyUERsOWFGdDlfdUw2bjRrczB6bElPa29yZ1dVZld4Sm9qdWNmRHZGYW9LSHVKVVNXSTBIWmllbjJDQUxqUEl4ZHlReHdNd2RtYzA1c3llSlBZeWFVeS1CZVBlOGt6UTBUZzJRdnNUS09DRWNYNVhXdFVyMDFpbXpBR1lvZllPM29aUXJYYlZfeXFDOHBpTGQyZG1pVFlGdTNyOWVNY1g3aE5zWXpDWU9lSHhLMnJGcFIwaHRUMnZTZXpaWEZmMEk5d05hbWZPUEh0eTBDM1dxeUhCVVo1VDJOVNIB8gFBVV95cUxOcXBNREVfdWc2bHlnQXNfakZOU1BjWVctMlp4ZTN0RkphX0pEQzlwUUYyeUtqcUZmc09VOTBKZ3MxcTJMRXpFMmZRUUFTRmFTOFZoYzZfMGVTcW0tU0Z0NG5lYmdHcEdaam5JQ0gzZEtGSFh6T2JEQWxzbElVR1AwZVNjMGtkOTFaeXR1MmhTMmZxTm8tOWh3VXFMM1FmNlRZQ2tiWXZPV2pKVXhSQ2dvd3d6OE9GeEhoaDl2V1BsTG5nS2dCQlV4ZGlFNEFFRy1rTU5nc2ZzX2NpdEpUVWFBazY4UUFmSnQ5cFZnUzhfZzN5QQ?oc=5)
+• 🟢 [Ahead of PMC polls, Ajit Pawar says Pune losing Rs 900 cr monthly due to traffic – He explains how - The Financial Express](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUnI2ZzJ6a2szT1loR08xdkdsXzYzSVMwcnFCUlZ6YU8tbjlfdnJuSXJiX09kbE5kTmhNMUd6emF3QVBXZTRzYVYtQ09wNG4zbmtkRkhLR0VObk1EZTVSV2NabVY3bWRoR3JmX01tUVFQcTZaM3hCekJoTjJ6Z3NIM3EtdEpsMGNSdVljeHpsMGRRNlJFUUM3VEpHRTNocWswU3IzSjFDeU5GdFppblhRSzJpSTVBcVN3NWRGT2tyOC14ODIwb2FqN1Nrc2djR3lpVXhlUDhnY3duem0wa2tlZXln0gHoAUFVX3lxTFBxVlFqZ2tOR1NtQnBPS1MyTl85YkZpSVVhZnB5dW9sNmxYRlhOZ3FSbnpmOUhIS2MxY1NtUUhGZlNhVHdfZmtmektYa0lNaXNwU3BFVGZ6V1FSZGdaNXU1Z1hCSEE4ZUZVYnl3WjVlTTZqb1g3Qm8waUNUMncyOEZCYmoteUdUUUVzcnJ5ekpGSEpXZkJWUWVMc3l6Ni1pMVE5ai04aEtZYmZXX3FBU0JWVWJZQzVPMm5DWjd2TVQ2QjVHT1JqbGwxSExIcndVaDhkRWUtQnFDdUpOUEhPbzV0V29maXB2LUM?oc=5)
+• 🟢 [PMC Elections: AAP Targets Drainage, Water and Traffic Issues in Gokhalenagar - Punekar News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXpsRmE5c2Fpc1ZwTGhiS3pEeHh3eERLRGlxRUVvNXA5emswOXdYdXAyYzFwMTl5ZnF0LWpwZkN6ZDBfcWNZcUF4eEs4YWo2UllNUGJIb3NIRFdBX2Z2TmtPb2txUExyeXQ5eVE5cWVIWkt3anBESXg0RUd2YVNMTTVSQ3IyVEZGMjNHbk1mdTBvdE40a1ZLeHhpRlV3NWVkVDZzN19B?oc=5)
+• 🟢 [Uddhav–Raj Thackeray Joint Rally at Shivaji Park: Mumbai Police Issue Traffic Advisory as Large Crowds Expected - Pune Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1FuclhsWlpaZm9WU0xFYzhLSnNOUjdjckhDS1libmp4dUY4ajhaYnVRQzZhUlg2a3p6VHoyNnA2cTVsYkk0UlRlLU04N0VrZmVsMUJsZm5UVmRGSncxUzZoTzdTdFJrT1hrUFk0VEhqSVVva0RLdGNCRlplRUplQXI5Y3hjOThJTENGOGFEekZhcVZYeGc?oc=5)
+• 🟢 [Pune: Expired Towing Contract Cripples Traffic Enforcement in Pune Ahead of Civic Polls - Punekar News](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbElBOGpESDlody1YNWxWdjhsdG9nWXp2NzB5YWQzS2N4Vm9jM3JEc2Jfa2k2NS1heHpFZzRKUkVvdHNSWHotc28waTVzX0RDQXdLLU5JM0t0aElMVW9CVnA4V2pTYVpSdFJDc0wwQjQzZkNUWGwweFdxUng1X3dYdEs5OGZIT1loSF9QeDhfS1pkbmNhTkhZZ0M3MmhaajA4dWpSQ2xQa1l6OTZza3oyZ1gwODg?oc=5)
+
+...and 4 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
