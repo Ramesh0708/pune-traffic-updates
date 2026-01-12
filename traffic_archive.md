@@ -1682,3 +1682,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
+
+### 2026-01-12 04:07:56
+🚦 Pune Traffic Updates • 12 Jan 2026 • 04:07 AM
+
+• 🟢 [Pune To Get 54 Kms Of Underground Roads Network: Paatal Lok Project - Trak.in](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNC0yS01kRUtKMno3Y1MwVHh2aUNMTHdyR1NQLUF4WTFFbEUzeWMtb2dsb2FxVW00alQ4cUd5c2VTZTZQQlZhemV4el91OVZZM3hBRUtfb3VBZHN6R1lFSTZsVzBvOEM3SERRQjVxdGIxT3E2Qmw4MVU3SjZYQnM5cUxKZFdFQzNLclllcmpVRFNRR29fTWc?oc=5)
+• 🟢 [PMC Elections 2026: Lahu Balwadkar Unveils Traffic and Road Development Roadmap for Baner, Balewadi Areas - Punekar News](https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHRtazNkb3lWQkI4Z29kaWZFc2FfZWNORDBuLUxUQnFoV1JHOVQwdV8zRVlDd29ucWNTNllFLTNPVTRMd3dUdUNLMDI3a1AzNmcwdXNwM3JacDJMckRTdWh6TXRqbjFIZGVTUWZPRV85YnotWFdFU2NqTVlIVmN5SHFESTgwSVN5SHhUdEtMa29SSkZlSHhxeXR1Z2hZemVGNWJkSFNGN1VKVlFLaC10U2V3VGxrYkZyZTkybW9lNXgzQzVJMFZlSEk1UQ?oc=5)
+• 🟢 [Traffic- and Fear-Free Baner–Balewadi, Says Independent Candidate Pramod Nimhan - Pune Mirror](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0JXaHhLdms0bWo2c2pmSnZxdHR0VmtIRjRhMk9WYzExMnFvMHl0bUgzYU9SRE55Wk1xYUdDdUczeDZvWjZITFJnbkVReHdUZHZvU1NsQjJKNEZNS24wTjhLY0ZMYXRjTmlkMDM4cFBLYkt2bFNkMUxwWmhzX28xcldRcFA0VzZidTNDbEo4S0ZMX2YtZFdLNkhpMUxjS0Vvam1qQWdQWDlBdw?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Baner–Balewadi traffic grew 40% in just 3 years.
