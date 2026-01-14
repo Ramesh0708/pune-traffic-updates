@@ -1745,3 +1745,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Metro barricades shift traffic patterns every 3–6 weeks.
+
+### 2026-01-14 10:48:45
+🚦 Pune Traffic Updates • 14 Jan 2026 • 10:48 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Risk Analysis: Traffic Restrictions in Pune Ahead of 2026 PMC Elections - MitKat Advisory Services Pvt Ltd](https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUtIcjA0T3U5b0NSb3dqXzFucTI2aXpQMkx6bEtLMHRISmN6QWs5b01vcmE2TWZEWDFod1RJaTZwMDdNaGFoNzdBYmtncUJPRndmdkZxUkhzZU5SQnlGVnhnTDc0M1hOdnBEVWl6Tk1aN01MTWNFNWdVZEQtb1doXzNmZ0NJWHFKMmZxag?oc=5)
+• 🟢 [Civic Polls: Traffic Curbs Announced Across Pune - Pune Mirror](https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZdTlnT0E5SXZIekZPdFpTRlpNVi1RYXZ3Q3lZd2NCSExIc0VuMmJSYzMxZW5GWk9hWEthUEczbjczeDNiVGlheW9HaU9JNFozM3otbkVPdDVOWnl3TEpXNkhvOXhvWGxTclgw?oc=5)
+• 🟢 [Final day rallies turn traffic-stoppers, vehicles crawl - Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFR5Wm9PbVo2V0tBMlItSmhoODFIeFdJY3VoWmtVU3pwWl93YTdUODZWT0h4YkgxX1p5Vm5yeVlJd2tCVjJOaUdFTUd0eXpSNjc2dzdzMW9pbGhiUW9uWnRoZzc2NjNSeFB1MUloWTVEV3V5YThQTk9OTW5ZaExNOVhtQ2xKcjdyenhCdzZNbXJLXzFZZ2RpZ19EczNNSWpXcEZGRVRoaV95eVNjbnJmYjFQU1FCc05NalpmYU0zS1hYd0dV0gHKAUFVX3lxTE5jX0RKd0NvV21JQl9WNGFucDJmdTVSeGljOTMxS1RVcEJkN0Q1RDRXdTFHazBOcE5tZ2NFc1BaTHRFYVpNbmEyY0w3czBCOUxmanduT3N5RzZGb3dFQzBpYm55Q2JUOGJfUXlzTFlQSFVEazRtaE1ZUGhvUUFiOXItWDhmckp6a3J0dGlrWXJaaHhMMHUzb0lVZ1VvUzc0RVJWemhObmxBR25xVGdkbXdpRko4Q1l4Q0NROFZRVHk5MW1vbHVLZ0diV0E?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Metro barricades shift traffic patterns every 3–6 weeks.
