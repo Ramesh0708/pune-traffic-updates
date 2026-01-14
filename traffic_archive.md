@@ -1732,3 +1732,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
+
+### 2026-01-14 04:06:12
+🚦 Pune Traffic Updates • 14 Jan 2026 • 04:06 AM
+
+• 🟢 [Traffic changes in places for Pune as civic polls near finish line - The Indian Express](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeW1zUW5iMmFJODBsZ1JlWUtVbzVlTTdXSE93NFcxU0hGVUh4UmFlb25jMU42S1VPYWo4anVGWm5USVU5LUlHSXc2QVJ5UXdpWHoxbG1hZ2FlY29aTUVadkdfdzVJdkNuVzhUMHNRX3I0Z1lzeVdQbXcwNndmOXp2MmJyQ2Q5TWtOWVllSVJVWVpZOTktaE1Vb1BTSjRnUzdKdTlyYi1ZQmVyZXR0cHRHYnF2azdZUDY2RjUxRDEwY9IBxgFBVV95cUxPNjhMRUlNOUVUc1MyNXhrb2JUTTlqa2hfVDJKalpJYjh0VUJ5OFFmUkd0VnUtazl1b0tDVjF6TzJUX01EaVkzLVRsX1dNZzVXUE1fRG9aZURNMlBzOGw3Sk94X1dheU9URHVTNkFTQ0EzOUFQUUZIU1JxZEtuVTBZRmttUGI3ZHdaRGlPbzhnVlJwWFo1WGcyV3R3T2NXaWRMM2NfUnd1Z01kT3Rwa0xId2NvVTJjT3BLV2VubXNzVThtS1VPa3c?oc=5)
+• 🔴 [Pune Traffic Police Announce Three-Day Traffic Diversions for Municipal Elections; Key Routes to be Closed - Punekar News](https://news.google.com/rss/articles/CBMizgFBVV95cUxPR1VtUWo3Ri1xSzUyLWFRRG9OTm8ydzJBYmFzRzN0SnN5aGYxVWlFRHVkeVIwbERmMy03bmd2cUVvbElUd0h4RnJnRzVKVThXOE9VaUZ0X2RHZ1ZhNXBkQ0V2TjQwNVB3dmRWb3cyQ29IVDNlYzh5NFRXbFprcTJ4Vkt2eDF5X3NwVjdnS1lLSXlETVpmMFg4ZTE3cU0ybEltaTZxTnBUR2xST3FuUXdiaVMyektOYjdPTUZZdG1zdE0wZjJzUWZwVERjSWdWdw?oc=5)
+• 🟢 [Pune: Paid Holiday or Time-Off Mandatory for Voting on PMC Poll Day, Says Labour Department - Punekar News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDgta3JFYnIwVENGSmdoZjl5SkFCX2ctaTNBUnFkU0ltR1ZsT2FyVjlNQ3AzTXYwM2dyS2FQdE92NEl4d1lTRGVjLU5HVlMwUUFUc2Z2UlIxOEFObjQ3a3R0VXNWV1ZQTTVVZDRxQ0VoN095bHVmRkduamdIQnctOTQwcFdaT3NIU0JDeHRWcXNBWUxROHpUTVJ5bTlQZWhmNmVfdVpVY0RtOHl5SXNfNENCamYxcWRn?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Metro barricades shift traffic patterns every 3–6 weeks.
