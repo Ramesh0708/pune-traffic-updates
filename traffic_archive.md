@@ -1806,3 +1806,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Baner Road spikes heavily during school timings.
+
+### 2026-01-17 03:53:06
+🚦 Pune Traffic Updates • 17 Jan 2026 • 03:53 AM
+
+• 🟢 [BLR-Pune-Mumbai by car with a FASTag annual pass: Route & road update - Team-BHP](https://news.google.com/rss/articles/CBMijwFBVV95cUxPbGZaaFJfNkVTLVUxY0VQZjlOYUpYbVlZWUtQUFI4VmhQZjJrZ2tabTFKVWZ3LV81RUkxb0hoX3JkTzgyaXpldTNPUlZaVFJrd01adE1vQlpTcTBKbk1QM29RaGtFN0h4UHBIN3l6c0pkOUptVXhlR29NcTZGNjBxQ3FRdEpLMTNUcDRlUlBRMNIBlAFBVV95cUxPX3JsMTJLRS1QbjRubHMtbmFUUG5jUEt2U0xQMnJ1Z002MjIxQWg1NWJLMW1IWXQyRXFmbkpsSEU3NWdGbjhSME4zWnU3LUw2bDZXUzk3Qy1QZlBsNDQxcFJYSWNySDhSOE40TmxpMGNBLVpHMFB6S3FCMllFMnNnTmQ3RUttMG1veHR1S05oU21NcWdT?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
