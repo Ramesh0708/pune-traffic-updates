@@ -1829,3 +1829,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+### 2026-01-18 04:03:23
+🚦 Pune Traffic Updates • 18 Jan 2026 • 04:03 AM
+
+• 🟢 [Pune Traffic Alert: LHS Bridge No. 53 Shut Between Talegaon and Dehu Road Till Jan 25 - Punekar News](https://news.google.com/rss/articles/CBMisAFBVV95cUxOemZTeWx4OEdnMWJPaVBYTFVzM0FfS2hIMjJsdkdGMWhtbnZORUtjeWVLaVpyaEN0YksxYkY0SGRVT0laeXFGdlNqQ25uMnpJY211S2NwcllVTWdsSkZYYkZudTZDbUNWM3JQOXk2U054azZYU0VnRnNlYV9yNEdDQ3F2YTFuWmtsWUZpdkRMbGhwUTFnYVB3a2hGYUNiTXZRcDFSS25RZElYc3dVRmFjUg?oc=5)
+• 🟢 [Traffic changes in place for prologue of Pune Grand Tour 2026 cycling race - The Indian Express](https://news.google.com/rss/articles/CBMiygFBVV95cUxOU3RIY3NpaXFCWG5LejRqdXN1dHlPc1NWRjJGNW4wY09Lb2hmaUFORG5xa054b203UUJhMUlOaUhURUtvR21IQUdHUkRxcmZZbDB5b3VwZHpsWEFvTS1uMjU3dkowdEhzUG5yaEIwem5oU2pEbVlIbThaNGdEX3ByRGNuOHZOTnVqZVJBRDlLRWUzdjdZZ1o4eWkxT3NZR29tOVdzRGlJaDd1a0NXTjU5dF9ZdzJKSGRpQmN5dHRvR2FQS0NMQzVXeDlB0gHQAUFVX3lxTFB2Yk1kQjQ2dThrQnY4WmhncWg1YTE0dGdLVFVJX1F3ZW5HYUtiVWViRTVDbTJieHFSYWIzbGk4aDFNMjgzRlBzVkNWYWdoNG9nUnJkcHdhRDZnY09YY0E2VDdwdkNpTDZhTFZNZWVhVk8wX1RkTTNYSGNmRnJYT2hHNHoyZlNUM2xjc2xmOGhacmJBWU1uR3JEQmh1SlIzdEswYW9icEJTWEcxNjJWMUk2TV9qYTBXc3AtbnBCMUQtYzQycXF1LVlPWWZmN0xGSEE?oc=5)
+• 🔴 ['Half of Pune to be Closed': Major Traffic Block in Shivajinagar, Deccan on Monday, Jan 19; Schools and Colleges Declared Closed - Punekar News](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa0NmWnh2QkplZWtZamNRSzB5ZW5UanM5RGlTUmJfTzNSMmRzSWJzWTNvWkR0bVVIMW5Id240Z1VRemFUQkhmNGtXNF91X3h3R0Y5amlNWGFRT09YQXFjM3JhQm1PaXpkdlFTOTR4ejNNVm9rTjI1NktHMFlBQnNTN29od2ctOFJ2S2toSzFmSW1hUFJjYWNydEwyT1dwNzVDNW5sZnhHS3UwQWZNc0JTTDRLZUc0UGpkYUdfMjhOMWxqSFJOZ3J4OXdhcnVUYWVfaC1KWEcwU3BKX1FjbUEzV2VzSXg?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
