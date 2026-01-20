@@ -1910,3 +1910,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚓 Pune Traffic Police issue over 10,000 challans a day.
+
+### 2026-01-20 10:51:53
+🚦 Pune Traffic Updates • 20 Jan 2026 • 10:51 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune Municipal Corporation to request district collector to declare Dry Day on Shiv Jayanti - The Indian Express](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeVpPNVBKQW1fMDNKM2J0RG5yMGx2TGNualdWUUhlVndmN0VMU09qWlR3eXBxZWsyVzZFc0xkdnlLcFk2eC0waEVCUWtxV1ljUDY1WExRMEFuOUFVMG1BZUZvaU5jNlVBa0xJdmFvbzhhV2dueUdWcUdSSzU4U2VRYmhHUk9fLWNFZEEzNWdwSWQ2OUtyckNjQ0NMZDl6LXNqQ1V0Z1VxeFRmT0ZPWnhXbzJGQnNrdHJhV2p0RzlEZ2ZqUnRQb29qajRjbFZsSzJZNGtiUnZRMWJQY3B4RzFlZdIB5wFBVV95cUxPTFpBZkRMcGUtYnBFRVdlaWNPeDRIUnJIbUdLUVczX0ZWWkd1U215R1dJOGtSRzh6MXE0NTVJdzNEQWdaSHZHMVV5Vzk4VTcyeV92WW5PeEhpVGh6UVZGTUZLSFBwcmh4cTdlaWlPM1J0M2o5Ym1nSDFrZkEwSTNtRVo1RHBWWEpoYzZndEoxdlp3bEI3NG1Melg2TEFXZ0dOSXFRMmlDUWZBU3pKTUNBS0J0NUtKSUFod2hpOHI3VlVINWlRRTk5WVU4WEZyeEg1VTNFTGd3UXkxZXVxaVpLbzFNWkZaN2c?oc=5)
+• 🟢 [Pune Outer Ring Road Update: MSRDC Project Nears Key Milestones - timesproperty](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFJ3YkFsSThSVkZLWW1XaFByd2hZTS1OUTgzYjZGbjlpX0tyRTIyWUlFd21JMkswelFvc3VwODVCNzZXb2didDFUQS1PSnVwZ2ZHWkpxNGN1MWFlTEhUVGM2WGtDNWNFSlRyUGlHMzF4eTF5WWJYUWlkdXhqb0ZIc09HYnBhZ0lqa1doamNrRjZaekFuSHNWcXRQQU9sRHV0cXBYWGVBZFBhbDVTOU83TQ?oc=5)
+• 🔴 [Traffic Diversions Announced in Camp, Kondhwa on January 21 for Pune Grand Tour 2026 - Punekar News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmhlcXhsUXhuSlpqeWVjMGtVWm1ackdFUU9QdzJpNVNtOEdvRmNMREZRSHFXVGhFY2k1Z1I5eDdWTWJUNEVVcWxWVEdXZzRtSFVJT1RFSWdZM1RmejZwaXhwbzFWTDMtQ0F0ODljQ19laU9tYlBLa3BXN2RKSVFKSkp0bEhEZFhtY2hSZ0NvWjVXSHIyNkRDd0U3a0xyUW82S1J5bTNZenBQMmt0M2NodA?oc=5)
+• 🟢 [Pune Traffic Update: Traffic Changes Announced for January 21 for Pune Grand Tour Stage 2 - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHc0dnl5ZHJZY3cwLUZIdkZ3V1pmOFAxZGxMMEF3SU1zSDRuZC1RTDNfcGxmdmJXRXB2VjRuUlNKVm03MnMtUVRNeXFqS0VoZlFndWp5WGhpdjFTMkZOZVFDbGlSdnpBcWlaVFhYTjdjT2Y0VDhydUQwb0tUT2xXcFJCNlRRTWtLRG9WSmhJaEdOUzlySlZLekt5a2JWSVpQTVA00gGwAUFVX3lxTE5GejhvRVZoV1RJdWw4Qk54S1JHMFl5LUdaeUg5UXdETnY3VlVZSFprYXJVRG1sN3ZRTkhRUk9aanY4YlVuMGJDMHhKV2NYblJPZ2VQdE5tTmdLc1FubU1Mb09EaWRhUzJlckIyYUp6TlF1UGlvRjNfbTdLVzd0MGwwbUNiTnRpR3RqdVVocmU4RzNrOUFBMHA1WUJhVF9fVTI1Vi1BSWwyMlVQcFB1dk9s?oc=5)
+• 🟢 [Pune Grand Tour Cycling Event Brings Traffic to a Standstill, Sparks Public Anger - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOFpnUEhocm9PTkNJZDlld3Z4NVdfYlplUmhLbnVwcWRKcW9MbFpVMm45aGJJdzVTM2piOWxkbVZQZmlVbWRjdmRpYWhmeFZUWFRJeFFsMmVXYlNFSXItald0RG5rYnNsZGpyWXhZeXlwc3Zrd0gzMjhOOFlISW9wd3FzeVFwdk5udkHSAZcBQVVfeXFMTUJXM2VKLTVkb1lKdGt2SDdpLTBZcS1NcV9iN0EzY3huRllET0ZpVGl2cjhLWlV6VVdFa3BMOGhncl85bmpWVHpTWEwyMTFBc0lOeGpTZFphWmh0VEdaaUVOaDY2YXFiMFRDSmpvZTJYV0NrSlcwaFQxS0o4LUlvNzJ5OF9xRmtYaHctSWFidkMxWGVGenp4Yw?oc=5)
+
+...and 5 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚓 Pune Traffic Police issue over 10,000 challans a day.
