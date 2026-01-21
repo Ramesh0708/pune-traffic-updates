@@ -1928,3 +1928,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚓 Pune Traffic Police issue over 10,000 challans a day.
+
+### 2026-01-21 04:03:36
+🚦 Pune Traffic Updates • 21 Jan 2026 • 04:03 AM
+
+• 🔴 [Schools, colleges in Camp closed today - Times of India](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWnFHc2Y0bEVjZzdTOGV6bUltVFNkcHVNUHBhVnEtUElub2NxeHRGVWNGTW9sZGZRNUVaQXdYN1RwWTRrcmdVZHBUcF9DUFpnY2dkNmxBSFNKTlZpME1JWWl1NHRqTkowelQ4c3lCaENzaXlyNkQzYXRyUlBpRDkyeElpMGJiYnN2eGRZcFFQbWtPOVJvNDlleExQczA1NjFxWmRvSENIZ0pDZXVlSWc?oc=5)
+• 🔴 [Pune Grand Tour Stage 2: Road closures and traffic diversions in place Wednesday - The Indian Express](https://news.google.com/rss/articles/CBMitwFBVV95cUxOekJNMWRqZm9xaGpTVmMwVTBTS1RJc2dnaURBcnEtcWdWWTJvRkJNT1NDX3V3OUVyX1ljUEpUdGw5T2wyMndRNHN4SDZNekJOMWdIVWRhRjRrM1hyOVBIbjNnR2xiOFp1MWs3YTllM1VvbWxvN3ZzUTNhcDk1LWpkOXNNcV9aUEIwelAtUnlWTHlIRE1rbjBOeWZoQU9wUDlaNnBDX1M3UzcwaHZPMmo1X2l3Q1N0YnPSAb4BQVVfeXFMTnZzUmxCcm9PNDVVT05MczBrekl2YlRkN1Vfc182b1Q4RHdZQXdWT1Ffb0g1TGJDTjVCRWtLMkV5NWZ2SzBWeU9JMDFXR2ZQNjVKejJZZTBHNk1aWkE2aXE0Q2toZTFnUFJ5N3ZZemhveGpqZzl6eG1oMmQwdmlBZzUzWEFFR09YODdUU0dyaHFvQl9NWFl6UDFWcjhVY1FLZWhPdkQ4SHpzc19QZl9ZakpaQkRiZXo1bk52OF9OUQ?oc=5)
+• 🔴 [Traffic Diversions in Pune on January 21 and 23 For Pune Grand Tour - thebridgechronicle.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkVTbC00VEsxNXpYbWo1cEJIM1hVOVNrc1YyS3VJckZvUWtmMnY4UzNKcXJuRUdHYVR2bVM4dnhPSGZYWWdpZThNNUFabEFOVE8wa0NpS3NtVkdSMUstakRUZnowbWlNeklUMGt0QWxpWW5xaXBud3VDSldrMHA2WHhxLTZOYXZ4OVJZN1ZndXVLRC1KdTB0T0UwcnJWbWJZ0gGuAUFVX3lxTE9Pb3RScFpEUzhfZHJuRFBCUDhPQkh0TFlBU3Rla0xVMlpVVkxxbnJrUjdTelMyWmZYXzVCaHlGd0xTb3VlY25iQm1wbDRVZElWUk5NcUdaX3huaXlManpoWEhVTDB6eXY4SkJETkY0bUtEY3VsQWpmNENFVERWZkgyaEZWOHdRRHRoRDRrb0Q3dFpUeXhHTEZxTzlDMWZFQlpsRXlEbjhHTmpoVnV6Zw?oc=5)
+• 🔴 [All Schools in Pune To Remain Closed on January 23 for Pune Grand Tour Event - punekarnews.in](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzlKa2xSX1pLaXVSbnpTRjl2LWFpOEY0X1RKdlV5UHFIbzE5SWFFSU9MWmhaYXUtVVdReEdnaHU5UFN2Wm5EUFltRFh3QmZPNUtMNTd2MFdGeUo2bkI5dWNqbU1vcVgyQnIxQWhjOGtJNUtwVWN4enhzaFNYUkJZWGVsS2o4OWtXQTd0eEJyOWtfSDZPOE85UE9KNjFhMUQ5bzVlQXVBNA?oc=5)
+• 🔴 [Tomorrow, Schools to Remain Closed in Camp for Pune Grand Tour 2026 - punekarnews.in](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXI3TEtKRElhVC1JbDRwdUhmNHFpaS1QTWUzNkFnNlp2SUtkNkZxVEUzY0lKRzN6RXo1UHNDeWstQ3pTamZkRE5QeTk1U2NWU3kyTVY4LXVxYlVpa1Vjbjgxd01QemVKbUdBM0pGY1BYWENNMmZ2bW8zSGFxY1J1Um5vdk9Od1FxOGRDd1o1UTNYWWdVMHp6ZE93?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
