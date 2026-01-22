@@ -1980,3 +1980,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
+
+### 2026-01-22 10:51:36
+🚦 Pune Traffic Updates • 22 Jan 2026 • 10:51 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune Among World's Most Congested Cities; Ranked Fifth Globally; Second in India in 2025 - thebridgechronicle.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcy1xdm1Ja0lna2dwVm9HN1NYaGhFYUNQODh4WXhaZmtXQU9xZDVtdlJpTnBHbnBId0ZDYnQwTjc2TWNzdWRoN2RqUFpCSWxUMVNzWWdBZWJLYXRybzVnem5aLUdjWUM2TXdtVGxjb0kyZDhRUkZrV0FMQUxPZkpIR0R6WnlfUUxyYXNLeTRQZGI2Z9IBnwFBVV95cUxNc2pCN2ZlNS1XVXE1TlNyNzBTb0Y1U05aakNzeEVXVWE4NXRBb1NMVDR5Rm0tV2N3RFVMbjhkM1hzVFN4VEpOTzB1VTU3SzFfTzVVNHlZTkp4NEdDWk8wQUtfLUdIWXVCZXk1SFFJU3U3RzRYT2xWSGhMbVNqZWJURzJZSlpHNHBkcnN1VV9ReUZYZU15ajFTMEJqbndCUW8?oc=5)
+• 🟢 [Pune Grand Challenge Tour Finale on Friday: Major Traffic Curbs, Schools to Shut After Noon - punemirror.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOdG1VN3pTTTFzYkFsV3FLWGVIRmZkUWhWTjJELVlwYklmMGlSMnoyajJ6b2VocW1JdFhuTVE0SHdKdHFNcUFtUlJ2aS13WURJTklzcXNPZmhhREMzeXB0aUhYVk5vbWlrYkZUQ210SXViaW5abUdEVHJVel81eENwVFU0cFJlTVhlWVhteHZyRQ?oc=5)
+• 🟢 [Bengaluru second on list of world's most congested cities; 7 days lost in traffic in 2025, says index | India News - Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNThseFJ0akFyLTNHc2FIX1V4ZXhCRmpHTnJ4SXQ0NEpucEp5NUFvS3hRUWozNUVoaVlXZk1HLXU4cFJpSEhueHBza2lMSEJLWDJxdXYyN2c1TE1EVlE5emZLa0dWemVmV1BPS1pFTTQ5Zm1nS3VkNEc5SjBwdzlJVURnQTA3T19QUVZpVzNCMkp6Mmo4UVpwcjNlcGpfTUs1S21EX1hacW1zT3JBa01tQjY4akF1dTh3cjg3NE5UaWtqNUVWOTJES1A1bEdZd3VxcXpmV0VRLWtJY2lGTmR5c0hsRGs3WUHSAewBQVVfeXFMT3BlU2o3SHh5dTJOSTJuVzdITURnb3dVaFpwVGhQQmJXRlBmdjNQXzBPVUVGSGlmX2lNem9TcEJkTnF0VjJjU0t3dVBPMm0xY1NkYk5KQ0hHcDhXTFF6RlBSdHBuQnc1U2pFanlqbkpJLXpXUGNmVndrS1RQYjFMY2xzdlJXRy1yRFJ6OEkzV3lzaXIxSVhVZjNJREljQjNkb1ptWkdIeS04UDhTUWZac05wamdfZWxwRmdzYTRxdUVxRlk4dkd0d0Fia1h5Mlp5dEdWNW5RNl9sYkRKdV9aVnJhVmpMeWxRSEhjUjY?oc=5)
+• 🟢 [Bengaluru’s traffic woes go global: City ranks 2nd, Pune 5th most congested - Times of India](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT2h0ZHBOZ0NfSXF2d2hvampJVkNFVDY2V0lvZi1QNHlGQkxEenVudFltZDVsWFdJRjltQUFoZGdUVXNyVk5KQWZNa3JuMDVPRFVQbVd4Ym9LdjJlSGV3dzJlN0haM1RxaVpFdVZBLVJVQXdHaDVjZ2JUcU5IajVDVGdxUnNFVHVjZ0NHMVpicGhOU3M0d3ZkaVlaTVZGZ19XUEtUZFN1OVVYc25nbVBaZVBrWFBCQkxYNWJsRVNSaTBSNFRraU9TVmlyaDZZTGdrS0dyMzVfNXg4c3J1VmNQT3NB0gHqAUFVX3lxTE53QS1RRk0zdjZDblhFWWc4Y25Yemxub1RnOFcyVDBua1NBNTNudFJ2dEh1MW04dUFvbDNnOHVwdDZEbkI1SWVkckZDWldlNDcyaTN3Yi1QeXlXaDJQM2FlTWl3aFB6ODVxSFdqX01LR051MEozcHVycldUb2tleEY1bzhHYWtlU1hjSFhpWVFqOGFOU2d1eWtwMnItaWZpUGZjSm1QNGdJbC1BQmZpUXN3dUV5ZHQ5ZWNjdURiLXFKS0JTdzFPWHpRQm1sNkRrTHpoR1NLakV0NHBrQkZQV3BmYktZZVN5NDNTUQ?oc=5)
+• 🟡 [Pune Ranks Second in India, Fifth Globally in Traffic Congestion: TomTom Report - punekarnews.in](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaGczRG03ZjMtV2lwclhuaWtvdHRod2N5R200c2ctVWZSNVhzdDZjRU1QQjZmbHNfNWlsN00yRkN5cmJxNV9fbWpKcGtCNWZNYlhLUUxNd1BMTGJtYXVNemRkZHgyTGJub0YyODZMcVpyV2pZcGNKOU40R2ZpbUI5dHpoR210bjJrVGpNTDhTQ0tWUWRRS0QtOWhCNnl4OG95bm5vbVZBRGg?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
