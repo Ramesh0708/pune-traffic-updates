@@ -1963,3 +1963,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2026-01-22 04:06:17
+🚦 Pune Traffic Updates • 22 Jan 2026 • 04:06 AM
+
+• 🟢 [Pune road rage bonnet case: shocking, deadly act rocks city - punemirror.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnhIUG51SUpaVzl2Wk42dWpQOTZxU3RtNWU4ME1UT2lNa042OGJNbkV0emRTQWQ4SlBLd25Qdm9aVDd1RExSNkI2cWpWb2UwRlFST0ZtNElSQlBmY2M1a2I3emFid0NpWkEwb3RwNmh1dnl6bDZ1LTU3X051c01zSDhn?oc=5)
+• 🟢 [Bengaluru And Pune Among World’s Worst 5 Congested Cities In 2025 As India Dominates Global Traffic Index - News18](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd0RCckh1amhKRkNqam16cHpLZkQ0cUZBYVY1cGRvc0VfV0pzWlpRLWxDYlJFdGs5d2RjWjJiV0VhWFBQNVlvTEg1VEZJMmFoZnVHV0VLUFA5Z1V0aDVGN2NVUFdrb09rNGprTUdYVlUxS1ozRlQ0bzNQOUxzem9ZT3JYQnhqazhYOXE5dk82d0ZvMlNySGtlZlhhdlFtaEFKOEsyVFBZN0VfX2lzbzY3RzJsYnpvMjhHZFNBaEhlSlc4OHc2V0U2RkhIbzUzRHVMS291RFloZ0ZjUFhwMnVSR05qWjc1ZEstRXZv0gHwAUFVX3lxTE51SVRxOF9TRERid0Y0bG1hUVlkSlA2TVR4LTZFSFk0dW1QaGZFRVFJaGoxc2hCTWZBSnlsVHJtaTVXa21mellNM2hWRE0tbG9BN2FVM0tCSTBPSTVRRFJGZ3dJRVZwTEJJWW9KVEJvNVNNSmlWcDYwT3RDNmZQZXY2bk1wMVdhMm5VZ1BqZVdWWXBRbWhPMy1aZ1VwYVFhZzZrTnNBTU5BRGFMaWJTNXJrOXVaeUVKZDFIdUNvV0daWWFCN240bzZwTmpiaHFBZGdrMTZzamdaZ01JQjVva1V3Mm12ampxbE54VGJNRDY1cA?oc=5)
+• 🟢 [Mumbai–Pune Missing Link deadline pushed to May, work nears completion - The Indian Express](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTThfZmozSzIyZmhJd2xxYS1WVkxGZnBXRXItdXFXSW5ZMlNxNXFqRGlvTHlZVi1CZ1RvYnBFVDFBeUp1NVoxampFYXZGT29WRWVMZW9uVUxhQW8ySGRWRlRJUU5GOGQ1R29pU0RocVh4WTVCRUJ1R2Q0SEV3aDFZdElGekhCN0s5NUR1WWVEQy1jWEU4QjZNcHQ1NTJwQWNuRWfSAagBQVVfeXFMTkt0OEdVa0lOUTNaX0ZNLWNIaUI1TXpVMkVTLUlCQmZ0T0k3TTlwc3JvNWdURFdwRkk3c25WekRiRnpQcVE5NV9wcUdTdUhtMVNDekxGWlZVbU94YUV1V3ZXQng2RGJONVBSZ0huVnFYeldfRzhuTU9LcXpTdjlGNU9VaWJZTXlKNTJRZUhyQ3A2VkRwTUNOSkxkbEhUb1NyR3hrcTBPeFhG?oc=5)
+• 🟢 [JEE Main 2026 Aspirants Struggle to Reach Pune Exam Centre Amid Road Closures - KollegeApply](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjZzNjRLVkgta1poRTRseFY1VEIwOWpTaFhlc3Bsd3lCVnl3UVNyelljX3g3WHU5WXVxZ3lZV2hKS3NKVnhuUW8yVWVPVjNRc28yN0lsMG04RlRaRDM1V3FteFFiTFN0QVJRZFFxNEpOUFZNQm54YnRaQk5ESVN2ZHFxOHpQbmhQTldXZkxPeEk1Rk9jeWxJQ0NtRnEwenJ4QktZWmxreUkwYkI1M1hURklB?oc=5)
+• 🟢 [Schools in Pune, Pimpri Chinchwad to close early on Friday for last leg of Pune Grand Tour - The Indian Express](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFhqWEVmVVl2MmE4ZGdwM2FvM2pyMVRaeTQ2QThCdFVZZGxkeC12OGgxOEVUZnpMZ3g2ZFo4WDdzQlJfbTdUUzZ4blBQX1dSVjFsU0JRaFktR29OUlhjRkVkU3UyaUJGYTh1aTBYZGlHU2ttS1JSUEIzcmhuVWJVY055YWF6bWRmTnZURVZTdzJscHF2eWNXUVNramlsVy10dXVIZENQS1JCbTgxX3lVSTV0VdIBugFBVV95cUxQMU1sQ05CQlZ2THZ0Z1RrZEtKVVM0cmlkbHp1S0JsM2FqLUs3WjV5X2VEZXRoUGlFVE1VZHBadmdPOFpBZUJQM2t1Vlp1RkxoMDUycVlvRXVGU1pQcUkxZXpMaWhHN2ZOckVVeTZRUmpqTVZ0M05CNVo4Q0lvVkV6MUlWOFJLOUxpSTBaYnZteXlPVzB6S1pDUnRjWjR4VW5fTXhOZkI0UU1KY2lqeDNKdEVHQnZzUE9EVmc?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
