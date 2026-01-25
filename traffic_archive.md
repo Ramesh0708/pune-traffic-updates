@@ -2080,3 +2080,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Traffic is lowest on Sunday mornings.
+
+### 2026-01-25 10:43:45
+🚦 Pune Traffic Updates • 25 Jan 2026 • 10:43 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Long Weekend Rush Triggers Massive Traffic Jam on Mumbai–Pune Expressway - punekarnews.in](https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0QwcTRPbVZNc1JVZ3pMQm5xRVM4RVctMVRNRWthTXFlcXhyS3B0MG83dDhhWFR6OFp4WVZ3RkZmRy16TkNlc3dSZ1VJZEJMcDA0a3o1Yms2NUNzc0p5b0xUQjJBNGpYU1g3elduRDc4V3ZyelZfMlozSG5rMy1QNnlqV1hJWjlweDVfYVpIMFR0Ny1jeEdVV0FkMWxjekY0U2c?oc=5)
+• 🟢 [Pune: Indore, Gwalior Trains to Originate from Khadki on Jan 24–26 - punekarnews.in](https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFlWaVFIVE05LVl2ei04TnhpdWVtai1IaGwyaDYtbjk5YWt5UXdQRzcwaTcxaC1rN1JYem1rYm9HQ29Fa3dqLWlhTldfZ2R2Q1l6clhHemNydVpOeVZLNHNVa1M5cUJnalNMOFFVWkluRk9IZzM0RXlxSHZQTko5MUdFclZra0d5REc4YVp1X2pRZmFpTXlZ?oc=5)
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Traffic is lowest on Sunday mornings.
