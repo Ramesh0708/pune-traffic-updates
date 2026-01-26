@@ -2105,3 +2105,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚲 Pune is building protected cycling tracks.
+
+### 2026-01-26 10:50:28
+🚦 Pune Traffic Updates • 26 Jan 2026 • 10:50 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Khambatki Tunnel to Open by June 2026, NHAI Confirms After Successful Trials - punemirror.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0FDZUxQa3l2bGh1TGNoMDFfM01RUkNUS0tFbG1JWnc0Ym9UVno5cDNyV0I1RjZpaWJZQk1fOTRlZ1ExblFNRWFlSW5lOTlNRTl4SU5OYUtJbnRUUm9nYW9uXzBwYWo3TzAxamk1MXpBZDhTanE4enRoNDFHa3ppbDBKaDQxa0RRQmVv?oc=5)
+• 🟢 [Repeated Traffic Violations May Lead To Driving Licence Cancellation From 2026 - punemirror.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcm10eXFjb0NVak9rbFZoTFI5UHdrdmtfYndPOVBhRmxGd0pNQTRoYUpNdUVvMlRhZ19tenBMM0RyWDgtWnZQY3ltVXl5bTdFbDFybE5aM1ZVZEVaWHNMRkpOWVFybTBlNi14NjJiZ2xZdHR4WTk4dlZyV3NyeDdNRFFxVUgwYWY3OU9USUFiUTJnbHdBZW1Qc2F2RjlPWnpvc2c?oc=5)
+• 🔴 [Massive Traffic Jam on Mumbai–Pune Expressway Due to Republic Day Weekend - The Bridge Chronicle](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1AwTEd2OXhqVHpTeWdqckljYXVsUFBXNVI2NDFiYmJyaDU3Y0tSeHJMYmZBb1hqbDlKMHc4LWdib1RlTmpEQmtqbm5HOUozZHlyeFlpM2RWRXRIa1hYMzZpY2xUa3Aza1FQMG5mQTREUjhTeVNEb01kQmtqMTZXR3pYWjNrclFPYkJxaUJFb1JnZ2w5YlJWbHhJODNwNEtWa2RncUl6dHVPRkpuVVHSAbsBQVVfeXFMTnJKQW1ocGh6bFBOZ1JYS3VLRXVKVDZEWmJTeG5iWlNYNFRsUlB3bTJfRDNxNFFCbFQ4Rk03REhoZEhNalEwbDlZVWxRaHF6a1VJOVIwT0dCbDcxZ2tsQXh1Rk54c1lBd3pRbVFvVWc1dnpDWjRBVE5nc3Y5NHNRWVFFaXpoQ24tRmZNNXV1YXBDMUVJZWhTMDM5ajl2RDMwOGVqMG85c01EbUZpTFdHZTFOYUtHbGVPczZWZw?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚲 Pune is building protected cycling tracks.
