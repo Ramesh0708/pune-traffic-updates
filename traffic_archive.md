@@ -2093,3 +2093,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Traffic is lowest on Sunday mornings.
+
+### 2026-01-26 04:13:39
+🚦 Pune Traffic Updates • 26 Jan 2026 • 04:13 AM
+
+• 🟢 [Rampant lack of civic sense key reason behind Pune’s traffic woes - Times of India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0xoMGp6MDZoTWNTVzJYY0dSdXR3ZUtCX0FleHM2SXB6TmJUOGhkZEhkMk4tRjlNUkk1dkpFdnJrQnVGNE4tSjRfSjk0OS1IMTZad0tVNjA4dWdoTWJCVm10RFJPeFFud0NQOFhtTzlUZUZ3cmlZYi1vcDhqbXpBekhxY3pCOGdIdER4YnR1cGk4R3dHNDlXYWxLMUlzS0tPTjU2YmtaX0NXaWZRbWNncFhQYWJyUWhHMmZ6M0pjOEhqZGVyTHlnQlJOMXh2Qkx3amfSAdcBQVVfeXFMT3JlM24wYmZYbGNmTl9rSmFNNnN5ZGxzZDlWUVhyTHBaNjZzeXItaTg5aHVZZlRCRkhTajVEVE5pVVh1d0xlU0l4Qngxc3VlMi1VdGFUamtEbTg5UXgwUUk5YktBTjB4azVfeXNGTENOeDYtZ0VhcHF4cnhBS2dqTVd3c18wMDRlZ2Q0UGZXRmdtTEFPQmlSeE1LcDctQXhmUjJVVHNidmRVRDE2ZnlTSVJNbFRyaTd3Q19OcXMzRHNBME1Ja0w2STF5bW5XeVdOSzMxalVrNjQ?oc=5)
+• 🟢 [University Chowk Double-Decker Flyover Set For Opening As PMRDA Accelerates Maan–Hinjawadi Metro Works - Swarajyamag](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGhwMzVlc3hBakJmYzJXaXY4cGlndG5IZ1EyM0xBbmVyajZNLXJfVzFBbk1CX1lYRVZ3YzMySnRPVnZ1TDY4blprRnhEcDNxWUtnODA5MGVWZ1hJd3dzRGxqUE92TFpEbC1QWEFhc2lHVUJNQXRwSEZWMXRBRFl0NXBzVHhsdlR0S19OQ0xBTXJLOU40S1RjNjB5LURxb0lRRE82bWo5XzJPd1hGWnYtQXQ4c21rTUtEaFAzTC1lUnpLbHhqZnpxU3ZvQm9SbmU1T2fSAeIBQVVfeXFMTUhHcWwxSDllRXdiTWF5dk5YYlpZbTVBZjh0Mjc2cXVsMzAwaGFWNWl1YWlRWkZ1R2lRRGU0U0hBU25QV0tQdDFkSXBWMVI4M0xhRTc0cm5mU254RVYzN3lEZlo1QXZha3gzeUQ4UTdNR3BFbG1YTEs4M1kxN25pS3lmTnhfXy15aWx3R1U5ak1nYkdzNUY4WXJwcWpjaHZGRVNWRGl2MFdGTV8xZ3c2TmE2aDhJa040TEhUUXdlZWd5VUlGdm5yTUEwZU5Pc1FUamU5U3I0bGQteXdSMkkyMlZyQQ?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚲 Pune is building protected cycling tracks.
