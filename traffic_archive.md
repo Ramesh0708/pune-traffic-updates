@@ -2130,3 +2130,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛵 Baner Road is among Pune’s top 10 busiest corridors.
+
+### 2026-01-27 10:52:44
+🚦 Pune Traffic Updates • 27 Jan 2026 • 10:52 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Pune Police Traffic Advisory: Stretch Between Gangadham and Shatrunjay Road Closed From January 25. Check Details. - mypunepulse.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc0hSbzlHT2d3NkhZeTZ2all0VXNsd09RQUhFaXFFVnNoWm9BWU1lQ1RCdDZzNFZvT2ZidTMwUnFqM0N4cUhIWGV5WHhjQWN4cHJtNG9iNWxnRjBKTzBOZEFxU3RJczhHcUotOXQwRVVXNklwb0h5eXdUSEQ0ZmFlRjhRTzFrdXA2MVRvZnNIa3VqOXEtWTYyLTlIOW5TUmdQV2gxQUNHN25RaUU4SXI3TnRqU2JNSVE0aDduYm81c0JXNFZtN0NCNFZRM0FJN0djNGFFWFk3MA?oc=5)
+• 🔴 [Pune–Bangalore National Highway Six-Laning Work Speeds Up, Permanent Traffic Jams at Kolhapur Entry Set to End Soon - mypunepulse.com](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGl0bDRyR0xNMDRrZm04Vm16U2RXU0RRbmh6eWN2RWlkS2c4TTFTUXpfd2NnRVZLbUk2bUtUNmlqMk9UZF81dF9aQlhJZWhlSTNOSXlCRGNORnpvRWtZQTJIQjBaMmtYbW1FT0tXSVpQRkU5U0NyclpSM0FNMHNwV2RwV24yRGsxbWJzTnlKVlZ2Z25saldNbEs2S0dKZ1UzS1hVSTl2WVVQbHdjTU9YTnlUZWtvRDJ6SG1JRHR3T05qSXc4UU04eEpUUjF3TTdoVHhaQ2MteVdpTjA?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛵 Baner Road is among Pune’s top 10 busiest corridors.
