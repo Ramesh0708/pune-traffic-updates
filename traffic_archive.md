@@ -2119,3 +2119,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚲 Pune is building protected cycling tracks.
+
+### 2026-01-27 04:04:37
+🚦 Pune Traffic Updates • 27 Jan 2026 • 04:04 AM
+
+• 🟢 [Traffic Crackdown Intensifies in Pune: Over 5 Lakh No-Entry Violations Recorded in 2025 - thebridgechronicle.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGY0QjdXNG1mM003emlOYUJYTXIydTRYcFI2cVpkRmJJWkRZVk5lcTc3TllhbmZkRlZ3dGVHVlBjZlAtUlRIeXF2UFU2TWVrWHhSVk9uYll0TFBYcXlCem90NkJHTzlpS00yMEdDVEhFOGJaQUVjUVd3VzNaNGxBVGVibDBtaWpNZ0pPU0QzaWZWRktXUEZLVNIBpgFBVV95cUxPQWV0c0VVUjY1VjVNQXNYdzNpajRDSS1fZFRTbTlQSEtiYVNkZkMtQkliSTNTcHVTcjc4dUtYT1k4VmdVOGh3U19ReXdnU2FaUURvSnZZcjNFdnM4TFZLWFRIVDhqV3FwczFiUlZZNjV6SjBNWmNGSUgzUy1rcF9oWUVnTWtXUmV0VXhzd2dzMTRWRDBFY25oZFlSdWlRd2tqMjFtNk9B?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛵 Baner Road is among Pune’s top 10 busiest corridors.
