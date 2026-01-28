@@ -2143,3 +2143,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛵 Baner Road is among Pune’s top 10 busiest corridors.
+
+### 2026-01-28 04:04:16
+🚦 Pune Traffic Updates • 28 Jan 2026 • 04:04 AM
+
+• 🔴 [Pune: PMC Road Excavation to Close Gangadham–Shatrunjay Link; Traffic Police Announce Diversions - punekarnews.in](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnVyUWNGZ0lJd0o4cmptWmk1Zl9EUmZrel9KbTVPY2FUdTRzVm1BT1dKTnU3UlBhTkpqU19CNTBOOERMczFkV0RuTG5jSVFPdVllQmstWEk5alRWVWtpNDBiUmViZTBmRmxWQTRwY2dVUEdYYnMzZTdnU2ZuZ19rbUItcFk1eFFPQUt0UEZ4cldRck1WallWdzRidmlrM1NKbHpEZDA0Y3BfZDYwWEVaLU1idUdlNGlfakhSejZWNA?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Hinjewadi Phase 3 sees surge every Monday morning.
