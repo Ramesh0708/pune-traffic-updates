@@ -2177,3 +2177,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌧 Balewadi reports the highest monsoon waterlogging.
+
+### 2026-01-29 11:02:54
+🚦 Pune Traffic Updates • 29 Jan 2026 • 11:02 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [After Ajit Pawar plane crash, IAF rushes air traffic control team to aid airport operations in Baramati - Times of India](https://news.google.com/rss/articles/CBMihAJBVV95cUxNUXJ4YXBlQlh1bF9ZVWRkbUJBcHdwN1p0R2ZVdmZpRmppc29VRmR4MHlJdGV5bkVsUzdoS2pBaktMU0d1M29aZmtjUUotTFpWc3RHM0tWMjJEaDhlT0FOMUNwcDdQMjgzbjltTXBEUk5kaEdKX3QtZWhuLXFVQnBtTjc2TENSc2d3aXNRUzJOeElsVFZvLTBXbi1laE43X1ZyNzB0VzFtUUVoejdYQmNnOEw0Rm5SMWtaYWZabFZxdklSWlllNlNMYi1oYUc3S05UckZyZnFneHlZaVVuR2RpcHhEeXQ0aGRoRXZ3bWhxdU1jVUNwMnM0NThYOXcxZThVYVVRVtIBigJBVV95cUxQa1RyZXVjZ2pfUEZEdzI0UVBRVV96UTJVbVBnWkxsbTFvN1BZY0M2WjM5SGpacThSZVFsMS1hWXVGYlN2Z2RRcGJPalNpY3BpNVlhVDc1TzhNdGVKVDNGSHhid2lXNXJiQWZTNlF2cEUxRmd5bElqTmNUdmNnc2VEZVk0QTk0d0E4eFYyZS1Od2tBc3Y2a3FMVVdFdDBGSDhUZ0pBUjRnRm9WTGZKV2VMWkFrQ0FsMEd1d0xWVVl4OU1zS3NMWlZ0aEJtcVNQT1Q5WnU4Yk5scGpWN0lySDZOVmtUQTBjZjBDdm9CRm5MSHU3a1BDVEhGcnlPbVFoUm9vTTB3T29WM1hndw?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌧 Balewadi reports the highest monsoon waterlogging.
