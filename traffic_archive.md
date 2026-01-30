@@ -2200,3 +2200,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Hadapsar flyover widening will reduce jams massively.
+
+### 2026-01-30 10:59:54
+🚦 Pune Traffic Updates • 30 Jan 2026 • 10:59 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Global Traffic Index 2025: Indian Cities Among The Most Congested On Earth - Outlook Traveller](https://news.google.com/rss/articles/CBMisAFBVV95cUxQenBBV0VieVNRSmEwb1BCVW1xclZOMEd2QmRTZnN3b1FZZHpTdXdOb0MtaUoyYVg1X016dGVSYmF6WHROV3NzSU1zQmVYUVhjWEdkNGtadzFCbjlRWVVUQmktQ3J5Zmd1S1QxeDJ1SURQRnBjRlZwbFVtQ052Zlh4X0lfcXZKMTVkOXhaMDlVaTF1MUY1QUYwRksyTmZRTFYtaVBBckd1U2RMXzdJVml1SNIBvgFBVV95cUxPUXBRclJmUHFWMldyR1NpWkNWYVloTWozRlhlT2FLTmt0TGVOaW1sQk5IZ0x2YlZmYnhraFBqTnR4OXFmSUJFSTJDUEtYbVdxcEw0anZSY2Z3azZlcGd5Z0V1QUZnbGxqa1dWeWdoaFp2OFZzY044aEM5cU1hZ1NJZzRIc1Y0c1hqeWl3VTNHdzZfSmR5WDZweGpFckloQV9FU1BpeU40eng0alN2Tk5uQV9zM29YLWpCS0p0RlVR?oc=5)
+• 🟢 [Samruddhi Highway to See Traffic Halts in Nagpur, Wardha From Jan 31 for Gantry Installation - punemirror.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXZmT0NTZERwMGgwalA5SS1OOENmUk82RWdmSFUyM1YyWHIyRDRPVXVwcEY4TGJ4Njg0OThDVWdrS05mVkpOQXlFdVlpTFJycW5PMnM3dERTT0RSSGYzQ3FZcE5JdXFEbDBXQlRLaEU4V0JGU1Fic3U2U2dZT1ZOb1ZjMU9uRU0?oc=5)
+• 🟢 [Pune RTO Directs Employed Autorickshaw Permit Holders to Surrender Licences - punemirror.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHZZeTgyczczRWMyNmFGZ0l5S19Tb1BScjZ6WWhaSE5ydnV3NFRLR2htUlZKb3g4TXVZeXdGOVhFU2RBWDZaNkYzNmx6MEFucWs5VmltWm5HMGpWbW42aXUyUDBNVHR3NGhQRF9kWUxwRW5DS0JvT2dGN1ZjdnktVkdRN25uWW5Ed19PYWYyRlJJdWpKRVNHRQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Hadapsar flyover widening will reduce jams massively.
