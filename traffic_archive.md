@@ -2214,3 +2214,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Hadapsar flyover widening will reduce jams massively.
+
+### 2026-01-31 04:22:42
+🚦 Pune Traffic Updates • 31 Jan 2026 • 04:22 AM
+
+• 🟢 [Navale Bridge Lane Closure: Speed Camera Installation to Affect Pune–Mumbai Traffic from Feb 3 to 5 - Punekar News](https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWtlMXhpaTM4SWFBYW1FVThnY1Y1bG1fdTd3ME9RVHp3NHhScUtSOUp3dV82a2VWWnRFcU5PRGwtR0Z3M2N4dmJPbE9GTlpWcDdVbnB4VDE1Q1I0OW5JTzIxejBRU1YwMmFsUUJxU1hsanFCdTMxTzBWaHV6bjJCTlB1bTJlaTRiQUN0cFRyUzVjSEwyNXlFaWxJb2ltaFZCMnlZN29pTGhDYmhBc3lrSlNobjJtY01JZ2ZtZjljSHk0OUZa?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Pune-Mumbai Expressway crowds spike on Friday evenings.
