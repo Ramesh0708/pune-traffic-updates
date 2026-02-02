@@ -2266,3 +2266,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚴 Pune was once known as the 'Bicycle City of India'.
+
+### 2026-02-02 04:53:31
+🚦 Pune Traffic Updates • 02 Feb 2026 • 04:53 AM
+
+• 🟢 [Pune: Wanowrie Police Bust Gang Stealing Traffic Signal Batteries; 4 Arrested, 34 Batteries Recovered - Punekar News](https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzdmX0pQV2RIVnhPaW5xNURXd3FMREdBanA4YWd3V1cxTzlmY3pVTlUzdDZPQW1weWhoWkJ0cmF4QUctSWZ2SUpad2JITE1ENFl1VEpac0llbmpHc0NsWXFvYkJ2MS1EY0pCWjJLb24zdkdORFFUMlJSMFpWWVdwU3N2NWU0TGd2SE1tenhPVFZrNXJQV3ZzOW54eUJRX1JZdmE3N1RUQ0VFMGNQSVh3eGtnQXNwNHVJYVpMUG9CSm1EdWhn?oc=5)
+• 🟢 [BOLLYWOOD TURMOIL: Gunfire Near Rohit Shetty’s Home; Five Arrested in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcWx1aGNqRXkxeWFzTjFiMUNtSEthd0hZVmdGQ3FJLVhQb05VQU5GQjM4RHNtYWtsY1VaQmJKNjhfbmVGM2laUXdBOEFheHdnaVBvZmtSVDZwdFE4RlVJM3VNMWhLd1NubjF5Yg?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Pune introduced India’s first smart traffic signal system.
