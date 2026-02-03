@@ -2296,3 +2296,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Pune introduced India’s first smart traffic signal system.
+
+### 2026-02-03 04:43:07
+🚦 Pune Traffic Updates • 03 Feb 2026 • 04:43 AM
+
+• 🟢 [Ramwadi–Wagholi Metro Extension Tenders Launched, Eastern Pune Set for Long-Term Traffic Relief - The Bridge Chronicle](https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0pXSHFZYlFkSHF4QlhtVU5NMS1rYWNPSURxb0dnZ2J4MzBLWFF1SUQyd2ZfYUMzTkFYemNmZ254QVpZQU1vMXBXcHduQ2JSbWVnWGt1b29kTk53WnBYUS1iLWNmU1k0ZWI4cG1BeFkzVDVQaTBCazlIcFI3ell5Wjl3Mm5yTTRydTJ1SmU0WWlham03WXVGN1Y1QWdxLVXSAawBQVVfeXFMTVcxY2VOazBBX2k4UmF4YjRQNUZoYmViVTk0dkZta0twN3N1NktUVmNFeG9LSkRjYTBzbjhEU251R2FGdWI1RDlVRWNHVDBJZWFaZm1SWjYxYXBqMFZGdEVTS0FkNXZHZi1CUXpua2pCU3lWY2NvMTN6dE1mZWFmbDU2OXRzRjl2X3E4dzZZY290eXExbl9BRXNVanBGM1ZaOEQtZ3prcDRFMWpaSA?oc=5)
+• 🔴 [Pune Traffic: Katraj New Tunnel–Navale Bridge Lane to Remain Closed from February 3 to 5 - The Bridge Chronicle](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMll2MVN3MTFrSHpJN3IyVS1qN2dUSzhpQW92SmZqNE5OTE9qVDhFdGs2QXBEZThCOEU2Zkd1QVVuWXVFbVhzTHUyVEU5eVh0dy1zbk9nb1ZCbm9OZmJ4WGxBT3NINjRGSXl3VDJNb1FrZ0RYeFZVMTdwZ0ktdkFYak1KR0lndDFSejNaNXpWY08xa3l5YVpIOUhpeGQ0b3QzdTlZR3J5R1NXRmQw0gG6AUFVX3lxTE5iY2tXWC1VeTRqdGJ5ZGZ1NXNsWmd0Ukp3b2NkLWlKU0tLdFpDSUtya3Bmd0xxMUsyQXcyRkNpX0UzdFBGLU4zSlhVZ3JBOFJRQXR0ZFdJZkMyMm1mTkdzc2VSYzFfUTZvRVJmSjFzcUxzY1lZSlhBLUlLRU1pYlQzV2JPOUh5TEFZSEFPSm5GX0RNaHhFS2VFMUlWdGpzZVhNd05Nb2RMblJmYmR1X1NhTUpDOW1uajlMUQ?oc=5)
+• 🟢 [Repeat Drunk Driving Will Lead to Vehicle Seizure: Pune Police Commissioner Amitesh Kumar - The Bridge Chronicle](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVVnTmthYUd6UTRrS2tabktJR1ZWRmg3RjJGQ3dwdlh5Q2Vxb1ZxNnZTWHNXOEZOWE9FeWx0R1dLYzFKVWo1am9CS3MzUU9FclR1aUpCR0swblFGZ2J3MnVmckNETS14YkNUVHN3dTZlYkhjczY1Q3RzY0k2bGU2QlJwTnd4d2tiNlZCbngzbUoyb0hxOVJGeW1n0gGnAUFVX3lxTE1Ib0Z1SGtEX3FhTG9rTnhyZHZHTmppWlhucnNBc2pPT3FISkNxTXBUcXNnUGV0a0E5UFVqU2cwQ1FwVXN5LUpwcDF2WDQwb1AyM2d4TW5TZlB4bUJhdHBGUTFSVGppNnFOVUdjMnpBWnVSb2l2RTlQV0RScUUtLVd5ZmEweGJvUzg3Y0s0VUZVLXgxQmZSNEVDWm5RUUNSWGFIX05mZmtn?oc=5)
+• 🟢 [Pune: MahaMetro Begins Tender Process for Ramwadi–Wagholi Metro Extension - Punekar News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTlxOF9iQXBlYURCWGJHOXZSSjMwVURra2J3THhVVGdOZ014R3M2dnl6RkhFN0ZsZTBWWEZfWndVZ1ZiWkxoZzB1c0hkTk1uZnRPcnpqYnhoMjhvckRzRHJkWEgzMlVnNXQtRjk1TVFFNHFVdWx0Nko4dkRlbUF3cGZKNG5QYUNhdFNTaWN4WFM5elRjaTh3N0RfR0I1eWlZVEE?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Baner Road sees peak congestion between 8:45–9:30 AM.
