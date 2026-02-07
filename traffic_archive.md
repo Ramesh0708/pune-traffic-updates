@@ -2428,3 +2428,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
+
+### 2026-02-07 04:25:43
+🚦 Pune Traffic Updates • 07 Feb 2026 • 04:25 AM
+
+• 🟡 [Weekend rush slows down peak-hour traffic on eway - Times of India](https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnpOQU1OSk1iUmFFVUFOc3VXOTYxNlZKZWRrT1RadXp0Rmx4Ym5kb0Y3eS1TbjFhRUZJOGlsNEplSEpRVldXcm1WVFlvRnlnUWdxR09hMVpuQmk2eWRwdEZxb0Npa3czS0RkUnJvWERyY1hsYV84c1k4Tmp2aXVtazdURUVCUm1kcHV1S3BUbkx3bU9XYk5YR1JVQ2Nmczd5azZuWThSN3lqR0FRVW11eUc3M1dFbVBma3dCQ09R0gHDAUFVX3lxTE1FTUw4MzUyQU5fV0F4aFFybnlFd0VEY1Qyci1lWXAxY1pKWjFaeVJHSGg4ZXdXaThDXzg3aWJ3dDRaNE12ZHRMRU9DOHdBMHAxRFFOWmZ1YjlUMm1QYlFBbHliNExwOVZ2OVlMczJmTG1VVVRZQ2stSUJIVWpBZXRqdklESm9ZZV9MRmpmLTJGdzEyeXVuamMwYk9jb3o2VUdJZWpUcmhpajM4UDdKVnZidklCSG0tU2hFbXhIRmxqRUVncw?oc=5)
+• 🔴 [Gas tanker overturn causes over 12-hour traffic jam on Mumbai-Pune Expressway - Prop News Time](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRm9PaVptLWp3dGQ5QzY0NFF1Um1VT25FczJVWEFhS25lMWpla3o2enBENkE0Q2hSbXBkMkNrdGdRRUExX3RxSU5IakNsd2JQcTdNNnJveHhGV1Zla3E5eHd5aXJ6Zl9FTG9tX1lJdHUxUDlwaWtMWVpDb0d0bHpNLWM4YVpKZ0FjT3FLbXlFWUYzcXBnQTBPZTNOcXFoYVE0dm1rS1E0dHR1OWVLcHVzTTB5NWdwOFhiN2tEWXladmlpekY3TmYzZw?oc=5)
+• 🟢 [Pune Police Served Legal Notice By Viman Nagar Residents Over One-Way Traffic Plan - PUNE PULSE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXVqRXA3Z1ZqT1dLU3A0V2dnRFNPbHNRZkpOYVdvSjRCSE1ZZ09GNUZXNldrVmRjUmVibERjSmJUdWZNMVlod1ZyOVJvbWZ1ckFfUFZPYjRrdUxXOXpiRUpqUXA1QnY1Rzk3WHgtU0NReU03V1UzMnN4cTc1NnIyZU85eHdVN2tzVU9oSnBueGp3ZmEyTlR0LUpkdVliMWl0eElmRnF6QXRLR3RCNzhRSQ?oc=5)
+• 🔴 [Mumbai-Pune Expressway: Government’s Big Plan to End Traffic Jams, Saving Commuters’ Time and Money - Che... - lokmattimes.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeWVqUC1IaEtadW81TEUwV1o2Y08yekZuMDdZWExLM0lpTF95aVFvTmYtTGRwTTJfWFQxQU1sWHg0VkVSRnVOemNDODhWYzlRNWhzYU44azA5TG51REltSDBuUmZNaEFVTUVHUkZNV01BT1JCNmRPd0dPQjFocVM2QXpta0VuR0tZMXJvNUZIRFFCcmhGcXZMOHlHcnJ6YjlHSDRNeEc1Mml3X2JGbkM2X21vUWkzNmVCSjFNOTE3Tk5PZEhLd2JyYmdfbGNjU09qR3VrSDAzam9ITFVhWTJxTzJzUkJRcGs0cThZ0gHwAUFVX3lxTE9Ha3FMdEVnc01zQ25zLU83bVpjRjRHcUN1aklObmdDYUhPa0xVNXZham1OZjVrTERhRjBTWGhFRUVNanI0cXF0UEM4Nm9Qb1Y0WHR0c0FPXzZTcTZRUFM5RzhkOFhDVGNILXowRTNKWFA4X0J6M2FFc2RVcHJkVHF5bWVWc2drejJlSWIyRHZfV2xvWEZxVnBiMkd0Y01nV0dpNkFoWEdKU19hVktnYTJodmNzck9iaDVEa2F6b3c3Y1A5LVdGUko1LUxZZDFWZnI4d2oxTWNSc2dUQkZIa1Zlck5pSjI4NXhZa2FvZU5rbA?oc=5)
+• 🟢 [Pune- Mega Cycling Event, Traffic System, Future Skills & More - Times of India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMnphZk1jYWlUeHRiN2JIV2xDTldjT1BhMXRWT3hWQldDMFczX3ZSZmZiSUZNUHJIaWVNSjRuWC02VmUwWFg2UDRHdVZ2cW9VLVVQaTRfMVVRQ0lNNGlWY2Q0a0J2T3RENDd3RXYwVzB0MHY0Znlrdm56Sjdfb1NOSTRfTWVrWnY0aW1TOVNJY1dfSTRBMFpBeER0TVhoOUw5QWJvXzd1Y0tqLTV4eEZnNE9JWkV1Y2tpeU41cmV1bUdaWXNJcUl4Wm1lNHM1bjZ2dFHSAdcBQVVfeXFMT2duWkFlZGc1WVVfdXBqcTlpamtMLW5ybm9oQmxHcU5laFV2ajhpSWJWQ3ctalFzaWx4dm1LZkVUU0tDaUw3d3hpeVozQWdRN0ZGdENMc21zdm9PNUlPcFpzdDVBbC02NDBzb0NiNzVwVU9ZSDJyMEpoVHJieXZrR0M4bkZmNzRaQ2FXcnlua1hUb0RGV0VHNnh6TTY2S2wtUFpKZ1RBemxmeFIwM3pVN1BxUnE2Zk10Q1dGRXZDOFg1SUFWbVVGWm83YmtiUGNzZk1WanJvZDQ?oc=5)
+
+...and 5 more updates. Stay tuned!
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏍 Pune’s two-wheeler density is among the highest in India.
