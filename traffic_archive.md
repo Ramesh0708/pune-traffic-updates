@@ -2445,3 +2445,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏍 Pune’s two-wheeler density is among the highest in India.
+
+### 2026-02-07 10:50:31
+🚦 Pune Traffic Updates • 07 Feb 2026 • 10:50 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [CM Devendra Fadnavis orders inquiry into 32-hour Mumbai-Pune Expressway disruption - Times of India](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaDJlNURldTlEZ0RrWldsWmtIMDVqaDB1Y1lVWHlfdDB6SERJNmYxbFI5Q25JcGU5amdCWEo3SllHVzBKSkRSMnhFeW5Ic2JKU0xBNmZHY3lmNkhBZEcwM0F2cmJoQzJKMHBTMnl2RDZKRFBTZWM4b3VIZUs5R01xT2l1X1NWcEtFdEJGLU81ZXh1Tm9zM01jT0tQUmJ3VVh6X2VUOW1kUG03NmEwT204X3lzalItVnFZNnZmUTVYUFgtb1g1VkVqWnZkWGcyeFF2LTBYTGJMQnRaYUlraXlxb1Z5a3JGbWhmRmfSAe8BQVVfeXFMT2J5RHdVSEt6dnhLUl9RbFlwV2QwMl9FbGdteDlDemJsZkhHNUY0MWpFUTNTeTdjX3I0RXZPMG9CcjNwNXJPTmxkc2J1UEVXQTdqQ1ZyeWZxRmR2OThtdDhRM204SUZLRUN4dDZpQkpWeXI0VTZpOC0xTFFSbmhlOEdhdUFXR01RZlJ1MzBZMzRCbHJYZ1ViY0pWSGNIS25VZUVqQnFsOUVHVmpTN2VpUWpMRXdNdmQyNkluaUdyNGhXcWF2MmhyR1hFSlNfSHFZX18yVklVMkFLOGI3cGlDZEV1bUNibTBDQ3dvd1V4Ukk?oc=5)
+• 🟢 [Pune–Mumbai Expressway Missing Link Likely to Open in May 2026: MSRDC - Punekar News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVnlyNzZ1TklIeHAtY1U1cDJwbEw2WTNJcG5ESGRWWWVwWnd4U0JUYWpMWFZqaGlNd016c1RmbG94bVdLR0N5S3F0Sm9pYlA3d2dSbmpIUUxGS1I2ZDFtM2JQZlhXSXZGY0hFMGw5U2JRWVpFaHY1dXpOODJ4b295UkI5ZzNuQmdtVHRCR01VTDhKNFI4VEpTNnNKMmY?oc=5)
+• 🔴 [Mumbai-Pune Expressway Traffic: Case Filed Against Tanker Driver for 32-Hour Traffic Jam on Mumbai-Pune Expressway - Lokshahi English News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0JwTGdkS3hiZU9vUDhXWFlSdmtHa09hVHloRXVDRXBkVDNMS1FrM2Q4M29faXdDWGNYSk1FSXdZQnJ5NzNWYWN6clZjNUhxZlR4OFpHS3VJOGEwbHp5dGxuWERYam55V2FZZTVVY3ZSX0g4c3k1cnVpY0RwM2NjQmNDaEhBZmsxM1U2bEJHQUFhd1g5OGJCakpuMF8xbWFfVG1YblFXbm5udEJIY04xSEtYaUFOTm9oYUpaRU5tQlBsc3JfUlNEVE5PQXJldjNiMWNyZHdyMkjSAeYBQVVfeXFMTWw4ZzhEVWVVcGFxd1ZZMkhoNTZhZGI0YjRJSU53dGFMRnI5bkFkZVFyNy1WQ2NTNkhhci1lZGp0STJuZzRDSHh5Z2FUbDdEV3VPdVhUWVNnOGdWREMzNlVUZnJ2U1ZUdzl0MnM1UnVsSWhJRDNtRGJXYWI4TFcxR0ViNGpaQVBFMmFCaW4tZ0p4NnFfdXZaV2hLdzN4QlZQN0s0Zm9zazJhTVd6b3JldTJraFMyLW9qaFAza180bFNZSHF2VlZrajlpd2xNSU4wZzZvOV9rYXNyWW1SZXcycHlPN0dUUmc?oc=5)
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏍 Pune’s two-wheeler density is among the highest in India.
