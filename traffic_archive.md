@@ -2568,3 +2568,19 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
+
+### 2026-02-11 11:13:18
+🚦 Pune Traffic Updates • 11 Feb 2026 • 11:13 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Abandoned Vehicles Choke Pune Streets Despite 1,500 Seizures in Four Months - Pune Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOWFGMUdKWTVBUTAzQ3ZUdHUxQWpZUVNOWkZWMWNjTVJzMFFZb0pPNHV4ZThTdDAyMjJfWTIwSC1hU0dPQ3ZSdG5reGc5OUNXV2FLQ3hEaU5XVTlJT0VNQWU5d09kZlhUSXY1cV8xYnpkMWtPOUY1aDRRRFdCM05PTGZhdWxHREc1Rm53Q0xGbnI?oc=5)
+• 🟡 [Pune Traffic News: Major Infrastructure Upgrade to Ease Chakan–Talegaon Congestion; Details Inside - lokmattimes.com](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUFSVVNxdHVCTXFZWXJZeEg3MlpydDdtMXlqMEU1Tll4SW5sWmFFVE50ZGM0azBPcFF5R3FLZFk1cjNQaFBsUFlfM2VhYVRXNm1MUDYzaUFuLVpWOTFaNmxvanZZbGdOQ2RSNFVFemxiNzRYQTBKV2xWdFBTejFMaC0yZ0pDNlVCamlNQ3VVU0hWd2JoWVZxUzJJeU4zMzltYjZnaDhaSTNuaEZUdktoQ0lMWHFOXzVJNGp0OE9wSUVWNjZyM2VSQVI4aEhMMEF50gHWAUFVX3lxTFBlMDJYVnpyWWVoNU12bG13LWVmU192UWJRakMtcUxBM3cta2VOampYazNVbEgzMU9yYjBIQ0d2NFJhTDRZSUt0bG9qSDJRRTRVT2FsTzMyUHhPSjBSOWkzaHY5eERPSkpuNi02M2gxQXdSdU1VWG91Qzlhc2RiVUNneEpmaVJSeHlOdkRhN1JIczZBWVBnbUloRjdRUnhaWHMwQm1BRm1TcXNaQU1VTU9HTnNRd3RhYWdmazBvWjNWaU5PRVV2N0poTU4wSVlVM2l4WDExNWc?oc=5)
+• 🟢 [Pune Traffic Police Book 1,454 For Triple Seat Riding; ₹16 Lakh Fine Collected - Free Press Journal](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVlVOTkp3LUJ0Ql9wVFZoWGFqV3hKbXFReUd0LUhfZ2J3TDd5NlpMNUFrZFBCYnBCdThiekMxcVZuYnIxa3hCYkc5NDgwcDM5SEQtdWtleUhQOUpMLU01T0ZKdnNtbTdqeUQ0dnV6T3hfNmVHcnFZNm9GbkZvbUxvZzRpRHVVbkFBRkF6YzhOeGNxeDl6TEJYUFN6cUVxNF9PSTRYcFR5WF9FSnJtSXliTnpR?oc=5)
+• 🟢 [Officegoers Stuck as Traffic Chokes Wadala–BKC and Mumbai–Pune Expressway - Oneindia](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWpYdFkyMkpkWUxrX09zSG5vX1BpZER6bFRVbE9qc2xKR1BsYlBYcEZwZ1JiR0w1bHZFS2dEbUk1N00wb1dVRzVmdFdvNzZ0Z0ljVnRjbXNuQzNnWFJaMVpMOU9NT0NEZHJTNjZHVlY0MW42UkpwNmFETmhOdTAtUzNlV1kxQW0wVFJqai1VMHhSblNublBRNWd0MUJWMGtjUW5mOQ?oc=5)
+• 🟢 [Pune: Bavdhan Residents Flag Rising Safety, Traffic And Civic Issues; Seek Urgent PMC And Police Action - PUNE PULSE](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDlhX0R2ZnBvdkYxRUI0UUh3UEFwSkthSTlMOW1UX2JvT2Z3VFlNYXZ0VTZRbmxNcHl4dHVfNHktNHA2QWZXMk1DcENuUUdDYUtvWHNOOEk0eTBpZFV3cmFfVnFwaXEzNUprSjN4Tk9naGhJWms2UTV6cHdkbjNaQ2ozamE2cGJTdDNqc1laUjFmNXVSME1ic2RVZFNJV202cF9KVFVpd090Uk5HTGNmbTlldFBEV0xQSDhUb0xTanAwRU5EMHplag?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
