@@ -2584,3 +2584,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚍 PMPML runs 2000+ buses daily across Pune & PCMC.
+
+### 2026-02-12 04:53:53
+🚦 Pune Traffic Updates • 12 Feb 2026 • 04:53 AM
+
+• 🔴 [Pune: Internal Roads Around Pune Rural Police HQ in Pashan Shut for Recruitment; Traffic Diversions in Place - Punekar News](https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0E1VGthMkdaVUIxbUpXWWZYbE1qMHRMdk5rSHZNYmVDdGx4NDRMLWZmVXE4Z0FqcDU1VEt0ZnVQM1VoQnNwZkplMXJPZFA2dFFNNjZ0cGdwejFzVkVwRWZMOWFGVWI3RzhwZlJmcE1lMEE0NkF6V29OZVZlbFFfQ1pZQVhZZlFFNkRqOHVMc1F0ZE5Ta0dYV08yZE43dHFhRlhLMzdwUjNUZEZQREtVanN0T293NlJqc3NMLWVkUWR0Y1RZNTg0ZHduZHc3NDQ?oc=5)
+• 🟢 [Pune News: Traffic Police Take Action Against 1,454 Vehicles for Triple-Seating in Special Drive - lokmattimes.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnotdWVVZktGQ3hILVFnU2tGUlJsdEliUmtKRTc2NFFpQWphekV0WEUzLU1HSDR4ZGtmRHFQT3ZfaDVhMHFfbXRKTlJLS3BTZEVfcEtQZ0RzenpBRmRacGhDeE13Y2VtdzN0MTlBR0J6WGdIdnlVUjMxaXBadUtoVzNCbGFIMTU2cGlEb19vQl9sZHdZQTZWUGlJanAxZk1HNWZpMG5EV1N4YV9jTzEyZ2p4YmdnVmtWRXhmM1g3VXNfdzFuQlJabWFXcUZiUdIB0wFBVV95cUxQdVpmVGNDb0lKOEQ3eS14ZXRwSE5lZmpKd2JSVVplekFSVnBlQjBjSHR4YWU0Qml6MzdxNDlhSEUteElnOWhfRl9UcGRoeHRvTW5DQmJUZXZoS0xfVmxGY25fblpXN1c1OVUzNEZoX0ZZcjI3SzZERUVuYTc2MUV3amRuWTd1bUN6cGt5eHE4QkZ1eWo0YkNBNzBZUEdhUklhOGVYWXVoeHR1d0tQQzgyT2xmMVhQNGlPaGpsVkdSODJTWTZJSnF1UnJfSVBJMXZfb3JR?oc=5)
+• 🟢 [The Pune-Mumbai Expressway Incident and India’s Gaps in Risk Preparedness - India Today NE](https://news.google.com/rss/articles/CBMizgFBVV95cUxNTE1MV2VUaWVSdUxrV1V1bDNDRnl6REFTLUFzUWsxcjEzVi15RDRBZXAzMk1sYkNPYVVqZ3ZjNi10LVB3a21HZy16TVhDdy00VzY4eUxvQzZ0d3ZPcTZacklselNFay1WVWV0cjk2U2M0TGhQNW83Mi1KdkhZWkhvaUdZWjdobjNKQ2VKaDg0R3RZNWRlZzV5ZWpPTDFCT3phd0pIUVRpN2RXUTREZTNKYS1aSzFvZkY3ZE42QkhSTXFUMTlQUEE0VTZPanFsQdIB0wFBVV95cUxOek9pVk1abW9LcFhMSlBlcGRROXF1Ml94Vnc1TlRfaHFFZG9PQnpialA4emdQQkRYMVl1dVBDbGFvSURBZmZLZG5nMUJFSGJvLXljRzg0UjR0LUdqWkZFa0ZPdVpONnRjX3pPa2JGRENmdmw1YVpWcXVJWkhJU09ZMDdxcC1aZHVoelJHV191V0owS3oteU1HYmh1WktmUTZmQzl0RHFoQXdkN1JuUXh0Ry1GaWdFX0g4MHVnNG1PTWh1TENWanBBZ3lHODhUMTFVX2hF?oc=5)
+• 🟢 [₹913.7 crore approved for Kolhapur six-lane flyover on Pune-Bengaluru highway - ET Infra](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUWJfd2VaY3R3bHpxMDEtVHpGNzdld2l0alFHb2g5SzUzMVBWUkw4eXM2Nk5KSm91S3VsUThVQmVOSEtUZW9WbnE2TmtUWERwWHF2b09LcDhhLVNGNW9jcms2aW5TWjJaWjhzTFRwUVhXRHM2a2Vsb0c3TGhCSUtrbEtQMXAyY3ZLeDYtUFBtSzh1TDlLOGhucXo3ZV9CLUYzYTM5T29nbHAydVBYLTFieUhCcmd1Y283aHk5R05zajJrY2hLcDVuV0dqMXJsZjRkdDhaQlhnQ29LdzhvTU1ZZUEydw?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Baner–Balewadi traffic grew 40% in just 3 years.
