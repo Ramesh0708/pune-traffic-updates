@@ -2626,3 +2626,19 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
+
+### 2026-02-13 11:06:17
+🚦 Pune Traffic Updates • 13 Feb 2026 • 11:06 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟡 [Weekend Rush Brings Mumbai–Pune Expressway to a Crawl; Commuters Face Long Delays - Punekar News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGNDV2FRRFYxYk9sdXBFVXRBOTR5cC1iR0NfMzVQdTFFR1BVZmFIRkNKcTVWU3F4UXM3VkJjVWgwc1NuMC1xN1ZCT2VmRWRlY1BYY2NkOUVPSU9qZUhfOHVTNGt2WkN4MnV2TzNRVGlqcklLckpkU0RGWnN3c0lIZzdpWmh6amgxcWNNNzVCWGxGRnU4SlZjS0tjbF85dDQ2WFJuWmhvelZJVzRR?oc=5)
+• 🟢 [PMC to Relocate ‘Kalakar Katta’ Near Goodluck Café to Ease Gokhale Chowk Traffic - Pune Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjRGcjZSRWUwdXA5YkY0d0FRSzFPdFUwNUtmM1JuOTdoSVp1and2VEpMSlp4VVV2amE1cVc2VlRKaHhnZVhiQld3bm83bTZyLUdNeGpNbnNsRmE3b1RJdnJoUWVud2NTSnlTa3VoeGJ0TmlFZjlMdjZGVXhZWXpjWXQ4UnJSSF9nbUp1Ukcxd0ZzOTM3SU55N1lR?oc=5)
+• 🟢 [ARAI builds Rs 40 crore ADAS test facility in Pune - Autocar India](https://news.google.com/rss/articles/CBMimwFBVV95cUxOallTSGhaUnU2VHkzOVFONG9FX2g4M0JlNkhYaXdkQUtaSlJqY1VaMDdtNnhWT3FSb1l0ZEoyZzBCWDNURGkzQ0pBVkk4YTVMQ1h6RFNxdG1TQW9SbDgzbTRFWUQ5ZjItdTVPdHpNMmNTWXFqWTdJdnl0X1dSTy1CeGlnYmROUm5uaU5ncTVFN05kSE1fSVl2VzlOb9IBoAFBVV95cUxOOENzRVhadE1Nb3pCNEgxWkgtc0lnQVdSMDRiOU9rSVptakwzSlBKUF9iOU9CUmZvSjJuam1NN29sZVpFVktKNnZucWhpdkRmc1NCNkVxcS1aUG9KWEdKQ0d0VXMxVXVUQVg2R2tOZ0phNnNaWTZjY04yQ2lYcExBbndMdnhoR05OYjdFSmo0OUU2VFE4X2xsUVNwTDRsMW1x?oc=5)
+• 🔴 [Pune–Mumbai Expressway Jam Leaves Vehicles Crawling for Half an Hour - Oneindia](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0xoTzQwem0tYTdvVkNsaHJjc0dHVnFnUlNRY2M5cG93R0p5eUMyYWFxWnNETWg1RVFtSXhYS05WQ0w3T01rZ1I1UVJndE1WcnF1MjdTbl9Bd1JYdFJJamxQVXptZmI1VEQ4Q0x4Z1UtMXAwTFBMSm1fOTlZUklyY3FhTnk2WXFvZE5GbHV1QVRKcmtaUl9SQkN2TzNud1dfb1pkZUwyYXZDUlVNXzFnSEZIQQ?oc=5)
+• 🟢 [Pune–Mumbai Expressway Loses Its ‘Express’ Edge; Expansion is Only Solution - The Bridge Chronicle](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNnB0NWZVUlFEdzdpTmo1VGM0TmtQOWZGZXZ0SnV6a1pPaVNDeTJyeHFXdGhEUzJySW5uRU95SVBjeDNtZHNodDJmdjN3UGFlZVRldEQ4VUJLTHg1WGRWSjJLd3gzbTY0cGQ3djJRbXQtYWw4WmE4V3JlVXV4Sk92R1VXRW52NXNGaFBYSTQ2U1U0MmdwTUI5UUVvOTlFbC1UUUcwYVBn0gGmAUFVX3lxTE02cHQ1ZlVSUUR3N2lOajVUYzROa1A5ZkZldnRKdXprWk9pU0N5MnJ4cVd0aERTMnJJbm5FT3lJUGN4M21kc2h0MmZ2M3dQYWVlVGV0RDhVQktMeDVYZFZKMkt3eDNtNjRwZDd2MlFtdC1hbDhaYThXcmVVdXhKT3ZHVVdFbnY1c0ZoUFhJNDZTVTQyZ3BNQjlRRW85OUVsLVRRRzBhUGc?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
