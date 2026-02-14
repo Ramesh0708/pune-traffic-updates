@@ -2654,3 +2654,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Metro barricades shift traffic patterns every 3–6 weeks.
+
+### 2026-02-14 10:50:53
+🚦 Pune Traffic Updates • 14 Feb 2026 • 10:50 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Traffic Curbs in Junnar for Shiv Jayanti: One-Way System from Feb 18 Morning to Midnight Feb 19 - Pune Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPeVRWYUdNRjQ1Y3ZPSjR1TGxMOVpEQ1l1bzcxc3dQODVtMVBnYUZoUExJa3VURjB4ZktiX0xBZ1RsRGxkanVQU0VwNjFBTFJGWWpmQVNZbm1MeXI0X0FSUjdIMnBoMkpSNEw1cVdFRkhxYkR0OW9LbHlyOGlDWkFoNlNZZHpYazRuU0RDN2RzUQ?oc=5)
+• 🟢 [Pune–Bengaluru Highway’s Six-Lane Flyover Worth Rs 913.7 Crore Gets Green Light: Will It Ease Kolhapur Traf - News18](https://news.google.com/rss/articles/CBMizgFBVV95cUxOYk15bEVXOWt5RDRvQUNpY3dIbzE4VmlwUE85dm9WZlJTblJldjRiTkxwb1pTZnVzMTNXUGhSNzNSTW4zbDBvV2ZyMzJFNkRFM0k2NWU3MjBOWW5LNUdIdURaX19KQVlaWnRSeUVNcFRDVThkSFF1b2xWNzR3T3FaRXphVzlZWV94UHdEU2Fka3RRU1hLZm42YngyRkRac0tQcWk0bHlvZnpURkttQnlPNzF5UU1ackFicWpjbzlISkZTUzduY2hQUjduYmk0d9IBzgFBVV95cUxOYk15bEVXOWt5RDRvQUNpY3dIbzE4VmlwUE85dm9WZlJTblJldjRiTkxwb1pTZnVzMTNXUGhSNzNSTW4zbDBvV2ZyMzJFNkRFM0k2NWU3MjBOWW5LNUdIdURaX19KQVlaWnRSeUVNcFRDVThkSFF1b2xWNzR3T3FaRXphVzlZWV94UHdEU2Fka3RRU1hLZm42YngyRkRac0tQcWk0bHlvZnpURkttQnlPNzF5UU1ackFicWpjbzlISkZTUzduY2hQUjduYmk0dw?oc=5)
+• 🟢 [Push to Pune Growth Hub draft plan - Times of India](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEtXa1RyQkNWVWRMTFBvdFRwZ1hYcnRHSVE1LVh3bWgwM1NYRlJKamt4a2xzZGhpZXpsbEdiYmVySEZDYjZScElTc24xZG9LZGxBbmxzOVJLUjdBX1IwS3RIUGd4US1HampOVzZZOHc4ZllhYUJDVFRMYnFZNnBIaWhYd2FtMWNJMDMxc3QwUkpXRFJYTlo4V2dtY3V0UTlQbjJJMFQzSGJiUdIBrwFBVV95cUxOZC1fendwaXcwc0I0cHg0dGVOUDJ3ajZHdEU3ZmpxaXZmdEM4ME5uQjRaaHF1UlM1Y3VaYV9WU2tFLUx2bTBJOVMtQXUwQXc5YUdFOHpDd09DMVFoUlJSTjhrRHY2MG1KVDkyNk01YXdIZ1BwLVpSd3hxWG1OTGp5Q09YYVFrdURDQmhMN2JfVW9rT1ZaXzU3aFdwTE1lelpzQy12SUxDZ3ZveTlLektR?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Metro barricades shift traffic patterns every 3–6 weeks.
