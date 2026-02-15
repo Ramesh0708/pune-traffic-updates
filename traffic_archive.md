@@ -2668,3 +2668,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Metro barricades shift traffic patterns every 3–6 weeks.
+
+### 2026-02-15 04:50:23
+🚦 Pune Traffic Updates • 15 Feb 2026 • 04:50 AM
+
+• 🔴 [IRB Assures Toll Refund After 32-Hour Traffic Snarl on Mumbai–Pune Expressway Following Gas Tanker Accident - Punekar News](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3huV3k0YlRuVVNPcW8tNndEY3R0Ti02TjBqN2xXZXV2ODBSaDFOcDBZSVRlUjJmU18ydW1OeERRM1R5YUFvcS1uMVN2eGJFb3MxMjdNOVpsb1ZoVXVPTW5fSzA0ZDRqcWotUUZkcXNPX3U3aGl3Z3htbE5JWGRUR1Q4M2V0aUVwQV9MQ1lBSWVfZy1Kb3JzeTRrZGw4M1ZVeW9jNWZZZFlKbzNGeTZmWWo2VElxQ1YwRGpqNEJKN3kteldZVkJLTWFZSmxMUnh5?oc=5)
+• 🟢 [Triple Riding Crackdown in Pune: Rs 1.03 Crore Fine Recovered by Traffic Police in Five Days - Punekar News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmc4bDJlTkNNMmY0LUdnT2VJak45WGNFZDdfUjQ4cUdmZ29vOTFlcWFSSlNjeEkwZTROb3dybS1pMHlIQVppZzR5VFlvZ3k4OUhxRzJBcWpjTEhad0wxWkVmTFhGcXNZZHJZSEFSZXhreGk0a2pCQ1ktYkphbWR0NEUwYUIzMUo2U3dmT2Mta084aGs2ZlhJYXE1Zk0xSW9DbGVHNm0zd3VPRDJfM0FfeURvZldVblcwaC1Z?oc=5)
+• 🔴 [Pune Traffic Advisory for Maha Shivratri 2026: Diversions Announced in Kasba Peth and Yerwada - Punekar News](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1lhd0RLbXBuTXBnMUZYVXlZUWVGZEoxVUNYQlN1VFI1UmVXbW9iMk5mTkVfbGRucUYyRUdwZHROeVo0dTN1V0FTVERNd1hqbHVDUUZZdWVwUDN3V0c0RWdRZDNZNG1YNEd6TzlYWUEwaHV6d1RId0hYOWtGXzgtRUNrazRnQnZHYTBMQy05VmtlcUh0UWl3elJWSHd5MndEWHBmOGVSNkNFcHhuVVRnMjZsWGtzUFBzekszaw?oc=5)
+• 🟢 [Pune collector sets 20-day deadline for highway exit & lane discipline SOPs - Times of India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUluaVF0NDZZR0dtTXFZSUxFOGZtaUM4VXJHaUlEQ09zOGpONnNsVUVSb1RZeEd6eTctR2NxTEJTeVVfVHRrdjZaS1JBeEcySVU5eVhsQlAyZVFJSG9lN0FIY3hXZ1VUWXVnb1lObXhCWW0tMnNRWktURmp1eXNEYTBRY0tRT2o4eGJLb25sM2NTNWlzZzFPS3pLal9jYnFHMXFzYk9FcFpoa2p1aERhTXR5cm52U1Npb25VSC0wY002VHdmSTF1ZW5SNGpNT3loYVNOdjAtaTdaZHRfUEHSAeMBQVVfeXFMUGJSaDY5V0tiVTB0Z0Jva0pxLURzVUVIdklUX3dlSV83bjRyc0QtbkZ5VFE1UkFGTWh0S2I4dlZkdmVuY1ktd2dLOWtNckd1cThERWNZdzloZGh3bFZ1cVhsNE5oOWE3RnltWF9vdEwzc3FCZDE0c0Jfd2c4QVhjTVN2RDZsNVk4RjJCQlpuOGFWTWNhVW1NOGNOSmstQnFycUs1ZFU1aHJ5S2k3QWY3ZjYybnd2b1o2Snd3QU80eUVnaEgwdTZucUI4a2lNd3AxbWwtRjcwYXk5SEZadWQyMDBwcjA?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Pune has 260+ synchronized traffic lights.
