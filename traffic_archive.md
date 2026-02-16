@@ -2705,3 +2705,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Baner Road spikes heavily during school timings.
+
+### 2026-02-16 11:10:57
+🚦 Pune Traffic Updates • 16 Feb 2026 • 11:10 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [PMC Clears Encroachments on Mundhwa–Hadapsar Road - Pune Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE1SUmpyUzBjSEM5VzhiNG03NllfZ0ZUQjlTNTlnNnJOQXYyNjFmTWt2MXE2c1VRSjdBMGIzS08tWEo4eEY2dXJCM3dRaGZncFBMQktpRW14VkpOLU5ieXBtZUg2WjQ2YmQzRmNicElXeExHOUlfN09TUGlnMURvZw?oc=5)
+• 🟢 [PM Modi, French President Macron to Meet in Mumbai; 13-Hour Traffic Curbs on Western Express Highway - Pune Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmN4VDZ1ZHR4aVN2WTdSTVBCbUZEeUU3OFBPNThuWDgxRUxMRWRiZXFyRHp4ZDVMMnRpQzk4Mjh6cGpMYkNBUGhvTVl3Q1RfZGp6OEliV1l6TkN3R3JvV3pRaVY1TElybm5pdUdBdmNSX0ZYc1lfSDRJYnRPeS1jenhvOWZEXy1XZ1Fz?oc=5)
+• 🔴 [Mumbai–Pune Expressway Jam: IRB Assures Toll Refund After 32-Hour Gridlock - Pune Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUpXWDQ0SkRiMEFFOWFsemw3Q1FETzFjOW43Q01kZVUyUEE5OElocG5MRS1ER0pST0kxQnE2T0RaU0lyUU5XZWxqVVFfck9icnpzQXpDNUZWcUg2XzZRZnZIMk9KeDJWZUtkcVo2emQxcUszRk9IdFZwRGozNmNzVA?oc=5)
+• 🟢 [Pune Police Launches Intensive Crackdown on Triple-Seat Riding; Fines Cross ₹1 Crore Mark - The Bridge Chronicle](https://news.google.com/rss/articles/CBMioAFBVV95cUxONDZTR190blRMMVFLYXE1VXc5ZC1GUHJKckJOcEZhSEZYYnlQSjJyTmR6aWhueUUxdlgtWUVZTW9GMG9Xam1oLUk1YVVOdFZ4MmNJcFBEX1ZzdldSenJyZGZnQWFVTHp0TFRmZDdyMVRrU2xvU3ZEWUtucXh3Z05uVzFLU3J5SlN2eEtaY0hJd25jM2lXUm1wY2hCLU5wNXY40gGuAUFVX3lxTFBaWmVzSXVVTF9mbVk3YjhRajhBaXlzS3F1M3UwY2NVWGpBQ1ZKalJ5OW1aM2tRNTNaYnh6aDhWeTBjeXhRRHdjUWJabjdRdEoySWZxX2ZLY1lUc1RNQWJ5c05SZEFUQ21ta1EyWDNVQ3c4MnNZWVNzSXN1cnE4Z200Tk13WGgyMUY0eElsdUN3b21iOHVMQkRyaVFMVUoyVzA3aHpVaWJETmNNRXhpZw?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Baner Road spikes heavily during school timings.
