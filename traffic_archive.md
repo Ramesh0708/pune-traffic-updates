@@ -2720,3 +2720,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Baner Road spikes heavily during school timings.
+
+### 2026-02-17 04:48:43
+🚦 Pune Traffic Updates • 17 Feb 2026 • 04:48 AM
+
+• 🟢 [Pune traffic police book 2,649 triple-seat riders in two-day drive - Mid-day](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMTRqRTBNWDVIOXc5eTVyQnJxVTRza3lpQ1JhX1NHV284YThTT2luSVh0TzFzblB5ek0wNDJ1RlViUWRhQVBLUWxoMHJsZS1zZnNMUUFYUjd0SnRZV09SQjl0cXJZXzVMeUN4SS04VFlPOXdiX203Qk5KMExtU0xfaklOdml5NXI3RndCSWQ2SWhSVHRPTDFaVDNTbnJfeFNacEtEdDZpWnpIYTZQbjUtRUZSYks0SWktQk5hZUpLU2HSAcYBQVVfeXFMTXVleE92VTZGNHptc3AyY1RXSlpWODREZjF3VmdvMnNqX2FrbXJ1Uk5rdXdPREhXOV9jQ0hMWlZmcVZuREo4Y3BKUWRCdDdtQ2Z4M2FxdWIwT2V5Q3ZwYnNsNE51ZkRleENzWlBwV3VTaVZnd2pPRTJZSnJqTmtSVzJCendjclFKUnhGU1NpZ25Ia2lraG5jc2M1TUJ2S0YxbzhzOUMwNWFYZGU3em82Q3kyUVNQRnNULVc2R1BhUGUwUXBTM2xB?oc=5)
+• 🔴 [NCP corporator opposes shift from Good Luck chowk | ‘Causing heavy traffic’: BJP corporators demand shifting Kalakar katta - The Indian Express](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3M1bVVOaVpQZHhkVU1RZ1BLMUY3a09DTm9LcFlWT1NNY3NqWi1kUlBVd1pGWmw2TDU4Wko4R1pIazNiUmZHY2swenVMa0p2RUwxX29HWTRyWnlDVVVWT2tYUHV2N1dLNTVWMjlTSUo2YXBXY2RoR0l5ZTVjdlZ5eUgyWVlIVEV2cXNxLWhCSEpFc2Z1X2lTcG9KWHR6UTlBQnhUR2ZTV0FkRFU4NTdORGp6RdIBugFBVV95cUxNMndpMXBpWWRpMTFSNzJPcHlKSFFIT1A5YlFIaDdNVWo1RW5TQ2p3cno5aUl3UGM0T1pXMW9FdmJRTDlZRnVmeVgxRGR0SzBsTFBfUC1Zd0M4YlVINUFyUFFBekhvWUx4YmVfWG1McFNvbXZhbDJDejloVi1SVDlzQThBaDVscWpUQUV4UlRESDJoY0FjTGNJYjhxTnpkNGduTXkxR1FBNGlmWDdXYTMtanBfNDIzNGdhTnc?oc=5)
+• 🟢 [‘A dent to Pune’s cultural identity’: Artists, residents resist proposal to relocate Kalakar Katta - The Indian Express](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVA1ZVgyNjdtREd3ZDFNcXZtM250Z2I1WDZvZWNkOU5WZ0NKVm5FZEw5S3d6U1VELUZhLWJGNkx1OWpmTUp0T3Y3X2luWVFRLUhZcTVKU0lFU2JRRGllMFU5Tkd6NjlGWkd0aGgxN1NsUUF3UXc3ZHZkWkRPN2tWcVlPRFdTLXBydjVrT0l5YmZHak1YMENRUTZEemdRc0p6bzVBZFNpYUljWmZLdV9rcUNPVE16OGtUZDlRVDBTR3lwN0I2aVNzLVdfUXrSAdMBQVVfeXFMTS1lWm9NVXRNdVNERVg5MGloUUZiRjdaemxWc3ZDOGhmdzBPWnN2T25sSUJ4TDF0V0lYelloVi1nYldBWFpFTG5XeE1wc1VZMkU0YlZMaVhhZmFSQTFFSHBEZkIzUC1pcFN1RElqU3p2VC04cGlZUTNkckl1VkRfQ1dtWUoyQ1k0eW9ELXFOcDBsYkNvcWZJZjctR3NyckNmeHIzOHNpa0x6N29CTTdnQVFlanhrMnB3ZFZieGJELVRPUmtzQkw5bzhta29wU0ZWalBxVQ?oc=5)
+• 🟢 [PMC Launches Encroachment Drive to Widen Roads in Mundhwa, Hadapsar - Pune Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTFAyRHlZQi1Vc29DNGRkNUE2TS1JX2FMS2JIZ0VFLUxHbzVMRE9rNm5VRGJ0OXIwaGpyX18yZm5teS1obDlVZHZkVDhoQUZVR1FGdENHVXZfRFRTQzZRVnVVRTliVktfN1FWUm5tanU5QXVkR3ZxWU1BS0pLQ3lRdw?oc=5)
+• 🟢 [Pune Traffic Police Crack Down on Drunk Driving; 230 Motorists Booked in Special Drive - Punekar News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmxHcFN2cGRqdzVLbUxnRWlvQzJqVHBtWjBXcGkzMnRtR1ZLWXBJZEc0YW9yNHNjVjdTZEUwNjlFdDVzTlpmeU8tSThVT1dnYWdSSFhIeTJLVWhIWXhCU3d3RGhTMTFYeEsyT3Q4UEozR0M2NC1pU2tkUUppd3A0RkN4NDNqcC1HWlJieEtPai05eWY0ZmJ0QUtXZVd1RnRnZTV0aGpOQlJCVk9abkVWalFtNA?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
