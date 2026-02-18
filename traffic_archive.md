@@ -2764,3 +2764,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
+
+### 2026-02-18 11:10:37
+🚦 Pune Traffic Updates • 18 Feb 2026 • 11:10 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [PMC to pursue multi-pronged plan to decongest 32 key roads, improve traffic flow - Times of India](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSncxRUNLMkt4ZjNCbHpBcFJNX0dkY2plcm9CVmN5dVg3NWl2M2NWQWdPSjJPZTdhNXBqLUltY2R5c3B0Z3RhVnduRkpPaEVLcFJoUGZUOVJZdEpxSGhiNXVLeEZTMHlubk1Cb3JKTW0tUlp2Z3ZSV2NHMXZlWVZGUlJvempleGdRSWJVUGVZdWxVcHFjb0pQcXoxRnhJZDZqNGU1Y0JvNmxRMkVibWZrSHl5Q3VoZVpTTDlNSkhtbGZmWExNakdmSGFPZzhsRk53SEVtSk9NeXRaVm9HazR1dHBqX3pQUdIB6wFBVV95cUxOUFpZN1BxVlVwQ240ejhmNFRodi1ZMGxGTXJPM0pvOWVVVWI1NVdzeGx0SlBXTU52eWE1cVJELURBMVhqeVdHRS1Tc0VJNWFaOE5GbWNkTnRFQXhXZjh6VDFYNWNUVGdmNng0MXpLTVZIblgyb0tCbXpQWmc0aERCdTN2SzdlY1RWZzhSZklzQ0F1bk9nTVpuZW9wcnJBMmRxcjQzcmx0UzhOSkVweWR5SE4tdll5b2FubGFCN0JkZ2dnZ1I1SllDS25MUlBDbFRwNkE3Nm4xcWVxMHhCMi1BTndYNndsSml2Tzdv?oc=5)
+• 🔴 [Pune: Traffic Diversions Announced in Hinjewadi on February 19 for Shiv Jayanti Procession - PUNE PULSE](https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFdQd3Bia1FfaGNBZWt3YTFPVFJrWTh4ZkU4a0Nkald4b2hRbUJnNjJMblNEei1MRDZrYjJNSkphNXlzd1hhNXNqU3BfbmhEc2tONnNlSDZ3Ny1iM1ZnRlZlUlNkNy1XZnZERUluSE9wbHpvek9SN2VoVFZ0M2lDUElnaFotVXRPYWx5Tjl4MnlnNi1Zc2ZmMDN0d2wzQWN5cmdGMGZOeWhjNXZ4N1RlS29rRVJvbmZSdHc?oc=5)
+• 🔴 [Traffic Diversions Announced in Hinjawadi for Large Procession - Pune Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFZkSXZ0RFRJQTJtQkhTeTBoRUJrZ05vdjZ5SmhUVkJZLTVqQk5MLU5ScVdraTdRYTdoMjNwUm5YQ2tBZXpBcGk5Z0RlVUN5UmlhcUdpOUNDcHd1dVJEbGpheEFNYUt1bTZvWWhuU1o5a1NFWnBQXzREbXJxRG4wbjR4aw?oc=5)
+• 🟡 [Pune Traffic Crisis: 1,300 New Vehicles Added Daily as City Ranks 5th Worst Globally for Congestion; Police Unveil Strategic Mobility Plan - Punekar News](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPa2VZWkpqX1d4YllIalhic2d1RE56Z0FKdHl5aFBkaGM3bWlDWVdjLUxaX20tdTJjZXA3SGI0SDRXQUVweFNaX0FkQnNVMVpaeHRvQ3R5VG0tZ3JucHd5T3pVLW4zcHRSX3Q5SXRlc2VSZTNFR0dsakVIcWhOcHlaNng3ZmJxRkFMa053dUVBcFNtbjFRRllQa0phZmFSQ2RvU2Z3OUdJd1pJNjV4aDlNTndvMXpJeXV5cXFyUG9xbjZhdlNUZkRzVGdjUWtoVk5XRGc2ay1GNXN1QjZfWWNsR1I5Qi1ycnJ4OER5dWl5MWlMZEpKWlE?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
