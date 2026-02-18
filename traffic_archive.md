@@ -2747,3 +2747,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+### 2026-02-18 04:49:36
+🚦 Pune Traffic Updates • 18 Feb 2026 • 04:49 AM
+
+• 🟢 [Major Traffic Improvements by December 2026 in City: Pune Municipal Commissioner - The Bridge Chronicle](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWpublY3N293c21BRHIzOHpwUzNHc2pjLXZ0V3AyUWR0VFZLT1JLQm1oRDU3Y3NEd3A1RlhNLUpnbjZsTmhTV2R3NzlFblZuYmZ3V0ttRzhLN3hwSGZ6bXJLMzFWaUZfS1gzdHNpQnMyTHdfb3NrN0ZDMDBybzlBSnJLNUVTMHl1ZnRYeTBnZ0JqbWM0MmJmMVB4X1ZHWXNsNW5hSXpIa3dwWVZOLVZsbFpxbzLSAcIBQVVfeXFMTVNPZ3lubW00MHZhTWZnTFJ1OW5nazZzbGZtNV9DTU96UFM3XzU3WHBPNzNFRDVyOHNlUmxRWUM3S2F3bzBoZHJrNVg4UDF1eUhiaUxZb0NSN3NaZ2h0TDlLVjVLeTdDcFFreEhTNFdDUDkyMm50U1VXakRCUVpJVHB4QkFDcVNscmVuNTV0VGd4Yl9RTV82UGp0MHRuTzE4ckdNUHF3a3NIcjFld1VMVWxUV2F0OEpNUEhuRkFSNDdyc1E?oc=5)
+• 🟢 [PMC to pursue multi-pronged plan to decongest 32 key roads, improve traffic flow - Times of India](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSncxRUNLMkt4ZjNCbHpBcFJNX0dkY2plcm9CVmN5dVg3NWl2M2NWQWdPSjJPZTdhNXBqLUltY2R5c3B0Z3RhVnduRkpPaEVLcFJoUGZUOVJZdEpxSGhiNXVLeEZTMHlubk1Cb3JKTW0tUlp2Z3ZSV2NHMXZlWVZGUlJvempleGdRSWJVUGVZdWxVcHFjb0pQcXoxRnhJZDZqNGU1Y0JvNmxRMkVibWZrSHl5Q3VoZVpTTDlNSkhtbGZmWExNakdmSGFPZzhsRk53SEVtSk9NeXRaVm9HazR1dHBqX3pQUQ?oc=5)
+• 🔴 [Traffic Diversions Announced in Pune for Shivaji Maharaj Jayanti Processions on Thursday - The Bridge Chronicle](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHlQQmUxX2IzLTd0WXNJRDFOb0tBaTBBX1JIc25JTjNRNGVURFF5ZHlQMXp0QUNXU19sTkFyNk5IUUhyNmZ0ajJhYmZmZ0c5VGRWQV9IbFZjWFBaVnkyYUJlMXZXX0ZTMFhnNkRwNkxRWHFHUVB6ZTNLSmZRSTBMUUVPQ01pQ1Q3T0N1cVdUdFV1SHIyVEo5ZHoycWU3bFZoNEk1Q21aLUJ1R0hFc19IdkxlVGPSAcIBQVVfeXFMT1ZLaXZOUWV6QmpPdXVQVi1BT28tSmdPMFRabWRYSy1jZ1VuSUVoWU12NlZkdjcyMXJSWXVjZ19IYmh0bnNaZEFTOWR0bENkaXdLR3I0R3JtVE5kbUpHLWp3NTVTQjROY2MwU3lVVTB2WTNURHdQRElxdDF0WHp5YlBlZkQ0TDF3S0JJeEZMenNsZFRyZUJXTHp1TU1hUVNtenV2dGh0NHVHejdrSTFlb2VITjVscjBzVHE1UWNUMlVGdUE?oc=5)
+• 🟢 [Pune: PMC Holds One-Day Workshop on Urban Mobility Focusing on Short-Term Measures, Big Data, Clean Air, and TOD-Based Strategies - Punekar News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWWt2elBhYVJaUldHQVlPTWJrdzA4a19YcHluVTZSeU9OSzg5N1BqQmd0ajltdFZSNmRTMW1zaFpHX0lwYU8tZ2tULU9TX3RsS0EyUWI1SGhLTHdjZnowMGt1WmR6MUFKckFaNTRiQ21TV0gtMDhnd2tyYWZvei10djl5c1lQaGMwc0lkb2Vfd19ieV9yem44RFpPQkZSdGd0NlNvT0pJRVp1UTNOV19EcW95WEl5Y3NmWXpIUVV0eEpCMjBmS0hISDlHTXJERlJNbFpwZGJ2X3FJd0xJb2p2ekItMEZ4OVNH?oc=5)
+• 🔴 [Traffic Diversions Announced in Hinjewadi for Shiv Jayanti Procession - Punekar News](https://news.google.com/rss/articles/CBMingFBVV95cUxQMEhvRlRNVDRCT2tzb05uTVh3SVhkV01MTnRObnJORzdEY1R4RDg0SS1mRl9nb1JCZWRfcGhNQUdOamRhSlhVcDFZT29mS3d3ZWlZeEhXazNnYjQzQ3lfcHYxWnhUVVFPNGp6NnQwSlpzNkl6SHdwM0k3ekdwSzdHZnh4MUtLYWp1eG1ON3ZVUVZobVFReWFmaVd1cFBpZw?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
