@@ -2779,3 +2779,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
+
+### 2026-02-19 04:48:52
+🚦 Pune Traffic Updates • 19 Feb 2026 • 04:48 AM
+
+• 🟢 [Proposed Yerawada-Katraj underground tunnel under scanner again, consultant told to resubmit report - Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbzd3bzAweXBGa0JLR3RyUjhtTmhRdE9CdS1QeU5teUx0Qjh4WWM5S1FtX2pKNEhuOFpIYlpyN0VlMkVQVC0wUTdEckgzVmNENkFUcURQeGpNWlM0emc5Sms4SUhjZElkcVMxNzFKQlFJcFY0cTJRbnFMQlc4TXJWa2RMWTA3S19nTXc2NlJ6RS1wYUhManRlcVZKeXljMl9KVU9EN3NKbEI2NUR2cFdEMEFBZWNjbDFSV3czWHJ0eEJtQklvVTZOQmlJNXdhbmNVUk9ZaVl3QWlTaHlDZGROazNRbWo4T0w2ZnBnV3BBRVkxajd0NnBrMHB0a2pLX0nSAYQCQVVfeXFMTXB5Z1MzdEdlcWQyU3Zjb1VPVjNZUWRENFlpQmsxWVJJR0FJYUF3T1lpZ3A1bVBtTDlsa3F3aEN4dnI2eHV0TUkxQXBiTXMxSHFfdGYyQm1OdEVfWm1XeVVaZUhodkNIZkFmdjRlT09nNVFhbEtvVnhxWERXQ19NUnZpbmwtWnItNmYyYkxLOTdoUm5NZmEyQUdkc3JCd214cnhiZGtaRWVTdFFycEhDQjBfZW9MQTk2RXVnLUtseGFuNm1XdXhsaTZCd2ZIMFprc09KUjJKLTZqNFBPbld6RzRuMG9OYmxIZktZeUZ3azh6a242U2NrcmJkVmVHelZoWnN1LUY?oc=5)
+• 🟢 [Pune: Ramzan Rush Fears Grow as Kondhwa Residents Flag Traffic Chaos - Punekar News](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnhIdnp5ZnZaeFJpNGtmTU10YUhLTDBGclMwMzFCV0wwM2ZvQlViOWJLSW9FVlE4RTU5RzRhUF96ZzRiOFdwMEJTU1BxY1I4a2h4Y1F3MnNqT2QwRlBmRm5yZXNHNG5ER1lYVUtFVEJHMjJNN2l1blZoUGw4NzJBb2o1VWE5czJxX21pdGpZSlFBdU85RV9Qb1U1bw?oc=5)
+• 🔴 [Pune: Multi-Vehicle Crash Near Navale Bridge on Pune–Satara Highway Injures 3–4, Traffic Disrupted - PUNE PULSE](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONElLbGpiRFdpb2d2N3hNZ3FNQ1ktUTBjMWJBZTFPenFUSTNPZjlDNTZoUUZkQ3ZzT2RyRWNnczlrSlF5WFRIMWdOSFR4UG5SY0VvLUF0TGVOSlp4R1FxWVdjYU1QdHFoT1JxdWpqOE1aY1hxOWhGLXVpbUtWVXdoN0ZhejJxeE5ORlY5R1ZHT1RlQjV2eU83VTRXTFVydVlGMlRfS3VhbHhscVJxWUxYX21pZHFQaGdLd05KMVkxZkUzTXc?oc=5)
+• 🟢 [Pune: Police Survey NIBM Road and Kausarbaug Area Ahead Of Ramzan To Tackle Traffic Woes; Residents Seek PMC Support - PUNE PULSE](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1YyTERSa3paNWxwbzBIVV9jbmpFQ2tHbVdEZ2RyUmpfZXUxU0J2MmJYakZFLWRYZ29SR0hnMnlwX2VZa3VkYzhmQ0owWWFlZFNid2IzMjY4bzIyR2pPMnVxbjJ1d0xONHpPeGNSUERBQnhtemtRTV85aTZRMjhocnF2MDV0d0hBNzIxdnhSZ2xSaG1CNE5vUy1XLVBBRDZJa01XcDJQbmo1Ui1wXzEwRmpkSmgwN0VROFdWV2dUdnQxSERDWFdTb25pcWtrZ3JYN0NUR3FkSG1IY00?oc=5)
+• 🟢 [Pune: Six Fire Tenders Deployed After Blaze Engulfs Warehouse on Lohegaon–Wagholi Road - Punekar News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEVfYmE1eTFRWlZIdFctdVQ0QjREMC1PNjg4aFVGandaMXh2TTV3dmFrOGhCZXBJSWFUWkZxa1BKZnBwSGtSSS1MZC13dmd0QlVsNWxhNVpfRXVyRWFKbDJySFhQc0xqc21XQXFpcmZrNGtMd2hXb2loWkYzc2RHQTEwb0FjdTU1ZDJWODg5d005SEIzTFRoeFdjUjdaR3lISWVqbXY4VVRid2ZyNnRzczFRdw?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚙 Balewadi High Street jams peak after 7 PM weekends.
