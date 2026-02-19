@@ -2796,3 +2796,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚙 Balewadi High Street jams peak after 7 PM weekends.
+
+### 2026-02-19 11:10:39
+🚦 Pune Traffic Updates • 19 Feb 2026 • 11:10 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Proposal Seeks Passenger-Only Access on Mumbai–Pune Expressway Missing Link for First Six Months - Pune Mirror](https://news.google.com/rss/articles/CBMingFBVV95cUxPamhDOUE4akVpeUpUc0NiVndjUWt0QmRIZW9oOS1aUnk0QXB0UTBpcWFvSnlib00yeENoakppcmtFenQ0aFlQSXVJb21Qd0VqajZobjd6SVNWc2RVbmZibGJIbzZic0pUMGlwdy1XWEJZVFlUWGt0MklTTy1qSkdhbmhXdF84ZDRJVFNsX2VCOXF2NkxZNDF6dVZjWjlrQQ?oc=5)
+• 🟢 [Too bright to be safe: Unregulated aftermarket headlights are turning Pune’s roads into a safety hazard - The Indian Express](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVE9pbWVDQUhrbTFaQjE5aFlGWklEZXJhSTZ5SUk1ZVJIMDdkdHNxV2N1WEJuLVp4SGlqSXJnUUVvR0ttbDQxT21JWWNmTkVQc2JoU1lYZFprWFJJQ296UXlQU255TEZCRmp3S0JrWlQwbThtTU5hWnN5UjZwempkV3QwOVVhUkwtR1QzZTRGRFlBYVZsNTNkSDd0MzNyd1dUQmM2TUl1MnpFYmgtcG1CaF9scUpaZEhIWnhjb3RYbkthUGd0TjlfcEJya25POWlDclBMYnM0SWw0WWNVaTE2ZFhTWklIX2lrNDVQS1hR0gH0AUFVX3lxTFB2LV9abDBKcUU1TDB2bmNqZ1lSNWlzd0hWZURzUnB5MWhrRTZnbVozcTN1aF9BSzdYeTlvY0RxTml2dTVTNzRmQWRXcVVQWjRBcUZQa09kVGRwNWV1eGY3T2E1RXlLdjk4RVNhX21NNE5STm16bklsUmc4MmlYOXoyVzBrRS1zcEpHZnd0N1lnaVE3Tzh5QXFBcEY4MHd2NW1sNFN0X3pJbDd3WjVaTVpwRXFHNDBRdlJObzlFeW5uVnd1ZGhVZlZ2M201cXZWd0RicjZsclROV2xobjVPSHd2aDJCbVpsNzlyNTJxS21GQnRCSjI?oc=5)
+• 🟢 [Speeding Dumper Collides with Eight Vehicles, Catches Fire on Katraj-Dehu Road - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzJybU1INVNWS2xKc25qTTlaV0MyNjlUSXZ4WFpQRHUzaGp3ZF80VExTYXk3UmItVXpqTUQ4NTNvTFVDM08tdTJzX2pCT01nVHYzdTh0MEE5NWl2S0xUNU9XSzFBRWtubHBVSkw5dnlkc0JDVS1rYTZ1MzU0WmlEOTBDYWdIMmRhNFZ5bk5xSlp6eWxIUG1IOFoyMG5Jc3RHRmZv0gGwAUFVX3lxTE4zTkxNN1lyUGhwVEh0cTNtZW5Ub1ExNEhYNzgwcEMtRkxhbU0xYWV2NmRXZFotcXdiYWhYUUt3eG11NWRoVFR3UnozUklVOWdtZ2s4NWkydUhES01BMHBnMjY2aktBLUZvdEdfTFdNQmxZX0VZcG1uMWs3dWZqUkNpTkZUZ2JycUxPU3pCaldabjktR2dFWkhEem1fc1ZYaUFqanJ4UU45NTFlTk5DQTZI?oc=5)
+• 🔴 [Massive Traffic Jam Hits Mumbai–Pune Expressway Near Khandala Tunnel - Punekar News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjYtdFdtOURINVF0MXNld1I3dW1ZMmcwU1poMHhXLWJUcThiN2wyRi0xOGtxMnFaTXB4UXlTRU5ZU05aWUFyS3F6ZWJUYkFKVXdmUVJERFlLenRLU1Zmd21RSDhERWhsR1piTzd6RXlJdGx6VldYRUREa1pETHhWcGMtSUZSaVpGc3o4cnRZSG1FMjVHY3lxMm5iRlg?oc=5)
+• 🟢 [Massive Traffic Gridlock at Khandala Tunnel on Mumbai–Pune Expressway; Vehicles Stuck for Kilometres | WATCH - The Bridge Chronicle](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjZnWi1CNHc2MXFWRVZwNmppQ0pZTGpyNTNFaWxJbklERE41ZUdHWWJVdEFqN0lyNjF6eUd3TGNLVWwtT3NIQlBJQk9rWkJGQ0NHU0JrR1pnYjVzbVlxZmRlc1VBUkZhZ0k1N0twU1loZlkwU3hIT1NHV1lXclBpMmtvWGl3LTZCZTJWYUhqN3RZVTc1WVdr0gGkAUFVX3lxTFBJUlc4RzJab0pId29PaWlTQXlXWWI4T01WOGtXZFNMbHpHYUxRLXZvRzlkX2hZTlJJQjhVelhBVWFGbWZwUGZRcW1VaGF0VHdsQlRFN1hrejhwd0xBd1AtS29IanUtTmlBVjFpWnJpa0I1YXhIdllDc1prOGh6Z2FGeUF5ai02TUpweHJJNFlMdHpONGFGN2N3a21ZaGRLM0lWNzZh?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚙 Balewadi High Street jams peak after 7 PM weekends.
