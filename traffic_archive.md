@@ -2831,3 +2831,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚓 Pune Traffic Police issue over 10,000 challans a day.
+
+### 2026-02-20 11:02:36
+🚦 Pune Traffic Updates • 20 Feb 2026 • 11:02 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Youth Uses Friend’s Number Plate to Avoid Loan Seizure, Parking Fine Exposes Fraud - Pune Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlZCV3d6dFhaYlRvcGFJU1U2ZWUwNXhEaEgyOHlHUXJqTGpoUkxzLWNvQ2dJVENhVTgybnRTQkJ6ckJDd0ZNVU1ocnFuZnNTMUttWjBsUkJmZEJtVXBRX0M2d0R5WFh0R0JTSTBJQU16c2g5SDhCdEtQa0VSRXBJN3BCd0s?oc=5)
+• 🟡 [Baner-Side Ramp at Pune University Chowk Flyover Opening Delayed Further - The Bridge Chronicle](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkZGMUU5RzA0d1h4TXJFY1dhUmJqN3dfTm82b0k3Nmt4RExXcWFFQzdjeDZNclNoZUpzUkFENThLZlVESUJiQ2ptVlVPLXF2VnhCa0dqckhXcGdKMVcxVlZkWF9COWJPaDFFdmk5SUpEanNBaVVBZTlKWWU4SDVScG5MWlRuTC1XendNd1hLUFFoUlpuQnNlTFNaVExXR0RTUHJyddIBsgFBVV95cUxNRkVLWWZKOWJtVC0xODV0R1dJa2pzNDBKZTBZM3cyWDVOdUhjMjByUEVpR3U1YVpOdlVSZV9hUUhtR0R2VjJyVlZXd2I3Y25ic2N0TUVNUlRkNTVvdTFuWDM5N3JjS202djFhcVFCdEtaN3g5bnpTQl9oQzVVQmxTRzFxTHg5ODU5MFRLa3F0SDBHOVBlNnJ5OGlFSjNUYUtQcjdSVE1fNlFRcHlrUzl3Y3F3?oc=5)
+• 🟢 [Delhi traffic AI Summit chaos: US CEO’s frustrating ordeal sparks outrage - Pune Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE54Y3RIeGtSbnRXeGZnY3ZjQmYwc1dha1JBNjFORFI0aVN4b1MySnBKMnNpZ2NoY1V6b1ZNYU1QcDI2T2g5Rk9LRlFKcVQ1bzBIdE9kM2xhR01XUFdxWGNnUjhVQ3pPcEFkNzJFWk5qTGF0a00xQnFaOEtHeU9uUTg?oc=5)
+• 🟢 [Event-Ready Roads, Everyday Reality: Pune’s Patchwork Infrastructure Exposed - Pune Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0swZ2tmcDk2QjUtRmpMNm1YRERxNXBDTl9ZdXUzR3ZjQmljbGZHTjhndTNvdHM3NFFXZ28xalg0Y0ZMNWU2RW4tN3VrOGxaWFBualV4aU10bmwxTEI0cWZWaUF1RW4zMWk5WjhEVDROcmc5ZjVVS1pNVWNRYksyY19mVzBQUXliVjJlQ1AxNjkyaHBzVFNoclRR?oc=5)
+• 🟡 [Shivjayanti rush: Massive traffic snarls reported on Pune-Mumbai Expressway near Khandala tunnel - The Indian Express](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNU5XWGtwdFZkdzVqNEpEaEo4aXlNY3p2dTA5Z3dBSTZkNFMzVDE3UmRYWHctaDhxLWdnUGxTbW5UaE9TejB3cldCYTlrNEI5WU1hSy00Z0JoYnpYT0xaWW1ZcW1vRXByN1B5azZ4Qzl4eU16UmpCVzBra0hWWTlFbms4YVlGSTJIdEdxT2FxdHFGY1dyVG80ZFh1bi1XOW1sd291NUpnRG9kZkoxYTZ5d1NCQUw1b3ZQQ3p6TXVJLXEtcE5MQXlSc2dNaHdaamfSAdYBQVVfeXFMTTZqWWZSdnNSbmdjYWxfNGJSS09odVdMUkFWREdpUGV1REdhQmFib3NNT2g4MF8xWVlzOHF1YXM2VnhGTEs2YnVfejNhY25iWFNaZ0pNVDM4dWQzVnNRanZjcm9sOVRmQmFjU3pHeXZ3cDJ3dEl6bE9nMHo2Q3FrYlE3Q3BZR1Fud0pHY0Q1S2x2NnQ3SFA3NktjOERLVWJlZEZfd3h3UklZaGNlREtfN3ZDYnBOS0M2V2VkUXVTVEV1aHF0RmdLQ3BrZUxQckpobHNMLV9Sdw?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚓 Pune Traffic Police issue over 10,000 challans a day.
