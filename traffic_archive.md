@@ -2849,3 +2849,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚓 Pune Traffic Police issue over 10,000 challans a day.
+
+### 2026-02-21 04:24:01
+🚦 Pune Traffic Updates • 21 Feb 2026 • 04:24 AM
+
+• 🟢 [Traffic disrupted on Pune-Bengaluru highway for 30 minutes after container truck tips over - The Times of India](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeVFBd1Fkc1hPWk5uX2ltd0dFc292NkdLVVlDd0tYWXQ3djM1MDI1d1Zua3FTbUV6S3BMS0w4aW1SUXRrMXNJUHRBWHVPdU11bk56VWphYV9DNF9RUW5QM1lkVXlMUkNiRlR0NjhzVXlZajgwVEFsclRTUlZTWHhfQzRmMDIzNjVBYXVXQlRxX044aElnOWxrV1pEOEVIekhMM3JKeWtqQzVWNE9vRWlDM20zV2UzX1hGUWFENE9GcGJFbjRsSUk4Z2poZVZWQVViU0FibUF3Q3ZiNk9QekRlSFREcUU5LTFxUHVVdm9DWHpFUVBQQ1ltTDJ30gH_AUFVX3lxTFA3VDBwM3VmTEtzTGhlcUY2aFRsWWRUWXRUWFM5QlVmMTVsLW1iT2UxSVFPbEZqaW5jT2lHXzk4NGs5U29yZFI2NXB4b2tydjlpeGk2ZXhmOWI4LXFCMTZUazMzNGtDdS1KbnlKQXg4aDlOanhpa3lsbldNbFFOTUxEZkh2eEZrVWJJMVJjUnJFSlJNX0ZHeEpwaF9HYkFxcGtPWFJ0Z0otY1FuRHhiYlY3ZWJxSERpTGpWUXB5dVhfRGE4SnE3QUhsLWluYkkxOTBQWWkzYWxLb0dsMko3Y29QSVZvUEJrSHlKYm5XaEFNeUpDWUFpOWFYS1BaQTRhRQ?oc=5)
+• 🟢 [Rising Thefts and Traffic Chaos Prompt Pune APMC Traders to Call Bandh on February 25 - Punekar News](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU29jU1VVVHRVRFo1NUNPYkM1dGg5TVJYUnNsSXhtaG5YS09pR0RURzRtTUN5YnBXNnVKaGd6Q0hlcGFfYmhjUWVFUnY3czNKVUEyTVBXZ01NdlRnSkFOUXBsNHlPS1VvQ3VJbndEUENMZUh6TlJCZ0Y4V3dNbHcydEpjOGZ4SDNzd0p2SkRHMmdhUFZmREQzMkVQcHd6Rk9zRGxOWmNxMGQ5RW90MjdvNm9sMA?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
