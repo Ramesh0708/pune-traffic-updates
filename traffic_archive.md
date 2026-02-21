@@ -2861,3 +2861,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2026-02-21 10:50:07
+🚦 Pune Traffic Updates • 21 Feb 2026 • 10:50 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune APMC Traders Call Bandh on February 25 Over Theft and Traffic Chaos - Pune Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkE5cy1mczdRRnJyd2pSYXRtMnBva0M1WjJ4ZGNQb3B5ZVU1WUNiaEt4QUJaRERzT0FiNVFGZXJYUDlFM2hxN2IxS1VfZVhpQ1NSRlJVYUl2MUF1Qm1pR2ZOdHhIX1ZjcXpJZk8tWlVoOXV2MENwaGtpUmQwakxQZXJQMVpNWlRT?oc=5)
+• 🟢 [Pune: Suncity–Karvenagar Bridge Nears Completion; Set to Ease Traffic on Sinhagad Road - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUhtN1Iyblc5RGpNNS1ENHpfSk82eVk4NEwzVmhTci0yTk1PMlJvYUk2M0tFM2JmVmstSHVnMlI5TGhaTHR0OG1mY19MV2lXTnU0V2V5X3VBLThqNkl3ZDBJUnJtcGdjZjZLUXlEWVdCcXVYcXdWeGdzMkc1QVJuZlFUZGRPM2NrWGo2TmhxTzJTYUV4MHhWd25LRHdwSzNkZDhpdmxfUjfSAbYBQVVfeXFMTTRlMHMtdExOT3FGS2Z2ckFrUGJhZWpZUHZHd3hLN191VUk4elJqU2xSREs4cFdyS2o4aTJUeUJMWmFMdk02LXNsa3BHbHAtTWZaSWlBTE5TTEl5eDVEMENFVXBydlBKMWdMUU82Qnl5Y0laN3FMVEROaDJ5TzROaC0zaVI3UElkWUxPSDJBRF9TWnpHVVlTR1JpT0hseFhEbHFmWkNqM21fZHpiYS1zUzJFWE4wWXc?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
