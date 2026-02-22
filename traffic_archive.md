@@ -2874,3 +2874,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2026-02-22 04:45:32
+🚦 Pune Traffic Updates • 22 Feb 2026 • 04:45 AM
+
+• 🔴 [New divider cuts every 2–2.5 km planned for Bhor Ghat stretch of Pune–Mumbai Expressway for emergency diversion - The Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUowaGhRSGdBVlVFdFBTZThLSXVGZHptYktWdGF0RzVHclM2dnR4VVRST3ZCQWVmUzFsVUotVk9RQmhtLXJOaUQ3UHcyRGp0TnpMUWN6eUQ1Y0xnWkloRjhYbHFfZGs5NmIzYTRTSm1uZ3VvMnNZRzNhc0QwT0R3d3pGS1FwNUdvUVkxeGhqdzlhWVI3UHJrS3JmZEFJZkNGNXc4ejRzSjZDVk5kYXpLNEZud2ZJaENDQXZzeGF30gHEAUFVX3lxTFBzTXZnVjlfVGlfQXdDb3lZX1BjdVR3WllXRkhvZUFzTXJHQnRZVkEwUlU0OXEyM194eS1iYnlIaXo2M0lHUnhiX0xrRUM4MDk5SWlTb3VKNW4tNkZuZ0RROXFwWVctQWhwdnQ3a2ZJSFdRT0VNcWlNb3N0c0xPYTZMX3NxcXBNZTNnc0djWUNWVUNfSmRmZjdsbW5Sd3NHTzNnRWdTZkNIQWdNZDdNcmVPMVZfa2ZGYXdITmRpLUw5TWQ5RnU?oc=5)
+• 🟢 [348 Modified Silencers Seized, 148 Vehicles Impounded in Pune Traffic Police Operation - Punekar News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWdaZnYyVmNrdUlVUUtmNTVmd1R2cUJlcW5UbmdUOHFjTENYbmNIOFZBRjZoai1lazR6QUthcnd0VVl1cDE3SGxuQ1pMcU12M0k0Q2tsLUdsdTlGQU5KbW11X3gtRFloeEpKeHZnNEphUGowOG1MQS1HNXNYQ3o4cXdsd1hMR1pBQm44WWFWX1JDRlBMNDBXelVwbHhkTFg0WUVxZkN0V1RmaHl2eTNQSjN2VQ?oc=5)
+• 🟢 [4-Year-Old Girl Sexually Assaulted After Being 'Kidnapped' From Pune Railway Station, Accused Arrested - Punekar News](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWNqVWRaV0RvUjVoM3JCMjNUYnY4MmFFaWZ3OHM4VjZ2WHBoM041bXZEU0xmc1BVc1JWRHI4UUJDRFlMdmtMenNmSXVmVms4eHVhSnpkNlFzOVpCWE5sejVtUmV4czZJcVo3VUxSeDJtRTR6V0Z1TXZLUWpjOUFSLTVBV0RQQUEtaXJCUjI0dG1xTEhDSTVIa1lydE1Mb1lUMmtHaXBibzVXcUpDVzJ5eUh3YVpmNUZxZ212S2FuN29RLWpOeFE?oc=5)
+• 🔴 [Traffic Curbs in Kondhwa for Ramzan: Heavy Vehicles Banned in Kausarbaug Stretch - Pune Mirror](https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3FqbW5iSm5QZDZ3S0h0NnN6aXhPZFAzVUtvbDlJS0R3bFBYbTItMUlxLVFqbHpnRVZvYzhpSXFSNWdlWXlPRTFKUlZ4c0JsQWthZ1lfV3FhN3Q3LUE5RXBIRnY5Z2JpTVRMaHMxeWluSVJYLW9DOHpXejM2bVpjSFp1cHZ5YnE5eGRBbS1kc29QRUM1OG5LUW1wbw?oc=5)
+• 🟢 [Pimpri-Chinchwad Traffic Update: Restrictions Imposed for Mahamarathon; Check Alternate Routes - lokmattimes.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkY3QzdJb3hYWC1heU5CdEdkN3hoQ3JIaHhjUks0NFlKYjNSUnU5eXVwbGF3TExCQy1URS1Nem0tSnRlZzZkdl9PZ0R0aU13bjg1bmtJMUFUeFdvOWVINUw3Rk5scVQ5RDNoNUp6dHRmQXR6Q09heFF6d3dDVktIeEhwNXN1S2o0NHBBd0FVZHdYVWlnWjkyWUFCMTJqR3dXaUw0TVRaa3ZtdzRYaUE1RWV5R0pIU2VlVWMtdDJQbWR1eURDYUJPLXl6a9IB0AFBVV95cUxQUWtoY3JQSkR4MnFRdUkyWGVOblVJd084MTVvZjByclpqT3NCWHpGU2xpQWJrUExvOWRUTnI1THJ4cWRCMTB6c2NoeDdEajJmX1RzOWJQRF96ZUh5RldBQVRTaDJxQk9USm4tdGE0QVVBN3gySXdxbnNNODRZRl9vYjMzVl8wLVhvUlhjb1FUTWtSb0hHWEwwMWNGZWRHSlpzS3JVOWRaR2hET2ZRUUM5MjR6c0NHRDBXNk5XQ1pfc1dDNlgzaXJLSEtBUFZIMXFq?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
