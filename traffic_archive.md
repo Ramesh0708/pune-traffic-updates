@@ -2891,3 +2891,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
+
+### 2026-02-22 10:49:40
+🚦 Pune Traffic Updates • 22 Feb 2026 • 10:49 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Pune: Evening Diversions in Kondhwa to Ease Ramzan Traffic - Punekar News](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2w4TUNFMWxFbTl3dDd5UHlhNlFKbXFGZjJJMHhTOGE1VVhrVm1aejY5YzFMNG1NbmJtODZ4UjF5UTRZQndsYUdmZnVnbENma2pfNzVtbWhKdGM4VW8zeG1LN3RqSy1QSHB2cUFkQV9jNXR3VGdJUXdPbTRsdkVkcUEtcTVoV0Zma0dNQWFB?oc=5)
+• 🟢 [RTO Cracks Down on Errant Autorickshaw Drivers at Pune Railway Station - Pune Mirror](https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUd4SkU3akxSbjdBeHloWTVXbDdmY1ExZThWa0F0NlREdjJ1aDJKXzdWTUhpdDM1dmhlVGgwTHltbEZBbzh3emUwWXJpZEhvdFR4dUl3aUg2R1JPMXA1NGJqNjczNmNiaFBsY25CaE5ZajlXZmNLeFJsdU9xTlJZR0hHRGhaRFlVdVFLOFZaVUhEZGs?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
