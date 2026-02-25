@@ -2974,3 +2974,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Nal Stop flyover reduced Karve Road congestion.
+
+### 2026-02-25 04:49:11
+🚦 Pune Traffic Updates • 25 Feb 2026 • 04:49 AM
+
+• 🟢 [7 lakh vehicles in Pune can be banned due to 15 years+ age: Report | Tap to know more | Inshorts - Inshorts](https://news.google.com/rss/articles/CBMirgFBVV95cUxPVjdxU1JnN056N2VYUUZQNXhvNXhBMkNKM3FlY1B4aGVoYlZYTDBULUpEMFljRU9kUlFHV1ktakd6T0FTQ1VLVndxSmJBN3dMc1hQa0FaeXdpc191d3B4MzhJTzhkc2dpdWgzaWllSVYyTUoyWlRYNjZtU0ttWE9Pd0VIcDkwdVVWTWoxWGYtSkhTaEZEcFB2WTFZSEFRb0JCeUxpaFp5clFFSjdLMkHSAbMBQVVfeXFMT05uT05JUjBSQXQ0VWp1clNWajE3Y0swdkZIaDIwU3p5U0hodGpDak1ETU9DMzNDT2E5ZEdRQ0s1ZEN1cUxlVHZ1LUpxY2lDclItcEF2NG1tdlljZzBvSEZlLTJ1em9DMC1oZ3ZJclJFOHppZV9LLVh3NUNreUE1OGNmTWlCcWxyclUtVHc3UjViUjVYV2J4Zm9JRjA3OHFDOFhKQ1IxQXdwV1l4dTc1OU84Wjg?oc=5)
+• 🟢 [Over 1 Lakh Motorists to Get Toll Refund After Major Mumbai-Pune Expressway Disruption - Car and Bike](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQk44bUZ6WlcxS29yT3BsSTJ0YV9uMThsZmxCclFuLXNfejB4aGlkLS1ZbTFWeVg4cjlwLVFYd3NqeXFUcngyUm5XVjFrNHBjWl9RVmpJd1AzX2cxRmNSOWRfZG05MlZ2Y2t4OGNYdGdxdV9ocmxhTVJEWmdub2ZZQTdIaWVnT3loSW5adXhoQ2RieXlyTlA0MDAwUnM2OXZkQkpBbmttTWZWVmU4OTBwdkFnQ3pDOHpQVXppUTluQmtlQWs?oc=5)
+• 🟢 [7 Lakh Vehicles In Pune Face Ban - Cartoq](https://news.google.com/rss/articles/CBMid0FVX3lxTE1YRFpXY05rSThSZW9zREFUcy0yUjl0V2FTN0ZXYmlhRzFaVmpndmM4RWZJcXA0cG1Oc2YwXzc0QVM2a3B2dkQzNU1fWmM5R3FDR2hDVlR3RVFqalF4ZmpmLVFlTjRhQ0VSVGRPUnFkYVlkMmxJX2V3?oc=5)
+• 🔴 [Massive Traffic Jam on Mumbai–Pune Expressway In Ghat Area - Punekar News](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3N0SnZSejlLVjRvZXU5Y09iZzhULU5iUmlLUDMxTENZSVM4V2FJRlM1SThDQjFfR2JEcnBmQmZzd3RUVGRfU2ZWMGk4TFBVQmdGMmEzRVExREwxcG00NEJ6akpaSmlTQW5UWFExNVBld3ZiS0x0M0tvTFd4N1V6QVlvbFBEbXpxZVM4aGR1cw?oc=5)
+• 🟢 [5 Lakh Two-Wheelers Among 15-Year-Old Vehicles Facing Possible Restriction in Pune - Punekar News](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDNTWnRuQUJONmhjcWRMbHNGc3lCTzRHZFA1S2ttWm9uNGpUMDdDRUIxblRWSHRKNmRXOXhCeHpmNzVoMUQ3TE95SHJMVWFtTzg4OGl0TmhBYTY4YWJ1OFVVbmZQQW1KOUZ6bVQ3dDhSWWo4TEptT1BBU2lwRlJhMFphQ3pQalUycVZObTEtVmQtQWdGTzR5aXA4TGF4VTlaSmplaVRBVndtQTNQQ0hR?oc=5)
+
+...and 4 more updates. Stay tuned!
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Traffic is lowest on Sunday mornings.
