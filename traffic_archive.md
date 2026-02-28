@@ -3085,3 +3085,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Hinjewadi Phase 3 sees surge every Monday morning.
+
+### 2026-02-28 10:45:12
+🚦 Pune Traffic Updates • 28 Feb 2026 • 10:45 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Mumbai–Pune Expressway Traffic Update: Vehicular Jams Reported Towards Pune Amid Long Holi Weekend - lokmattimes.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMERRYXpvbUR0dUFETWFTOWRYa2NKczBod0hoOThMTURsWkhkaDRKN3VfUjhuUlpwdXdpa1dyeEFYZ01kcDZVTGtFdWE5OW1iVUhnVTh6eHVhcjl1bXVUUlRGVHlCNW5JcG9Cc2NDOVFWZkdobzZFdkRseEFzaThCN3RzSEdyTkJXbUU3X1pUeWN0Qnk4dU1HcU1HUkJ2ZFRhU2dXUDdVRHlBSGhwY2UzQkpyRDhqWTNlbG54cXpHUmE3c2ZUYk5LWDM0RmJ6WkRwVV9SU9IB2gFBVV95cUxOZWFGcDF2U2hxWm03Rm9Od1IzZGdKM296RHhvRXZyU09McU9mRUhIOF80WXdVbThSWnJyNTZnelZlcXNXajlHS0FteGttUEd0c1RQOC14TV81MFJ4QWtMRWt3MDdQWndPTDZTRUJiLUMwWkJQNHE2ZGstS2VwTi1JRF9yekVhQ0tWYVlRMWw4Zjk4TFBuVTB2b3BjTV9rUTZuaUF1VnBwT3h2RldpMGExYWNiTjdua3Nlcm9iSUFYV014ZExjdkVJcjk2dnAwa3NzVGlJLXNGLXc0dw?oc=5)
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Hinjewadi Phase 3 sees surge every Monday morning.
