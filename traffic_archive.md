@@ -3225,3 +3225,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚆 Pune Metro Phase 1 will reduce heavy corridor congestion.
+
+### 2026-03-05 11:04:20
+🚦 Pune Traffic Updates • 05 Mar 2026 • 11:04 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Pune’s Dive Ghat to remain closed for traffic from 12 noon to 2 pm today due to blasting work - The Indian Express](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQk1TSDJtbWVQeW9xU19BcTQ5WldxZEFSTk90NTFlbWhwOEhqa1d0ZHBTRENjX2tvd0l4WjdULXdRbFlYTXg2R1RzWFRPMklKZ3ppMGpkQ1JjLTV3cXdUeVV5UW1fRXFOM0NDczUydjQ1emxPTzFIWEFCTEw4UXp5bkdjbVctck5SX2RqVkhSQ0labXlYeE5DTWw1LVpOZWlGekwtYzVuaFR5NTdWRFlIVnU0cTRiWndHVUZva1QzaDMtQWk1UHJkY2p6Vy1sV0xwald5VUxTOU1fSHNBMVpQMk1n0gHoAUFVX3lxTE5NN0lnb1pxYXRaeFl4OVlRb1hDX3lYcFFNYmpZdlZNR3AtekNzRFhEYXVBcjR3aXdjYmNlbGVTOWpZc0JJY2U2cEJmU1dtUzczOF9tdFM0YUZMS0M0bWdsRWxXOGs4dFktX1ZUYkxGQ2k0cktpcmtFNHRsTzVPc01RSURESmhUMGNyZHNINVRCb1lxMkZ2dnN2WmVrSlY2ak9qNUU0TUNtV0NkTWw5TEJVNTNlQk5nOXZlb3JWNHRjMVlwaW5HZjl6R3FDd3J5QXA1M3dMclg5LXVCRkYwNnBuSndoWTB5NjI?oc=5)
+• 🟢 [Pune Police Act Against Noise Pollution; 3,000 Bullet Riders Penalised, 870 Illegal Silencers Destroyed - The Bridge Chronicle](https://news.google.com/rss/articles/CBMisgFBVV95cUxONTNDLXRPRGpWR2tfdnFRZzRuR2ZLQVo1VW5KSnZEbFZlc3k3bVcxcU9Ia0Z6NzJ3SXpiX25yUHhNTnFWUWRkVWlqOXZsa0c1aEVVRXVLekJBMVQwUklHSTQwaUFaOU5TNmFDWDRvbF9sQmc1QmVfY05OY3dTbkRDUHpCdzhwS21WbFVsZjF3dEhyNGpaNFI5VGMxVlZkVUtqVTZ6d2JZWi14dzdVSkQxS3dn0gG_AUFVX3lxTE1BQWhmdjZ3NFM4NEhfLTR1bUNqMGMtZVBhSzQ4VG16ODhIMTlZWk94VDU1Z3BzNVBTRnlGYk1paXhxS0hibXh6NHIxZEZUR0o4eHB6UnZFMmx2LUpEd0JVZkc4eHAtWUozY1E1SUdQX295TEhza2lhX1RNUWVnX1lpOURmdnlxZ3lSWDZicFJpZnBqc0xYSF9LeUhjWXkzQzVPV2ZpWmVqMHNNWjhlemx0eDdkaDVkNnJUR25RdEVn?oc=5)
+• 🟢 [Pune Traffic Police Crack Down on Drunk Driving During Holi; 455 Riders Booked - The Bridge Chronicle](https://news.google.com/rss/articles/CBMisgFBVV95cUxNYlBQb0pOa3hUUFN1MF9EOElyOU9IY2F5MzJlSHZnYjVVVVNfUWVySlE2SkdLcXpPVXBlYmU0M1lkdkNXNnlHelFZS0lFbmJDTmdhRVhpSkJuZVF4RUNGNlJadlo1NFlMTUpSbUF6OF9ycktHZmRXZmxtbnhKcUtzQkc2Yy1HWlFQT0IwLUF3OEdHZjRxbjE3OTFiQmdyTTVNM2p3S0JjbmN1TDh3cVdxN1lR0gG_AUFVX3lxTFA0U2tRUVZvZDFKbkJ2eUM4R3dsa05FRWpFaGlZUkMwNjJPZFRwa1lxa0hnWmlGM0ZfMzJubGtBU2ltSkVtc1VKbWxHd3ZxcTR5QXRSblZHN0xQSkVDa0pEeno3MFRpTjFBak1aWmlvYmp3UDQ2dl9UREhUeHFsaWx0T2hmeUVRSkRYM2FPX1VTLTFtUWdvNUxSbXdmdWxiMVJwYWdGdmZXcXRxb2tDSkM2bS1RaHRaLU9OTXFsb2tB?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚆 Pune Metro Phase 1 will reduce heavy corridor congestion.
