@@ -3252,3 +3252,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
+
+### 2026-03-06 11:00:12
+🚦 Pune Traffic Updates • 06 Mar 2026 • 11:00 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Navale Bridge Accident: Container Crashes Into 4–5 Vehicles on Pune–Bengaluru Highway - Punekar News](https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUtSOUctdXJWc0tLQ09ObVEtb0lNNUVqWTAtZDNuLUMyODdyOHlrQ2lsYk1QNmtuU19TN3JOcFNmdXFMLXh6UU9BeDBUbWI5Z0Z1QWRuVExMLV8wcEVwSWQtVE1BM3d5aGJ6N0djaWRRMk5zSUwyRmt5aDlPMHBScEFmM3RRX1JjZmVNcTl1dUllMzM3VmZscVdaZzR5TDBUTFJXNHExZzFWLV9OelJPaEFR?oc=5)
+• 🟢 [Pune Airport To Be Directly Linked With Metro; Govt Approves Proposal - Trak.in](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEpfNEU2aEhBZ0RBai03UnJVdkFfR2VZNzhLb3YzWFItdGowNkpCVHlkOE9DVDd1ZGZseHJiS291bEpNTzJCbEZuN3BoZ2dwcms1d1gzalFaVjlKUUE1RXJiN0RWdGlkb1VMaFFjZkl5OGo4ZUN6UUpFNzBoRnYzRDZIUzZkQWpySnNjWGxsNzJwdVprT1BvTg?oc=5)
+• 🟢 [Statewide e-challan protest disrupts Pune; strike called off after govt intervention | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPemNCRV9HRF9oRWN4OHpMekQxaEM2TkthUklXX0JpV2JQdXBmNDdLVUhhNHVhVUZtYzBnQUpxX3EwQVNHSXQ3MERSMGFORC1CZGkxc1hYOEYwX1o4OWRCUWcyS2RuZE5DdTFzeFNqU3FadFFUMUk1anZZSXJhSlIxMzQzZjd3UVk4cUlsdXhFSU1xdzBHZzQ0cDNCQnpKV1BCQS15T0F3akZOemRSckJBalFlMVdoNzRHejQxb2s0ajJURWxzb2JTY1pralYtZV9SYzJnUXJ6bjl4OW00WVBsMXhOR3hOeDDSAewBQVVfeXFMTnlBamp6ckVHNEIydE9wMnhJemJVTEtsVDhxbmV4MDVzUnB4WnNna1UwZ0EzSGtVX1MtLXNfVUoxTWc1djVqZ0xXanNnbFduZ3BGQllFNk1JUldCeWlqclJST19YYmlSbU5POXVMdGRnQ2hJY3E0aE0ycUQ3bmZfY2NyLUtaUi1UaEl1b2NhSmM5dXlCbTdSRWprcGlFLVBzT2ZxM0RxLUhUNXlfY0d2TXpvUWdQa0c5VktIOGlNS29XTlZEM2VTUUVGVEsybFFONmZEcGdSTGM1elJNSUhBLTd4N1pzZkxjT2EtZmU?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
