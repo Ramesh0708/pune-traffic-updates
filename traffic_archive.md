@@ -3278,3 +3278,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏍 Pune’s two-wheeler density is among the highest in India.
+
+### 2026-03-07 10:45:54
+🚦 Pune Traffic Updates • 07 Mar 2026 • 10:45 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune Metro To Connect Lohegaon Airport-Kaltaninagar Station: Routes, Stations Covered, Will It Ease Traffic - News18](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRzNZd0ZSel9hWlQ4THNYQUdXYlRCZkVSeTliN3VrQlIxQi1KY2lsVmhNYkVHRXp4YXl3Y3d0S0ZVMktxUzFZb3FOZGYyb1ZGWVlheHphRjhYZ2NESlpXa05GaERlUkpFaTF6R0dESTZXelRzYjhqS0d0a0xUWGVsZHFtbF8tUUxfYVpuLWt4cFl4NGk5bUpZbkJRbVk1eWFCdkQtd1QwOHV3ZXhiNS1BMmdpMzlqaWhzWk80b3N5REhETlZ0OEZndzBiOFJBdG1vY2hVLTNCMkl3OW1OZ2VINVplaEhvbXFqYmVnUnlvQzc3enV0RFh0ZEpXYXbSAYICQVVfeXFMTjZiOW5aWEo4V0c3dTBhbmNuVE9tTmpfWTlyQ2pJRlFxRFZWTld2MGwwU0ZobllhZmtvcXhFd2U0VG1xV3ZKM2hsNHBoaDluTC1oajB5NEtwSVZwR25qR2F0NTRDOHUyTHk5TjczcTc1bkU1NDBVUGlPMURQZ2wxbmc1Y3dOSmsxMm1BTnJFY0x1X1BqWDBCZ1p5TkVLWnBzM3V6bUdoTmJPdzVvUzlGVzJNbXVXdG9yOXNZVjcyZVVJRG15eFFwRXFPMmFQRl9ma05NTWhVZFZEMEdiM08zOWhlRnNBRXFqeklXTnBVZ2tnRWQ3QlB2MDRfemtYTTF4NU9R?oc=5)
+• 🟢 [RTI finds no traffic obstruction at Goodluck Chowk ‘Kalakar Katta’ in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWpWeWdscGFLczZyWTVVNDJ4NnA0ZnROSlJkOGprQndSczlBRmVIZnRLOVZ5MWJLaU5yOW13V19Qd3ZjZ0FxTHh4QlB3dmtXNGpOajNBeHRUYWlRWHo5RVYwWW52VEFzamRQRjFkV0lTOWFvVWE3Q1hxZEVqSFFTUFBIcDhUamFlSUhSMklFdw?oc=5)
+• 🟢 [Shifting Markets Outside City Will Reduce Pune Traffic, Says Nitin Gadkari - Punekar News](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTktuNW9zZGNBZ0Z1YUJnRUdLRmVINnZ0TTdzekVXd0x4TTZoaE5EQkw1WFdQejdaazlMYzZnUHR6WXQ4WmczQXNvcXVJUTBDdjRlNUZibHlOZm4wZERIMEo0X2NDNmlMNkNzX0pEQVI3cTdqOHBXRWZKdHMtVEFVUWVBck0tVTVhTlcyTEt3YWE1MnpucDVmZkZjYzBMTEt2ZVVB?oc=5)
+• 🟡 [Pune traffic alert! Know all congestion hotspots, roadblocks for 61 locations amid ongoing civic work - MSN](https://news.google.com/rss/articles/CBMi-AJBVV95cUxQSm5iaUxfd0MxWll4cXJYT1pxSjJra2lpZC1qcmNkeWx2ZjVYTnJraHlzckNyV21aTVhXdU00bUdlSXItQ3pGN0QzUm1ja0NpU1ktbG5PYVhRVVY1X18xeXRTWjlrTGNSdi1vM0NGTDVvT0dhbWhjcDBRWXVoZ0Fsb2Z2YmMxRmxhYTVJU3cxWEwzS1hramwxdEpWSTIzd0lOck5mMEVhWXNPb0oyUXk5WWpOV0Q1dm1wbGd4dkY5eDc0amUyc09LOTNranFrZ0xPRXhRMEt1bXZwM0hGMkJwRHlReGhOcndoc1ItUm9IVHdDOVRmdkktYmFwaVl1bEc5bXdsZklTZHY0QmswU2t4TWg1Si0yM2R0X3VhUGJ4dnc3NVkxRzBZcHdqd05CNXFfczh5MENvQjAxUjdOZmlWclpSSEdIZU9oRG5Fa1JVZllpcklMd0ZqSmpMQ180SXU1SGN1VVJNNXZWZGlTeVJzbXdrRkROb1Fl?oc=5)
+• 🟢 [₹45K-cr plan to ease traffic - Pune Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdzAyeEZQSDF3UWMtTXVvTkZkNkVNVzdWV29CMi1oQXhLUUk2SEU2RzcwQy05QnZnY0NqRTVzMnNLeGZreHRRZnNWdHpZVXgwaHltUlRsVEdiU25aeXJCYzFxcGlUejNoWF9Sb1pIMUtsbGVsWFg1cnZGTjc0Ykw0aW5uVzdXMFZWblZXRF82WQ?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏍 Pune’s two-wheeler density is among the highest in India.
