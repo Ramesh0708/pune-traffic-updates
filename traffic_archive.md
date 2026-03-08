@@ -3296,3 +3296,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏍 Pune’s two-wheeler density is among the highest in India.
+
+### 2026-03-08 04:39:48
+🚦 Pune Traffic Updates • 08 Mar 2026 • 04:39 AM
+
+• 🟡 [Baner ramp of University Chowk double-decker flyover opens today, to ease traffic congestion on Ganeshkhi - The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxOMTRIdXdZLWJHRlNrWDVmRTUtVnl3SkgwdHAzazZrVTBlUmpTdGlWcU5xVlRlSWRKT0REeFBSN3p2UGl0aVVKelRNNVVoZkg4Q0lQbVVtWDRkbWk4cVhUc25fUXJLX253ZzdfVjMwbVNpclVvbXlTSEFMSmRDcmpIZmZWbGpZRTJoZ1lNazdOWDRFd0xiY0E1WDlZRUNWbE5iRW84M29zTjhJc240SkVqSVlLU2dwYjM1T25oWDE0RDlDeTVrOExjbGVKbG45dlNkMTNDVThPa0loSmY3eTdJbHFqY2RhUnpRQTNXbGYtNzZYanRjWU9jdHRFT3dSbHRBU2NwRkM4cG45b1EycHRCZ9IBlgJBVV95cUxQT0MtMnZKUGkwLXZVQnpGSENlUzB4R3dlOXNzSjFiTUxXSjFQcTVjUDRuRXhrSW1zalJqNXBLOVJyX296U3RhWVU2b1N3V1lTYm1sWkdOemVvajdObFZGdm51LUhZMGFmMHdPdFFvTXFFVmxhYmlxR2NBTWo5V2RKSjhLRGltakR2SHo1QkdHTEQzaDlTd1V0RkYxbFZiWlh5aXMzTDlCQkNoM3phdVN4ZG1mdl9UUmdFdDVrUE5kMGpiQlExUGdrUXRlck9rY1ExdHVKZ21nZzE0SnVqSUVIWk13N2d5YUVUekw5dUN5SnpaTnRIOTlqb2tKWFVrRGYtcmdCcHFfbkhkbmkydTVnS0pfQktldw?oc=5)
+• 🟢 [CM to inaugurate flyover: Ganeshkhind Road flyover to be fully open from Sunday - The Indian Express](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdk1tcmw4Y1R1cDFySEpJbXp4cEdyUEVmS3JxRWEyUmZYbk4wQy1VdTg5YXRpX05KWU9sVkFRam9hcDhuWUlCOXJva3NyMnFQMUFaUGV1WTBHN1NSb0lvcndQdkI3Ym9qWVdKUjE0N2lraFdTZUxjaGxtN3JpbE0xWFY2SG13cVowY0taME9wa3JoRTkwclRvbjFTRUw2OUFLYldpalRzejZhOTB6MmpuUHIwNTbSAbsBQVVfeXFMT3VGWFIzVGNGMnZvSk4ySGFJVGZmcllCd3FwT29DeUdxNmNvTGJ4TlRBd2xzRnA3UXQ2VldsSDdOQXB6SXlfUW1faElRV3dCTjJzajNrUnlrUnJKT1AxSlZ2czJOcUVFZVNCNEc3LXJ5MjkxOThuZ0JMQWNOaXhuVzdaazFQd2kyT1VQZDIxVWVHLXpMelJVTXpvWUhuYVFCQWRObjJNeXRJaDlHcW1hclZlNnQwdEpiZHRlQQ?oc=5)
+• 🟡 [Pune: Mohammedwadi–Undri Residents Allege Delay in Elevated Road, Traffic Problems Worsen - Punekar News](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHVuVTd6a09vMFRGY19aRXYzQ2JoUjdYNzh0dnRiUkZRYkc3ME1yUGxCM1F6UFF0bklud0pCQ2FSTVpqU0JudFZWbGg0dWhCRnNQT25hZ1pBV1l0YUFkcHVvQTB6N085aVFwZHZZNzIzNVk1OUJWOTV6anp4U0NoUVN0MFJsWnpBS2hoLUhET0VDRm1wX1VTd1pGVldlbjMxZXp1NG40ZUlic1lILVRHZXhvNklydw?oc=5)
+• 🟢 [Pune: E-Square to Baner Road Arm of Double-Decker Flyover at University Chowk Opens Tomorrow - Punekar News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnd4U0k5OFBGQjNnejc0VmptUkd2d29hbVhKdjRpcEF6MVJBZGZiR0hPTTJlZnhLZ0ZnZkZkSzdQSW1LdkZ0UVA0WnMxRHhJUmc3Q0haTXgyUWJMQlRjbFk4OW9vdnBYa0t4bVZnMURhRmlzeEF6MzZRSlg2STM1Y0ZNMWxmM0hfX19yNzVpdklWVkpOdGRNaU9nLVVkR1llVjZsYWVObkZTQmVkVUpYN2xDeWpNTTg4bDhB?oc=5)
+• 🟢 [Nitin Gadkari Announces ₹9,500 Crore Elevated Highway Projects for Pune - Pune Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3AzN0tiUFJTRHNMb1VQdjBrLVVxZE1idUh2TEp1ZFB1ZUdEVm9KMG1vUmIyMmdkaDZKZzNBcmFtZ1UtdGlVdm5pMWFVbmFoTjJJOGlyVkMyS28tWG9XUzR4amlvQWpzSXJBQmswRzdDUlFNLWNCNkpjVEF2RENkQ1BhN3Y?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
