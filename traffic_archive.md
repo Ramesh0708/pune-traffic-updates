@@ -3348,3 +3348,21 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚨 Drones help Pune Police monitor festival crowds.
+
+### 2026-03-09 11:07:05
+🚦 Pune Traffic Updates • 09 Mar 2026 • 11:07 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune: Two-Way Traffic Restored Near Pune University Chowk After Metro and Flyover Work Completion - Punekar News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTkxEb0NGNk9ucUhUX3JHLVhfaU5nVUZ4LWUxUG1BclJRcEFLemR3LWdOTk9sYVo4a19QYmtWTkotOUtXekZXU1VZTTRGN3lhXzdEUUdZM2ZTZ0dEcEVJbHNLbGJWbHhqYzRmRUtBOFdtOGJ6T2d3WU1wc1VEbHlNLXZtREI2U3NhLXpodm4zaWNraUZxNU1GTi1jODV2VU5FUFpTVElERjhsRVNiWTJES1NWbkdnWHJxdFNuSVlrV1Vrdw?oc=5)
+• 🟢 [Pune opens double-decker corridor at SPPU Chowk with road traffic and metro in one corridor - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaWZrZ2UzQTBoTUZXUG1hMTZCSW1fZUJfTkhNc3ZsS0FRdk1OaGpZLWtrcGdfQ0RuNXdoVUM0cnhmcmFQcVUtaU9DVXJrMWVWay1vLVU2cGd5djgxdFZzRzFPRGh3cWJIYi1zQlh0UXBiSTgySVVEYlJWVzFyU19IRVRRdXBTUV83dV9jem1XdU8wZUtlTm5fa3MyX1JxTk8zWGs5TWwxNnMtWjkzYVpHQVI3NnZrcHhRQkVVSE5XLU9yWWtUbWJaS0REMEI3X01SMlJFZ19TUGpUNDVPbE5BVDBObkNEeDNVTWVYMkNxemxVTGtr0gH8AUFVX3lxTE9qbTVlN1lzNC1WbVpMeXZuNnRNT044bnVvTjU2OVRjWFI5TzF5a1JmRldOYXVEOGcxTUVDLU1abVVKZkV6V0Y0Rk9lNEdVempZTU5zNmlKN0hpb3JudEs1bVFrejhWRU02SFZKTV83aGpKb0FRWXh4Z3NaSHpoX211SGc0SkxYaDluQm1uUkprZDItenB5MlV6Ny1zZDRtakdvYmZkQ011ZzkyVWZmM20yZ0VieUs1M1BBek5UTDNndEZRUjR2ZDNVZk5XYWh0TGJhMjR0dDFVWTA1ZG43c2RYUmh4RHZmbnYtYTFWRnliNUhzYTYyXzhzOXhJSA?oc=5)
+• 🔴 [Traffic Diversions in Sahakarnagar for Police Recruitment Tests at Sadhu Shinde Stadium - Pune Mirror](https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHpEUWpCTWVzSVZKQzFYMk42TWdGTHBjampmUmJCY3RKMnA4d240d1YySWFEOHQwUGMzd29ZdjByMlNoMVo4bmZYOWtTVzdteFJEaHJ3VExmbDQ5Y3FtT2RUOGxHVWZJWjRZY3FxM2ZzenV1RWQ3U2poWWxfeXprbEZGRE4xOVpDMXJET21HM0lMdXVRWVd2Y3ZvRjdxVTlQ?oc=5)
+• 🟢 [SPPU Square Double-Decker Flyover Inaugurated by Devendra Fadnavis, Opens to Public to Ease Pune Traffic - Pune Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPempLZEFCTEw5dzZpZ0hEN0N6M09GbDV5VEF2SG04clA5MFhkVmxTMzJ1Rk1UVWQteXJxUDlBTGozb0I1b3pzcHBIMUtzcW1wa050dXUzWkgzT1g3MzFUWkE4VTVpbUxyUXFMNm0tTlBzYThUaTgxMFBPQnBGaTBqXzN2TzVXUGJYYVllcHl5Wk0xb1dpNFE?oc=5)
+• 🟢 [Bee Attack at Sinhagad Fort Injures Tourists; Traffic on Ghat Road Halted Briefly - Pune Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSjhzMHVONDNib3U5U210VnlDTzBSdVVLOFh4NTduR2dHaUFHcnRFMEh1M3NsNndCdXlPeFRIZ0poS0FPOUhXejFYVVdCMld4M3lxajhQeW5uMG1jZEtsUFVnX1J6M0VfTVdvOVYzUWJtdGVqSG41YnowajZYY3gtag?oc=5)
+
+...and 5 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 Drones help Pune Police monitor festival crowds.
