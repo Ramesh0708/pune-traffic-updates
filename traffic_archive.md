@@ -3455,3 +3455,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Baner–Balewadi traffic grew 40% in just 3 years.
+
+### 2026-03-13 04:41:38
+🚦 Pune Traffic Updates • 13 Mar 2026 • 04:41 AM
+
+• 🔴 [Container truck carrying fish overturns on Pune–Mumbai Highway near Khandala, causes traffic jam - The Indian Express](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmFzcGoybldXN2ZRRTZyRnJJWk1RZGZ5RTZXbmd3enNnX0ZSbU9kQldWdlREZnpUZ3hGcy1YY0JGcjl1Q0tleDA2eHN6QV9lUjVXb1dMT09RR1RHTkFDbzVuY1ctQnRKaGdlVFZYU05na2tTVmxvQnhJRGE0a1NYenJFMXQ0a1otNEtRQjJtYVJySS00eGM1ZUJQSmpxQnI0eUdYTEQ1c2V0T1NXa2RJSC1KR3BZRDNi0gG_AUFVX3lxTE9VOWs4ZkhiY2J4WHZtMTA2aTNDRzd5cUFWaFhRQ2lRX1h4TEJhYVM1RnJvN2R2ZF9mcFVMYnBYVjNwMVRwNXdnQkJXNDJSRWQ1SWtjUWZGOTZpQkV2VE1oejR5YmtKUl9IMDZGaTBWc1NWV1c3SnE0c1l5aWFQUDdDT3gzblRLVXhiekpBVTlVSGREY1FJbmpkZXdDMDdObXByejY3TWFsS1JGX1paZ3lpX2YxdXVWNUVLOXJNcm1z?oc=5)
+• 🔴 [Pune Accident: Speeding Car Overturns Near Navale Bridge on Satara Highway - The Bridge Chronicle](https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0VxbVh6MjJ6cEx1Y21yRFFJZGV6REh2alVrWUtZYXBVN0h4Y2puZzUtd2ExRUd4UHVHYXdqOFpHcHNpd1M0b3FBRkw0SDVkYnVST1phNVdqMG9yNXFHbms1aEowU2NjYUl4cVkycWRfbERrQk9WTEMtSHMtR1U5MlE3WDUwczNGa3ZybG9ZNWU1cHBMaUR4SVFBaklOUmg3cVV6LXdkYXA1OHQyQmNEUtIBvgFBVV95cUxNeGE0UEF6TzhhNzFFUFRBd3NCVlVpSm9tTV9ZWGpZWWgza3lrOTdhWmkwa1o5QkNpa21KOElMc3hJUDFQalFOT013YnV1UUhacXJxYVJOZkJLQTNSRDdMcERoZjAzTl9za2JaMl9kYy14eWZjVGtlU2FGekpRZVRTQU81QmMydG9pa0J3MXo2eTRvemd3c0pnRXZwbDdtbHRCdVljT1N1ekhjMmhLOFRMS2NzRzNocUZEMlJCWnl3?oc=5)
+• 🟢 [Flyover Opened, But Traffic Chaos Persists at University Chowk in Pune - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGRDLUYzTzU1cWpYUlVFZmwwUW9NVmVyT0VEblJHN19fOGxPcHdfSlhPekgtZkVuTjZIc01iWHdwclZwRXZyQkdNQnNiQUZOaE15X2VmVmJzbDl0dmRIMERweVFIWDZtOElaMGpmOFRuNUhhMkNJRkN5QVZUUEFBLWsxdWU1Z0dRVGtyRmMzazdFZzRfQ3NOUnUtY1hPT1FzeTgxWVROMk7SAbYBQVVfeXFMT3BfVkdiT3ptcXNwb0FhekRCd2pHNW03NmhDblBYYlpqSnBQY21XbHQ5ZXdyQ0tkekU1SnNneGtTXy1FeGdnaWM4NTllZ2xOTlVUREU4SEw3eU1ESlYtZk54R2FvRUhOTFdDbm5yb3E2NGU2UEllclNwVFVUM3pwT3plNjhEdnpzRmx3anRBMm50eWJ2Q290UWFpY1lvU0ZoTmx2bzVmTEllclN5R29RS3g4VUlrYXc?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
