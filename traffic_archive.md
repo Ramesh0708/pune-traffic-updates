@@ -3468,3 +3468,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
+
+### 2026-03-13 11:01:44
+🚦 Pune Traffic Updates • 13 Mar 2026 • 11:01 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune Traffic Police PTP App Helps Collect Rs 12 Crore in Fines, Wins 107th SKOCH Award - Punekar News](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTlCRGE1YkM3R2lPV1BCVTI1Q29yNVpQRkk4RDIzTjZlcmZJZzFtLW50Mmp2SEtTQTBtYk1YSFM4SGtxWmM0ZkdOS0dfT0VDUlRNaUllMkVCV0VKS3hHRnBnZGVFNzZSMUxMRTVaRnZTb04xeWdZZ2wxdXpRcEtORmxzWDVRSUZzU2tNa0lxVWRSbXYzdzZ0SU5aTWFlS290SFVUZC10RTliSThtV25SU1RVZw?oc=5)
+• 🔴 [Pune-Mumbai highway: Fish-laden truck overturns, causes massive traffic jam - NewsBytes](https://news.google.com/rss/articles/CBMiugFBVV95cUxNTVdwRXYzZlNMRnZON2ZZZzlFOUlkUjhIdzREMTJEQk9nb09ySVVKdGtmWXVnY2tSdDZZV0JlZW1GTEUtbUlCazFscDlFOWJOR3g0RGt6bXEwME40ZG8xc1dlaEhxNGFHUnZoQmlyb0xyNjBaWXBjRTNCQy1DTE1MemJYb1lKbExQU0JhTVJqX0xsaGE3M0J6R1dvay1NdVd1eFk0Vmw1N21nMFdRWkJhMHV4V1d4TEFGMEE?oc=5)
+• 🟢 [Pune Opens Double-Decker Flyover To Ease Traffic - Construction World](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWhJSGl5X0dqX0R0Mi1TX0ZlNUtoMlgtTjUtbVZJZnhaVU95cUlmLVJGeTQ3WUR4dC0xVm9SVmVpZlJxb1QySkR2dUFBakF0dXNQUVJvenp1U3R5MjZtakxkamhGS09xNzlXU3lpaklwR25OM3FfU05LN3NhYXRqZWhfOVozaEw4SGIzeFNUN3hha0tyTC0wdnRVN090RWdERS1PX3lKZy15bDdycU5BeUxsYkw0ZXpqbGt2M0xuNWhsZlFnZDBmZTB3bEVlMkI3VmRhSGt3ZWRZSkRmaXMw?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
