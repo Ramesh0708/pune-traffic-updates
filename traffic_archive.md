@@ -3482,3 +3482,20 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
+
+### 2026-03-14 04:28:46
+🚦 Pune Traffic Updates • 14 Mar 2026 • 04:28 AM
+
+• 🟢 [Moving Bus Catches Fire on Pune–Ahilyanagar Highway; 50 Passengers Escape Unhurt - Punekar News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUZVMDFOelFDc0F0Njg5VTJTd0R3cF9rRlMxY2JNNmpSN2VOckVVZFhXbXNCdm54b1JtMnhHWmZyMWk5Q09LWUpVX2xKbTNWd2hOTW5Ia09HUzFQRTl2UEpERkd6c0tLNnFGZS1hQnV5cUFNSHMyR3M0WHo5aFJiWldfUTZXUUxVLURVVi1tbFpGT3RuYldJRnF6WGxnVFVMa2NaVXJxVmVFd1k?oc=5)
+• 🔴 [Pune: Traffic Diversion on Mumbai-Bangalore Highway Near Balewadi Tonight for Metro Work - Punekar News](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEptUG1SUTNhY21Hazh5NkdLeU9sNDNFZUxyYWYyR3VPdjFOWU5LY0sxN05YUWVISkNHVkN5ODUyWFc4ZkFZcVY5dFhaZzBCMW1ZNkxuR2dlckJzX3NUdlRod285aHdCYV9wLTNNYm5EVDVqaDZFSEVPMGlsc0dKd194R3dRMUs4R19UeXI3UmJRaC1SazNuck1ab3JzeVgtM0duRHhYWjZXYmF1bEZJcFpUUm93UQ?oc=5)
+• 🟢 [From Cycling Network to Walkable Streets: PMC’s Big Plan to Fix Pune Traffic and Pollution - Punekar News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeUpOVThnT1BUeS1zLWQ5a0dBQ0V6UmpPdk9jNGhPZDdsdHo4anM2MGo4WDJndEVXS2oyWnZlX0NiT1FwXzlSRFM2NERzOERmOEFzbGZ0LXoyVVJJYjlXR1c3c0YyMlNCWnp2Z1JnRE8xbGZ4U0NPalJDNUVmNFlxMzZMVUl0YWI5SldKQjZXT1FzdzBDeGZQQXk5OVhWakhyUFExaS1zcTA1RVY3TmNLSk5ZYkZGU3c?oc=5)
+• 🟢 [Brake failure triggers gridlock on expressway - The Times of India](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWkRhb2lRNHppbEJOOHdrNFhhelFRVFl0bGduVHNWZzM0M2NnUzEyY3plamxaSjRWYlFBbllQYnJkOWQ0R2QtVDEycWRMZWQyUzBrTk9JekN0NG5DdTN6Tk05RDFXSElzTUNYT1A1MHc3SVpHaU83ZTJwZnVoM1NuQTdhdkdqMGE3RUdSY3ZzZ2hxb2FyLWs5X0R4U0ozUmpSRDZPOFl3UWRnd09CbF9OdnE2NXVidmo00gG-AUFVX3lxTE1PdnVKVjF5ZjlaaUdlMkl6VVlhXzNoUmxwX1NadkdPTk9aSGx1eklQcGVoTlA0dm02NF9HMEdHUlFYTzV5NjdJck5ObHdnU1d5d2EycEgzOUU0N0owSFhVNU9UMUpiYUJfUFNpR1pYM2ViV3FNbVFQaUZwN0g0SWUyRlh6UzRLWV9PQ3ZkRFVLaEVONDZyaU85WjFEa2dvYkEzcTNZemZvalZ2MTZrUV92ZkN1Uk1ZSTIyNXFZTlE?oc=5)
+• 🟢 [Chinchwad MLA demands construction of 8 underpasses along NH 48 in PCMC limits to decongest traffic - The Times of India](https://news.google.com/rss/articles/CBMigAJBVV95cUxNTVl4VGJGbmZJNEd4WENLUzk3UDBEaVhfajNKWUxtQk1NV0RmMVZMRHNtX2dpQlBJeDBNRk1FR1FleWFvb05zZWpKY1JzaEdsdUROdFRRUGhsbkYwWUZrd1dRLWtXTThnQkFIWGk4MmdNN0ZIdHljN0NQLVREUjctOUZITE1EWFJqbnVIZ2RjYXEzU29ZdjZMV185UEowTUxpNVlibFU4dFRRZFBnVnF6d1gzME9hTG1jd1FIUjkxVVhTV21WQzlCSzh1YmU2bUZORHkzSUhZM1Uwa2t6Y0FySlE4RzczcVRfM29aR1E5dmZZYnN1WmR4emNYTHI4NFAy0gGGAkFVX3lxTE84dV9LdUszTlNIbmp0NkQ4cE9GeEgwTkM5XzJIQmMzWFhIMm9aWWh5WXVZMFRuT1p4M29tdWVUUVlxek9nQVFyNWZtejQ0ZFE5TVFMb2I0VWlRSU02dlZqempKYTg3ZHduYnl1RlhRN1dZVkR4RFVHbnlQVGRTbXZ6bUhzaHJSeHdlU2o0c00zOFFqRlVMZjRyNWEwQWd6RU9vNDdUZlg5cHBudU5kRF9YWGlQQ1J1dlBfQzZ2dG9Sd01CRGFFMWs3ZjhYZHFHbEp0OTEzTmE2MGdpXzY5cUZHa05abVJod0xFajBHUEJQb2w5VmI2a0c5d1owb3pRZlp1MUNwWHc?oc=5)
+
+...and 12 more updates. Stay tuned!
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Metro barricades shift traffic patterns every 3–6 weeks.
