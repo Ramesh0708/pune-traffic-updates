@@ -3517,3 +3517,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Metro barricades shift traffic patterns every 3–6 weeks.
+
+### 2026-03-15 05:00:59
+🚦 Pune Traffic Updates • 15 Mar 2026 • 05:00 AM
+
+• 🟢 [Pune Traffic Police Counsel Drunk Drivers; 4,000 Offenders Attend Sessions - Pune Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzhaNmdjNmxjNWNxUllIbFd6Yjd0cHc0X1lPM3hjZGVfTDB2dm5sZEk2eU12dG02V3Yyek81LWx5YzNubDdTcDBSR0ZtQ0hFaDJPRGNRYkQ3RmFkUld0VFBuQnBQNzYwX19rbW8wbjhxajhMbGNOSFc0bGpQLXlsaFg2WXVjYU82YlNr?oc=5)
+• 🟢 [Pune Police, RTO crack down on 375 auto-rickshaws for violations at Swargate - The Indian Express](https://news.google.com/rss/articles/CBMiywFBVV95cUxORTcySVlwTVdTdkJnenVaY3ZqUWxvMDh1ZW10YUJrVlNKREJoM3piUmZZMlFBb2ZQNTFQMHoxUF9rQWIxaEZETGtCREN0eXFzSWJZTHhWMk51YXVPcjE3Y0RrTjNuZkhvbF9tTWJMQld2Wm9SUEFxRnFudnVwRXBSOEdJVnlJa0xMQ1MweDB2MHZoWDdjZXQ3bkFLQ0ppOHJsTHRUS3hpS25vSHFEV2Q5QkdidWFRNW1RdVJuT09nOTAxQ3FZSjEyQVdDc9IB0gFBVV95cUxQMVBOZzNpNlNTd2ZoZ0M0QmxydWd0c3RQRDVjanBvUFdPZDhLandES1l5YXJET1NMNHJ5THdHdEZjdHRIREpjM1lNNGY5NWIzZFVUbGQ5TkJpaUY5OWVwU2lEQXdiel84QkNsbUZxWDNEc25SLUF6blFmOE5mRFVRLXhMWFN3aGtRYUV6V2hVSWlINEJES04ycEJiZ3V1bXlCN2lkMERQYksxTnZwdVowcGRwYTZBaHZaUnFVLUl0blFIRzBKOUZsTFk3cVpDdHVxdGc?oc=5)
+• 🔴 [Pune: Traffic Diversion Announced Near Balewadi Metro Station on Mumbai–Bengaluru Highway - The Bridge Chronicle](https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlVjcEFlNGZFcHpTdERnazAxRVJoSjE4UzdhU2hVUzd6WW5qU1djUlpCXzRiTFdWNkQ4OWY1c0hyRWtHc2REOGtMUURidzROUERzMTROMV9GM2VYVlZJcUtvVndnTkZGZUJ5YnJpdlN2OGxHRXNzV205SWZBVFRYYW1HdGpEUHR0ejEyV2UwT19JVUJ1VndJM3hmODRRZGxpNm10cHBndXBQS3VBS1k0NWlnZkFIWWPSAcQBQVVfeXFMT1k3SzJ2WEpQT1BnZEhyWk12Z3hGTW1oak8tMWZtaWNhT0Y2MEd6VW5PRkV2V3JIQTAzTF9FLVlpQXN3djZZRmk1MnhqOXpvYkg3MnhhZVRtT3p0N1ZkVmh5Y2tXZWotXzRsRG1BUWk0MDNNYV9nbGVxQmNueTBjOEVSUXU0dGUtdVNsbGhHYTM4Q1lfNzN5MjRxcVZhUDhpV1lPZGU5eFNpQ3VHMTVLX3lEQ09zMnh5dk1tSG1nUDZtX3NvNQ?oc=5)
+• 🟢 [Pune Crime News: Police Bust ‘Tap-Tap Gang’ Targeting Motorists at Traffic Signals - The Bridge Chronicle](https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWk3anBuVVlYRzRhR3NvVFdTMVgwNk01R0hjRzZUZFlhVkhzN3ptMGhqU0tYbTV0NWRuTVZsMU5XQi14b0xyRXJhbDdsUVZNNGpMbG5tcE1xcHRNcGZZUHoxTHRhM0RKRjlDa25GNmRubDhYTFI3R2x2WUU0ZUZGUlhzUHJfSU9veEY5VEFLZjlxYTlfcEFJUVVVYnA3My1Pek5GZ1dxVkJ0bzdsQnZsbkN0T3fSAcIBQVVfeXFMTXZWWVc1TlJsUVdoRzl3b0w1NTZlZzRBSFgzSTczR0dIUHZvOVpXVkFFQzJCSDJrOEZYTEpZZ3ZWQlEta25YZ3lBdzlVYW50NFlCc0dLQk5uRUh6OUJ5dVhwaGJ0VGFHSDUzby1sTU1KQzBQUGxjRXNHSGZxVVFwQUJoOE56LXYtVjdTNkRQeWhieldQcWh4S2ZlTHdYX3E1ZENyN2VnYVhzS1U5UnZMZEZ5aGNYMXVhTFF2TXhrRTdrNnc?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Pune has 260+ synchronized traffic lights.
