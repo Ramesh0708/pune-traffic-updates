@@ -3531,3 +3531,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Pune has 260+ synchronized traffic lights.
+
+### 2026-03-15 10:54:57
+🚦 Pune Traffic Updates • 15 Mar 2026 • 10:54 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune allocates ₹1800 crore budget to decongest traffic in city | Tap to know more | Inshorts - Inshorts](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFYwNnhNUU1Cd3NqSDJraWFDX0pzcWNkdGlGbk1Id3FBU2RXdWU0M0FXNmMzcVktOEFJREx5VGtpYWxLaUFyVlZLNVV6eEtheGswc0hTQktxdHlhN2ctVUdSWWxCLVluTlZBNEJ3VEplZmlfRmphTGRnQ3R4Y1RRdU9tbHJNcjAwcGNycmtMckROXzZQdExXMm44UUhpeVVfWDNDS0JScVLSAa4BQVVfeXFMUGpMSlRLbWN2NUdpcDc3aUJRWGlOekdtVWwzZ29aYjVVcE1kZGZkaTZ0NGFIcy0yaHFpeE91ZEEtREFlZDM5UTB1eXVsOGc1QVluaFhJMDdEQWtVQzBkdmtrRzlmSFpTeDJ1QmpNSGRISDF6eElmRzJOUzNKRnl3QlJreFdXdlpwakV4WjAwOGFpMFdRcW54eWVDLUJQS2ktb2J1RDhGSXFoTE9JZXB3?oc=5)
+• 🟢 [Pune Allocates Rs 1800 Crore To Remove Traffic Bottlenecks In The City - Trak.in](https://news.google.com/rss/articles/CBMimwFBVV95cUxQekhNZ244N3JkYkRTSjJzZ0lzYkZoVGxtd3AyVVJhUlBWeFc0TVBYalM4SmdSUUdjdWF2NXY3WDBnNl9xb0ZQTTNsSnc5Wlg4WERhc2l4THF4d01rMm9VWnR4RFNWWWVUd0JvZlYtV1dRVU5jTUZFV3RlSzREdWxfcl9wdFVHNmxaOVl0UnFKNWlFeXducWNraVBsQQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚦 Pune has 260+ synchronized traffic lights.
