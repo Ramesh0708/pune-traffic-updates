@@ -3581,3 +3581,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+### 2026-03-17 11:11:52
+🚦 Pune Traffic Updates • 17 Mar 2026 • 11:11 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Tyre Burst Causes Cruiser to Crash Into Truck, Three Dead on Pune–Solapur Highway - Punekar News](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEFoT1ZlSUREd09tUjJEOW5yWS1NUFM0WER5b2RlQW9tNkhNVFJIemRueEVYZGZzeXR2N2tXV3BCLUNQS2tpdV8yVVVYY2d0cGpDZ0JEZkpjLW5QN0ZLZ0h1MWZ5RnVkamQtTDRJOFNNQkowVm5OaEtKUl9OMklfdVFWY20wcU1FN2NyWFh6S3cyVWVicFVKT1ZrVVZyVkxkLURORW5lb0lCWG9Z?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
