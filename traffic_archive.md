@@ -3569,3 +3569,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Baner Road spikes heavily during school timings.
+
+### 2026-03-17 04:47:50
+🚦 Pune Traffic Updates • 17 Mar 2026 • 04:47 AM
+
+• 🟢 [Pune: Traffic near Vadhu Budruk and Koregaon Bhima diverted for Sambhaji Maharaj death anniversary - Punekar News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFJER0hENGRmY09GTTYyQ0FCUEMtS19IaVl2T3htc05OSlNGOWpfdG1Wck1lTEJoRTctNlA2MUFBYTNsWmNtMTVtbEhycS1XU0FPa0xhangzZTN1cEhnZ1RoYTVTd09mUDFTSDVsRWVmaVh1ZHVvUndyRGVsNFY4dzBrZlVBbWxOdUdJMUtrRXdfTXhQNXRwbFg3b0dCeVM3Vm5GR2duMTV3MGRiMTVZNDlSQzc3T1FWX1FUVjhvUHJqNWs?oc=5)
+• 🟢 [Fake SMS Challan Link Drains Pune Man’s Bank Account - The420.in](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0Rzdl82ZmxMQmxCNDNoVGh4bmlZMXd1QTBaV0hWT1JVRGloWUkwQzBtR21zbjhGMlpybXZsdXN3aU5ZX3gzME8xaW9Kd1BwYzNxWHZ1YVJfUDNLYW56YmxtWDllekhyTHJWSnZvWHM4b3RmUnQzOEs5aVBJcWJ4OWVPbW11OHM?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
