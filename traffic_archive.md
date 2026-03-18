@@ -3605,3 +3605,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
+
+### 2026-03-18 11:12:58
+🚦 Pune Traffic Updates • 18 Mar 2026 • 11:12 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Maharashtra Kesari Wrestling Championship: Traffic restrictions in place for 4 days on Pune Ahilyanagar Highway - The Indian Express](https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ0ExM0JBTVN6cjV0ZFJwSlhTWF9saWl3N3RLdGcyMUtEeVlOcmkySDY5OU9HVnM2eURzTjJrVl8xUFVFeWs4ZUVzX0hzVVBMM2JLVkFtR1F4U2xxSDhvWG82dTdHc0k0X24tNGE1aUxGNFdmMnNPNHF6ZmRSNEtaYnk4WHZ5dDlSWDFSeDAxbTdVSGx3ZGY0LVZMcmE3djZGZFJvQUstS043VzRPMnpkbmpvakZhRWtvVXlKV3pRXzZQN0gyU2JBVkN0Q2tqSjVpdjN0OUtWTWJZN19Wd3N4YnhJNW4zQWcwUGNyTk9JUXdRR1ZqRW1kMlpB0gGAAkFVX3lxTE5mbFlwdjQ2WXRNOTlfTy14ZkdrbklSZmZEQjBzMFlnTHAwbmJpdEVSQTZwM2FWeHpIM0pMd0Y2MXhiSEItUjFHMm0tNXNqeXFES042YjVrV1ZIYUVWNVVNdTU3bmxZempKck5DTEZDWnh4R3hHaXdJVGtKeWhVOGJPdkhfUHdfV0psek9Ja2ZjTGFINUxxYzdfNGVZd2pWWmZxMldUd0NLNHNEWl94QmhZd0NhMW9OUmJFaGc5LUF2NXlDVER1Q3pETEM3bngtVllOb3BQakVuRXRQbkZyS0x3RnR4OUI1OTFBRFBWVGZyTkVGcXZTV0JUU0JFYWpYS3A?oc=5)
+• 🟢 [Pune Approves Double-Decker Flyover at Mundhwa–Keshavnagar to Ease Kharadi Traffic - The Bridge Chronicle](https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWlDZDlJZ2Y0bFk5OVg2dERSMmxjMmxSSnBIZlhzU0hhd2hkN2k2ZlFMazU4bUU1THlDQWF4aS10TWJDWGhISmpoM2VDQy1uQTExMUJRNGhNbWxqU3FlWjR5R2VmU2Y3WE9wZGR6UTdLajBLNldWU3ZGUmhWdEE4d3NNdzJydkF6V1JQZ1pnTXgwVzR5WEJYSDlQVDNrQS1vTEgyWVptWFgyMHhY0gG6AUFVX3lxTE45WkJUYW50UjlzTENwelVsTDFaUmN3UVZEQWdUN1A0SHBXNC12QWNRYVk5dWVfRzFTWktDVFYzY2h2eVppa1V5a2xBcUpVMzF0VWRQczBEZVBKeDY0Uk1mSWZxc19SYTBxblozZjIzbzR1TmkwMWdJTVZJUkxFMC1KZDN2UnpYQUNmTXhtOXBrUUFoVmhWSE9OaFBoWng5MWFNSTlBUEJKNlZlSm9HSGhiY1F3Qi0yNUxJdw?oc=5)
+• 🔴 [Pune Traffic Update: Heavy Vehicles Banned on Lonikand–Kharadi Route Due to Maharashtra Kesari Event - The Bridge Chronicle](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk9xLXk1c1BoN0k3dEZjLXljNDMweTZTYU95UnNvdFZmTHlmc29iby1Sa3BMQU9CZWJKRTRINFNqSlJ4WXlRN1pfMzZ5b3lqZHNHT0QtcDF1bndvbTg1eDVnQ0hscVQyd1hKWEJVdkJDZzdBbXczdW1CT0x1TkNWSTd5eU01bVNaT21lV2NKOWRUWHlUVFBnSUx2aW9PWFhoeUNqUEVhcUFxVExyREJ4Y3dn0gG_AUFVX3lxTE1UNUpoYTJ3YmdLNXUyNDZkMUFtTXN1R3FEcHdIT1R0ZUFycFd3cjMyaE11ZVBram5BcmF5TkdES0k3RDhLVDl6alVLWWkxTmZxVVdSMkpHZjB1RVdqYXlEbldxR3BDNlhWT1NySmhJbUlQNmFOWFc0MzJfZGY1UUNsLTJvZFlqcVVuYzhTdmVKNkx4ZXVsaDRuMGdVVTFFSEhsZmE4ZHpNOHNTeFh3eGMxQ0Q0X05FQVV0X3czNVZZ?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
