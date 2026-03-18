@@ -3593,3 +3593,15 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+### 2026-03-18 04:52:27
+🚦 Pune Traffic Updates • 18 Mar 2026 • 04:52 AM
+
+• 🟢 [Pune Metro Extends to Wagholi: 12.5-km Corridor with 11 Stations Aims to Ease Daily Commutes - NativePlanet](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQl93Mm1kMVNucWU0dE5oN21sbFMwMFZEVkFvVTJDbzVCcVFrZS1RWXFUTk9HdDQ5NUtZanR3TEpJRHQwVlJZRzZBQWZLSTN4VUNZVGI0enRYOFBsQlNhOElwRE4yd1YzSm1XdXc3WWpuUlhNUk15bTZtRU0yZGNBOVR3MEIzb2lqclAwaVlFd253YnA4S2FPTVFXTWhPbmJXam5DOXlEa0hRRk9HYTF5OHNJY0toNmZ1bHMtY0JTVHUwYmg2LXc?oc=5)
+• 🟢 [Wagholi: Traffic Restrictions Announced on Pune-Nagar Road for Maharashtra Kesari Wrestling Tournament - Punekar News](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDBQWVlhbjJBU1pSQml2ZGJSR2pYT1cxTTgyV1NsNU1NNGZuU2R1cnhmMHNsQ3NvRm8zb0N2QllxRmYwM3BqMmxINVhhSVBWc3BudTRfeXZYdlVma3d6c3k5X0d2MEFqTjVWOHMtTTBydmZxYkZRQnBaVkUyOEpQQ2ZDTHZxQ2N4VzhZNmxjaGpHQzExb01DME85X3A5M2I3dXVQTkpRbFVacTA3bDI1OWJVYlFtNHVCb0FQdXBEWDZLUTM3S0JHZA?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
