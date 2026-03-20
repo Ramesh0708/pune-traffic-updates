@@ -3654,3 +3654,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚓 Pune Traffic Police issue over 10,000 challans a day.
+
+### 2026-03-20 11:01:30
+🚦 Pune Traffic Updates • 20 Mar 2026 • 11:01 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟡 [PMC Focuses on ‘Missing Links’ to Reduce Traffic Congestion in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDhuakZnMUtfbzBON2ZUTGd6bE9IRXFFZTBnSjVHVkpzcjRmMmJPSXZETURwQ3RmUFhoR2tSLUNFWGVaSVUtQXNFa0N2YWx3dEhZNVM5c0JBYzBSd0JwZmtaMWJ2RzJxbm9xbS1Vc3ZaenNCbGlQZVp4dXZNdlVHX1pueWJjdERpYnNZOFVhd0lkNFU1cEZ5TmtUd2NCaGs?oc=5)
+• 🔴 [Pune: Major Traffic Diversions Announced for Ramzan Eid Namaz in Camp on Saturday - Punekar News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPV0RibDc5YWM4V0RyYzM2bHMwTVdQZEd2S2NCS0haTnMxSFpMTUMxYkktbHBNZVhtNl9lbE5jR2J3b2dhenZaa0xjdWpRakdpQmhvSW5zMnBjbW9RYmFwYlY2T1VtS0lpMXBaV216SHcxY0EteHFKUVF3ZUM2TWc3SExUTGRHelJ1NzF3ek9ZNjdEV0sweFNoMGtVMmc3bVQzNmxmckZMNEM3ZWZh?oc=5)
+• 🔴 [Mumbai-Pune Expressway: 32-Hour Traffic Jam Spurs Plan for New Neral–Shirur Corridor; Maharashtra Govt A... - lokmattimes.com](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbzc1R3F4TmMzZV82MjVUcUp1TDlXTm4wR0dnZ05lY1lvVXpYR0QxQy03MEdFaHA4a2hPNXI0SzZRZThMQkU2WHpab2NBWC1TQnczbDRYZ1I2X3VNN0o1Vk1MLVpTLVZrOWtQMktOU0FZdjNZei00amlrd1JFVkowN1hlaHAwMk1lLUNneVZES3pBZUNNM2FhWXpvQUpsRlowUk0yRk94WWFIWUhPaWFnVU9QX3dVYlBxQXBuU3BYQm1PcUwwVXBpQVV3bXVxd09IVHJDNDBvempyc19IbFpTWFh5MUlVQjU1dU1DbERCblpOamtScGMxWHF2eFbSAYICQVVfeXFMTmVHY3EwSGdpTnVtZ2tRVkhXdkoyQWpmTjlCVGJDTGw2WmtXUGVBZ1AzbTdBWF95cDV5MGJHaWZ4ZmV3Ty1hYlM1VTZCTE1JUGJldVgtM052ZTF0a0tCSTNNSzluWWgzWlNram5NQ2pMa3dmZUw5V2RZaWNpRzBNd2REazh0YUdNVXY5Y01zOTVTQ3BjSktIYmZHeWZCTDhIaTc2Wk5wVkpzSm55M01JdThvSUNXdWROX0xTZWxtVVUtODU5c0R4YlZSRnJSWWRWejRXSTNTNGwzZUJSWEV2amdPZzZhNUxiZjJpdjdZWXM2cG1fMFlaM3kweFhrZ1h6RkR3?oc=5)
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚓 Pune Traffic Police issue over 10,000 challans a day.
