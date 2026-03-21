@@ -3683,3 +3683,19 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2026-03-21 10:50:13
+🚦 Pune Traffic Updates • 21 Mar 2026 • 10:50 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Truck Crash on Nagar Road Near Aga Khan Palace Causes Traffic Chaos - Pune Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3d2UDRLT3Y3UjEtdjFCeVpYc1lVa0poLVExMEotdXB1bXMtNzZiUzcxNGttRUluUDJuOVYydVVyRW5obEh2VVM3TmJEaS16bnhjMWRaQjRPa0J5TFYtMUZsTUptY3dFSkRRZVZrTHhxdV8tanVVeFU3X2x3TUpKeDc0Q1RRcjA?oc=5)
+• 🟡 [Pune-Bengaluru Highway: Officials Conduct Joint Survey To Tackle Traffic Congestion At Bhumkar Chowk - PUNE PULSE](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTFaU0xGTXhPRFJtX3hVMHRZazVWVy1JNDc0cmRrQVdwcFRWTDBrNUtWemtXdFYtMC1uMVFRa0MwSjF1cmNOQnFvOTVDMEhJUWJxNU1ma0lLT1VQWTB2SjBTNGRoenBKTk91RkxOLV9jdi1yMjFScTVYQjdKTG5Ua3Z5X185SkMxcWx0WUZVemZpU0MzeVM2Q2xjcnV3YXpUdnRTNmlXdFplVUpKVFFzQXR6MUlEZHlXZDZjOXl4TXAya1lYdS1R?oc=5)
+• 🟢 [Swargate–Katraj Metro Extension Proposed Up to Shivapur, Proposal Sent for Final Approval - Pune Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxQMXhCWXprMlZNZ3kwclE4eGxfdldmMTd0S2RlNlF2Vm1DYmJqX3pndHlTMER1dFRHZFZlMVF4WHBibEs5cmZxZExSRG4weUxfT3MzQ3Z1LTlycWxHQy1sRHpsUzdnVlQ1dTVGU2w3T3NMaktJdFFNM1owTXI0TzFWdC14clNCdw?oc=5)
+• 🔴 [Eid 2026: Traffic Diversions Announced Across Pune and PCMC — Key Routes and Timings You Should Know - PUNE PULSE](https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTB4cmZ3TjAxZFNtMkpxRXRtQ0lhSm5VNm5FcHRkdHdERWhJaVVhVVlvcWlhRWhIWkMwekNqbVZ0ZWpJM2RNUlhsMUljMDhZWElLYXBqTEd5MnJmTktRbUdiZG1LRzNDWnBEbEE4SHJ5VUdSQnZfRFRWbUloNG0tM3Y5OEJYcGxYLXNJdHZWWTdDTXRESkdaSF8zZzl2ZFgtNXVRSUZOSmdzak9zdmtuNVgwc01FVlo4Z0pLTHZ0VGhPUEhC?oc=5)
+• 🟢 [Pipeline Burst Floods Kalyani Nagar Road, Traffic Disrupted in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2NZR1N2Q3MzUjh2c2IxRXFla1dPMnQtTnNURVJYSG1vOFJLU0d2MU1oVUR6ME9CZlFSRV9YaEU0bnBIRE15Z3hSUEg1enRSMlpqVWxsbHBWY29NNmVKWnZpNVp2WURtRFgybGNHLUtQQlJsNElwcGpFM2RNd0U4T2IxTGphejQ?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
