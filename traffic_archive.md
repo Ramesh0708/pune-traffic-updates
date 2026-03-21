@@ -3668,3 +3668,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚓 Pune Traffic Police issue over 10,000 challans a day.
+
+### 2026-03-21 04:23:38
+🚦 Pune Traffic Updates • 21 Mar 2026 • 04:23 AM
+
+• 🟢 [Traffic changes in Pune and PCMC During Eid Celebrations - The Indian Express](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTZyM25nTVlUdjFXeVRSTElTN3BBa0J2Vk1GaXVGMW50UWRfNk8wZTJTT0w5dGlQalFpV3B5SDRlOW1fX3NkVWJBYzMzbVRYZHloZzZfQVJfdXpnZU9sYndMYmhMbkF5TnBXbVdyblY3a0ZZX0FabnUtZVBuVHZzd0ZPdmkzaGx4bzlIUElIMnNtSHVRS2c4dTdYTGVfV2lxQlpaV1Vhbm1qTm96V2pxSkhpT2dxeUJnY281SGdZVG9OOVHSAcoBQVVfeXFMT2tZRlZsMk9tZ2VmT3lPb0xfT1ZtS0VDdFJyTmI1U0xpcFQ5MDRRRjRZVVg5ZnB3Q0p6UlZMREYwT2JyaXhpdE04djQ1NzRNM2VmSnd0czg3SWZGSDJLU3Q5a3NzX2xfc1AwV0YyQUg2b1ljQk9TSC0zMWdjdFA1aFNnanhMaHVySER4QkNTc2lsV2FDUmdoQkVVa0wtWXVlRGtla0dHQUdya0R2VzdGeDJRUHRHV2ZPMHlrVVNWc0xWN0R4c2JYTlVYUQ?oc=5)
+• 🟢 [Mundhwa–Kharadi Flyover Approved: Pune to Get Double-Deck Metro Integration - Pune Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOTVfVmFqVGFhYXV3ZzlLUVFHSFhRNmZRQUQ4dks5LXNlbGd1TWZ6VW84VmFYQUVESTUxemVyZ3lPNWFHQWRtZUJDanJjRE5uYm5TcV9sQjRMa1QxU3k4aEdVbWQ5WDN4dzV0dVhVVlhHbXhXcWhpWDBqTjQ4aWNvanVEZDdWMFVZRkk0?oc=5)
+• 🟢 [Pune Police, PMC Crack Down on Illegal Stalls Using Gas Cylinders - Pune Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxPLXRSWDU4WHI2bGJONjRUTEpCYlR2Rlp0dDgwWElvS0tMLWVneUZYcXNuZ0xNalBkNDlJUVRtc3RHRlhsbThsS25nOWlQM2NMV0tFdFR5R0lIc3NwajJnTHZMZDlKTHJUUDVMWG51b1k3NktOUTBGXzVudGZMLXVYYjFmNkRNWHlVWjVGOUl3?oc=5)
+• 🟢 [Traffic Curbs Announced Near Golibar Maidan for Eid Namaz in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1Jkb3F5aDNQbHEyc2JVTGs1R2QyOGx6WTVQMENibFVPREpRT2FMQXRhQnIxNjJpNUVaSHhTWGJfZmYxQ0FlbnlGRHhVNTU4YkhkZjFlZE5Ea0ZhSWtLRVVoRHp5X0JKLVRzLUtOcFZxR0pUb2dnRk5sdzc5VHdQZEdvRTRIUjFmN1Vvaw?oc=5)
+• 🟢 [Pune Metro: 12 Stations on Hinjawadi–Shivajinagar Route Likely to Open by May 2026 - Punekar News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNX05DTnhxX3ZySkp3MFhxdUt0UHRUMU5jUXRWem9EQ1pqWmZ3Z01ka05tVl9kZ01McWNZZG1ORFFqcWVKdjZBamVPYW9HMkxqUm5qTHI2TTEzaGtUeFNtb0d2YXpIaUQzR1JTdG5OX2FSUnFyWDREb0lxTjFhVXBQc28zNm02cDJ4TjVXS1BsaTVraVdReFJsaXNQd2dCQVZFNmJtVW53blFyWXNFUmc?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
