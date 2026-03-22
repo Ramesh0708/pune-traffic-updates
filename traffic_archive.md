@@ -3699,3 +3699,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2026-03-22 04:48:32
+🚦 Pune Traffic Updates • 22 Mar 2026 • 04:48 AM
+
+• 🟡 [Pune-Mumbai traffic relief: Nerul–Shirur four-lane highway gets nod, new route to ease Expressway congestion - CNBC TV18](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMmVGTEpVckFJamdsbWwtNFEyQWxkeWlOYTdWYkFtaldtUGZWU0RMWVRCRGx3VDRGUmpUMlBKVTRPcnUwMy1pbUp5SlZscEx2NFYybHBHaHFQTWlkUk5lVnpMbTNQV09MMk8xOEFZOU9iZFc2b2lDMzRaNUhiUzJ0dVFPZVlVd2N5Q1hqdFNRNnRKMjB3YUFtV1dsYTd3S0F5VXVVYUhtSURuRW1jWENodWUySkYyM3M2MjhHU1A0UU13bnZDYnVLanMydkpRWXJZQkl2azkwUjB0Mk1aQUJ5NTB0Skc3akszSlJnYTlYWlbSAfABQVVfeXFMUDJlRkxKVXJBSWpnbG1sLTRRMkFsZHlpTmE3VmJBbWpXbVBmVlNETFlUQkRsd1Q0RlJqVDJQSlU0T3J1MDMtaW1KeUpWbHBMdjRWMmxwR2hxUE1pZFJOZVZ6TG0zUFdPTDJPMThBWTlPYmRXNm9pQzM0WjVIYlMydHVRT2VZVXdjeUNYanRTUTZ0SjIwd2FBbVdXbGE3d0tBeVV1VWFIbUlEbkVtY1hDaHVlMkpGMjNzNjI4R1NQNFFNd252Q2J1S2pzMnZKUVlyWUJJdms5MFIwdDJNWkFCeTUwdEpHN2pLM0pSZ2E5WFpW?oc=5)
+• 🔴 [Traffic diversions in Moshi today - The Times of India](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUx5QkVpTlVKa1g3MG1pMGZHZTI4NnJnbk1QYWVTWDc4NllhcWkxbEJNWXRfRkdEQVNWaUZodHhBUUtRb3JadU9TbWdWVExvNlVsWGtMb0MwT010ZkZ4S3pKV0RhRWtFZVNCWldva2E0Mzg2MU5jSlJ5dEpBWlQ3Y3lCN2kzVGpNbVNHcGJKT3hjdDktT0ZHY0paejY0d1dScDltWnh1LUvSAa4BQVVfeXFMTk1fZGNyZk83V3dXbEFzaFJpT3dRdm0tZzlzeFZiWkgxam53VWJZc01KLXNzMm5wbVZ3YmplM0E0WFVTakxsaU9acmxvbFZ5V2dma3BXekhYTkpKQjU0Sy1YSi01VlMxVmwtbDVkSDBWQkpiejFMMHYwckV6My1tMGE5Rkwyd0M3TWxRSHhITWJGNTBZekZpelUxSmxPc0JkY2hUYjJyQ2pfQzV1WTVB?oc=5)
+• 🟡 [Pune Approves Rs 126 Crore Double-Decker Flyover At Mundhwa-Kharadi To Ease Chronic Traffic Congestion - Swarajyamag](https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjdnTHZLeWpCTWRrS2ZGMElrcUdON0tabl9odkVDR29VOUhKMFdwa3B4dmR6RnVhUjdmLWJOREFYUG5GOWZ4UTZTdldSaVk1VUpoOFFxREx1SVVocVUzRW56UkdtcTllS0lMTUVrX21JaTRWZmJrYllOVC16UWNOMl8waU5JQUlmSVZ1QklCQlNGai04emdfX2ZqZXRTbnoydmVFQVBfWWE5WGxwMVA1UDhwYzdOSXI3Q1VJNjc2VFhKaUcwclBYVnppZ0toWTTSAd8BQVVfeXFMT21LSHpDd2VLeFdpcEJTUmpFY2Z5bXFfSlhXNFZJZTRZa1NFU0RmMWdISUw2RXh6Y3BGaVFTNjRYVkoyRjc0eXI1LVMxMWdMaFFHSUVuZUZIbk9GUlVoYkVhVHplUDhVSnlrU1lyU0JYMk1BVG0tZW1PWEpFYnJtNmNRZjVWd1MxdTNkZUVvTTF5ZFpyNUVjWTNZSDk4ZHZKaTBrZldlV0lVU1h3SE90bmhPajNKNzh3b0paa2l3ZWxhVFRuRzloZHZZOEwxbVVvZnRZUVFWTFNxM3pRUXFmbw?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
