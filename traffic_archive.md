@@ -3712,3 +3712,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
+
+### 2026-03-22 10:51:14
+🚦 Pune Traffic Updates • 22 Mar 2026 • 10:51 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Multi-Vehicle Pile-up On Pune’s Jambhulwadi Bridge Causes Midnight Chaos; 7 Damaged - Republic World](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE5Yc3B2UGtzSGRxTDlYRjVYak5nWVNqS3RZaktybURpcG9DajZTeFlZV0V3WGdZX21BYnVlTXU0eUFBRnBmNzlKOUZOYkN5a2lSSmQ4bDVIblh4UnEzN05hNHU2d2hrX196X244SXlnMmJURGx0V2xYZFJIMGJHWnBXQk1DY2hHWTdpdTVzWdIBlAFBVV95cUxQcVlablZ3Q3c3bEYzUjRhd3NaT0UtaXp5WlhTRzdqU080QURnektfdnFvQlVJTUVwMEtzaXM3UklBWjg4eUhwdllaQktlY2x2SzZIUmZjQ2RKb2lwc1d5Z1hfeFlJNFA3QVFBSzdMQkhUbDB5SFdNdDRVWGRCNDB5QXMyMktNRGp3LVVtc0RIT09sV0Q4?oc=5)
+• 🟢 [Pune: March-End Work Rush By PMC Triggers Chaos; Citizens Struggle With Dust & Traffic - Free Press Journal](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM3B6OTFOaU9jblFQUWlya1FDQ3BuMms5b0ZEb0FrSmxmcGg5Yno1bFpfVXFQY3Boa294NzhmWlRZZjk3UEY3Y0RyQXZSTzZ1MzBnblJGVG52b1JpYmozOGJDN2l6UFZlMDdYTzhQVngxWVZhTUl5Z1V4cUU4eDZOWnZ3bF93X181ZHl1YTZPS2FiVnJZX3lqX2NqOE5kbU1vWGVlMlQ2bXZBT0NPcVRISHJneE1Jc3AxWEdj0gHAAUFVX3lxTFA5akZpTGlqTTJvczdfMUdrZ0V6T1R2am45ZEVlNWljZUlvcklBaVlkYlRfOWt1cWMxS1VvMEFRa0ZpVzJ3NWxOWkEyWWhOdXlHeGtDUHlhMERjald2RU9jb0lobXNaV1FXYXp6SV9hWFdvRnExR19zMnNoNjVJOVE5dHBRcS1BMEp4Ry1ta1UwQ0FaWnRSMXFjY21WcUVwVTdBNWtxSDNKQWRZNDVSbGhnS3k5N1llazBBTDJ0OTFPVg?oc=5)
+• 🟢 [Pune: Major 4-Vehicle Collision Near Navale Bridge Chokes Bengaluru Highway, Raises Safety Concerns Again - PUNE PULSE](https://news.google.com/rss/articles/CBMizAFBVV95cUxOMko5MjgtMFRlTW5YY0ZNd3lGV3pDUmVXeWZpWGVuRWg1SmlRY1daUnYwTWo0cU94dVB6SmpKVlFYY3U0c2NnWWJhQWE5ZFdEMVhFUkdKam5wTWpWVWx4cF9jeHE5Qk1EVFVlZWJvMGZRa0E4ekdFSjhkeGxLdzd2cDhrVWI4V2xCbmhhNXA5Ym93d21CNU5rbDdBcGkzcUgwWDYwWTZaTkRRYlVmeU4yZHgxUlJUeFBITTJvd2FyeGNyZm8wMHh0VEhjTUg?oc=5)
+• 🟡 [Pune-Mumbai traffic relief: Nerul–Shirur four-lane highway gets nod, new route to ease Expressway congestion - CNBC TV18](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFMwcUgyQ3Rjak1oWmxCbnpPQmREc2tJTHg2ZE8zSXlxMkdzN0pGVVBDcXhiTGtZaEVZbDFSVExXamlxVk1jQXI1VmFJWTZTdy1Fb3hIb1haMlZPbE9wbTRjdFRqTzZLZnlzdm9WRmt5WWktSGpFWkQwSEYwTEhFWXdSR2ZZWnBuY2JWTHpLTlNfTDNhcE5hMXRuOEQ4R1JrdnRaeTAyN2cwb0xVYVc2ZE1uanNmNFVvQ09nblpJYjF4LTBDaXRCMnVUekFXdmhXOWpLcnZWOGcwNURwV1cxLWQxSHgzc0ZUZy1Z0gHwAUFVX3lxTFAyZUZMSlVyQUlqZ2xtbC00UTJBbGR5aU5hN1ZiQW1qV21QZlZTRExZVEJEbHdUNEZSalQyUEpVNE9ydTAzLWltSnlKVmxwTHY0VjJscEdocVBNaWRSTmVWekxtM1BXT0wyTzE4QVk5T2JkVzZvaUMzNFo1SGJTMnR1UU9lWVV3Y3lDWGp0U1E2dEoyMHdhQW1XV2xhN3dLQXlVdVVhSG1JRG5FbWNYQ2h1ZTJKRjIzczYyOEdTUDRRTXdudkNidUtqczJ2SlFZcllCSXZrOTBSMHQyTVpBQnk1MHRKRzdqSzNKUmdhOVhaVg?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
