@@ -3727,3 +3727,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
+
+### 2026-03-23 04:58:57
+🚦 Pune Traffic Updates • 23 Mar 2026 • 04:58 AM
+
+• 🟢 [11,000 offenders fined in last two months for using mobile phones while riding two-wheelers: Pune city tr - The Times of India](https://news.google.com/rss/articles/CBMilgJBVV95cUxPZW1VRWFSMEg0VUYyblJsbVBBOVkwaUU3QWJHMWtUTFZCeHh2dGlwaGU3NEJvb1RaVzZMbFVzNm1NMy1GNGtubnNhUWRIWk1iV1MwV1hCWURrT0RiMHFmSFNFbmdwWUxDV0tfbmlFN0dDSVFqMXctNWsyVTdlZGh0dXM4a0dLQjRnb3Vpdkg4cVJ5Z2dJcHJoZmQyY2pJUjBickF6aDVjUXlWWklhdmZwazBHTzVsMlBBaVA3Z01BUTRwSFlxMXRGaU8zRzJXREpHdWNNU0lSYUthSDZYcW82SDFqbE8zWEdmZksydUlqdFI0UGhWV1NVWXlwemxtbWZfdVhwY293blFVVEk1NDNNSXlzLUtuZ9IBmwJBVV95cUxONnFaVUI3bEs2aEJpSmtxZkJEQ2NoeHBEZGxrOEMxUklRR3J3bi1fdHlkMG1lYU5TMVVZN1c0d2ZMVXk4Unl3VFhpX0VHeDB5dklfRGFxY3FXVHljc0NqYlNtQUxIZWxqSFhaN1VsWU9tSTJwT2R6M01WOXNBdGxWWVJiT2VCei1TOEIza2hfTnJzWUJQaUpBT2Y0U1h3UFpnUkJpNlVnVThHUUxEb0tSaVhKQWtMNkVSTUFCcEtjYmRQZEdDSERwSFJLSFNFN1hJOUZCdk1vUXJIWkFUV2U4Y2c0UXFjcktaeUlienc0N3FnU19QOWtDbTh5Z0JTVEo4QUduS2pPNXVjMVdtQ2FzM1ExTGZDTVZtX19r?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 University Circle handles 1.2 lakh vehicles/day.
