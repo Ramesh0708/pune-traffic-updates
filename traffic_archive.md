@@ -3900,3 +3900,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Hinjewadi Phase 3 sees surge every Monday morning.
+
+### 2026-03-28 10:56:08
+🚦 Pune Traffic Updates • 28 Mar 2026 • 10:56 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Varandha Ghat Road Closed Till April 30 for Repairs, Pune Collector Issues Order - punekarnews.in](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSy1uajNRSDhiMVYyMTF4RW1HeWhoUVliUk12LXBqMW5QdHdMeEttb19yY2poRDVkWVNDVmxjdElueThPbVdQSXBXNVJMbzJSM1VaUFBwdnlwdlZWcTd2QWFrZEY4MkJCRV9pczBsTU0wZmtaalVpWThqeHNOMTVQS3FaVU84WTZaOF9ZQkNOMHpoZzFWYlVYSC12STctTW9FYU5BaFFPYTFBWjA?oc=5)
+• 🟢 [Rs 200 Crore Flyover, Grade Separator In Pune Can Resolve Hinjewadi Traffic Woes - Trak.in](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEQyZmZmckdGN3ZGbUVZRGRoX3pYTWk3b2JtQklqYXd4TEdmZG81d1U2REpVT29FdndWRkwzODZIM2NJMHFOM19VOW4tVG42czl2alpaZ1Y5TFJkMUJENVd4RUJ2Z3dqZTIzdjJjY2hubGdKZW1NbkVaWEVqSmRXdkJQMDhqNVpyU25CVnR6X090dWktMWlHQlBkWEZ6U201TlRaRkxQOA?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Hinjewadi Phase 3 sees surge every Monday morning.
