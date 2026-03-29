@@ -3913,3 +3913,17 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Hinjewadi Phase 3 sees surge every Monday morning.
+
+### 2026-03-29 05:06:34
+🚦 Pune Traffic Updates • 29 Mar 2026 • 05:06 AM
+
+• 🟢 [Pune: Sunny Nimhan Demands Traffic Plan for Pashan–Baner Link Road Ahead of Passport Seva Kendra Opening - Punekar News](https://news.google.com/rss/articles/CBMiywFBVV95cUxNYl9YUzNEVXJTbGlRVmhNWk4zRjRGM0tNR29fYmdjX2VxQ1VBMHAtd3dFRmpGZEE3QzM4YVlnWWl0SUhIb2xWUk9yQmdaZnhrVGpVeHEyRnVYV05qQ05zVWVZQXYxWV81WHd6N21JZy1TSTVCU0RUSGxTTC02eGRvcFprcExlMC02RmJrOHpXNkd3QWM4MjI0ZkNnRWFYTEtMTnItSVdZUEd1VmRYdlhVQmNHV0lNM1QtSEdJX3FLeW1MUi1RblN2dzNvUQ?oc=5)
+• 🔴 [Pune: Traffic Diversions in Hinjawadi, Wakad, Pimple Gurav on April 2 - Punekar News](https://news.google.com/rss/articles/CBMimgFBVV95cUxPZU5aVHM1Z3F4cE81Z0RrSmVsRk5iQjlhbTBlUlpNNW9IT0JpeHU2X2hUWmNVWnJ0WF84bzRXbnNjVmdlM0hBNWFrVWtaSnQ2LWtzOTZSUDdEUlI1eUM4b0RXSWFsa1dueTFHYmhsbW1TaW1QdWhubExBUDZ4WjJUQngyemxQUkZ5UENldXRZUWFzVXdST2N1bXZn?oc=5)
+• 🟢 [Pune: NHAI Opens Technical Bids for Nashik Phata–Khed Elevated Corridor - Punekar News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzFFcm9VVk9MeE9HT2owbS1pc1FrX1R1TVNOcE41OUFvVUdWM29NVzhCUlFsNmgzc0Z0cHZ0OGhHeEkwMy1nN1B6c2tQV0lKRXlfd1NTejVLX3R6SzUxWkJuamJwTVF3czItWEpZQ2gtZUZxa0JhMXFDSHIzMUdSREdHNWgwTmRiYUxkQ0NYOVZETWxHVDZyanM0RmtfTW8?oc=5)
+• 🟡 [India’s cities are giant parking lots: Raghav Chadha demands National Urban Decongestion Mission - The Economic Times](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ0NJR3Ywd3RCQkdLMEMzTk1YZzA1a2g2XzVUVndhR0huZW5pb2hzSFBFelk3aDQwNmpzOS15WXgxSXVidEhTV19LcEZsZm9zWjdfdjFocHFJVWlLTUhvb05wWENTdDVIR0pyc0JIamRPY2NPMmppVVpDa2RkUHk0bURZTV9EQzFJQ25uRE83ZFVhcl9CSngtMUp2eGhGS0FLTE11emZtakJJV3NTUkZ2NFM0a2hjZ2xVRXFFaUJveWhVSklYaXJEai1seXNhT01WMWRfVTdxRVpIeVZYRXBZbVVzUjlBWDBwR1FiQ2NB0gHzAUFVX3lxTE9yTjZMR1k2VWJIanFtcnZ2cjFxUjlmSUpXWWo3b1pEYXB3bGhvWEFXaUJOUkVTRXNpVWszTnZSRG43NDRqQVdmRTBreFdTZFJoNTVvQ2RRb3NFNjVYQ08wcEpyT0t5VHBySHRjbDJsUjdmaWx4MklNaG5KRjJJNW9xVG90cUcxZTN2SzJFQ1d2ZmcxXzVfTW05dlVKaUM5dzNLUUo2Q01tU2x1NDNYa3F0WTV4c1VoeE1EbnRaalRnbDBsNnlFNmZVMjhxZnh5dk5takZpdE91d2lNSlNfYkExT09nTzJMc1NEQmFtTlh4ckJBcw?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌧 Balewadi reports the highest monsoon waterlogging.
