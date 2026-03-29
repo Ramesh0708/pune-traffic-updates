@@ -3927,3 +3927,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌧 Balewadi reports the highest monsoon waterlogging.
+
+### 2026-03-29 10:58:00
+🚦 Pune Traffic Updates • 29 Mar 2026 • 10:57 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Raghav Chadha Flags Pune’s Traffic Crisis in Parliament, Says Commuters Lose 152 Hours a Year to Traffic - The Bridge Chronicle](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDRzVWw3ZFczRHFtMHRsTFVIZDRQVnNWcGhMeDE4S190TGpJS20xMGhwYkxrYTF1SUZfODZlRlJSa0dqRGhCODR3NlVxSW1fS0ZuMEVJRkFoeURiQXhBRDNwODZVU2RhYTYySllST1ZuU0VYRTQyQnc5SnYzQVlaYWQzQm9WOFdxTktwa21qNUlZcEtVanRR?oc=5)
+• 🟢 [Pune Metro Line 3 Completes Final Trials, Hinjawadi–Shivajinagar Corridor Set for May 2026 Debut - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZDhmdVlqR2U3Z3BjXzhPOWhPTkNrenlhQUotNTl5Z1RBT3loZ204VHRNMS1hMDItMmpUblFQTXZreHVnazFTZ3JZdUFELW10ZHZmQ3BBbFlSa080S1FPUkZpdXBvRWxENkJRR2ZmY1MxRHhNRDd5OWtZZHJXcGhhNnRMM1pzM05xYWxkbWVrajdaU0FwQkZmU2tib2NoX1B3QWp1OHpoUnp3RFnSAbgBQVVfeXFMTWJydWd1QWxjVVRPcXpqY3l1QXNYY2RkT2x2dnNOT2lZU0dINGlibFUxV3prVTM4NGhybjRUUEtrR3NVRGNYYVNTNUxTdzhLcHEzSmZHWHVnZXgzQkpsWGRyWlcyM0Zqc0R3YUFhbUFpZEduWXBkNDhIcDZLNVZXQkd4aTNxUjZNWTAyTk5VTnowLXNOVzJfNkt6dlF6d0FhaGZScno2WjgyM1JJc1g0M0w1T2RVRktRTw?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌧 Balewadi reports the highest monsoon waterlogging.
