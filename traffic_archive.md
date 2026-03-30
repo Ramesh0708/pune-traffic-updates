@@ -3940,3 +3940,14 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌧 Balewadi reports the highest monsoon waterlogging.
+
+### 2026-03-30 05:18:38
+🚦 Pune Traffic Updates • 30 Mar 2026 • 05:18 AM
+
+• 🔴 [Heavy vehicles damage water and sewage lines in Pune’s Dhayari; residents threaten protest - indianexpress.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVZucHBkeTZaTDZJRXAxYmZxZERHTzNBVTJKd1JFQ19VdGFSNS1uSVo2blJTcWlkX0dXdkR0cFUwZWxGZUlKMnhWR29oTE5pVjBjcEVPLVlzeGZiYi1BazQ4M2NUSjI3XzR6TlNzRmR5b0xTMFlQUDVpTWU5OENhR1dFcFlWR3pmRGtSVGlxYk1GcmFDbGZqWnRuTUUySkVWT255VzFxLTAtbTJ5N1Z5TWhaTzJob1ctUUpFck5WR0hzRUlCTy1faTBsVzkzVTl6VGdsdDVWWGRmaXR20gHjAUFVX3lxTE1KcVhKWTE5MEFLcVd2QjZWR3RqajFNbTVkdF91VkpZWW4wandabTZVNlJvM0VQU2I4ZlpDaWNmV0dRLWRDdW1pU3owZlg3QXhZTXpYeVpJcHFpVUdnY0Q3eU1vamFvUlVjaDk3ZzVHMEp2SHJyZDludmpFWEhpUnFpS1FySmpIdGloQUJUbER6N2NuTDVqTE44RlJFZV9ydmZsREN6dW9BQlZ2cnJfUzRoTDdoUGZCMFlBRTlZY28xSy1vZHIwZDhXck9DcGRqVkJfTXdZdDlna2xLQVUxNnlCQjRB?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Hadapsar flyover widening will reduce jams massively.
