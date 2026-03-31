@@ -3985,3 +3985,18 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Pune-Mumbai Expressway crowds spike on Friday evenings.
+
+### 2026-03-31 11:25:17
+🚦 Pune Traffic Updates • 31 Mar 2026 • 11:25 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🔴 [Drunk Driving Crash in Katraj Injures Pedestrian, Damages Police Bike - Pune Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmxiMXpmVzQtc09wRG1VYm4tMHdDTEpBVDVkb3pUQzNjNkt3YW44NktDWVplYnBBTnRPZXR5emg3dmZFcjlLNU9IY0tZejlyUkV3cTRudU40OTZRMDhCbzJIOXBjVG9vcnZiakxFY3lNUjI4NnNYUHppellQMmZZQXpUUjF2OGs4Wmc?oc=5)
+• 🟢 [PMC Proposes ₹200 Crore Chandani Chowk–Bhugaon Road Widening To Ease West Pune Traffic - mypunepulse.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREJnaG1GYWJyZjdkdjJ2Ry1tSy1DODBYRnZQQ2o5b0RZaDJ3TW44aG9SdlkwVmpMRmtETWhGcDlYajZ5RFdfbTMwak5TUlBjQ3FCRy1qN24xc0ZYUnlEWEZ1N1RKYnBuNEFHTVFWX0RfRjA3RHNDWFJMTktEY1d6UEpNZDRFMm0zVkFjV0x3UjlCYUxRTFREWlRHWl9uNmp5Sk96aURxS1MtTi1yQXh0ZThPUFkzRFRVeFlWTGNDczk?oc=5)
+• 🔴 [Hinjewadi Traffic Diversion On April 2: Key Routes Closed, Check Alternate Roads For Bagad Procession - mypunepulse.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjZyeTdRYkhEblg1NXZhQ2c3bXZNNWJrOVZpTkNkUnJOYkxjUW53WjJ3NFZETk9UVEJWYXlfUXNoMWpqWjVpTnQtQWpvNXJUS2VJMFJkbnd5aUZJWWpzU2hCNFV2SmpHdmM1S0syU2pPX185eDJoaDczc1pHTG41NFJvNmFYb0hSMFhNWVZCQ0dtemhGazNDOGRGcUdLZ3d5dXNFNU5NVnNXMUJMM1hza2hOWC1jTWFmWnN0Qy1xNkpFNEtzYVBz?oc=5)
+• 🟢 ['Bin Mausam Barish': Pune Weather Turns Pleasant for Residents, Disrupts Traffic for Commuters - Check Forecas - timesnownews.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY3VPV0szOUhueWFyOG1zSG9xWVdhNnZBTDkzS2QwUHpsa0ZYU3NBUnFSOWFaY3VoWU1Xb0E5QzhTOFJqRnI5VTV4YVFOeW1OeHhXRnVuamg3dzZZS2lYQWlrY0d3TWszZkFhU1dWU0pxb3FncG4zOG1NMC0tYnpGLU5rU2JDSk9ZU1lCd3dJRXJLeXctTDdxamp1aFduMzN0OFZaa3kzOG5BaFVQd2NJc1cwVXJwZDNyeWVaQVk4UWhkbzVBeTRYb1hUdzZkQ2FGeHVmdjM3MllGRFlvWkhza3E0bjFMZVo3NVlZdjdyVDRBd9IB9wFBVV95cUxPU3BlWWh4M0I5RV95VWZnclZRVFdldmYwNTFhVGYxVjZkOGR6YkFEUnM0TlBldXhlcUptWGpXcDd5SHZib3J4bnZ4Rlc5V3FrS0IyWFhzY3c3UlA5WmJESHlhbktUNy1hVi1mX1VLMEV6SUVDWW9xbTM0dW5vSHl6bF9FQi03bTdadW03Nk1GN19jV3NCbDFwUlhEc1FLcFNGU2Z4b0FPYkhaSkVuMEdva0JXU28zM0lFUGdJaVNfb2IwcV92cDhHQU1GQnBvMUZwRzdyTEVPRzk1VzdyLWx4c2N0LTRmdFFDcHBNczQtS0hjS0kzY3Bv?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Pune-Mumbai Expressway crowds spike on Friday evenings.
