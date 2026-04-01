@@ -4000,3 +4000,16 @@
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Pune-Mumbai Expressway crowds spike on Friday evenings.
+
+### 2026-04-01 05:19:17
+🚦 Pune Traffic Updates • 01 Apr 2026 • 05:19 AM
+
+• 🟢 [Pune: Major Action by Pune Police Against Drivers Violating Traffic Rules - Lokshahi English News](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWEtYmRpTkxyTl9jRHFtMGxPeVAwOVR4TjBmNjVvLU5fMTJGS2RibmhiWDNXNDU3VE43VkVlc0N1TExSaWdfdzAwdnY1QVJ2T3J1R3A3S2gxMzRBeXlxM3N1MDhtVXl3V0p2RWVmdERiNVEtT2FXdGVIcGdRZF9xTEN1WnRveWxPR21vdzZmb2pOOVFqTElWNUZzX0tjYldydmZyaU9zbk5aeV9TekZMTFJ5dnRmR3pFdDJHZtIBwgFBVV95cUxNQWRJN0dZc1ZJQ1dQU3NqejNMN19hWFR2U2Y2RlN1MDdMM2thQnV5dXJsb3B6NFN6bW52cVpkc19lYXZyc0tQN2YzVmVCcjBFTzFlRk1ibnR0enFBSnJqMXZGNGxacExDNDFCcW5YNDI2Tnp0UU1jV2dLMmthc2w3bHl0SU1TRmhva1FkYzJyVWxBT212WmRjWE9hRkNibENJOXMwS01INkt4WXV5bnNxTmV6OU9hSWw1V3dBYXR4TDMzQQ?oc=5)
+• 🟢 [Pune traffic police crack down on violations; Over 1,200 triple seat riders penalised in special drive | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaGgwTGhEd1UwWjhiUV95aVRUMGxZUnpwazE4eC1yX1B5ODd0WEhXLVA2eW45Yk54ajBNQ1RwejJPa3lKWjFuamZHVHl4UGhfdjItWkxRdXBqUUhXaTFFd0FqWTF4TjJZSU5qVmxDYTlFd0ZPaHZzd2FXckhKRGk2LXpoSzJ0VHFWTFlTWWp6SE9jOXhkaFNVLWQwY3ZhQkdPdGNzNS1YRDRkallkeUY3UEdDZXBSTW85YS03akxyN3NzUkFoOElwRnNMQnJKVlR3VEUxQ2NxeW00VHo5cGxQSmpHYWxaNElMMHNaRHlyUG0yTVlZNVpUZkxaTUgwMWvSAYQCQVVfeXFMUGZlYXBxYWNMTjRYT01hTGJCVGdxOUdvcFhTcHNIRTNHMVBGNmMwUTZNNGVtdUpzYlRjTWVHS0lHaVNZTzR1a2hWMERXblBUY2VsdnMxY1g3V0RPbTA0WXFVTWJ4VUFHMEhkVE5fQjJJSDRrb0JLazl5QmlwNnNUaVI3aERsQVEteHU3SFhZeWZaa2pFdk5oOF9PMXhEVjAwNGswVkR2bnBoeklrSDlSNEhROV9PVTlfYUJzNEdiWkZMcG81aUNHYnN4QmhlRlNiZ1F0WW1NaE03VUNFaU9QSkpsSC02SVJpZmg4UEo2RWZSRGhjZUdhdHBoZnFySmlqNjVKSDg?oc=5)
+• 🟢 [Pune Traffic Police Crack Down: Over Rs 57 Lakh in Fines Collected During 3-Day Special Drive - Punekar News](https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1JuUFVYdW42dUp2QlFhQUI4RE12ZzhfOVdQUzdwT0JnVThWNXhnbHBkdG43Yk9hSXg5OFdfRk5FVXNydWRhcTF3SlJKZUdYRWFaeGxqZHM0QXNLalJzU3JsSmlXQnVMRVdra2Q3cEc2OWMxX3Y1QThXQ0pxbExXR1ZhUUczbTdmY0Ezc2ZiRFZzbXhTUHZ4d3NqQlJXQjZnalc3RUdRa0dpWlo5NFJiZ01ya2w4ZmMxd0FMdA?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚴 Pune was once known as the 'Bicycle City of India'.
