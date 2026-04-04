@@ -35,6 +35,22 @@ PUNE_TRAFFIC_MAP_LABEL = "Baner Traffic Map"
 
 TEAMS_WEBHOOK_URL = os.getenv("TEAMS_WEBHOOK_URL")
 
+# ---------- BREAKING ALERT CONFIG ----------
+ALERT_KEYWORDS = [
+    "heavy rain", "flood", "waterlogging",
+    "accident", "crash", "collision",
+    "road closed", "diversion",
+    "traffic jam", "gridlock",
+    "protest", "cyclist", "event"
+]
+
+ALERT_COOLDOWN_MINUTES = 90
+LAST_ALERT_FILE = "last_alert.txt"
+
+def is_regular_run_time():
+    now = datetime.now()
+    return (now.hour == 8 or now.hour == 16)
+
 # ---------- 50-Piece Pune Fun Facts / Trivia ----------
 PUNE_FACTS = [
     "🛵 Pune has more two-wheelers than any other Indian city per capita.",
@@ -143,6 +159,39 @@ def fetch_and_merge_feeds():
             items.append({"title": title, "link": link, "published": published})
 
     return sorted(items, key=lambda x: x["published"], reverse=True)
+
+def is_breaking_news(title):
+    t = title.lower()
+    return any(k in t for k in ALERT_KEYWORDS)
+
+def can_send_alert():
+    if not os.path.exists(LAST_ALERT_FILE):
+        return True
+
+    try:
+        with open(LAST_ALERT_FILE, "r") as f:
+            last_time = datetime.fromisoformat(f.read().strip())
+        now = datetime.now()
+        diff = (now - last_time).total_seconds() / 60
+        return diff > ALERT_COOLDOWN_MINUTES
+    except:
+        return True
+
+def update_last_alert_time():
+    with open(LAST_ALERT_FILE, "w") as f:
+        f.write(datetime.now().isoformat())
+
+def prepare_alert_message(items):
+    header = "🚨 BREAKING TRAFFIC ALERT 🚨\n\n"
+
+    lines = []
+    for it in items[:3]:
+        link = f"[{it['title']}]({it['link']})"
+        lines.append(f"• 🔴 {link}")
+
+    footer = "\n\n⚠️ Please plan your travel accordingly."
+
+    return header + "\n".join(lines) + footer
 
 # ---------- SUMMARY ----------
 def generate_quick_summary(headlines):
@@ -261,11 +310,18 @@ def main():
     merged = fetch_and_merge_feeds()
     new_items = [it for it in merged if it["link"] not in posted]
 
-    message = prepare_message(new_items)
-    post_to_teams(message)
-    archive_message(message)
+    # 🚨 BREAKING ALERT
+    breaking_items = [it for it in new_items if is_breaking_news(it["title"])]
 
-    mark_as_posted([it["link"] for it in new_items[:MAX_ARTICLES]])
+    if breaking_items and can_send_alert():
+        alert_msg = prepare_alert_message(breaking_items)
+        post_to_teams(alert_msg)
+        update_last_alert_time()
 
-if __name__ == "__main__":
-    main()
+    # ✅ ONLY RUN REGULAR AT FIXED TIME
+    if is_regular_run_time():
+        message = prepare_message(new_items)
+        post_to_teams(message)
+        archive_message(message)
+
+        mark_as_posted([it["link"] for it in new_items[:MAX_ARTICLES]])
