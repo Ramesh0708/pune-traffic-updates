@@ -48,9 +48,13 @@ ALERT_COOLDOWN_MINUTES = 90
 LAST_ALERT_FILE = "last_alert.txt"
 
 def is_regular_run_time():
-    now = datetime.now()
-    return (now.hour == 8 or now.hour == 16)
+    now_utc = datetime.now(timezone.utc)
+    now_ist = now_utc + timedelta(hours=5, minutes=30)
 
+    return (
+        (now_ist.hour == 8 and now_ist.minute < 10) or
+        (now_ist.hour == 16 and now_ist.minute < 10)
+    )
 # ---------- 50-Piece Pune Fun Facts / Trivia ----------
 PUNE_FACTS = [
     "🛵 Pune has more two-wheelers than any other Indian city per capita.",
