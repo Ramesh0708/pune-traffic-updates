@@ -318,10 +318,11 @@ def main():
         post_to_teams(alert_msg)
         update_last_alert_time()
 
-    # ✅ ONLY RUN REGULAR AT FIXED TIME
+    # ✅ REGULAR UPDATE (FIXED)
     if is_regular_run_time():
-        message = prepare_message(new_items)
+        message = prepare_message(merged)   # 👈 IMPORTANT FIX
         post_to_teams(message)
         archive_message(message)
 
-        mark_as_posted([it["link"] for it in new_items[:MAX_ARTICLES]])
+    # mark only breaking ones as posted
+    mark_as_posted([it["link"] for it in new_items[:MAX_ARTICLES]])
