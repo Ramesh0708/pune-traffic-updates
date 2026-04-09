@@ -310,6 +310,7 @@ def archive_message(message):
 def main():
     posted = load_posted_links()
     merged = fetch_and_merge_feeds()
+
     new_items = [it for it in merged if it["link"] not in posted]
 
     # 🚨 BREAKING ALERT
@@ -320,11 +321,13 @@ def main():
         post_to_teams(alert_msg)
         update_last_alert_time()
 
-    # ✅ REGULAR UPDATE (FIXED)
+    # ✅ REGULAR UPDATE
     if is_regular_run_time():
-        message = prepare_message(merged)   # 👈 IMPORTANT FIX
+        message = prepare_message(merged)
         post_to_teams(message)
         archive_message(message)
 
+        # ✅ FIX HERE (use merged INSIDE main)
+        mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
     # mark only breaking ones as posted
 mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
