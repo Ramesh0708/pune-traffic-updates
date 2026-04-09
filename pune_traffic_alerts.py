@@ -51,9 +51,7 @@ def is_regular_run_time():
     now_utc = datetime.now(timezone.utc)
     now_ist = now_utc + timedelta(hours=5, minutes=30)
 
-    return (
-        (now_ist.hour == 8 and now_ist.minute < 10) or
-        (now_ist.hour == 16 and now_ist.minute < 10)
+    return now_ist.hour in [8, 16]
     )
 # ---------- 50-Piece Pune Fun Facts / Trivia ----------
 PUNE_FACTS = [
@@ -329,4 +327,4 @@ def main():
         archive_message(message)
 
     # mark only breaking ones as posted
-    mark_as_posted([it["link"] for it in new_items[:MAX_ARTICLES]])
+mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
