@@ -326,8 +326,7 @@ def main():
         message = prepare_message(merged)
         post_to_teams(message)
         archive_message(message)
+                mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
 
-        # ✅ FIX HERE (use merged INSIDE main)
-        mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
-    # mark only breaking ones as posted
-mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
+
+
