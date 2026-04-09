@@ -52,7 +52,7 @@ def is_regular_run_time():
     now_ist = now_utc + timedelta(hours=5, minutes=30)
 
     return now_ist.hour in [8, 16]
-    )
+    
 # ---------- 50-Piece Pune Fun Facts / Trivia ----------
 PUNE_FACTS = [
     "🛵 Pune has more two-wheelers than any other Indian city per capita.",
