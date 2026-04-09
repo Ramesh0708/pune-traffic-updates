@@ -327,6 +327,8 @@ def main():
         post_to_teams(message)
         archive_message(message)
                 mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
+        if __name__ == "__main__":
+    main()
 
 
 
