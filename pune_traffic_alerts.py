@@ -44,7 +44,7 @@ ALERT_KEYWORDS = [
     "protest", "cyclist", "event"
 ]
 
-ALERT_COOLDOWN_MINUTES = 90
+ALERT_COOLDOWN_MINUTES = 240
 LAST_ALERT_FILE = "last_alert.txt"
 
 def is_regular_run_time():
@@ -187,7 +187,7 @@ def prepare_alert_message(items):
     header = "🚨 BREAKING TRAFFIC ALERT 🚨\n\n"
 
     lines = []
-    for it in items[:3]:
+    for it in items[:1]:
         link = f"[{it['title']}]({it['link']})"
         lines.append(f"• 🔴 {link}")
 
@@ -327,10 +327,12 @@ for it in merged:
     ):
         seen_titles.add(key)
         breaking_items.append(it)
-    if breaking_items and can_send_alert():
-        alert_msg = prepare_alert_message(breaking_items)
-        post_to_teams(alert_msg)
-        update_last_alert_time()
+  if breaking_items and can_send_alert():
+    alert_msg = prepare_alert_message(breaking_items)
+    post_to_teams(alert_msg)
+    update_last_alert_time()
+
+    mark_as_posted([it["link"] for it in breaking_items[:1]])
 
     # ✅ REGULAR UPDATE
     if is_regular_run_time():
