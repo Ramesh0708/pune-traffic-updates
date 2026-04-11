@@ -314,8 +314,19 @@ def main():
     new_items = [it for it in merged if it["link"] not in posted]
 
     # 🚨 BREAKING ALERT
-    breaking_items = [it for it in new_items if is_breaking_news(it["title"])]
+seen_titles = set()
 
+breaking_items = []
+for it in merged:
+    key = it["title"].lower().split(" - ")[0].strip()
+
+    if (
+        key not in seen_titles and
+        is_breaking_news(it["title"]) and
+        it["link"] not in posted
+    ):
+        seen_titles.add(key)
+        breaking_items.append(it)
     if breaking_items and can_send_alert():
         alert_msg = prepare_alert_message(breaking_items)
         post_to_teams(alert_msg)
