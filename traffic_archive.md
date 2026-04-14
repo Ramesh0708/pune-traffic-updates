@@ -4169,3 +4169,21 @@
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-04-14 11:03:07
+🚦 Pune Traffic Updates • 14 Apr 2026 • 11:03 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune’s Z-Bridge Shut at Night for Repairs, Traffic Diverted - Pune Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTUk0dmd1d0RPbkZTM1pONzJsbFJCTTd3VjBEb0JoZjlDRk5hNlp1bjM0bTFZTnhxaXg2WTRvZmFWVWZBelkxUnNLVXJqR09WbF9CNlI1VzRwZUhMTTNfcVlmcTd5dHpYUDRrbHUxZFU4NG14RmN1RS00cHRTYnBBQmt5R2dBU2R0aGhwd21kcWY?oc=5)
+• 🟢 [Mumbai–Pune Expressway Missing Link: AI-Equipped Tunnels to Boost Safety, Cut Travel Time - Punekar News](https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXRmdFVsNi0xY3JDMldYOG13cnd5bUdTWWgwRnJHdzZTTHh4bmQ3U2o5al81TmRINEEybHZxUHVaRWcwNUIzQXBTWUlEa3M4WlVUcmN2ZjZpMWxrZjJYbmQzd1VRSVpZRWJ6WFJjS0xHWkV4SUlOYVJhdTkwd1hJcjFyaTZEUVllLVBCTHhqUVhibnhpdldGdlg4Z2JzeTBsNGdhTGdpYi1wZ1A2WEdvWXh6VkZNZw?oc=5)
+• 🟢 [229 Drunk Drivers Caught in Pune as Traffic Police Intensify Checks - Punekar News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFA4cU1YRnh0UXM4X3dKLVZuQ0c3T1hJZ1UteEpMZFNiNnk2ZkRtNVV5SldVWnRKa1pwTzVSQm9BM1UzWlBnZFdhcFQzSmljblRHeFNkMERJMUR2UUp1YzlHdXdRRnFRNEdyY3pjTmZCMll4NmQxNHBac3NzQWVhNjY3SGVxNHNpUWNIMWRETFBILWs4SVJ3MDh1Yw?oc=5)
+• 🔴 [Ambedkar Jayanti Traffic Changes in Pune; Key Roads Closed, Diversions Announced - Pune Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPdlhxWlRoSk4xLW1venFNVUhGdGJZMHozanM4VnpVX20tRmxhSTRDeGFOeFRoUUgyUUpUdTdGanlMV1h0OWJKZ3FfY2J4Nnk0M0hKMnQwNDdzYnFaSFVNNlotNk9yb2pmc0lDbFE2M1RiVGFEaDN2ZGFoMUd2MkdVblpZdkR2UHZtdUE?oc=5)
+• 🔴 [Pune: Check Traffic Diversions Today for Dr. Babasaheb Ambedkar Jayanti - Punekar News](https://news.google.com/rss/articles/CBMingFBVV95cUxQdmlVRkJiMnItN0trOWxucmhxc2kzNFdsMFBONkF6UjRhUDJBWkN3VTVja1pUODZvdWREM21NTGxaczhNMHB6QmgxZmNvdFhMZUIwci1qNk9RZ0VWVlVDR0RPWEFoTVQzWUpnbTkzMy01Q0tZZTJyY3hULTJSRGg0TFNScnUwM04yazdxQWhuRndTNVlvV3dHN0hYSUJrZw?oc=5)
+
+...and 6 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Metro barricades shift traffic patterns every 3–6 weeks.
