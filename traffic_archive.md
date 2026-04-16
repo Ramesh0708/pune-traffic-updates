@@ -4247,3 +4247,19 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-04-16 11:02:52
+🚦 Pune Traffic Updates • 16 Apr 2026 • 11:02 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟡 [Pune: Residents Urge PMC, Traffic Police to Manage Congestion Amid Ganga Dham–Aai Mata Road Works - PUNE PULSE](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMl8tU2k4Q01KX0ZHTDBkaTFMRnZDSGx0blcwdTBmR3YxSmhPVk9OWFBBU2FfcWZ4M016bE9tSXRCcDRXYVRpbWp1TGZIczRuNW1TcWdQd0JJTTVGU1dqZ09xNE5kSm5rNDhXb05tWWx4ZWcxVlNEdFFvYU5xS1YxcXd6eFVwTzN6MkZlVVRXMlg4NHJ0ZFR4NXNFVzVSanN0UWhCQXd3WG1fRzhBNWU0UUFYVG1BeVgwV2FjaE9nR1RSZw?oc=5)
+• 🟢 [Traffic cops to take action against abandoned vehicles - The Times of India](https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1oyVnlWNlo0ampxVWRoSHhHWk0zUk8zcG1PQlFGTUVMSmw3a3VNSHhSMXlCMkJ6Rm5ZTjVsdGR5cThVdDhPcDI2elVYVTlIMHRtTVdDek1MNVFFRWRTY3JBMXlYdGN2SWY1aUpGb1NJSVlHWmFCOG5wRDFjaURVc1k4Q0xvZDhwU2UyZEtZWG0wUWZHZkd4S3hEWlVHdXY5bS1kYlFzN3o0NzVVVUlkRUNCZkZQYXIxS05Id2JXTS1rc2lK0gHKAUFVX3lxTE1iTXUyd25BUS1QRTNnaGkyVDR4NXRyM3oxMUtYZHFPZ3JjQ3FueGhJME9HelAyZVBvVUQ2UlVCM0NYSGNsY1N3WWhUa3BZRmZkYXdOMkV5ZGl3ZkVqd1BGNkFzMHRHREdVMFJDZjJCTTBvVkZxUTQ2MHhCZVhwTHV0a3NNVWdEdTlLOGdRdzBMUExOWE42V3UwTU1yNUNjb0pwUDNPeGtPR0w0bkxoQTl3dVdPVm9jdWF2RXNaNm1IdkkzcmJ5NC1OSnc?oc=5)
+• 🟢 [Pune Water Tanker Strike Called Off Following Mayor’s Intervention; Traffic Police Suspend Actions for 15 Days - punekarnews.in](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM21aZUEzdkxHWHFVOVdiSWlUSE5mQy1wVTBCQUhuN2VjS2dweTFyZ2djd3FDaFRGYnNLTGt2eE0zWlRfR3JCSnNIclRIb2lpSWw2a0lIZXpReTAydm1YZWNQZ3BmR004VkpMSUtETzZWOEp2OWNtaktfUXhnUWRfT183VTZ5UzBEOVdiNHBWWXRndm1sbkg2V2ExVEpjdkVNNEFmeV8xTUJrVXBsMko4YjJmdWFJc2FJWHZ3dWVYMURPcEVOLVhFRmszU3hMTEl5TVE?oc=5)
+• 🟢 [Pune: Report Abandoned Vehicles as Police Launch Citywide Drive from April 15 - punekarnews.in](https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3hBRVZxQlNsd3pQT1NueXF4TGFBLUVFUC1DUldXV2RxX0p2TFhTNnNsa1d4SUEyZU9tMFF1UEV2WHotQmp1Mlp6MXY0bU53b3VVS2o5SzYxTVdlelZlVmVhaFZIeDVvQ1FJanc0Um5xa2JINHdneEJXbXNFUnloVW9hTTlTOEhocko2T0lub2pqa3NxX1EwM1BmMFZnRWM3R1pHSHpGYw?oc=5)
+• 🟢 [Pune Traffic Police Launch Drive To Seize Abandoned Vehicles From April 15 - PUNE PULSE](https://news.google.com/rss/articles/CBMipgFBVV95cUxOMk5lZ05ZNE9vNUVYYUpRZGVXeUVWRXp2R29BNlVtamdvNlVCR2pqZXpxeENCZXpFcVczY0dHS0RrTE1yN2k0cUttLTVBNFg4RjZJdFdFRFJZNGFQZzRiOS0yQXc2LTFXU283anFfa2M2YmwxczJtSHMyM0laQlRTd0VRNlNpV2dVbEV2YWhQZVVDWWZVUHFMc2tkblpqNm9DS2E4Mnd3?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Baner Road spikes heavily during school timings.
