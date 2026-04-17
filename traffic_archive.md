@@ -4278,3 +4278,16 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-04-17 10:56:23
+🚦 Pune Traffic Updates • 17 Apr 2026 • 10:56 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [PMC Fixes Deadly Gangadham Slope Near Market Yard, Traffic Chaos Ensues - Pune Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWZDWmNEV1g1YzJ6Y0VLV1ZxbDF0TTRoNkItNGxuQk5lUlU2aFJLcENTX3F6UHdCWkZMRzhfTld3a3F2STM4cm1XV09yclk2Zm9vRXV5R2liRG5meVVQdzM4TnVhOWFHR3VyQ2pnY29ueEJoR0FVNlN2RGVTVDMxcjVlc2xQZ2doTkE?oc=5)
+• 🟡 [Pune: Wakad-Hinjawadi Link Road to Open Soon, Traffic Congestion Likely to Ease - Punekar News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEQzZkpLa1Foam1GTzBpU2tPUFM2X2M3ZGtPTnpyeW0tWEZGOVNiTkdpb3pGMV9QU2JLNkRubjV6YWh3aURQUzg5OWpmdFNmTlNzVTNJZ1FtTUFQeDVIb0ZZTS1XRE5WYk80WXpmMkpWUGVRX2JZbDkyRkR4RDZJN05haXUwcEp6V05FX3JtTWRQbzRJRExXUUgwX3VFdks5dGE1WE5lVFc?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
