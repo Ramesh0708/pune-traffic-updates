@@ -4309,3 +4309,22 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Pashan–Baner belt saw 30% rise in vehicles recently.
+
+### 2026-04-19 02:38:44
+🚦 Pune Traffic Updates • 19 Apr 2026 • 02:38 AM
+🌅 Good morning Pune!
+
+• 🟢 [Traffic Curbs Around Dagdusheth Temple for Akshaya Tritiya Mango Festival in Pune - Pune Mirror](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFFyV0N6S1hPLTYxbWVpeHcwXzJ6d2l1YVlXbHdic3pPd1AxUzFEZXNmV0VXVGgzQWxUUVdQMkZOdnloNjF0OXdoTmphcEFLcUhSR1QyRUQ2UjNlU2pWa1VLbmhrQ1VnNzM5UkxQZy1ad3BYdEdjM0NqNDR0ZGlGTEhQR0UtOTFnSW92M01JN0hnUDBRT2c?oc=5)
+• 🟢 [Pune Faces Rising Pollution as 7 Lakh Old Vehicles Continue to Ply Illegally - The Bridge Chronicle](https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2QzNFNtTVZ0WXVfUVJkeXJ4ZjJ2b3VFbVY0aC1fQm5pa2tDVnppS0ZhYWlCZkRCTEp3T2VYMFUtbzVRRENEaGx6UzhBUVRpemxqWWQ0czIyRWR3THhtLUZOTHM0a0k3dGpobVV2OU0yYVhuOWhSNEU3aUdzT1U1M1NiZFNaRDdQWHVkT0N4UHE5Z9IBnwFBVV95cUxNMGV5cm52R1JQZks2MndZcDh1aUpKUXFrWkppbExmbVJLM181clZjVFlVUVA2anlJQ3hpQzVvcWgwbVZfVmpmNmR1b1BOa1UxMGJYNmRRbzhuMHpYWU1NSUgwYzVpZW44T0IxQU82a0I3aWhTYkxrUTZ4czdlZk9CVWk5dXVCWmdBRnExb1hMSW1fQjNMZ1J0X1ctQkZlTUE?oc=5)
+• 🟢 [Pune airport operations resume after IAF aircraft snag halts runway overnight - tennews.in](https://news.google.com/rss/articles/CBMingFBVV95cUxPVkpGbzJUWUZZNFVGVFZHcGtpejFodnllbWN4RWpaUE9IazM2MDVZR1FkZGJoQUg2Z0NWaW9EN2VHblJTQXlsbUE2RWFGVW1pME1fSE5UTFRoc0NVMmMyalVVT19rY1B3ZW5KOWxFWmk1SE9NQ3ZyUE5sTmV6UUdHbTlud013ajBJenhLSXZqcmNvSjZqWkh0QmthdUk0QQ?oc=5)
+• 🟢 [Pune Airport Flight Operations Resume, Runway Repairs Completed After IAF Aircraft Incident - Republic World](https://news.google.com/rss/articles/CBMixAFBVV95cUxNS1Eya2RRaUNKd3luQlFmZTRRZlBEYUhqZVBoZlhPTXE4OEVZTzdVOFFmdHJOMzd6Y2dST0l2bjVjcURhOHhKbXIycVhOMzZRVktuMTF2a0F5TEpyLWZRUnBNalNMeHpTanRfYS1WUHhxY3B0WnVhekdLNy1SRmd2YUNMdGxSQzBxLTRTekhUSjQ2TU9qQkh3U1AzOFFSMkF3MHJob3psdm9Kd004UEt1Zkw0c0pYMktwS0xjeDgyMXF4aGQ40gHKAUFVX3lxTE5pT3lRMEMzbnVteTJZTG9UR01ZNnpmUTJmSlREOTBrOGlkbzg5VUhhcWZqTWVmVTM1a0pPdk5HbjFnamNLckRoZ2pvLXFkTno4S2NIUjlFRjJDd25JSEtLVnFMZTkzS3JXOVdGcktJT1pIcFdFVFFOamFSLVpRZ2VVbmtEbjY0VWVWOWRndHQ5TGt5UU9OM1gySW8tMm0xaXkzdTl2aUplRGUxQTVTcnhlcl9zNFRGT0NucVlOY2Jnc2Y3SW12SzNXcGc?oc=5)
+• 🟢 [Pune airport resumes ops hours after IAF fighter jet's 'hard landing' - what had gone wrong? - The Times of India](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUWkzVGdOLXJRQ3h3dWR3bGpfUVNncTBaWERsN2lEZVN4ZnAwd002MGR4Mk8wMW9XbjNSbVBVa3F6WldzYUgtamxwOFRTWHhIOGE4bjA4TWVyNkJpRm4yamFaWDJUeXFWMGJUM3JranBhcjlGMlVlNjFORmRXMGc3emVDblJIdlk5dE9KMFNTc3c3YlBfekdzUW5ZUkFGc3JSaUQ2U2FBNDhWMUl3ZGlSMWJNOFJqanZ3Zjd1dHZTQ3FzamZtRG14c3VUSWdWajM0ZEY0aTg1dTJuSFgwbl9tbnd2dGMtUVhKcWfSAe8BQVVfeXFMTW53V2pXX3I3THUwUzFPZGF6dVRmYnFCeFpOd1M5c2JoU1dONmZHeVpnbGdQX1p3WjFUb3BqM2wtVElmVERaNmNwNE9XVlg1LWlGQTB3OWVHOXRjTkdVUWQ1N19SSU5KN2ktelBaOG9OempzcGJLdXFQbkZnN2lPOTE4WGc3UHVLajA5WlQ4ZDB5cWRtWVFnckMyT2RKN0U5N2FaUzh5cTFJY2Ffcm4yejhqbEZ6UHFsVmdJbzJ5aUNxN3RYSzJPUGlYMHd4eW9WanZEY0xGbGxYeXhlcS1uUVk3ajd0VmxtQ1VvaEkta0E?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚙 Balewadi High Street jams peak after 7 PM weekends.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
