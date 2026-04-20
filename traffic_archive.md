@@ -4361,3 +4361,21 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-04-20 10:48:16
+🚦 Pune Traffic Updates • 20 Apr 2026 • 10:48 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune: Key IT Corridor in Hinjewadi Hit by Traffic Curbs Till April 26; Wipro Circle–MIDC Circle Stretch Reduced to Single Lane for Cable Repairs - Punekar News](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRjVZZzdHS2NoRkViRTRGdmdmY2RPdlBmMEFxZU5ESzBseGhLTFplaS1Fa0JSb0RYaHRYZDh4Y1JjZ0FJWHgtWkoxbVVHT1Ryb29XeWtRNEJKUjFxcGpxRXlaejExbzNTeXdjc3VtbDZWZ2lsYk5GVHhLOURQU1ZKMU9PR3J0NXRHWFIyREVtUlZmMzJtdXNnQmdsWmEtS1Z1UXZReEdhUmRVcmQyOV9hU2lQYzZIUHNUZHJmdFpVSHhrWkpZZE9ZQklpUllVc091Q0d6em85dUxKaFc5cUZJRlJpbFFlbkdxVTk5M29tRVBUSHJfVVN4Qml2eE5xWFU?oc=5)
+• 🟢 [Pune-Howrah Summer Special Train by Central Railway to Handle The Passenger Traffic - NativePlanet](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNUhNd0hITWRtbWltZ3R4MWV4anpoX2dFZlI2VndWUnkzQy1Qcm9Scm4xdmdjSTJtcXpkNWJvUV9ySUE3ZXRrUE1IUjZCTldPOUM4d1k2QXJPSjBNa0h5bHFqZzdOMVRUTGxsMjI5ZW91LXp4Si05X1NEV0hZQ2k0d0lrMGJZRHI4RVlFb2lIVVMweXlkZ0g4Wmp1UGtPYkxZdExPelJIM3dRR1VKb1ZaU2xZRVRGdmlnY3FvMGNFeXlPWkRyOG40VE9OZ2ZqTHpKVTFDUWZ2X053Q1VZ?oc=5)
+• 🟢 [Pune Land Scam: Rs 2.4 Crore Fraud Case Filed Against Retired ACP, Four Others - Pune Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUOXZiQzBmNmhTMlA4eHZpcHNkU08xZGNDYy1WOGh6a0VZaldLY3NzSmJEWXdnc1U5RGlDNXR5LWRQcGRUbkxuUHVmT0RlN3ByY2F5S2piNDVrQmQ1ZnhxZWtrVkUxZkY5RXNmNjZkMVRmTkZlaTZqTHFrcw?oc=5)
+• 🟡 [Hinjawadi Traffic Alert: One Lane Open on Wipro–MIDC Road, Week-Long Congestion Expected - Pune Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHhObmpZZjFqel9xLVo2ZUhJMk5vS1NVRndvZEZfd21vdW5MbjVxRGZpNHd4VXZyaXpOMHcyN2dMZUZQRDdaV1pWWEIzZE5PYXpHOHNsTFNLSVJ4OFFMQk4xNm1ucUltWUZWRzFDQXdoMXdHVmZMQmtRb2tIR1JWWFRnU3ZLWjVRVEE?oc=5)
+• 🟢 [Pune To Install AI Traffic Cameras At 500 Locations; 99% Violations To Get Auto Challans - Free Press Journal](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmg1cDhZVTlXMDM1S0Rpd2t3cEI2aG9BNHl3VUZmbHUteU5aejVGNVNTUk12ak9LNjR1QW1RWnRfUzhveVg2MGw4WVZ3ejM3UTdrclp5eU1ESC0xaGxsN0FWX3hQV2dUQ0s3dXBpVHRCNkZEU1hIT3ZiMmRlQlNhWFJxbEdCU01Fck5VZ0Z4MUpjaXljZ3RkUEY2UlpFVVFJdGpBWFY2NU9lSlM2aHExNEtYQm9CT1JTdVpRQlg5Y3fSAcYBQVVfeXFMTmc1aHJjZlptdnpkRmk2Q3FkWDZPUHowTS1wTW5uWWpmZWF3R2dMYjhqSnVITk9zbUQ5Z0lxbGFNN21uaHpuOU44dW9ZVTYwQ3pKclJIMXV5RS1xYVRSNEtYU2dvTDlMQzBsN003TWp3TUs4aXFNRVdUcWVpMks2emFmZGJ2UWdKaTN5dFEtT2w4dXBUSU1mNUhBNW5SclNyeDlzdEF6SUw4SjZfcURQVV8tM2VxVjhXaE1GNGdaUjdFT0FELUhR?oc=5)
+
+...and 7 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚓 Pune Traffic Police issue over 10,000 challans a day.
