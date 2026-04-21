@@ -4400,3 +4400,16 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-04-21 11:06:27
+🚦 Pune Traffic Updates • 21 Apr 2026 • 11:06 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [PMPML Cuts Bus Services on Congested Pune Roads, RTI Sparks Concern - Pune Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmZYUHdldDlPc3NqWXNwb0llcFBIcnRIMGQ2eHhaMWk5anpEaVVGbEFwM2VCbUFCaWFMb1ZJUUdsQk1EcHl5S1RKdWlzY0NJYWw5QXBaSTBVYjZVaExxd2d1S1RnYi1PUFRPSmFTSUxxTjNnRlV2aDZ0ck5MVkFKUEdTZm9pWUdELXc?oc=5)
+• 🟢 [Pune: Undri-Kondhwa Residents Flag Safety Risks Amid Rising Tanker Traffic, Water Crisis - Punekar News](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHR2TGt1ZmpnNWFJSkJnMHFQZ3B4RFhiRjRhdEN1cHI1VmIwcXV2UHhMdWV5MGdCZHZZaVF6QTBlOHlkT2c4b3doQ29FbDdpdnVhU3FJUDlQOGRRZXR1VFhrY2NwZkt3VzloZUlhTTlhOWNQNzBnV2Zoczc1T0IwZ3c2RFpqWERhYjlXUHZxQWc4MGQ0VFplV2dnaVdvZkdOVEZRdjRuaUlzaWZFTFd6YWtJbUI?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
