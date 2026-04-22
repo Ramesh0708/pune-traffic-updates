@@ -4434,3 +4434,21 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-04-22 11:05:21
+🚦 Pune Traffic Updates • 22 Apr 2026 • 11:05 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune: Traffic Police Hold Session for Swiggy Delivery Partners in Yerwada to Improve Road Discipline and Safety Compliance - Punekar News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMXFFSmktbHh6ZWhwY2RTdWZVZHlMWWlNa2ZMWWJhd1VDd2h5MzBnMTN3bmF3anNicXFQT1MyZk9XR3RDTEhKOHJ3elRQa2pDMmVlczdHOXpKOUxYeTdvNG5hYXd2dW8za3F1OUc0dTN6ZFh6c3g4SHpJN21NVi1wNlJ3dTBBeTlxY184U3g5OVFfaHF1ZkllQnhhVzlRWE9Cc0hSbmlzc2FQMVVWWXExNnBldGlGT3ZpNlRsYVl4Um9BTmF4RDVTQXZfeXdoUVIzZ21ZQlhzaUlXX3YzS1U2WnI1bw?oc=5)
+• 🟢 [Pune youth booked for faking police selection, celebrating with banners - Pune Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2hsOVhaQXE2TDBnYlRMbnlFSS1WVnNTRTllTFJxdTVmazhhbFFUck01VHdoUFdsZ19mR2V6bGtJU3ZMOE92WWkxNmRKYTVmVFJ5a242ZjdRaml1dEhveGE5aElYVm1TUWh1Y24tWW9BVnNWQ3pWMzZPWU9CeENnNmY2WQ?oc=5)
+• 🟢 [TCS under scrutiny for alleged POSH Act violations in Pune, Nashik offices - Pune Mirror](https://news.google.com/rss/articles/CBMifkFVX3lxTE9XMGJCMlJtaXp4YkFwamxlOFNsNmZBMlFsVDlVd0FpRFhrRXFVQnlLbUk5MWxDX0I4b1F6WnpHWEhJQkN3dmZnOTBrZ3o0ZktqOUYwZzdVV0xRbEdwVEZzbTFENDlybXdsT2tPVk04Z1VNNHFPRlVPa2JWanNYQQ?oc=5)
+• 🟢 [PMC Races Against Gridlock as Traffic Nightmare Chokes Pune’s Eastern Growth Corridor - Pune Mirror](https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnhoU2lOeWN2RjAzWTRkT01sVWxPSWpHOFE5NGpGeFZLNDRsRFZRMHgtS1RMemhGXzZJQ2xPZVJmTGRfODRoUWtyWUxxNW5WVFZGYTRsWWJuZTNQclA0MWJGVkZpNGNHcVEtYkpHSTlDS3l1QU9rYXN2NDd3TlR2Q0xFenRPeXhmaEJXc1o1NURLQVJtcWNuTWRBWk1lOUFUUEZHeVVJNVlETHk3TDdBTm5IRHhubFpONmc?oc=5)
+• 🟢 [Pune police book 6 social media channels over PAT exam paper leak - Pune Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxObGV6MWZNMlZnTlRqUzlBU1dBZXRsLWwxRkV1ckpFTzdESkdSRXp4QXByZnptVmtOb2RKWS0tOXppeUhfeFRLSlZwSDR1TDI2V0NoZWg1SzVuMFhMS0xFM1B0TzB3c1JETlNZMThNX1ItVTRrREliZk9HQjBwUWV5UWplcWkwSE1mUkZWalFtaERYUkszdUxR?oc=5)
+
+...and 17 more updates. Stay tuned!
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
