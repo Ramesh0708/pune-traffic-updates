@@ -4413,3 +4413,24 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2026-04-22 02:32:55
+🚦 Pune Traffic Updates • 22 Apr 2026 • 02:32 AM
+🌅 Good morning Pune!
+
+• 🟢 [Pune traffic police seize 6,000 abandoned vehicles in 10-day crackdown | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFlrZ0piUlczQ3k2Uk9Bcl9laHpKV2JTOVVBeTN5ZG1ZblZHZ2owdjRydUpBY0pMTEtYamZKbnNZQk8tYmZmamVvQzZFdjU1ZWFNLUozbjJoOUhmc3ZjQzJOXy1qeGxBRTRsb3NXaFA4QmlFektteWc4OVQ4dVNPSDl4ODQxNDRVZktvbXV4OFRWcWFxZDRUM2FKcW0xWG44SjJlTU9mMERsaGpPc05sNVBVSjVkNkNGcHpYWFBEZTZSWTRQa19ucWJ5Sk5zbWtORk5kUnB30gHbAUFVX3lxTE5CN0VaWkVMdHRkLWg3R2pOTlRzSVpyRE9xRUpkdWcxalNzY0RpaFFqZy10QnVZRUN5SkJ0YnowdFpQNE9RS3NQenVGUUNqSE1NblpzQ3hWUmlqWUVxZnZSdENqck1GX1BLLThyTGx6U1M3WEJ4QXJYeFlOTGJHd2hTUE5QOXF2SXA2dzFweFBKMGhoN1FkczlyY19oMTQ0eUV3UVBYc3RsanZwQy1kbzFnbEE2VjBia1B1TWV2VDVCSHZKV3FaTWlXLVRBZjFJRnVwTExubjN5Wlg1TQ?oc=5)
+• 🔴 [Mumbai-Pune Expressway Traffic Alert: Road to Be Closed for 3 Hours on April 23-24, Check Diversions - Punekar News](https://news.google.com/rss/articles/CBMixAFBVV95cUxOamM1dXVFZzdwdk9DeTdGU1hqNExEODZhT3ZvT1dfbHFkTVhlbTBBaVRvcGJEcEdKT3FyUG1jZVJxRmxwNml4cFpfbmRUcTZyTlo0cm5QcDJGTDdsOG14eG1aWnh5R0h5d0JBNWx3cTdaM0tEYVVDbzdObVhaQ2pFdS1yVUZKZmtpT2VFaExHeXd1b3lZLXNOWjlKZ3hKdmVyS19pRUtJb3NIdEg2Tl9GS3R3Qk5ZZGxCbkRabzFzeElTTldK?oc=5)
+• 🟢 [Mumbai-Pune Expressway traffic to be halted for 3 hours on April 23-24; check timings - Mid-day](https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWp1TUFRWlREV3doZmZRekRaOG1qd3Zqc3lNbkdrQ0xrZjVTNVU2SXlVUl9OamRWT0k5UWRaeGhLcUhqU1V5Y1E5dldQOURUUkJhYzZ1VWtJZ0JRV3VoT2djYUJCZWxFeVpBb0ZILWtyNEpCcHF2T3loV25nVzhWUlJfOFduTTJ1ZVJxUDFxLS1GSldzRk5vSWhlRVNNMUhVb3FicTBwMnNlT01IS05BMS0xSy1kalhveGRqX0hGdmpzaTAySG1J?oc=5)
+• 🟢 [Mumbai-Pune Expressway traffic curbs on April 23-24 due to bridge work; check timings - Mid-day](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSFFJblNFRUFqNDVfNFVWWVRoempxbFllTExmTFNTblpIUUZpeEdjRVFFVGk5TVFsR05JTXdpUE4ySzJPVnRYME8zbjVHNk5la0gwaklfNmNERlZRTmVKVVNzOE5YQ3d4N1M5aUplX2lrYU1MS0lzeTlKdnBZcFpORE5kOEFoQzBNYjRtNnN6cWJyRkhnMW40VmdxeXY2WlV3T0NBNGZiUGZDVkZYcl95b1dlUjVDRVB2YUZjMVRfRFlBNGIxUWRFalZQTHlsQ09PaHNFUzJNZmtHalVBRnNEczJB0gHiAUFVX3lxTE5IUUluU0VFQWo0NV80VVZZVGh6anFsWWVMTGZMU1NuWkhRRml4R2NFUUVUaTlNUWxHTklNd2lQTjJLMk9WdFgwTzNuNUc2TmVrSDBqSV82Y0RGVlFOZUpVU3M4TlhDd3g3UzlpSmVfaWthTUxLSXN5OUp2cFlwWk5ETmQ4QWhDME1iNG02c3pxYnJGSGcxbjRWZ3F5djZaVXdPQ0E0ZmJQZkNWRlhyX3lvV2VSNUNFUHZhRmMxVF9EWUE0YjFRZEVqVlBMeWxDT09oc0VTMk1ma0dqVUFGc0RzMkE?oc=5)
+• 🟢 [Pune: Traffic Cops Collect Money for Challans in Personal Accounts, Face Suspension After Video Goes Viral - Punekar News](https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2tfdWZwY2dFQTluUVZfWkNZOTdUTUpXNldkOUNPOG5Leko0Q1BoczhwajBweFd3eWc2bWJpbzlISmlpcFpRdEI1NHdicXNNakdCQjFoMjU1ZklSRWtXOG03YkpxUXdNLXhvVVJDNXhXd2FuNnNDUkVpeDlLZXlmZFgyaXMyaDV3VjJLY3JEbG11SFBpMnVUcjc5LWVDVXdiT0FURWVTOE5JdFZNd2t0Tl9YYnVLR04zS1RDeU5BN2dfSllHdEpwNHppMmg?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
