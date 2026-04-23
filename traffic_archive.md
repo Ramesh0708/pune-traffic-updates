@@ -4452,3 +4452,24 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚗 Rickshaw peak demand is 9–11 AM & 6–8 PM.
+
+### 2026-04-23 02:36:09
+🚦 Pune Traffic Updates • 23 Apr 2026 • 02:36 AM
+🌅 Good morning Pune!
+
+• 🟢 [PMC to get 12 breathalysers to scrutinise tanker drivers - The Times of India](https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjVJLWtfclJuamFJLThoQzBMTktQb2xYaWRLdWpvb0xqLXl5UEtGMlZCXzRpVXZzNDhPMldkNlVUT1pJRHo5THB5UVROZTd3OEpNeGhMdzVkQXQzc1oyT1ExWUhUT1hCXzVnSU9ocWR6TFFCYjlLUWVPQjY5NWkwdXFFTzRuX1FqZ2R1ZkxLcGJlVmVKWjVpQ09QTjEyZVlfS3hzd2JRVlJlY045bmRidTRyb2pwMEthcGpNQlljVDduS0w0WFBV0gHMAUFVX3lxTFB6MVBmaXJwTXZDNkFySGFQQ2taQkdjaWlzSjhHRkd1XzhXZHlicU1DQVd4cjFWN0NaNlJiVWZXNHZEeXJLVnBsdnR3cGZ3em5RWS1KNUJqRnpQVG5FMGtldTk1TDhTTW1jMUp0U1djVmZtUmFwSXN6R1pBbUl3T19SWDkwbTJ2X1h1VlduOG8tXzNVUkRCdEtZV3BqRElwUjVfd0FkaFR1UlZ5T3NfcXAwOE9pZ2tNcEx3NUlXZmtCYkJiUDZ3VW1TYklTbA?oc=5)
+• 🟢 [Streets Reclaimed: Pune Police Seize 6,000 Vehicles Blocking Roads and Lanes - Punekar News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3IwTXMwSXFjTlRnUExrVFF2ZEF2YXhxaUtNQzk1VHhnUWdZSnJZSlVpalpTeGVvdERBM3FzM1lneVluYjJGbkNRZGxPQTdTZWxDNVF3bTFFWllYeW1JdTYyQTBwdHBoWFhlS0ZxLWR1RDM3VnhuSzEyQVdxWlB6QUd5dENVMWhYYWItZjlxVDljeXZEOXk1WVFvaDNZeEZJWHdfNQ?oc=5)
+• 🔴 [Cars, Buses Only on Pune-Mumbai Missing Link in First Phase, Heavy Vehicles May be Allowed after Six Months - Punekar News](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMFY0QjdNdHI3SXpBSDRtWmJwVTRZRkdtLVpVMExKVUJFdHc4dW91SG5abUgyVUw4QU05ZlVHa0ptZ0tkcXVrVzdYYldXSEpkY3VqNHBzdEhDOFhGN0xlVEhoZmRVM3h5WHhHOWlxQlExYkxOTmttSWFUSThEVWg5TVI1ci1ITTEtNURwdUtmYVhybTJyOFY0ZEtIRVI2M0NHQmpDc05nUWIwakM0bG9CSFNTd3o3a3JvbDgwSzdwMDYzVEoteV9IZ2pxdUZLQQ?oc=5)
+• 🟢 [Pune: Traffic Police Hold Session for Swiggy Delivery Partners in Yerwada to Improve Road Discipline and Safety Compliance - Punekar News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMXFFSmktbHh6ZWhwY2RTdWZVZHlMWWlNa2ZMWWJhd1VDd2h5MzBnMTN3bmF3anNicXFQT1MyZk9XR3RDTEhKOHJ3elRQa2pDMmVlczdHOXpKOUxYeTdvNG5hYXd2dW8za3F1OUc0dTN6ZFh6c3g4SHpJN21NVi1wNlJ3dTBBeTlxY184U3g5OVFfaHF1ZkllQnhhVzlRWE9Cc0hSbmlzc2FQMVVWWXExNnBldGlGT3ZpNlRsYVl4Um9BTmF4RDVTQXZfeXdoUVIzZ21ZQlhzaUlXX3YzS1U2WnI1bw?oc=5)
+• 🟢 [Mumbai-Pune Expressway Traffic Block On April 23-24: What Travellers Must Know - Travel and Leisure Asia](https://news.google.com/rss/articles/CBMivwFBVV95cUxPV19pYUhXbzRWQkpGYlkyNVdZTTczbkk0WWo2bWJxbVNXXzhzeHZSQi0wb05jVlhacFlDaU1Dc0pVaGlGSS1jTEd2dXZOOUdvM3Vtc2NTRUF4aUNkYnhUb2JwMll0YmRFdVlRcmZ0LVlTNm00M1dTV3NNeE1pQ2lTMFdyM0NwbmFWLTNJaklDREQ5UVlHWjJobEJmVmxLUG5BNUVYR2ZqQWNLMTNBYV9mM09BM3doYnpVUUg5d0paONIBxAFBVV95cUxOM3cxMEVRbmhLWHNwZm9mUkR5RGc2WUtDS2lFNHI1cXUwNnBnRUdfRUlfWFBFcHZSbW1WZy01NTVoMGdEQVU1V054dEJ1X1FKN3d6amlQTkNfZllWZjNTWnBfRmxBYWpuaXNOYmo5WTB5VDdTaHlvdldqMmxRN1dKOWhkQzBieVdjZVhWZEhCRWZvdWtsNHlDaGRLUmY4MlJNNmZZdUJXeW0yRkVQZGhHeS1xckNpZ0tXajR2OC1MTERsZGFF?oc=5)
+
+...and 18 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 University Circle handles 1.2 lakh vehicles/day.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
