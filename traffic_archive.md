@@ -4596,3 +4596,21 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-04-29 02:50:45
+🚦 Pune Traffic Updates • 29 Apr 2026 • 02:50 AM
+🌅 Good morning Pune!
+
+• 🟢 [Traffic hit, power line shut as youth climbs 132 kV high-tension transmission tower in Nigdi; rescued aft - The Times of India](https://news.google.com/rss/articles/CBMikwJBVV95cUxNeWtvMlVfMFZOZF9uYmpQRjBVNV9kRFdDbVM5dk00ZGtjY25KX0gyZmZBMHZxelVZMDZfSmVSV3lxb2xLSnJDSGgzLW9wbmptUmVZV0oyMVJPMnhpSFVJcGtsZmhJLVlKX3lUZEV0d1MyVzBoam9ReGd1cjNtQzFnVVBaUTMtdFVNMG9WOE1yYWRNY3J5cWR1UnNWUWY0c3ZtSFh3OHNhdGU2OFliUHV3MS1KdzRxSm83QmxTZzVJSlFQb0g3VndUTmswTjdhT2RoVUZUV2tXalFXd3cwV1Rtd1Z6c2x6S3pRajIzOHhEX2VMSGZjMm1ielVGcUxDX0RaNlp1OE9QcXRhcnVPZzJVbUViONIBmAJBVV95cUxNUTl2allJTllwV1FqZXhfSjJyMnpfcFh0djNjZVREcGJzOE1ETGdURzc3RVgxWk1CLWt5aER2eVRtaWJ0WUZHaWpsbWVhQjk4bmFabVh4aG0xVlZGMzVtZlZOaUNJejBnR25fQ09MY0dIV2ZxUXBpNjZzaW9nRjFHNzJQSUdXVUlwMDVfbGFWMmJWdEx4akVxQkpvVDZNbXNvYzJYSWxrZTJ1U3k2NFBKTlBybjJFemZIMlkyaTIzUWI2cWdVblp0bW94Mmlsd0tUdm1GcE1CMnoyQmJkUy16R1hTSks3dVh5VGRXM3ZOZC10Z3R1ZnB4amNwNG1qeTBza0lmY3MyMVlrWmtvR3F2WkJWZERnQjlK?oc=5)
+• 🟢 [One-Way System in Viman Nagar Under Fire, Citizens Submit Compliance List to Pune Police - Punekar News](https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1dJZk9WOEdTSFpUOHNzQTJwT3R0R1FzSU8tSHV4dURYUmRPVXUyNDR1Y0otaW5fZG4xcDJsNk5HRUNQTS1fUmJ0UnpHYlhvTzNqQTNXRVd1ZjVzMURkWkc3X1hvcnFIbjhCMS1yWTZHbXVuVEx6UmlJV1lxX3ZfbkF3ZGhaMWJoQmluQnBQTGkwMWlJaFE1b3ZsWGYxX18xdjRWRm9sVGoxdm9kYmoyR2hCQmhLdw?oc=5)
+• 🟢 [Mumbai-Pune Expressway 'Missing Link' to open on May 1 with speed limit, no trucks and hazardous vehicles; check details here - Mid-day](https://news.google.com/rss/articles/CBMipAJBVV95cUxNanMyTjhHeTltdDFmcmVONmE5S2JvRDVFa0ZiUUlCSjdKUTZyWGNSRllndjdCWUFOOHJrNnVkMkgtUi1GLTJ3U2h3aEp2SlJvanRpM0gtVDZPZ3pXX1NzTlVzaVVYN3dyS0dlc2lOcnl4am02MlNtaGJtMkctWUZuaTAybVdKUHR2SjVteW5VdktuS2U1R1U0ZE5TSXhoMHhhRW16S1owVkltR21fUFV4OC0wVGUtYVZ6RWs3S3dMNnMwN283WTVCaFVwRFQ4ZDFVNERzZmw4cEdkVzhFSjFJRk50MFdPazhZdElhUjBBQzhWbjF6QmZhY0pjNVFnQzhMNzktNlltcHhZeGNZMy1LUGtwUjJPUVdPTnN6cktpYjJKLUFy0gGqAkFVX3lxTE9WQTJBQ283UUczUHZOZV85UE95ZUxHZmE2WWUzdTR5ZER1cUtiLXZvZlhxelRfQTdCZk5GOHR2YzNNRnpuSUtYbENXanlHZW1LSUczWXMybnhWYjJTRWQ5bkdmV1B1cDMzb2Y2aUxCSjhtR2NHcEFUYktMSkFsUUV1U3M1YzgyaEpBaEYxc2Z4YVFDcWtwazJNQ2k2NzFxMkFndE5DMmMzUFFJaHhXRzNvM3gyQ2VjZTVXZEZIMTNfWk1zYzF2NG5kLWk1cnVrcmJSVWZCWXg4cmp4YUs3TDZObS14czVCNEgyNzh2SGVvRmFHSlVPRUdVTXprUmw2US1oVzRfUEhsUmtjSjEyTUMycklKVDkzdkpoUWRpTTJYYzk5R3gzY3dkM0E?oc=5)
+• 🟡 [Vande Bharat Coach Derailment Near Pune Triggers Rail Chaos; Mumbai-Pune Route Hit by Major Delays - Pune Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzJUay10eFFheVlEbmkxQlhLa1FULUw3WDlrMzFwdGY1VTZtV1pTWlRhUTdmdi1xM2xQUnVHUEE5b3pRUGlMb2lHMThhcnBwdDBVMlljSERIZjBHT2x5X3BXcEF4YkdnZVc2a3M2TUR4T3A4bGRON3NVaE5Ic2hOTnJnTkhkMkk?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌧 Balewadi reports the highest monsoon waterlogging.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
