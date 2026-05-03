@@ -4725,3 +4725,24 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚦 Pune introduced India’s first smart traffic signal system.
+
+### 2026-05-03 02:52:05
+🚦 Pune Traffic Updates • 03 May 2026 • 02:51 AM
+🌅 Good morning Pune!
+
+• 🟢 [65-year-old man held for 3-yr-old’s rape-murder in Pune village - The Indian Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmJRVXF6WGdLR01YU0EwSVQyLTZQeS1fMnU3UVNfejNxUjhrbGlSbWxkUHVCYTNLLVJQUnRad1djb3R3MDlFdUItRzNZVWJVdGkzLUlZT0JLSVlyYzFLQS0tME9nTmFpRW1LNXFOcmlpZHFIbWo5Q1RuYzVTQ0NmVHZlYUNXY0VLa21sbklWRk14NXpHMGxmZndkekNBYWpo0gGnAUFVX3lxTE05cFJWWHQ3OWNEYkpubDdlY19qSzJDRmtiNDJqTXhBMW1OVnVNU3drLTVndTdidjFWNGs3OU5kYlVZajgwZGVlSlgyaElPTHVHbUJKcmhhaGQ3X1JrMmxQT1FLUUFweV9pOFFXdWVFVEJsbS1icWQ1OHliN0themd2eENERFM0U1pTVDlHLWtNWksxaVZ1Z083TXUxMFI0b2ZnejktZ1Fn?oc=5)
+• 🔴 [Pune Traffic Alert: Mumbai–Bengaluru Highway Blocked at Wadgaon Bridge Amid Protest Over Nasrapur Child Murder Case - Punekar News](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXF1Vzg0UGRGeWd5dDROWGFwckRPTk52cF90MVlNZUl5bEhURVJudC1RTEpmanVZWmQ5Z2c5TUk1SjdQMk5zOHdQYWw2dzFGSXJYbG5xWGt4MzdnNUZtSGFiOGpJQ2tudm9BLXRBSGZKMFdqYl9JcFQ0MHlDdnkyaHdxZEJ6UTU4N1RLMTMzVHJka21mS1l5MmYxTUZXWWVzemxkNEw2ekVxVEh1NWZaZ2F5Wld4S3lfa3pyaDNLUmowR2NEZkUzMW9STXQ3OWx4X3dyZXpzUGdXdw?oc=5)
+• 🟢 [Pune minor rape-murder case: Navale Bridge traffic paralysed by massive public protest | VIDEO - Mathrubhumi English](https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUlBbVJGa3lweUdpQm83WUdGcVJSelYxcXVMOFQxeFpjWHBqWjk3VEFrcDZFUzdqQzR6LXFYbHd3VVBoTmRPNG8zYktYbk1tWERUdkhNa3VvS0JqaDl4WUgyTkRtTnpPUmdVM3BpMWlpd3B3dVZIQWx4M1p5dmduSG1YTG1yNWp1eUdvVnJRTXA1OG5zdmM3NklySmhxNnlGT3fSAacBQVVfeXFMTXZneWJZYUdZUXB3b0wza1hhdTVBNnZxa2xuejV3YXFpTUFqZl9vYTN4VUVBYk5rOFVaaHZsM1ZxQ21YeWJkaU5rWTJ3SkVldmlmb080VHhjcFhSNDdpUnNueXh1VlUzLU9JNGlwZ3dLd3V4ZzBhLVEyT3lIN2NBbHppNlhCZ2dLQjl1ZUg5Z0tmUkR6MVNFd3RPUXE2VUY4MTQtMGtudVU?oc=5)
+• 🟢 [Pune Traffic Update: Protest At Wadgaon Bridge Ends, Traffic Restored In Phases - PUNE PULSE](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzBVMDBDTXhrWGZUYlNYaWZYX2pCZHFEQ3FacVZ6MXQ4RTJrU1ZCRFY5RUE1VkNiUnJOZ01lV2pyUTc5UE42RV9QSkQyb0xpMkpMZHJ1d1lGU3hrVFdVZGRfeEJpRmplUTRweEpYNEh1cGxNR1ZhaUhqV20yS1BYeDRCM0d4ei1ZUGFkbDZHSGpzRUtRR1JseEpTcEJ3SnNpdXNlbWdrNGtfdw?oc=5)
+• 🟢 [Pune-Satara Highway Traffic Resumes After Four-Hour Protest Over Nasrapur Child Murder - Punekar News](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaE1OcGQwejNpeGQwVWxNdnJTWE9KckRTY2Z6eW5WdE1zQWE0VWppeGFpV0NiNXZTR2p1QjY2LTI4c09FN25maXJ6RjBOT0N2cmEyNHF2ME53NTdiSTJ1alp5TURIZDJEcGs5TVI0SHpHeGM2aDlNVnNGX1BfZURDLWp4QWZBaG5IYVdxal9GeEpFZVZjRldGa3BscVplLWRMODgyWXI5OEpHSkNFcWcxaUZZQWI?oc=5)
+
+...and 9 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🛣 Baner Road sees peak congestion between 8:45–9:30 AM.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
