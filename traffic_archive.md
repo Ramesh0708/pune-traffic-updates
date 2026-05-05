@@ -4767,3 +4767,24 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-05-05 02:41:24
+🚦 Pune Traffic Updates • 05 May 2026 • 02:41 AM
+🌅 Good morning Pune!
+
+• 🟢 [New barricading below CoEP flyover triggers traffic chaos - The Times of India](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUxCclpCSjU5VU9PS09GQjlrLUNjUnFxSlZocmFBVXNWd2V0UXBZRVZSYk9ocVdnZ3RLTS1zMmRmTVluYnVGX1lYWDdubFJ6d0JxS1R1Ul9BRVBrZWFZbFdKLUhCT3hqZ3pPVWVad2VZMmlxZm44UzVUUGlmblFKZVZ6LUVWd3JxQUZEWnhUTHYyUlB5aFktWlU3Z3VQNDYtT2gxc29KblY5Y0FtalBmYmxPV1d4VTNsOThsNEEtVDhzVGxiM2xhRtIBzgFBVV95cUxONFl2SUZxelBMdjhZSEpuLU5VOWowOVBCSFVYb2l3VHVNamRPQV9LRk16dmJsekJSRTdHeV9jaDVwaF9ySHM1TUR3WnRzRjFPaEZSSFRoUHR6RlBJei1yNG5JMEp1T2dmTGlabEJIa1B4RzRSVnBud01mcjhvUXRjNjMzcDE5Smg4WG04UVV5MlAyYXk4RHhEekJIMUFPWFZCVnNiSVpFSkg5MWU4S1habXVUWnBSc0M4WTNqTG1XcjVoQUMxMDZpVUVDWlVtQQ?oc=5)
+• 🟢 [Cops crackdown on Missing Link selfies; 98 fined in 3 days - The Indian Express](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVA1MmdPU2drRHRILVFPczM5bDNhWk9BalVTaXJSbXZmV01TUUxjbEhYVGJoN3JRN0k0dmItOWJYVTdreHBRU0dZc01lNHB4Y0tSWVk3SmVRSkQ1SjJNSXNUaU9WNFFkTzc4ZkRmREN0V1JhNG1VWjBnOXZxbmtDUUpWWFNuS204ZjNwRU01SVFwdHhJZzE1U1JZN29ORGJHbkx5aDBkVlhYVzhkSUs2S0I5QdIBugFBVV95cUxNbWtNSnMtN2UwRGZVWm9VeE12bENfbkRHdGJ5ODRpcUgzRlhzenpWQ0dKbDN5RG9vci1uV3c5MmxEYmFsR3JWZmFoOXVCeFozYlpCaTlvTTFuTzRNZURLWGRiV1ZxbkVIa1FjT2JCYnNVX2x4MUpYXzVTUkNWVFRiWHZNTXp6MUtsbUtSV2w0ZjFFRV8tdE9GaTVMeWlIdXJFX3lWdUQzekZObHI3cEtVM013bjRUazlockE?oc=5)
+• 🟢 [Protest over child rape-murder blocks Pune highway traffic - newskarnataka.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVlQRFhZLTdhbFJCY2xFMldtZXFsMXpuOWJ3T0ZfdkFpemY4T096a2phT01hRE1DbEpWaS1VR3ZDUWgwZjBqcXFUVTF0Mi1JakdqUEJGMmVMOXEzOUt1QmREV2tKUWFETUdsS2d6UDhpQjAxOUVaR0xZNTh6SVF5Y0hSUHloM3MzbHdseTFJcFJJbHd0T0hnRm1KeGJHLUM1cmd0ZXJB?oc=5)
+• 🟢 [My experience of driving on the Mumbai - Pune expressway missing link - Team-BHP](https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1FrY2pBc1h0VjFfcWFYZ2IwQnl1V1JFVlFkY1EtQ2ZzcTFURkhESjZqUFJWLWhXS0k5aGZFclJPSTFvVTRjbV9XamRTZVN1ajVYVGZDZ3RpQmJFYTZFQzNYX0RUNmNfLVVkV3loLUtVend3ZzA5VzBzdm5BazJsTUtZeHJuZWpUZ1pDaDE0RWzSAZYBQVVfeXFMTk5DbnJwaW44ZGpxblZsM0R1QmFzUFpQeEoyczFLZ01ramxrOXRQdDV2QlBWVnVxeFZ4Yk1kb0tnLVRpNDJyZV9UWWhtS3hGUEV1S285OTlJamdfU2JqRG1IM2pWaWVFcGJ1MU1uR19Ya3kwaWtCZ3B2bFVpTTR0dEpIV3Jwb2RHbWlTbXd0Q3ExRHJXRU5R?oc=5)
+• 🟢 [Pune Police Break Silence on Navale Bridge Protest and Viral Lathi-Charge Claims - Punekar News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnNuZlIxLXhQNElJdzk4b1NoZ1Y5YkpseS1FMWJ1NDBObHQ3N1RRX3JQUU02LUVJZTh2b2JlV3ZUR0NRV1lybTZYaDhoOU5Dai1scnV0UjBraGY0Z0pLdGwzUXRNSE5HZVljaUJIUkJ4bEZ5M3VPeW5sRHVMRkVrRWtsZHVqcHJ1UXFwY0M1SkR2ZUpPMlB2bmYyVjJMdWl2SmJsSHlQMW83TmxW?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚆 Pune Metro Phase 1 will reduce heavy corridor congestion.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
