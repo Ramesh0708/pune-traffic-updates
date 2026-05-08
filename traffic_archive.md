@@ -4876,3 +4876,16 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-05-08 11:14:45
+🚦 Pune Traffic Updates • 08 May 2026 • 11:14 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune dist admin to frame SOP for RMC plants in three weeks - The Times of India](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTVpCdUI1bWlmUmloWmwyTWxrV3pLM3hqZDkxWGFod0hkc3g2TUI0SThqMGtvbFoyaThLZERGTW51YXVrNmRwdXlubWpLWGV5emZaYlNKZWRTRG1VNXQxcUsta3k0UWl1YmFtdFdORjZFTUVnNXZHVXgyYlgxLUFiZDBmNnByTzlIc3BvcXZBc0ZBdXhqRFNLeDhKZ25jOFZQM3RjZU5MbmZiMVRjVmxac182bTNXS2k1ekgtZnhwWmkzdEdVRllUbFF30gHPAUFVX3lxTE16cVlTLTl3LWY5d0hKUHVzZEYzdW82Ukd4ejZUaHp1Ym9kcGd4RGpCRkRIWUh3VW81TXBlN1lwWG4yMzczcTh2Ty1XNWZmVnpLYzktb0dic25NeHNSSlBJTFpoZ3BKQWt0QnZ2aVJBaUlIWkdPNWYzZlFyUUZIYUdEdkh6dzczckZrOTB3R3JHNnM5SXRlZElHS3F2TjAyWUJ3WHNqYkhhaHdlYWVyeHdoNE05SG9Xb3F4ckpNcVZhQjVUWWtWZHVZYWVxelA1bw?oc=5)
+• 🟢 [Pune Police Ban Protests at Navale Bridge After Nasrapur Road Blockade Chaos - Pune Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9oUExDcEFjUnhINExGcUJtTXdtVHdWSWJlZ19ubVlERk44Z0NRQi1XRHg3NmxCTFpCS0VDZTNaTmxnbUpGalJhUDFsNUxuelVaZlg3bVdKLUVtNEZoRExyWFVmNEFaLUNWR3dzUERrVHNHOU85ZkNubHRVUQ?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
