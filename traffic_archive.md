@@ -4855,3 +4855,24 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-05-08 02:52:36
+🚦 Pune Traffic Updates • 08 May 2026 • 02:52 AM
+🌅 Good morning Pune!
+
+• 🟢 [Pune dist admin to frame SOP for RMC plants in three weeks - The Times of India](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTVpCdUI1bWlmUmloWmwyTWxrV3pLM3hqZDkxWGFod0hkc3g2TUI0SThqMGtvbFoyaThLZERGTW51YXVrNmRwdXlubWpLWGV5emZaYlNKZWRTRG1VNXQxcUsta3k0UWl1YmFtdFdORjZFTUVnNXZHVXgyYlgxLUFiZDBmNnByTzlIc3BvcXZBc0ZBdXhqRFNLeDhKZ25jOFZQM3RjZU5MbmZiMVRjVmxac182bTNXS2k1ekgtZnhwWmkzdEdVRllUbFF30gHPAUFVX3lxTE16cVlTLTl3LWY5d0hKUHVzZEYzdW82Ukd4ejZUaHp1Ym9kcGd4RGpCRkRIWUh3VW81TXBlN1lwWG4yMzczcTh2Ty1XNWZmVnpLYzktb0dic25NeHNSSlBJTFpoZ3BKQWt0QnZ2aVJBaUlIWkdPNWYzZlFyUUZIYUdEdkh6dzczckZrOTB3R3JHNnM5SXRlZElHS3F2TjAyWUJ3WHNqYkhhaHdlYWVyeHdoNE05SG9Xb3F4ckpNcVZhQjVUWWtWZHVZYWVxelA1bw?oc=5)
+• 🟢 [Pune Police Ban Protests at Navale Bridge After Nasrapur Road Blockade Chaos - Pune Mirror](https://news.google.com/rss/articles/CBMie0FVX3lxTE9oUExDcEFjUnhINExGcUJtTXdtVHdWSWJlZ19ubVlERk44Z0NRQi1XRHg3NmxCTFpCS0VDZTNaTmxnbUpGalJhUDFsNUxuelVaZlg3bVdKLUVtNEZoRExyWFVmNEFaLUNWR3dzUERrVHNHOU85ZkNubHRVUQ?oc=5)
+• 🟢 [Kothrud Citizens Launch Signature Campaign Against Proposed Pune Metro Station, Traffic Planning - Punekar News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFVTMVVSb1RzUEZuaXl3TUxQN19wS2szRVl4bFJkdHhwNUVkb2syaTFibnVzQWNOSFBESFY2dUQyVDNPcDZmR0R1bU85Rmo0MVI5c3Ewa20xYmlKanZCcVAxVXlPZUVONEtCZWZzcFJaMkQ3S1VOVE5uLTFxM3h5YnU1VWF0QllFYVF2ek5YUTVVaFBnemp3TXRfZFlEM1ktbHcxa3dCVVFJN1RYQkpwRkFCMkdXM25LWmMxMU1vS2c?oc=5)
+• 🟢 [Kothrud Residents Oppose Metro, Bus Depot Planning; Signature Campaign Launched - Pune Mirror](https://news.google.com/rss/articles/CBMiekFVX3lxTFAzWktEN0VLVmNmZnBxeDR3RXdTMXdOZWtqMl95cUFBMGdBTW5hWC1ibVJJUGFfQmxqd2t1OW5hVlppSFNXX1pVR2FvOENWVktzUHBlM3phc202VTRReUk0WGZMakE0Q045U045Z0RlQVdKbzg4Q01JcEdn?oc=5)
+• 🟢 [Pune Traffic News: 5 Underground Corridors Planned To Ease Growing Traffic Crisis; Check Proposed Routes - News18](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcVVSVHFKTV9nZFhRaExQN2dIdzdueWZrVy1rSjFGREFPeDFIRWZkaEQ5bXNCd05GRERUcnB5Ry1ScjFxTjFubDRCWHFfTk5iWXc0MmxHSDVWUmR2UW1Banl5MGhKeGQ2R1ozRFNLRVY3cVNWUmpJRmtoUVlrTUxESEdQVGhtOXRObHhZeGFqZkxsME5mcVpTNFlrYjViV2VZU21aSVFFbmZWNWhIRjFONkNkYmxQdEJqeVhBMTNGUVVwZHhJZTRTcmRvS0dLaHFiX1VEZjJ2NEJHNnJQOWxncnROaE5FZW9IM2k3c3FZQnNGaHfSAfMBQVVfeXFMT3FVUlRxSk1fZ2RYUWhMUDdnSHc3bnlma1cta0oxRkRBT3gxSEVmZGhEOW1zQndORkREVHJweUctUnIxcU4xbmw0QlhxX05OYll3NDJsR0g1VlJkdlFtQWp5eTBoSnhkNkdaM0RTS0VWN3FTVlJqSUZraFFZa01MREhHUFRobTl0Tmx4WXhhamZMbDBOZnFaUzRZa2I1YldlWVNtWklRRW5mVjVoSEYxTjZDZGJsUHRCanlYQTEzRlFVcGR4SWU0U3Jkb0tHS2hxYl9VRGYydjRCRzZyUDlsZ3J0TmhORWVvSDNpN3NxWUJzRmh3?oc=5)
+
+...and 1 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
