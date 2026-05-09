@@ -4889,3 +4889,22 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🌉 Holkar Bridge is one of Pune’s oldest bridges still in use.
+
+### 2026-05-09 02:50:58
+🚦 Pune Traffic Updates • 09 May 2026 • 02:50 AM
+🌅 Good morning Pune!
+
+• 🟢 [PMC set to relocate heritage police structures for Aundh road widening - The Indian Express](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkZScmVVanRSMENfNUNJRlpoSXA4RWtZaFJtb29idWx4Tjk3NjZ4ZDU3T29MVXJtbDNLTU9PRmR3YlNWMGdaaE5vUnBOc3dwT1BHSUJuQUozQmptbXdabmV0eS1YcDcxLVZLYlE5cDhEZjJRVnRER09YTVBzLUNaZ01TbWRJN0hLWkRXbmdmNEVXeUVJQXpsZldIalZXU2hpbXBFQ3lhSTFtcGlYbDNyNG05VF9IU2RnUHc?oc=5)
+• 🟢 [Pune RMC Association to resume operations as Collector frames SOP for RMC plants - The Indian Express](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaE9lOGtRc2dsT21GajZRRklGMFpZVVB5UG12WWxFOTVNTEtMZmhnWHhQM3lsSkhGQklBdnlDdmZkc3hTdV9NMEgzMFdVR0FBRzZHREJ2aHVFQ1dmY2dVRjNHRDB4WExxNy1aQkZQTHI1YjlXTW93S2s1U2t1ZzBPYS1fck1RREZYR1poMVl6NFUwd2R4MnNqZHk5eDdyVHpVazRUclBrU3o1QdIBsAFBVV95cUxQUDM0amNVWHhQaUc4VGhFNTgybEQ5U0FOZE9WX0FXVTZsZXFVdHVJOHpDNUpJX1lnWUNHUkMwbWp0cF9ZS0hCeGMzTnJBNTZsaFk1MV9fdGwtclRmcmV4UVJ1NjFhX1hBOF84a2ZDeEVVQzdVUWpVZllYZmdUT3JqU1ZoQXhfQXczZnRoZjBTRlBRS0ZtMXotcldaeUpZb0EtV1h4UTduX2pHSk12MjhhTw?oc=5)
+• 🟢 [Pune RMC Association to Resume Operations Tomorrow; Launches Citizen Helpline for Traffic and Pollution Violations - Punekar News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNVNER1JkSGJVWDlEcEI4WXI4b1dxeG80eWFVbkNIZkRyWlhRbl9HbW93ZkVrRktvN0FyMTB0M2JabXdXX3FPblUyWkY4bVR3SzJzSUNhdUhGTmpFVXFNMWxsbG1FaU84bkF5ZTJTYlluWU9nS2JXd0F5SnhHYkt1QXhnWW85cERIZ3h6SVN6ZjJzT1VBRzBFWUhmcTRHeDlVMzRfek1GSmRmOWhEd0g3dTg3VE9KbEZJeEpfaFFGeGpKSGxUM2VBMUI1Y1N5bDRvWXliZDhhOGY?oc=5)
+• 🟢 [Pune: Aundh Traffic Bottleneck to Be Cleared; Road Widening Work Finally Set to Begin - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVB3OEd0M0JfendsdGRpSHRLRXFlbHVWTklFdnF4eEtObUdYUm5UemFJOUZyN2h4ODJ5YXNyWW5jdER3cmFiSXJWMzRndlJKM25GT3ZCclNpS1V4a2lxaUZFUHJJNEFFZEVwMHpfNDF0azYtUmxMV1dhajhuRzdLUUh1ZXlvYXBrN19zRXRSOHlCb25uN0JpczBFYmZxeWhhbjlB0gGwAUFVX3lxTFBoajlqNW0zckVzX1NqR2Y3THd6R20yaW5POC1FRzJIRUxUa2RyVjZPX1BseTRoMThZQUpZVjVkV1N4NzI5VHJnSjBHVWtuRm9FTlpla0s3VDd2b3MwdkE3Z2JxdnJfU0prbkxjbmNLdEhPUmVEem40QkQ2RkdrazF0d2RqNXBJMkZmUHpzTGdwWnhtdnAxaHpTLUNETkxqTmdmdm9qMmxrcW5BYkgyV05r?oc=5)
+• 🟢 [Pune to Introduce SOPs for RMC Plants to Curb Rising Pollution Concerns - The Bridge Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFhna3BCRllLWXJNU3JwWk9aOGxzMFhNMWoyOERjR3J6c2FJeUtEelNWY2V5VFhDZkhVaVZtYTA5NGtEa1ppd05FX19GQlNjTEktSHQxSjFmMUdUakd5RDhMY1JsQTYtdzdBNE1QMm45Q3E1MEhpemZ2cjloZ01iVkNqQjlKOGNpZ3JlU2dhSzhvVDlzMjdQdNIBpgFBVV95cUxNR1htMWZsbkE5cmdEd2M0V0tQWmtnOW5ucGc5R3piSVhJVEQ5OWpqQkp0eHNSbzA1Z2hOSV80VE9ackRrVkNIdEl3Smw5STFlakhSMVUtZG1nUEhQczIwTmRwS0o5a2VIQzh0MXhzNWRYeXZCeDhvZWlpdlNqS0xzbnVWTUVzdlhVZTVSY3RnUjhKZmJJUjN1RHAyenYxcVVQX0VfelRR?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 Drones help Pune Police monitor festival crowds.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
