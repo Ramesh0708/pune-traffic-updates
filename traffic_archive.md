@@ -4908,3 +4908,18 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-05-09 10:56:57
+🚦 Pune Traffic Updates • 09 May 2026 • 10:56 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune: Rs 10 Lakh Compensation Announced for Victims’ Families in Nasrapur and Mhalunge Assault Cases - Punekar News](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzk3d3FGS19jSml2SWQzS19FS2IxRW9qZ0x4Qzg4YkZMQ3lacVE3Y2ZvdFNTLUpDVkVuSE5CUW5Jby1hbjJHZVRfWHFPbWlER0Q4TTdEaTdYTDk4R2lYYWttSjBPV3FvMFB1THBBY0Zka2Y3dDByTFl3RTBuUGR5ZXVyQ2ZpVkNjZ0c5WF92YUY1Tmwwc0RtX1JQOUI2a0Z5dkNJbERibTI5VTZmLUhXUXRmNm5qclBxdHVaN0JlWW9EQmFi?oc=5)
+• 🟢 [PMC set to relocate heritage police structures for Aundh road widening - The Indian Express](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkZScmVVanRSMENfNUNJRlpoSXA4RWtZaFJtb29idWx4Tjk3NjZ4ZDU3T29MVXJtbDNLTU9PRmR3YlNWMGdaaE5vUnBOc3dwT1BHSUJuQUozQmptbXdabmV0eS1YcDcxLVZLYlE5cDhEZjJRVnRER09YTVBzLUNaZ01TbWRJN0hLWkRXbmdmNEVXeUVJQXpsZldIalZXU2hpbXBFQ3lhSTFtcGlYbDNyNG05VF9IU2RnUHc?oc=5)
+• 🟢 [Pune RMC Association to resume operations as Collector frames SOP for RMC plants - The Indian Express](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaE9lOGtRc2dsT21GajZRRklGMFpZVVB5UG12WWxFOTVNTEtMZmhnWHhQM3lsSkhGQklBdnlDdmZkc3hTdV9NMEgzMFdVR0FBRzZHREJ2aHVFQ1dmY2dVRjNHRDB4WExxNy1aQkZQTHI1YjlXTW93S2s1U2t1ZzBPYS1fck1RREZYR1poMVl6NFUwd2R4MnNqZHk5eDdyVHpVazRUclBrU3o1QdIBsAFBVV95cUxQUDM0amNVWHhQaUc4VGhFNTgybEQ5U0FOZE9WX0FXVTZsZXFVdHVJOHpDNUpJX1lnWUNHUkMwbWp0cF9ZS0hCeGMzTnJBNTZsaFk1MV9fdGwtclRmcmV4UVJ1NjFhX1hBOF84a2ZDeEVVQzdVUWpVZllYZmdUT3JqU1ZoQXhfQXczZnRoZjBTRlBRS0ZtMXotcldaeUpZb0EtV1h4UTduX2pHSk12MjhhTw?oc=5)
+• 🟢 [Pune RMC Association to Resume Operations Tomorrow; Launches Citizen Helpline for Traffic and Pollution Violations - Punekar News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNVNER1JkSGJVWDlEcEI4WXI4b1dxeG80eWFVbkNIZkRyWlhRbl9HbW93ZkVrRktvN0FyMTB0M2JabXdXX3FPblUyWkY4bVR3SzJzSUNhdUhGTmpFVXFNMWxsbG1FaU84bkF5ZTJTYlluWU9nS2JXd0F5SnhHYkt1QXhnWW85cERIZ3h6SVN6ZjJzT1VBRzBFWUhmcTRHeDlVMzRfek1GSmRmOWhEd0g3dTg3VE9KbEZJeEpfaFFGeGpKSGxUM2VBMUI1Y1N5bDRvWXliZDhhOGY?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 Drones help Pune Police monitor festival crowds.
