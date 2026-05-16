@@ -4988,3 +4988,21 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-05-16 02:51:32
+🚦 Pune Traffic Updates • 16 May 2026 • 02:51 AM
+🌅 Good morning Pune!
+
+• 🟢 [Mumbai-Pune Expressway Mishap: Two Killed After Truck Rams Two Vehicles, Traffic Movement on Four Lanes Affected for Two Hours - Punekar News](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLTNuSS1xQlJJZTJCaFNjUXVLb19meTZidXBhdW5tT0ZveDFyZmpzYlA0U1Z5d3Mzd2xyVnZMVTRVc3JadXVrSnNOakZPMzhxM09HVFZYVlZmZHZxX3g5Y1hfUXFqWEMxSlhfU2ZTdWlSTUlkdndqRm1MMzVkM2lLZUIwVXJwZ0FpWkFQZi1OeXdlVTR2Z0FQdkhHc3VnQmdtRVpjSFF5eVZjNXZmSG5xRTRvSFZaNHVDWGZPa0xlZEJOLUtBX1JhTUU4VkJURndJX2V4TkZEYXFKemZTX0NmTW5jY0NZcWs?oc=5)
+• 🟢 [Two killed in three-truck pile-up near connecting link on Pune-Mumbai E-way - The Times of India](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ2dMd3RUUWNabjFDblF5OUFjYkY3cjktTzFSTkJSUm9lTk9xU0dYMGZUZS16VG5tdFAwSGgyaUtaZGZJYThCdmJNWWVQdlNQSExfZ25LZXJpbHp4bjZJa2xSWnR4VmNhNENydVVDZTl2TjFpc3NDSXdoV3NfRFhMZks5Q1lmbVZGVVg0bVc5ZjY4U1Fzc2lTUlNSQnN4ekVZaUdVNXVOSVlrcG9OWERpSFQ2aHZNWXdiMS1HWF9hT0NiRXc5QWN1X3ltemF0RjNUd2ZpZ1RfeTRGVEUxLVJMZW95Z9IB6AFBVV95cUxNNlZhLXpobk90ZjdnaDlESGZqaWxtclZvMHoybXhwMWQ1eUI1bFB4RnNyWWJQeHd2ZEY4MDhEMms1dF8xSjVWWVN3V2taOTNSVDJfbFRvUUtvS1R3Y1hhMjdMY25WdjAyZGctdzNyUHRfN0dlcU9MLVVpaTJZUWdDc0dZZW16N1ltb3NybzVzNkVteTZtdXdLcHJBSDdhelljN2UzTzY0OFQyLXpJSUdHMXptWkpYaTc4YVlXT1dwd0ExOUViV3lVeV9xR1pUNE5ENDVIM04zY2c3N0lTSXJoa2N4aG5sSFFo?oc=5)
+• 🟡 [Pune Set for Rs 50,000-Crore Road Infrastructure Push to Ease Traffic Congestion: Nitin Gadkari - Pune Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQY29SZjNvd2l4QTJaaFhWeHl4aEdibGpMMDdjcGtJOGstVzVsTTZnOXdoWkQwdjU1d3BGd2JaWFdnSjQ0QWxiZGxGUkJmWEQzR0NoV2Npb2h5UHBsZVJFUnppRFZDd2MzZ3N5aFhaOUsyVTg0bGVBRzZ6cEszcGh6Rw?oc=5)
+• 🟢 [Central Railway Cancels and Diverts Multiple Trains Due to Major Rail Corridor Block - Pune Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkZKbzhxMG9tTFJMcjhXVHZjNGQ4MlNWcE5ncm84LVBIT0ZGcW5ETEJGeEJOUncyaVR6emFDd1R2blkxMjkyWk1HSGVBNHMwd0p6Y1RidFNFM1Vvb1Y3X1MtQkQxdVZXVUpMZ1NwSUZzeGFZRmtoc2U3SlptZV9ZY1dQaHFuZlNuQkdRSDdR?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚗 Baner Road spikes heavily during school timings.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
