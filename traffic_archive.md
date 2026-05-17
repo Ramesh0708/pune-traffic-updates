@@ -5006,3 +5006,19 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-05-17 03:24:27
+🚦 Pune Traffic Updates • 17 May 2026 • 03:24 AM
+🌅 Good morning Pune!
+
+• 🔴 [Fresh Crash on Missing Link Stretch Worsens Expressway Chaos - Pune Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVhfYkRxdmhpVWxmZV9vSHZCSndYY21lbDNua0ItdTRtdFV4dHQ0SEQ5UTVpM3gwWng0ejRlNS1Tb1BXNkhqclpmMUhiazIyMENOQkEtQ1dOY0owMXhXTjZPYUhEbXpob2NtMVhnVmYzSFhMY1loeWFOOE1mR3BidHEtWlpqSDUw?oc=5)
+• 🟢 [HSRP Update: Maharashtra Gives Final Extension Till June 30 for Old Vehicles - punekarnews.in](https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3FEM1lHVldSZ1p6SVk5OV8xTEdaLWM3dGJPS2tKRDBiZ0xvMEZhR2Zac0V3b1RVNk5TQ2pJM0FaTWQ5dmRuOXI5SjBLdmZ1MWhkU2l4Tk5qSmdvN25yckFLWW1DVDFFM0RWZkw3OFJMUFJRMlhHMWZwZF9lQUw5ZEZVOUFfM2RGa1J4Wjc1N2FqREVwNU5tVl9yRGZJOFMwdkh0SXdn?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+🎥 Creator Spotlight: Support Pune-based YouTube creator!
+https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
