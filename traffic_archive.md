@@ -5022,3 +5022,15 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-05-17 11:05:21
+🚦 Pune Traffic Updates • 17 May 2026 • 11:05 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟡 [New 134-Km Neral-Shirur Highway To Reduce Mumbai-Pune Traffic Congestion - punekarnews.in](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZko1TU9GYUhMQzRvSExUY3dTZVpJWkhhLVRlUmc1eHg5a250N1FXeHZuY0Vkak15b0xHaDdYcVd3LTdkUllrY21sMDV4azU2QmliTGRMRU12M2FPZzg0S2dDMFRwYUpWNkwxMW9aOWY4RU9CV0pyLVVnYlVreVQ3Y05XZkI2WW9FQ2dSSTk3N3loYkJzQncweVEzZllBUy1uZ2c?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
