@@ -5034,3 +5034,18 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚧 Hinjewadi–Shivajinagar Metro will cut major congestion.
+
+### 2026-05-21 11:23:59
+🚦 Pune Traffic Updates • 21 May 2026 • 11:23 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune-Satara Travel Time to Reduce to One Hour as NHAI Plans Major Highway Upgrades - The Bridge Chronicle](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXpkelZjSzVwdHUwcElMOFZDLUFoNDMzNjRObzVwdGJHcjBWcmg5WlZHTTZOdnc2cnpDUVg1bVpQMHc5bFZ4Tk5xNHRTM2pkTmFTaHdObmppZjJLbUxpWDdNRUVoZzBnYXdmRlc4QkdnNE1BNDNpcFV1QzBpUUJtcTFoNGg3ZlFpZ3FlS1VLSzNHU0hBLThubGhBd20xLUhITXfSAa8BQVVfeXFMTWp4OWYweW1uWlFwU3lCZFJPWTRIRURSUUZ0bktKUnJPN2pDQUxjemFEb2NDU3NjNEtsc1hhaS11bEhsaFhpRFJYMms2cllOZUlreW5keTFfZHd6blZuV0IzQlF5N0ZKLTRGb2dhQ3BGakl6RXdmTFpVeFBjbUxuWFRzUkoyM2RMZUxmWjhJd3lTN1R2ZjZvVXRqVHo5dU5OZFhqNXRjSUJ2cHZYZUYxNA?oc=5)
+• 🔴 [Swargate–Katraj Metro work speeds up; traffic diversions at Market Yard, Bibwewadi | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdWx1djNxTndLR2kyd2k2bVZfaFJDMC1ockVuX0JvVldYX0gyX2Q0anAtMEVkN3lzTmd0NTM3dndmMnBDak50R3Y3X0F6UTJqbUd1RDFydVpPUDNGczFtbWs4emkzVEZUTTdZSzdkQ1lHSWoxUWJFYkU1X2llNUlIRTgxeHBuS3lNYldxX1JuWHQyclJORHdVREZxQm5VMEtNdHJmRkhzb1lfWDVOV1IzV3NtSFVqVTFKenRkSXVDcVkwU2hMRUo5d1k2M0w0a2VqemdQeGRVUGNPYXFwYWtmbV9uV3hjY2vSAecBQVVfeXFMT3VsdXYzcU53S0dpMndpNm1WX2hSQzAtaHJFbl9Cb1ZXWF9IMl9kNGpwLTBFZDd5c05ndDUzN3Z3ZjJwQ2pOdEd2N19BelEyam1HdUQxcnVaT1AzRnMxbW1rOHppM1RGVE03WUs3ZENZR0lqMVFiRWJFNV9pZTVJSEU4MXhwbkt5TWJXcV9Sblh0MnJSTkR3VURGcUJuVTBLTXRyZkZIc29ZX1g1TldSM1dzbUhValUxSnp0ZEl1Q3FZMFNoTEVKOXdZNjNMNGtlanpnUHhkVVBjT2FxcGFrZm1fbld4Y2Nr?oc=5)
+• 🟢 [Residents, Pune Police Collaboration Helps Improve Traffic Situation in Kalyani Nagar - Punekar News](https://news.google.com/rss/articles/CBMisgFBVV95cUxNeV9zSnV2N3hBa3o0UF90RlpEM3JrZkc4YVdmZlBjVU1FRnZGZ2ZaV3h1bFZGVzVCVmIwSGp2dmZBTGVTbmlURVR2U1lCZnN0NzhOY1dramNJQ3RGVHFLZ252aXI1dGh1cTdsdC1CM2N1eEx3elpNLW9wd2t2cmJlREVxdm02cmxXVEY2Mm1TQ1k5bGd1QUE3S0JLRVo4b04yU0ZXS1BSaVVITzFKQkpGRmdR?oc=5)
+• 🔴 [Pune: Swargate-Katraj Underground Metro Work Speeds Up, Traffic Diversions in Place at Market Yard and Bibwewadi - Punekar News](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYzRpNzlLWUYtV1dFWFBXU0hiNnd3Mmo4VTVvSHJNMnJTeFlSaFJWaGUwYnEtZmxpMWsxdjB4bTA5V2E3eXJCWHBqZnRrM0kxcVB2YUdScngxNVJXcVM2dW5VSmtVV1BlM1o4U0RRV3V5XzR1bEJNSzl1RUVuUDZaeEZMREdIWjRkMWVpelhIMXZqRjE0Sk8ycWt5N01Bb0g3eFBqMjM2cXMzdkl2UC1KSVFRbkF5aFNyZGdiR1JzWXBLUHlGaG9Cem5IeW1yd3ZfNTViMA?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚌 Pune’s BRT was India’s first successful bus corridor system.
