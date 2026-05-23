@@ -5049,3 +5049,16 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚌 Pune’s BRT was India’s first successful bus corridor system.
+
+### 2026-05-23 11:10:45
+🚦 Pune Traffic Updates • 23 May 2026 • 11:10 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Mumbai-Pune Expressway may require ‘visa’ for hazardous tankers after 30-hour traffic nightmare - The Indian Express](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmFuUHJSbHdURkNFSlhFNWR5M0dsZWp6dG9mYk1IeFJRbHNiWVFIU3NkSFdRM1BaMVNXeHk2YndxWWNSTmV4WHVBck0wczBMMlVpUkhvMkVNMDFZQU5xWVd6bUNZV0s1S3BibkV0OEJhQXBFdkw2QjBES2V2ZWNSVnNkQjQ4YkR1R3FxYmhXVHNMWmQwOHdvSUJfTUs3Vnl0T3FPX2VjSS1UU2F1OWRqcUYyYzVEN1E4MjB3WUlzQ2Z3YzIxcVRZcNIBzwFBVV95cUxQeDlORnVhV3IwSHRxeTZZWHEzTGZKTTRYNklxOEVVMk1lVWlYZ0p1RjJoeThZcTNnZzM4Q19EWGx6aEZnRl9ra094RWpiMzQ1Q0tzcDF1Z25FWDlJYzdSbVdXdDF3cHo5NGJ0YkJxcmhEajF4X2VwUmdKUThfRnpUaFh2WXFycGxUU2k1UzVmQVBXdy1weVhFeGlqSERwQ0NOVVhYQ202NWpOTEV5QVBnNFdRRWRGa3l3RkFqbkpja2RrMFhtVXVUZjNka0Jzc2s?oc=5)
+• 🟡 [Pre-monsoon showers lash Pune, waterlogging disrupts traffic in many areas | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLWhnQlowM0g2aUVPUDFUTHFJdDhrS2JqSTNLVkxhRks0SkJ1cDdCdG4tVjRIY2JLM19NMGk1d083Ylp6OVpGMUVpWFU3RzBiaEVJSWV6Nk1Sa0NXSEVhMExiaGdObW5FSW1sX0o2OWJVb09uLUFaSHVTcG1XdG9QVEsyTUZyRjFHTHp5Qm1lSEQtT0l2TElVeHB4azNJRThvVjNqaUltMk9nOE1iSkFWbUNZN2t3a243SWNBUUZjZmdJd1ZVem8yamEwdlJSYXZIbzEwN0d0bFrSAd4BQVVfeXFMTVFXMlk4a0JtbVJwWTlRcFRTeEEzWlJnQ1M3NVAzWHFQX0pOdjdhbmo1c3BFVmZaSlRlNkpQdVNtcmNoREJIUkhtUFl1TU5aSDdjVFRGSGpwN1JYTHNhRjY0aXpZZ3p3MkVFalpKSDl5bUVONkJqSVRuMmU3ZWVEcWpDdFJmLU51RG11S05EbWdQb1JrWmtNdUJSVktZUkp4UXJQa1RZM3NaaFJ6dkJqTG9BTlR5QjhwcXZmR1NRUlhnMXNWa2c1dVVkODVCT250S0ZwS2duUnR6d1VsTFpR?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚨 University Circle handles 1.2 lakh vehicles/day.
