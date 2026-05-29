@@ -5074,3 +5074,15 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🛣 Nal Stop flyover reduced Karve Road congestion.
+
+### 2026-05-29 11:29:36
+🚦 Pune Traffic Updates • 29 May 2026 • 11:29 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Pune RMC body tells members to comply with norms or face legal action - The Times of India](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTWsyLUxYZXZEUnVWSTV0dU5saDRSRU5iLThZUmhFTHhZVVFVUzJqR2RTcExxZFl2ZmpmRWZfOGd5R3Nfbk5zRlVZWEZpOTkwTDZWT0JpSHBwa083Wk9uajFLczk0am5VOXlkY0NGZEVYZzRVMThUTU1JbTR0SjhRSkxDS3FLSzFVZXpkTDltZFN0VWRIcXNKTEJaVVRMRFFrQkdlOTNSYlFMaXhVUjZxczc3bW1RUzB0OTRXUGxLUVBHejJaVHNwWDNfbUQ4S0xEcEtla19rRVfSAd4BQVVfeXFMTm1rQklPUEwwZXV4RFBIRGI4Z2lrbDJsUXNlcDdRWjljZmJMRVJWb1k4bmJmUWRZVTBWR1U2RjBYRlA3WjhuS19mYjc0MmFMcEtnbVJ2S1l6bjNkcS1SR3VMYlhBTV9UdE91NElMajZnQVZLY2g4ellIZUl1ODl3YTQxa0xIYkNHb3RmWGxEeDZlZ2pFQm9zaTltRzJUYnFPTFA2QWlKMTR0MFR1RDJiWDh1aTg4ejM3TC1nQksyNlpzVGxWaDVmT2RzdTJ3Rk11TTF5anl2RzJJY1JBRE1R?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🌧 Balewadi reports the highest monsoon waterlogging.
