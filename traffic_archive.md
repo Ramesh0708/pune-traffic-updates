@@ -5138,3 +5138,16 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 
 🎥 Creator Spotlight: Support Pune-based YouTube creator!
 https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
+
+### 2026-06-06 11:25:51
+🚦 Pune Traffic Updates • 06 Jun 2026 • 11:25 AM
+🌇 Evening traffic update — plan ahead!
+
+• 🟢 [Can Pune’s ‘Pataal Lok’ project solve its traffic problems? - The Times of India](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQWViWDZuTXdYaWN0cnM3dVRmX1J0aFczQUo4ZXFNTUI2THpId0piUUVKNUFTU0M5dnRFNHJaX3A3VzdFOXMtYmxxUzVhQ2JDWVhWVGppQlM0V2pLMjdxRVg2a2ZUWWVsQklSSy05SkhUN2pNN2Nkb1NhMl9mVElxaUtQeVRZWFlvcUdDbnBPcWZqWkJxN3FWdldIaWsySDliNGYwbnlVUnpLel90blRRMUs2eDZ6VEszbTlxekJzdjVuamp4YjMzaGlaNTRiMDRINUlaZjdFSEXSAd4BQVVfeXFMT3lzRzJaTTEyWDdCX0NrWWduRllRRHNOcE5iYjBVRl9sWGVrdDc3ZlozUTh2TEd2eDJPeU16R2FuTGZWM1drUHEzVWN3WXljeXVsQk1NQnJZbzhUUVQzYXY4Y0c1d0tEenh0eXFzQjdIclVkaTc2eUIySEx3MXR5c0FWZ2Yya3B6V3ZFN3JxU3FoZ294bHJFRVprbFpxcG1tNDU4Q2lLYmhtaG94a3lIS2o2dHUwUlE1Nkd2R1Zsb3p6Ynd6S0lKYmZ0UmQtem1ybzRRM2lWQkhQSUNueHdR?oc=5)
+• 🔴 [Diversions & ban on right turns at busy RTO Chowk spell some relief from snarls, but commuters seek long- - The Times of India](https://news.google.com/rss/articles/CBMilgJBVV95cUxNVG5sUTNXY0M3a2lkdTAxTW1BSVdKM2p2OTZkTGZlUjVUX2JGVDVkVzROODJkSUlXV2JCWWNTR3pnRzJYTXV6TXowM29YM2kxMzNVR2pOWGVPR1laQmF3S1IwdHAzRkUxUEpkSEYxMWJjVm91b2diM2JxMVJOMWN2VVFhcnpqRWc2MUlsdEw3blAtUXRBOVJIcUFaTzZQX3BPa25jNDAtdXltV2NMeF83YmhHU3REc3E0NHpSbW9fQy13dld5N254R0w5V0VEdVFXQW9XRUl2X1A0enlMT3NZVXpGcWNqaTZFZ3JkeFZnMnV0VjhrNHUtVWJpTnFTTmx4VnlRLS1jYm1WNGNvUWRuenBtZDZJUdIBmwJBVV95cUxOR3BicDNSUlFpZk4tT1FMSFZhM3ZHajZHN055YXYyQmlSOWFhV3JFNUV4dkw2VVdSRnFEQXk4MmlFYm9pcXVTRXdxMzBTczlHU3BwUW82elBjemNZQ19xY094emN0WVhtTjI4V0dCNnBVUWJzaGFpdkhabHhFd09qUTdFR2pxSEc4Rl9BOWNaZDlTZ056RHktamtYR0ltOUxXbUVoaVpMN1VNUDVBSnFIQTRRV0FyeGp0OTVrekpmZ09lNEhhR2ctbUg0X2NZVk1mdmFUSTBhZXMxd1VSZEFRdXRyVUxrNXFidnZMNHBvWE5ZdEZlc1FNVmNseXAxaV84M3Rwb1hzd29jWTc0Z2ptY2djWGVmTkFGOXc4?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚧 Katraj–Dehu Bypass is Maharashtra’s busiest stretch.
