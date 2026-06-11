@@ -1431,11 +1431,12 @@ def main():
         update_last_alert_time()
 
         mark_as_posted([it["link"] for it in breaking_items[:1]])
-
-print("Current IST hour:", datetime.now(timezone.utc) + timedelta(hours=5, minutes=30))
+        print("Current IST hour:", datetime.now(timezone.utc) + timedelta(hours=5, minutes=30))
 print("Regular update allowed:", is_regular_run_time())
 print("Breaking items found:", len(breaking_items))
 print("New items found:", len(new_items))
+
+
 
     # ✅ REGULAR UPDATE
     if is_regular_run_time():
