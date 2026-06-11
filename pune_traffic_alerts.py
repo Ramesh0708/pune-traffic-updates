@@ -51,8 +51,8 @@ def is_regular_run_time():
     now_utc = datetime.now(timezone.utc)
     now_ist = now_utc + timedelta(hours=5, minutes=30)
 
-    return now_ist.hour in [8, 16]
-    
+return now_ist.hour in [8, 12, 16]
+
 # ---------- 50-Piece Pune Fun Facts / Trivia ----------
 PUNE_FACTS = [
     "🛵 Pune has more two-wheelers than any other Indian city per capita.",
@@ -1431,6 +1431,11 @@ def main():
         update_last_alert_time()
 
         mark_as_posted([it["link"] for it in breaking_items[:1]])
+
+    print("Current IST hour:", datetime.now(timezone.utc) + timedelta(hours=5, minutes=30))
+print("Regular update allowed:", is_regular_run_time())
+print("Breaking items found:", len(breaking_items))
+print("New items found:", len(new_items))
 
     # ✅ REGULAR UPDATE
     if is_regular_run_time():
