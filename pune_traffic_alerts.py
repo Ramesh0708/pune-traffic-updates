@@ -1431,23 +1431,21 @@ def main():
         update_last_alert_time()
 
         mark_as_posted([it["link"] for it in breaking_items[:1]])
-        print("Current IST hour:", datetime.now(timezone.utc) + timedelta(hours=5, minutes=30))
-print("Regular update allowed:", is_regular_run_time())
-print("Breaking items found:", len(breaking_items))
-print("New items found:", len(new_items))
 
-
+    # DEBUG LOGS
+    print("Current IST hour:", datetime.now(timezone.utc) + timedelta(hours=5, minutes=30))
+    print("Regular update allowed:", is_regular_run_time())
+    print("Breaking items found:", len(breaking_items))
+    print("New items found:", len(new_items))
 
     # ✅ REGULAR UPDATE
     if is_regular_run_time():
-        message = prepare_message(merged)
+        message = prepare_message(new_items)   # <-- changed from merged
         post_to_teams(message)
         archive_message(message)
 
-        mark_as_posted([it["link"] for it in merged[:MAX_ARTICLES]])
+        mark_as_posted([it["link"] for it in new_items[:MAX_ARTICLES]])
 
 
 if __name__ == "__main__":
     main()
-
-
