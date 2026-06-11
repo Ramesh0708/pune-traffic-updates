@@ -48,8 +48,9 @@ ALERT_COOLDOWN_MINUTES = 240
 LAST_ALERT_FILE = "last_alert.txt"
 
 def is_regular_run_time():
-    now_utc = datetime.now(timezone.utc)
-    now_ist = now_utc + timedelta(hours=5, minutes=30)
+    now_ist = datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)
+
+    print("Current IST:", now_ist.strftime("%Y-%m-%d %H:%M:%S"))
 
     return now_ist.hour in [8, 12, 16]
 
