@@ -52,7 +52,7 @@ def is_regular_run_time():
 
     print("Current IST:", now_ist.strftime("%Y-%m-%d %H:%M:%S"))
 
-    return true
+    return True
 
 # ---------- 50-Piece Pune Fun Facts / Trivia ----------
 PUNE_FACTS = [
