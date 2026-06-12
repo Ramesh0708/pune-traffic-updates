@@ -5198,3 +5198,14 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Baner–Balewadi traffic grew 40% in just 3 years.
+
+### 2026-06-12 12:18:45
+🚦 Pune Traffic Updates • 12 Jun 2026 • 12:18 PM
+
+• 🟢 [Aaditya Thackeray criticises Maharashtra government over Mumbai-Pune Expressway traffic chaos - The News Mill](https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2FHS1k5eGxJYnhRT1hwT3g2c0J6YlNNQmtSb1B1WE9Lc05mVW5ESWJ3bk1BNEUwV0JiWDl6MUlROTZ4NjN1TnpRU2FRS3lMcUJIZThWdnlwWFY2RDRXZlg4SmNaSjljMHR3SjQzMkhRMmszbHVNSm1ObUFtbXU1Zlp3N2JXVGJzeVF1WlhCTDBmcEZKZXpkMHo3WUFWRWdWNlFxU0taQkJGV0JWODJmRlFKR1pEWjFyYkV6WGNuekN6WGpo?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Baner–Balewadi traffic grew 40% in just 3 years.
