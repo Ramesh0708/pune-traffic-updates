@@ -5209,3 +5209,16 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Baner–Balewadi traffic grew 40% in just 3 years.
+
+### 2026-06-12 16:17:19
+🚦 Pune Traffic Updates • 12 Jun 2026 • 04:17 PM
+
+• 🔴 [Pune Traffic Ban: Heavy Vehicles Restricted June 15-24 - The Chenab Times](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUkpiSUxCaTRnaTNSQ1JzcThhbXVTaER3Q1pBRTUycUNFRDRMal9VMDhYTXI4ejdxX0dHelFCMHphVERqMnFQMHYwVmwxYVZMYTJHbWdMNXZiSE1ZazlwUElQV3RvSHVBMy1JSWd2Mjh1SHhhYjRtamFmS18wVmxyOUFjU0pwVnVYZGNSQXowQUZweXJyZTl4WnBBcU9oaElxLWdibWtrRVc4OVFwa01oV0FHVWpidldWMzYzQlJhZTN5TVhHdGpoOFJxc1hqVGJWbU12eWZ4UdIB3wFBVV95cUxQVnppa3VCaE9vejVrSUdyakpXS0JJX3ZDbTdFUS11d3JJdDNDRjh4dkJDdzhSZ0gtUFZRYjFod3BsWnlzSzZYaFlzSFBkVGo1dU9VcTNXQnBBX2o2YWU0YzY1UEZJUUlFbXkwNzRYZmlaUm83b2pPd2txT3o1RWtueTVHVlZvR2FsLV9xU19qekpHRFRYUFB2azFuaUlMY19GNGZrQnFoQWs0MWdEbmNFanhWVFNjb3BVMlQ1MWRfNlNEa0ItRnhscWgxRExPcGVsUlJrSUNHRUYwQjVLTHc4?oc=5)
+• 🔴 [Pune collector bans heavy vehicles in city from June 16 to 24 - The Indian Express](https://news.google.com/rss/articles/CBMirgFBVV95cUxORVo4WUFqTGVScHJkTmJIYWNrak5ZMTFGeW53d0NfZG9GY1dJamF6aVZvSkhRZEhpak92MDlRS3FZd2tlb0dYMG9FamQxckZtYTUzMEZPdTZ3NExLNGx0TTIyd2N3M2hKQy1wSHdTRVZ3RmJNR2NVZDNnZzVyQ3BxWWJWSGl2N19IUHJFWUJWeEFkV3FHOThlTkJOUVpRcDc3MmtwZE9QeHRmVGdrNlHSAbQBQVVfeXFMTjJpZFo3dmFRWlJzdVFKQk1XU1A1SFRXRElud1FBYVZtMXlDakE1RVAtM3VNRnhndVdkQll1LU9ZaXhsaUliUE5mbVZ0RGJFOEZfdVlOY1hZRVRXZnFLUTFtOEEteExSZkNxb0phNzZ3ZXJVSzFNLXZzeS1rWDdaTkQzMEFSVm1uRTAwQ2c3eXpPem1XWGIxdDZ4TFJyaG4xRzZWX1NuMmE4S194NzFDZXdFcjdl?oc=5)
+• 🟢 [Maharashtra State roadways cancels 139 bus trips after tanker overturn on Pune-Mumbai Expressway - The News Mill](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVjExYXN2eWkwUE0xbW9VcmhQaUFFYmxGckpPUnBKOHYxOUxaQW9MTWxBX0tmS0hCVXQwYXFnZ1prd0haT2xkcHh6aDl5aUUtSHNOZWtKSkxzYmNQLXFQX1FDQ1F5cFhRQWY1M3k5UmhpYUZWSmd5Q0F0SnlvcDJQR0tDOFJIMjFzZjNnVjZQZDRUcG9KLVR6OExESC1yZndpLURUdjlSU2xTaElWMU5Sak00d2s2REV5dGRkUEFkdFJGa3JncHd5dg?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Baner–Balewadi traffic grew 40% in just 3 years.
