@@ -5186,3 +5186,15 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Baner–Balewadi traffic grew 40% in just 3 years.
+
+### 2026-06-12 08:25:32
+🚦 Pune Traffic Updates • 12 Jun 2026 • 08:25 AM
+
+• 🟢 [Pune Patal Lok tunnel project gets Special Purpose Vehicle nod to tackle city traffic - The Indian Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeV9Qd05qMzlUX1lOZG0tRDlXRlg3QlZpTnViQktJUjE5VV9vNlIyY3hOdkNJckJBRFJpT0ZPTm1zbHpVNlpjbUVVWDBFTkVhLXp6R1Q5ekVnRHp5WmdTb0JpMlRmalQ5enhaejVXcGpQR1JRU1JHYXVkdWJzUkFtNW1Zb3l0SGZCV1lCbk5qdHkxdnRBb1JvZ2tjWEJYdGFFWVVvbUhUcFVYVVlFclZmadIBtwFBVV95cUxNUnZyWnBFNXZMVktMdUhtS1hhaVQ0UGdDclB2NzdSZVlSZDRVQVJDMV9pdVM2ZjUtc0ZSMG1WZ0xHbmxOalo1cEN0UTZPbXN2V3ltanZQSi1SeGQxT2Z5cG9RZUhJaWZIdGY3WXhvcWc3eUdxY2RBWno4N09xbE45UEhWcTVod1V1T0U3WlduMGh4LUNMTjdDaWpmSWE5dFZXMjNfMm45ZG5SV2ZLOGhwV3BsUm1QVU0?oc=5)
+• 🟡 [Traffic snarls on Mumbai–Agra Highway for nearly 5 hours after truck breaks down near Igatpuri - The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUi1DZF9pSEtyOGVKRG5KWm9VQTNaNzNHd2daOExxQl9OMy1Ba0FPeEhueDl1RjAtMGRHQWZOZjhBdXRvUERjQXVsSWdKSldQbjkxWlo5R3JUWHJuN3pINTJfTkxKd21HRGVsVUJDNWhYRG55a0VWVUpWVElyVWlJTXExcEx2NXpWUUUxeTY0V3hLUjFWOFdfQW1vU2M5WTNOU3dKMlFkWHVBZlE4R0w0eDlWZWFuY0stQ29KTjVBVTJXYkRlX2J0TzE5dW56WWhHd3hlRHhMS0o3ZHVsQi1oTWRrdHZhamFYX2Q3SUQ4a1lEcFVyVURCatIB_gFBVV95cUxONVdmTjJQSUg2Q3lJdUU5d2doZXZ2RU1wRGpuVlpFT2c3Q3l2c1RLdVFZNWRIeWJBWVhTRlpGMmo0VEtqWVF0a1JvaTNqUERGQjlXZjlKVG5nNm1iMFZEQXY0dGtiRnpPZUpQWFJoMVFzYlRKNnltQ1F6eGg4V2xwQ3R4ZmFlSUQ5Y0p6T1FkT0hPd0NjOGtoRWh6ZFJvODFfc1d3LWdMVHBjRzFndGR4REdGLUtxX2J3Z0FnMnoybFNqVGZmQmNUMGdrdHZYUUtJNUgtaVR3VVNCaF8zNWJjZllWaVBRTEZpdXkwSC1WQnNTVWxmRkdEcDFfaVh3dw?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🚘 Baner–Balewadi traffic grew 40% in just 3 years.
