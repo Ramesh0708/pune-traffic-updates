@@ -50,7 +50,7 @@ LAST_ALERT_FILE = "last_alert.txt"
 def is_regular_run_time():
     now_ist = datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)
 
-    return now_ist.hour in [8, 12, 16]
+    return True
 
 # ---------- 50-Piece Pune Fun Facts / Trivia ----------
 PUNE_FACTS = [
