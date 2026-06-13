@@ -5332,3 +5332,14 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
+
+### 2026-06-13 16:23:52
+🚦 Pune Traffic Updates • 13 Jun 2026 • 04:23 PM
+
+• 🟢 [Accessibility gaps, rash driving concerns leave disabled commuters struggling - The Indian Express](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZlpZWnY2dktBSl8zandPN3NLN1VESXBmUGpwdGVMQng4aFpLR2VIZzFjWlFWQXJ6WU9pZ1ZjSmh5d3hobU1vTk1RbzZYZU1uSkoyMHpweFdNRTBQc0kxQlZTZFh2QVhLQmxCOW0yNkJlWXd1STNMcFNOZmN4Wk1NUVF5aXYwWjZOX0FMYzdCeGFuNEU4ZjN0dkxRZTVjMENUTk9UdHFqbGtxMXQxZDVqcXVCUdIBugFBVV95cUxQSzRWTmRidUxMYzF2X1psaVotdWk3MVVfenRabTFUTXNUN1FYclRVZlVDZmE0NGt3UXgzWEpmc1FEeFo2di1WZWRBc3lmcEw0LWlLZTNQZ2NFa0VCb091UHpZTlIxaGZpbVBROXBaRHpoTm5hUzRjaGFyUWNxaUZyWWlLU0FZZmlENGxSOF9aak9sX1NIWDBhbXJuOWVXbkdfNW9tZVJ1S3EwdGtqQm9sRUVLMnBNU2NkWkE?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
