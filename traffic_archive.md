@@ -5277,3 +5277,14 @@ https://youtube.com/@rawbyshivam?si=6Il6jMcUBHqIjWSY
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 🚘 Baner–Balewadi traffic grew 40% in just 3 years.
+
+### 2026-06-13 03:39:54
+🚦 Pune Traffic Updates • 13 Jun 2026 • 03:39 AM
+
+• 🟢 [Pune's Double-Decker SPPU Flyover: Metro Above, Traffic Below — How West Pune's Worst Bottleneck Was Solved - News18](https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2pVakxPOHFESDF4Z2YxQmhFeGQtNldmY0ZWZTd1QmtvTURqT015b0w0VHhfYkR5SGg0dkcteHV5RzdHaHVsRXItbnk0M3djSVZ2YXZXUGdQekZxalI2S21GTTVhandTanFRdjB1OE9kaWF4TDc0S1pxa3NURnItNDNzbXc4Vmw1bmRaWEVVSDFDY0dGZ3lYZmk2Q3I1M3FkNjVYWkZXeTdHaV9VYkl4MkJMSWxUNDNnMlByNVN1OWtUQVdsNEHSAcsBQVVfeXFMT0tPYXcxMTNaS3FKblEwR2E1ckZZRkdxNjRGZjBnTmI0U3Y3TDk3UVRhcWs0Zkc1Y0dHSnBXNlFWd2JhZGk4YThJbDRsdlhOdUt5RDVwSnZjTUhHOThKanZHdmhsRFVyT1pFUFE4TVF1dnFXaU5xTVRyOWJabWwwaXNDUDhkNzRWSDFQMUp6V3RxN1VDWTBHd0pjRld4b0Y3U1owMHFaWGhTTF9UZkl1c050TUpRWjVNSEt0ZVNfYnhJWVBWdzJEWVlXU00?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+🏞 Traffic relaxes on Sinhagad Road during weekday afternoons.
