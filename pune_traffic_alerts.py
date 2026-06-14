@@ -1439,7 +1439,7 @@ def main():
 
     # ✅ REGULAR UPDATE
     if is_regular_run_time():
-        message = prepare_message(new_items)   # <-- changed from merged
+       message = prepare_message(merged)
         post_to_teams(message)
         archive_message(message)
 
