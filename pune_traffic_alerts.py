@@ -408,13 +408,13 @@ def main():
     print("Breaking items found:", len(breaking_items))
     print("New items found:", len(new_items))
 
-# ✅ REGULAR UPDATE
- if is_regular_run_time():
+    # ✅ REGULAR UPDATE
+    if is_regular_run_time():
     message = prepare_message(new_items)
     post_to_teams(message)
     archive_message(message)
 
     mark_as_posted([it["link"] for it in new_items[:MAX_ARTICLES]])
 
-if __name__ == "__main__":
-    main()
+   if __name__ == "__main__":
+     main()
