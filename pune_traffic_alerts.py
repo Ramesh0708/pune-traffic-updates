@@ -409,8 +409,8 @@ def main():
     print("New items found:", len(new_items))
 
 # ✅ REGULAR UPDATE
-if is_regular_run_time():
-message = prepare_message(new_items)
+ if is_regular_run_time():
+    message = prepare_message(new_items)
     post_to_teams(message)
     archive_message(message)
 
