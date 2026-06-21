@@ -37,11 +37,18 @@ TEAMS_WEBHOOK_URL = os.getenv("TEAMS_WEBHOOK_URL")
 
 # ---------- BREAKING ALERT CONFIG ----------
 ALERT_KEYWORDS = [
-    "heavy rain", "flood", "waterlogging",
-    "accident", "crash", "collision",
-    "road closed", "diversion",
-    "traffic jam", "gridlock",
-    "protest", "cyclist", "event"
+    "heavy rain","flood","waterlogging",
+    "accident","crash","collision",
+    "road closed","closure",
+    "diversion","detour",
+    "traffic jam","gridlock",
+    "protest","cyclist","event",
+    "mega block","block",
+    "signal failure",
+    "road repair",
+    "breakdown",
+    "metro work",
+    "lane closed"
 ]
 
 ALERT_COOLDOWN_MINUTES = 240
