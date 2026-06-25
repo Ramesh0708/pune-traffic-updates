@@ -5544,3 +5544,14 @@ Pashan-Sus Road traffic has increased due to rapid urbanization.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pashan-Sus Road traffic has increased due to rapid urbanization.
+
+### 2026-06-25 12:20:47
+🚦 Pune Traffic Updates • 25 Jun 2026 • 12:20 PM
+
+• 🟢 [Traffic police write to PMC, seek road resurfacing and faster completion of infrastructure projects ahead - The Times of India](https://news.google.com/rss/articles/CBMilAJBVV95cUxNblR0QW5GR2NFOVk0YXRnN1Z0eUV3TUxvck9Na01TNDRIWjRsLXA3bkwzcHZSUzM5NGFJUmNNZHd6UW1tYzNMamFPN3RINHRpMlBzZXFLenkyLXRLWHF5SFZWd1E2RGk2djdWZnpRUU85ci15dU1iblloeUZpWWVSLWV1TU9KZXZIWXJYdW5jWDFkdjFveEM2SnRVV1h0d1VQTkdjNm9JT1dhMkxjWkphVUhOallQcHJ6VDFOa1BYNVlDTkl6VW9YQVZFWHdoWmRHdC12WkM3Q0pJV1UxcmNLYlBSVng2OG5Dd2RHVkxmRU10RHBVMVdiX0t1azdjZXN4RlZtOVpPOFpFLV9TRXByeWhfS0zSAZoCQVVfeXFMT0RuMjdQLWd3bUlnRUhfeWVyd2c1M0huYjFuSnlqdDAtclpjYzZZbFRKYUNqaDFYSW5TWTlGRW5SS3IwWE1xcUh0MmVUcHQzZG1TdkdXMk5uSjJxZEMtRzE0RktrY2lhbjV1VWpJQ1BSdDd5cVA3R3RRMjJfZDZPcnE5S003RUVfWkdVQ0Y1bHIwRUlrR1Z4OXY1YU5OalBiLXVOWFVvbFlRcEIwYUIyWnM4akZCOUF6RDcwMXlDbnY3NXh3WTBCRFp6aG16aXVQQkVCNXNDQmNoVGwtVGpuM0hybzk1VWhscGVGWjhOZ0JMczQwVExpY2JNMUJOUGw1T0UwTjZXNEFBZ09UeHZHZHIzc2JGd2tReXVR?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Balewadi Stadium events significantly impact nearby traffic flow.
