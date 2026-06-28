@@ -5588,3 +5588,14 @@ Pune’s public transport usage is still lower than private vehicle usage.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Traffic congestion increases by up to 30% during monsoon season.
+
+### 2026-06-28 07:50:39
+🚦 Pune Traffic Updates • 28 Jun 2026 • 07:50 AM
+
+• 🟢 [Pune-Mumbai expressway widening set to get a push as MSRDC submits revised funding plan to govt - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSXJZdURIdVhQQ3VkZGlkcWhTQ3BpLU9XSTJSaGVfeVhLeVFCcjkyb1Bad3JKOXpYenU3TFFUeFVvVEZ4eWNWekV3aVZ4aFJRRDFWUkU0R0FPRFlscklXSVU1dGxfTERWWWd5Zi1CcHJMT1pucE44aHhKekU5S0Y3U0luRkhLSHJMSjUzaFdhbjNXWmNPTXlUOU1mMGRUQW96bTZOTDlLRVNjYzJyTmUtVDlVUUdJcmxvWVFQUDNiRERDUFRkd3hhak9CTlFmeUZ1Q1lXbnBFd19uZDh6ZFhvOFFtaFJiT0VSM1JRbmZDMTU1dWx0UFljSm1mRdIBgAJBVV95cUxNT2piY2tFeDdmQ0tldEVOOWlTQl9Sb2VmYjNiWGVrOWhTX2w4RlcwNmJ1UndmQk1uY2lOa3NudXRlSk5DWUNZRHlVN1N6QjFDelpTZGlOd1JfNVVkT3FFV2tpcnZ1cmZxVE1XeEVqQ0tja2h3c01pYUpjZjA4WFlhRldSSFZzdXdKaTRMR3pSV1dSY2g4c19RdV84SDRhanlIZDdWVTVSdjBVdHRPUDdPa3RxdHlZWk8yOU93TzhFVmZWRHdGWkp0LUNfVXlWTGdRR0p6N1RKQUE0bGZubmFRbkJEN1VmR1JvMklxYnNERnB1Rl9wVkpVaFE4ZnJUbW9a?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic congestion increases by up to 30% during monsoon season.
