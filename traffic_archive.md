@@ -5665,3 +5665,14 @@ Hinjewadi Phase 1 sees peak congestion between 9 AM and 11 AM on weekdays.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Hinjewadi Phase 1 sees peak congestion between 9 AM and 11 AM on weekdays.
+
+### 2026-07-01 15:41:00
+🚦 Pune Traffic Updates • 01 Jul 2026 • 03:40 PM
+
+• 🟢 [Pune District Collector issues orders to divert traffic on Palkhi route - The Indian Express](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUllTGEtTGUwNms0M0l6RGl2VkZ3Mnc4MFBHNUZLaTRZRnRuY0VxYmpDMjBxY0FfQnVCUk5wWjNlSloyV1R2Z2lHejRnSDF1b0dIYlh6cXp3bFJwem5vZnZYdi1tT25uclNFc1BOSWstSllOUEpjb01TbHdrSnphTm9US0F1Y2JVWm9IUXZyRGJPZEd6TXNnbDQ1dGthM1JaVmR6U29IdjZJYnd4ajR4UjBMeHRncEdEcGpvLW9XM3BrNnRGelHSAcwBQVVfeXFMTXEtbi1UaUFhN3ZWU1hkbFFiLXUtekJRazhUa2ZuYnIzLU4xQVBCcEdZcDdaelp1QjNPN3dtZXplYU0xRUI0R1o1dGM3YTk3WUJEZ0Z1cVpkRnFNVzM5MElSLVE0WHZvNGh4T0NlRi1ZRGpYNDdGc1dmVTl6dklYbDJvMF9ScXdDbzlWaW9BTEtJTG95N19xb2Vsd0FCcEJrLWVBbENjTEs1aGd3a3Z2NlVSZ3pzTXA1MkkwbmlwZjNrNDk2TGFPbi1OdmRX?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Hinjewadi Phase 1 sees peak congestion between 9 AM and 11 AM on weekdays.
