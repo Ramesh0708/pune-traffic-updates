@@ -5698,3 +5698,14 @@ Baner Road traffic increases sharply during evening office return hours.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Baner Road traffic increases sharply during evening office return hours.
+
+### 2026-07-03 12:11:48
+🚦 Pune Traffic Updates • 03 Jul 2026 • 12:11 PM
+
+• 🟢 [Vehicles sans HSRPs liable to be fined repeatedly as Pune RTO continues drive to ensure compliance - The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcGM3dl91cVhrUkxaMFp3cUZxWlVvQ05Za2ZpMjFtSENIRFRxNC14YXB6aXZLb204djhnbC1oRVdOd2FkLWJEVkRyTF9oUFNFRlRyeHBVVFJra3U0V0l5QlY3WEtncUdUcHBzUTZxMDBSZG5NbmRPWjFjNVFSMUxDaGhfUjMxcDIzdWd2UjhVVWRySUNvdnNvejJld2R3STEzWDhrWnp0a2tXekIwQ0NyTjVZX2Z1MGVVOTQ2bmh3aEsxMXgxLWpmZzdiSEZzdUZEckNHcG5BVVJIYU5NbU1Xa200QndhRWtTUWhKallRNE1HM2RLVlF1WWVLcmhqWjjSAYQCQVVfeXFMUG51akE0MG14Rmp6VHFFOFRGQ2JoUlpaU1Izand3Umd2clZ5alI1bkJETVV3ekVEbklWLUszdGJEaENlNVp5R0xEa25ULVlJRElHOVNMM2QtMm14ZTRzMmp1ZF93Wm9yQTVMSTUxVzlHbnZ2TF9qVDd6Y0RqUlpDajZzbmFwR0dYa0JvUDNvTklENnFoRnJxZ2F3bnpYNXR3bkVrRWdlRnh3WVJOTEdVZV9DZVAyRWg5enhmZVg0U3U1ZzRwbzR0Wl82aDhZcmdycndLQWNZb0hJcVViYVVjVExtWEJHV2hJaDVYOWJCNHVMYVpKajFwT0pxNHZPdk14a3A3TWw?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Wakad junction is one of the most congestion-prone areas in Pune.
