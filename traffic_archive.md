@@ -5742,3 +5742,20 @@ University Circle handles one of the highest vehicle volumes daily.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 University Circle handles one of the highest vehicle volumes daily.
+
+### 2026-07-07 07:37:13
+🚦 Pune Traffic Updates • 07 Jul 2026 • 07:37 AM
+
+• 🔴 [Heavy rain throws Pune’s air, rail traffic off track - The Indian Express](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUEQ2NzA2TlpicDRSU0Q0bW9ta2V1WTdsNzZmcFlQN2hzbWV6YWRJVnNUZTlPcGFUWHFrZzFFcU5TTWlIWGZia3gxVkE0dkFzcmYzekNBSUhhNEllZnJvem5GZVpNMk5RRV9FbmdVSHlsYUpoWlNxQkJubnk3Z2QyQzMtZE80ZGpiZHByYkJaUkVZazZRQ1pvSFV1R0XSAaMBQVVfeXFMTjdPbHNOcWltcHFCdTc5QzMxcFJTa0NWMGNvQXdBcGxqYmJrUFpFS2M4ZVR5YmVsR3JZUEFHRXFmLW02bTRiVjJBdGxtMnNqVHgwU3ZpcmRvYmpQQ3BzS1J4dWVKTFNtTk85b19YLXROTkMzZHhIcl9mNVRvZVZqYlcwMmwzemdGbnZzUFpWT1lOaTZfN0h5YXl3MkItS0ZxUjJJSQ?oc=5)
+• 🟢 [Landslides disrupt Mumbai-Pune highway and train services - The News Mill](https://news.google.com/rss/articles/CBMiswFBVV95cUxOM1lLNHBmT1I1eTB4NUM4Tld6UjNBd2NqbFIwXzJlSnFoVXl1TlhsZ0FGSWhsUTcxR1BRRnZrS2Y0TmpYMWtGZ2dzU3Yxc0ZWbEhPRlBlcTE4bWIwMTRfaHczaGhIQmlKUWthX1JGM1ptSEVTTE5vZXVfSFZoRThCOXExSkU2dC1acklGekZSWnExQzlaeEdYQ0VGNVpYeEd2RVJ1LXluUTBzN0t4dEZLRmRvdw?oc=5)
+• 🟢 [Rs 7,000-crore Mumbai-Pune Expressway section crumbled in just 9 weeks - The Indian Express](https://news.google.com/rss/articles/CBMi4gFBVV95cUxORmhJQkRubWVMVnozcWVGMDhfV0tyeGJhVmVzcEt3aXNUZWdyRkZQY2FkSG1lb25ZM2tvNUpUQUNxbjlqcmZzM1Q2MUtyV3VEcGY3eThRaHNoM0dRMkN0aTRaQXItU0NjbzhUeHdxTTY3OVlaWnE4eDdCRGNBNjlocWU2eUxrcXpOOFlKZ3BobVJJRWF6T1ZiYXN6ZTdzQUFXdXRyWFJKZUx3ZkJtUUtaYnhfQ2JQc2NiRzByRUVfRWRRR2d3UzBRVVBwN0tXZ28zZGtqM0twUEJUUVRaWVpyU3ZR?oc=5)
+• 🟢 [Ground report: Landslide hits Pune-Mumbai Missing Link, causes traffic chaos - India Today - India Today](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHJfNEl6d2ptU05XTVk1U25FZnV3TDlhSk5KdDVrZDZzYVFtakhYczNIQzlNV0tfMjJrQnl0YVBURzVITjdNeVpqcDhib1NmbFdyZFI2Rnl4SGg0dUt3ZEx6UHowNkNMbGRpNml6Y0JGSUp1elBWTEZ5VWRSS0FwQXNsRWZ1QWpIUUpSeVNzUy03WjZ6N0k0R0ZTNFJCNFA4TTZIUzBDOHhUdTJVd081eUVBbUJkWGhOTzhaLXVGWXRucXpXRGlZVmhUR0haaDJ6MmfSAdcBQVVfeXFMTV9oLXI2cEhIM09NWWlKcUF5VHZtU3BVN1NrbWdLLS1UZE1RMndFSXpsYlB3M25XZHJfNXpJMlZiX0NzTmQ2OVFvS0dOZnZFNGVPeHE2eDJlMEh3WWJyeFh1STF6SEh3aW9wSkoteTJwbzdldFNjS3lHWDBjMUJDM1Z5bGdyNGlhZDRiYTlFZVVnUVI1aDBSWkphUlZlZWdxM3NWcTBSZ1JlVGZzSkgwcUhkNnI0aEs4VG5sZGR3R1lzaEZST1FUVVpydGg5OFI0ZE1kRW4wN00?oc=5)
+• 🔴 [Maharashtra rain fury: Pune-Mumbai road link restored after landslide; train cancellations, diversions continue - The Statesman](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZTQzYTVWaUFUVl9qMVJXRnhvMHFZMUpSRjloN0w5ZW5Pc0VTNlRNcHIxNXBLM1o3dEpDYTY0UnZqaUN5NlhRU2UxZ0JaQko4Mk0xRmI0Snd2dFU4TzlKWnJSUDk5T2ZpMEJmdzRPcjFzTG9tUzhNLW04WUhNRTZ1bDJDQkJ3ZVRPellhNzdGcmZaVDJ4SU9BYThWUGh1N3Z4UWxqbThLcXIwY0tqYkduX3JkMWZOaHlIWjgzV3UxSW5Fd0VkUnRtVWljbmQxeG1DTTNOVFRSOVFYb1ZYZ3JYX1ZXcXluTTNXeW9FTk13cW_SAfYBQVVfeXFMTjJDbTJzUGhFaFRqQy1ZbmFoTFR5bmJwSGYybkY0RjZIUnFYOVo2VlRmdUJiR1NZRGswQ01mSGt2SzVsWUptU285c2x2NXBKZUVqVU5LM3MyOVYwMVFXQ1RIblpGekpfNUVMMnhQV1JDbThCQjlYczR1VFFhWjRKUEs3c2Rjb0lpLUFaZ25LREhweDNqWktRRXdSMXExOEVLUTExNXFKa0xGLXFLLWpWOWhueU4tMUFPMk1TQ2VmSzBMT0lnOXFUZmpNV3FmUFJSOVV4eU1lTTRRMFYzNFF6LVBfNElVY05kSjlfUFhMT2tvOFpFRkx3?oc=5)
+
+...and 26 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s road infrastructure struggles to keep pace with rapid vehicle growth.
