@@ -5923,3 +5923,16 @@ Airport Road sees increased traffic during early morning and late evening flight
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Airport Road sees increased traffic during early morning and late evening flights.
+
+### 2026-07-16 08:11:28
+🚦 Pune Traffic Updates • 16 Jul 2026 • 08:11 AM
+
+• 🟢 [Deaf And Mute Man Navigates Pune Traffic To Deliver Food, Wins Hearts Online: "Respect Where It's Due" - NDTV](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVVmN2FwN3k3SjRLWWUyS2wzenllNUtRc0RGZHNJRmVJZm9fMmZBcTU0XzBwdlJLZHg0ak9LSjR0NFZ3TFZENk0tM0NMcmR1X19pVS1WUndXX2JmSnkxLU9VQkhHQ3k1M1hDRUF2RzZKVWFGSVlIMmlqWGp6dHFtVXgxR1Myd21KQ2xVa0FHX0NqM1dpdElhSWRtNjdLd2x6UEJrSV9PWXpHN09BeUdUd2ZPSERtYWdvd0hqR2Vjbzh0QkFPekhUdjZlTjB5V29MT2N0WXpiRXPSAdgBQVVfeXFMT21VZjdhcDd5N0o0S1llMktsM3p5ZTVLUXNERmRzSUZlSWZvXzJmQXE1NF8wcHZSS2R4NGpPS0o0dDRWd0xWRDZNLTNDTHJkdV9faVUtVlJ3V19iZkp5MS1PVUJIR0N5NTNYQ0VBdkc2SlVhRklZSDJpalhqenRxbVV4MUdTMndtSkNsVWtBR19DajNXaXRJYUlkbTY3S3dselBCa0lfT1l6RzdPQXlHVHdmT0hEbWFnb3dIakdlY284dEJBT3pIVHY2ZU4weVdvTE9jdFl6YkVz?oc=5)
+• 🟢 [Pune to Vengurla and back: Route update, places to visit en route - Team-BHP](https://news.google.com/rss/articles/CBMikAFBVV95cUxORDdFS2IyeEp1NXpCSlpGT3FYUnQwaE13RFlpZm0wTDRuREFTUjU2N3ZyNGlUYTB6bkVqOWM3RVhzWV93dWZ1dzdNeU5SbnhKdlhZeElsbzhDNlRFNnNYLUthYXFQS1U5R2x6czRPc2hSUWI2TmtUTzBYWFlaejN6MkE4Yk5pUmc3SDJGYy1zbW7SAZYBQVVfeXFMT09VVTIybU1NaFNKeHNWNUtJd1pjbVpHYWd5NWg0ZU5kRjVtLV8xQ2pOQVlQREtfbGV2SHZKMjNEV3o5YzUyOGRScTBYQmNodEVCYWpfbjhDeTRoVUNwa091YXNWazhpWWd1MGxaZGRoVEF1MjUyMWZvVE02dm9PYmdHV3piRXRIcEtSWEt3LUtNODIwOUFR?oc=5)
+• 🟢 [Pune Expressway Reopens After Debris And Water Clearance - Construction World](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcDNna3lvVjkwVmgxTGVTMlRBZEJzLWQzX2ZwMXNKcWt1WlBqTTZDU2V3Y3NGVGNJcGxIY0dKRWROVjg4UTFudFRlMHR0R3hNQ01kMzA1a1MwRzFjYjdrWmJxRHpqRjE5djNPUFdGVEo4QzVpc2tGa3JpbURncm00cldpanhJRC02ODA3ZjV5WHU0ZnVSOVl1aXA3WDR1aFZOTlZXZ2lyT0prQjNCU0UxalptanZDcUEyMlhtd3c0V1ZIY1JEQmlmdHcyVnl1cG5HdVJUY00zM0laSVA0Y0l4UVJn?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Two-wheelers dominate Pune traffic, especially during peak hours.
