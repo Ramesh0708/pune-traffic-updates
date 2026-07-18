@@ -5947,3 +5947,15 @@ Two-wheelers dominate Pune traffic, especially during peak hours.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Two-wheelers dominate Pune traffic, especially during peak hours.
+
+### 2026-07-18 07:47:47
+🚦 Pune Traffic Updates • 18 Jul 2026 • 07:47 AM
+
+• 🟢 [Work to begin on three elevated roads in & around Pune to streamline traffic - The Times of India](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd0EwRTZ1aUU2ZmV4Uko3Y2NxMXI4eDM0dlFQUl8xeDFWMTF3OVJ4RkFPN25icXJMaGlqZnV2cHBpd2tOVU1SQzNoY3dwVElOUzMxaFNUZGlsZlBaMHJITDFFbkRfR1ZaYmJYZ2tZMmRHOUVHNzQtLXV4VkJIQmI2NDdsOUltNjUzWmFUcG5hdlozZmhSUzlwemRsSFA4WjJ3QVZ1a1VCTWVJNHJYVThpSHdkaTBzQlRQS0d3a2MtQWNNVmlZOXd0Y0NVZnBjaEE0N2N2bFVzZk1uTThHTHR30gHkAUFVX3lxTE5udm1ha19xYktlWjAzdlk2RWJVVTlzaDNVazZlU0dZWTZjQkhXSC1nOWpZaUNHNVJGQktsR1VYem1wZXpvSEd5NFliRnFHSmhOSjlSM0FOVnlUX0FQR0w5czVibEpNRXFtTjRDa29QTW9pVmdlZGRwQWFrVTAyY1pLTHBVVGd4d3k5a1JSNUc5OGxUeFk3ak5QNWZYQkEwUERlR21Tc1NGd3lyeGxBT3RiUUtGRGYwLTFmWDlfZE12QnhyaHhYanUzeG15ZWNoMVA5YktFMVlYZndYd1VYdXhZclBzaQ?oc=5)
+• 🟢 [Prepare plan for relief to commuters from Karvenagar DP Road traffic chaos: Chandrakant Patil to PMC & tr - The Times of India](https://news.google.com/rss/articles/CBMilAJBVV95cUxQVEZ4a0VOQXU4NW9ZUTFBaHdIZ3dKZlktcDNfV25xX1d4QlYyS3VwZ19GeWFQWXZKb0ltYklyWmlaRkdkeDBMUGItc1BvZnItRTcyUGpYOG5IcjZYZ1psMzBxTGFJaXdvNXBVOUhCeVpEakhjczZOaE9zakxpLUJ1LTQ5UHRrVDQ5VnBqVk4ydHBUWExGYnVjVFNFR2ZYY3FvSjRDTTBlMTZXNGJtTEs4UnZLbTZBTXdTVFg3QU5TVkx4NnVaNWYtWHM4UG5UV1ZmZmpJcUFabHNZSXV4VkxrWVlUUUdYOXY3aUtYVUppN2hoSHAxYlpZSmhDWjR5b1Vyb0NrRzFLUUtGZHVveEJGYWtVNTjSAZoCQVVfeXFMTnQ3R3RQbTJtM3RScmhuSHRwWnZpYl93RkhhVzliRllrYUtLek94RDNTM25TeG5sWGNLaEcxYWVoUkRQYTBoZ2JDc3FxRGV4R2hXcktURG5DMzZpLWQtN0FwMGN6RTQ3M25FeEZkeUI3bjlsYWNnQjY3MlZkWGpaQnkyNjdGUHUwWUd2X0lRNXNqcFU0Ujh6eUJkcHRYZTRuRnVBZzdvMm4wVkxtMjRZQjM0V254eWJWVnpDU3hVVF9Wd1ZPRGNSbVBxQWN4OEJMTUNoR3ZnQmlhcmoyVWNPaTN5VU92T29mdHBSUV9LczhMZWlOVmE1cUladjhGUG0zb21ncUt0QVZpdExMTUpnb0F6eFZZcVR3Q1p3?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Unauthorized parking is a leading cause of traffic slowdowns.
