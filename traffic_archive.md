@@ -6030,3 +6030,15 @@ Swargate remains one of Pune’s busiest and most complex junctions.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Karve Road sees consistent traffic pressure throughout the day.
+
+### 2026-07-21 15:42:21
+🚦 Pune Traffic Updates • 21 Jul 2026 • 03:42 PM
+
+• 🔴 [Pune Implements Heavy Vehicle Ban During Monsoon - The Chenab Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1hySkVBSU16cVI0dm5yc0ozLWtRYXlsS2hnRnV2Z0JfVG96SjQ1WVk2eGNfUlJlcjExcURCeTJ2NlJIS0UzN0tNOExxaDFUcmQ2XzRSUkZsVGxrQ0RxWGdlX3VpbjFqVWdKNzJ5T3NlNm5FWHlpMmUtWVJwQnBUVnh0bkN4UGxrRmNUdmhPOVR3MV81aE9MQXAwZkhGX0F4TjlWWHE2WDBVUnJxLWNibFBtUdIBuwFBVV95cUxQSDByU0NRYndGRmxGWS15N0pEN2pKUTNNdlY5YmF0SkdlWGluenpscU91bzFJLWdMYW1UbXhBTGZ1UHFqTUZyemJ4OEFtR2tzbFhtT2RkdGU5WDlSMzlGZy0xN3hGNkR2czJPMVdVWUhzVHNtUmdEWm1UV01RUER2ZDlRNmc3cmpzanJRNE9MN3FvakJQbVE4TDVYQU5zWU95VTRVLUVZUE96VU0xRHh1d2c1T2pKOE0wcmNR?oc=5)
+• 🟢 [Car Fire On Pune-Bengaluru Highway Draws Crowd, Causes Traffic Disruption: Video - NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3ZyYU5FdWNFWmw5dGRKWVVFLUFucFlZNHZZTkxZeDNxeTJMNE82ZnNlQ1h1V3Q1WnplZGdoLW84eVRtdXQ1bDBBaXRHNll4WFFVVDAtcFVwNmEtR1A1amJDRzVjcDlNYTJkcEJXbGYtMXMySUNDOTl3T3VUcmwtZUMtSjlXLUc5QllmbndDWnR0a3U1d2VfdnBMTV9xWXAtY3BhdVp6emk0ZFRLSjE5S09WSldiU0h5WllR0gG7AUFVX3lxTE9HdnJhTkV1Y0VabDl0ZEpZVUUtQW5wWVk0dllOTFl4M3F5Mkw0TzZmc2VDWHVXdDVaemVkZ2gtbzh5VG11dDVsMEFpdEc2WXhYUVVUMC1wVXA2YS1HUDVqYkNHNWNwOU1hMmRwQldsZi0xczJJQ0M5OXdPdVRybC1lQy1KOVctRzlCWWZud0NadHRrdTV3ZV92cExNX3FZcC1jcGF1Wnp6aTRkVEtKMTlLT1ZKV2JTSHlaWVE?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Karve Road sees consistent traffic pressure throughout the day.
