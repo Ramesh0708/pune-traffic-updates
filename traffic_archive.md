@@ -6109,3 +6109,15 @@ Pashan-Sus Road traffic has increased due to rapid urbanization.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pashan-Sus Road traffic has increased due to rapid urbanization.
+
+### 2026-07-25 04:09:02
+🚦 Pune Traffic Updates • 25 Jul 2026 • 04:09 AM
+
+• 🟢 [Lights defunct, pothole-ridden Camp road turns into death trap - The Times of India](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFVTMV9TSVdNRGpQSzRVZFhSV0hFWDJjZlBUcWZ5dlBWMG1HLVJwaHh2SkV1dHVvd3Z6T0d6TUV0VzBIY0xFUjllbURrdTRNMkxZOV9iekpyZDlETjBYVzVseFVZdnhDWEpKbEo2YlBINGswLVl2RGdob2dwMHRnTlozbjRBSzlCcHJHNkNNOU5ySW9ZbFBxSURxN050WjZ3WUdoN2J2OHltV1prMEVKdXhmNXgwOHdYM2pyX3pkUmE2cVlaVTZOME9KdndBQdIB0wFBVV95cUxOYV84dXNkR0RiWFV6ckU4enJXVnJnNm9PQjZCTHZicGhmYjBqZHMxbjFGR0tGTjN1UGNQcE9mQkNsVjBrNVA3NWU3MFBUMWdLdFllN0x1UW5KaVdLNkNMLU9JdXVfTkw5dzB4dTByWV9NYnJOZjU1UkQ4U0taN2FhN0RGTEVIUkdNMmtUbmtLUFFla0Jpbm5MNGwxQkItMFNsTlpDYnFKOERHRHlhUG1CTXJZcWxKUVRhZ24yMmZfRnNiNFFKalNrdDRkczhFWks3T0Qw?oc=5)
+• 🟢 [Pune CNG dealers threaten sales halt, blame gas supplier for pressure issue - The Indian Express](https://news.google.com/rss/articles/CBMiygFBVV95cUxPRXNLMV9sVjd2X01YOEFWcm04MU1KeERmeXJIS0hzVWpDYnZMSjhZVWlmS3l2MmlPd2dDVng0dURQclMxaWlQN1prZzA5Q0VHQTZEbGZRQV9qcEFCeDJ0QnNySVhfdEVFME9BRVJtNU5QcGFaX1VXeXQxQjh2ZWc2NjFGMXVEQUUtUk5vcU1GTnp4Zm4yaDg5aHF2RjZjQ2czNmg1dEZpZTgyMVRmN1Jfb0pMVTIxNVF6WHdvbnVwS2xJVkVwdGtCUXJ30gHQAUFVX3lxTE9sdnM2amlhZmwwMHh0VW1wZkdQU2JtUlZSay1xWUlwNkNKc3VwRlk4UV9kMGpnQ3dRZ1k3Q0VFTFdNOWQyTDNGLTJMRkN6eWk2UVJKM1ZrYk5yRTQ4eGF4d2lycHZXX1VzZnhfWEdhZ0pMLU9SWWhabngtVnJYSjd6ZUZYcW1RZW02M25wcEdfblRIVm9ZekQ4anhsTmNPcUpJVmd6WTJ4RmYzbUxJeTZ4RnYySGFCQVBXR19ucDc0RWF4eXd6RkgzZktHcE05dGM?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Balewadi Stadium events significantly impact nearby traffic flow.
