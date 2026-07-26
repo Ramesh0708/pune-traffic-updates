@@ -6121,3 +6121,14 @@ Pashan-Sus Road traffic has increased due to rapid urbanization.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Balewadi Stadium events significantly impact nearby traffic flow.
+
+### 2026-07-26 03:46:47
+🚦 Pune Traffic Updates • 26 Jul 2026 • 03:46 AM
+
+• 🟢 [PMC Targets 12 Key Missing Road Links, Aims to Ease City Traffic Within a Year - Pune Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxPVDh0M1YwbVdnTmVta0RRa3AtbkFXNXNBVXJMR21qdV9KOGFRNDA2SE1tdGxrV2xHTVFBM09VVTVNWF9wYWJEa3FNZEFfaGlldzg1bS12SEd0c1BGcHQxd1FXUFd1NzJFWUlPS2JnSTlrT241YlFSTWZvWGtBTUdrcUNNT3EtbUVpbWc?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s public transport usage is still lower than private vehicle usage.
