@@ -6132,3 +6132,14 @@ Balewadi Stadium events significantly impact nearby traffic flow.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s public transport usage is still lower than private vehicle usage.
+
+### 2026-07-27 16:17:55
+🚦 Pune Traffic Updates • 27 Jul 2026 • 04:17 PM
+
+• 🟢 [NHAI identifies 8 highway bottlenecks, prepares action plan to ease traffic | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZF92Mlp5WE4zU3paYXpJQjJodGJIVmRCSFZBSlRDT09FcW5xNmpCM0FFMXFiTXBmOVZfaWwyRXVnSWp4Zjk0NUNqWnozajJNWTZKWXdHcU96UlNMNjhBbWlSeU5ILUtWR3BmSHVrNEVBbEtOTlI4SkVSQ1h5X0lDWDEzZ2U3T1puNk1MdEYwLUNvSk0weVZXRzdQdGZPaXgxMzFXLTJWZ1h2MWlENFNqVTRuejA3VkpiSERjaE5MV1M1OUdpMHR3eW9UZG5iY0k1R1BVYjFYNmdQZEnSAeABQVVfeXFMTnUxdmNBYUNFODFPNENHTWw1VGRpdUVvaHBGMVVlaUZhMmJnVXJVSnFIOVE5OWNXM0doWDVsWTBJTXd4YVVPMWU2QXQ5bjBHUFFYbmpxcm5Gd2dDaDZmdzVSOWozcUVQTUEyajUyenExdFFWZEEzb1RkVGEyU0xNTHlTbmxhR3NSd2N4Snp2ZlZsOFJaTHJiZG53SXR0VkpYSVhfQ2p5cTREZjVhUVBCX09YVjZtZGp2ZjhuUlFCdmJYWGYwNVVnamRnNHhCc3I5MWZ2UGRiZkI5Zl9TdUNyM1Y?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Metro Phase 1 aims to ease congestion on key city corridors.
