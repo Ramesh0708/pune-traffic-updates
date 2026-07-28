@@ -6156,3 +6156,15 @@ Metro Phase 1 aims to ease congestion on key city corridors.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Traffic congestion increases by up to 30% during monsoon season.
+
+### 2026-07-28 07:37:18
+🚦 Pune Traffic Updates • 28 Jul 2026 • 07:37 AM
+
+• 🔴 [Maharashtra rains: Malshej Ghat closed to traffic after road cave-in amid downpour - Mid-Day](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZHk5VlprMjVTeTU3WWpYT3hTT0ZORUU4SjE3MWF5RzJfcFNvbWU1RWZVNnpETGRJQkwzQWlZdGZHaTNEWjNNMmNFTm51SnFjRmZ6aHppNHQ5dFNOcklYei1OZDlJX1g0ZVRldTZsZXV6QlV2OXRYVmtQMzBTWE4zVzV3dlIyWjZkZ0ExRmRTenZsWHlEdGlQc0NUSjNLVnZIYTJ0dXpHaUt2Y0tnMWhiNVpQV2kxUHpPdGcxZWJUbFY3cUNWYml4OHpoS3F6S09ITENGN1NPRnVJeU4tVGNmbXNFcnozcHhVTGfSAe8BQVVfeXFMTmx5UFducjhlYUdldTNka1NVT25oM003RGZSUE52MHhqVjQxZ1lYeGk3d0FkTWlvNGdVWTJlSlJVV2N4SXFqbmZ5dWtOY2NmUkJ1bHhqWVp1eWlSUWhUNUJ3UzItRXlGaWxIXzF0M2FOZ0RHQ2VnZWxPTXNUTkxnUEdudm1GYU5ybFljcE5YRzU5anh3LUlIdFNJdGpSbEp5NGxDd0JRRkVkMkNJejhqQlQ5aE85d09BX1dGZkk3cHJSdllSNmJGcF93V1ZpZHJPcG5jNEtUbGdyVlJNQ3ZtLWZYazROR2VvOFBBc2pyWkU?oc=5)
+• 🟢 [Three new road links to ease Kalyaninagar traffic chaos - The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0tZeXJLdGJaaGVrMU9EWGZtTTZOVXQ3djVJMm41SEVVVkh5RG03WUZSSEJ2bnJsTGNZdEZab25vNFlESDJ6R2RnMndhSWdtUF8xZzlscFlUQVhTZUcyRnlTWEZsNi1aMURoaGNCbzJjVXpfdjdFU2lSYUhFV0cwUEEydDRQOVVhaHdoa3lUUndIX3MwbXUtMFZ2WXJKUzZLM1o2Z0lBMHRYa0Q4dVFZVmNlSWJYWXNreTd4blJyckY3UUFyb1HSAcsBQVVfeXFMT0FoNFZRXzRtOWRuN1NSSGpWWkRvb0hSNTJUTWhoTWRXVWFuUEFkRkNVZENFdEttTm92TWRNQ211cG5nZ1Nza09tOXZpb1lTN3NHNG1FbWFESDcwRDliY2dfbk5aSEZJSkpEU1BmbURLUllFMGVvX005ZmUyVW96Zi12OFBwX29IMmtsQTZVaUZ5WEU4ck9DVHYyMlZJeHpCZXlYOE9qNkN5NERVRm9JYTB3ZEpibUU3c09JNGRyVUVPb1d3WllZRF9WQXM?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic congestion increases by up to 30% during monsoon season.
