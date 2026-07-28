@@ -6143,3 +6143,16 @@ Pune’s public transport usage is still lower than private vehicle usage.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Metro Phase 1 aims to ease congestion on key city corridors.
+
+### 2026-07-28 04:08:05
+🚦 Pune Traffic Updates • 28 Jul 2026 • 04:08 AM
+
+• 🟢 [Three new road links to ease Kalyaninagar traffic chaos - The Times of India](https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0tZeXJLdGJaaGVrMU9EWGZtTTZOVXQ3djVJMm41SEVVVkh5RG03WUZSSEJ2bnJsTGNZdEZab25vNFlESDJ6R2RnMndhSWdtUF8xZzlscFlUQVhTZUcyRnlTWEZsNi1aMURoaGNCbzJjVXpfdjdFU2lSYUhFV0cwUEEydDRQOVVhaHdoa3lUUndIX3MwbXUtMFZ2WXJKUzZLM1o2Z0lBMHRYa0Q4dVFZVmNlSWJYWXNreTd4blJyckY3UUFyb1E?oc=5)
+• 🟢 [Expedite HCMTR, internal ring road & tunnel network projects: CM - The Times of India](https://news.google.com/rss/articles/CBMizAFBVV95cUxOWG9uSHdpNHY1WC1Ga29nNFlRSmctd3lDMlZDd2ZVSTNrR01LYld4eThVQzcxUnVaRERtblpRUnA2TkN5R1MxTFNRblB6elZ3b1BaazB4b1dORzNvYkY2Y2ZwYTA5RG1maVZUc2VpOEhjQzc2OUh5VGdjM0N2MmpSQkhHYXBnaUtXQTFGVzcwRjFaTkx4STVUN09HWWN4OGVaNVBtZW8xSnU1blMzUzNRRTdhd3NUX19GRVlxb0pXanhHLTZVWlZaMDlYTFTSAdIBQVVfeXFMTUZWamFsTXVWUjlVSkZtMkNhTWZlMWJpTlMxcERuYmNGRnJGZjZiYzhpdUkyQ0RJZWl5SFkxa2RjN3lxbFNTZzJ4Vmtxa1VOb1JKQUROazFjNzk1V3l5azZOemhfTmJXbFFkaE1NN2V4dS1SZ0hjckltVWluZlA4NTYtemZfUVdIcHBVQ09EaFFnTWZNUllENmE0NFY1ODNUQmVweFlwWXZFU2NPOGt6X3NYckt6ZVBGd1dKZnpQcU1SRFRfeFpSZTladDZJbjZuaFpn?oc=5)
+• 🟢 [Pune mass transit route construction to be completed by 2028: CM Fadnavis - The Indian Express](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUDVOTjRIUkNhMVVlSFNoN3RxRmJnRGNXcmEwZ2c4V1MzNU5FVGtDWVEyU01SR29uc1h6cFZ4UlhJV0wyWjJxV3FIbEJFRDFPaU81NFVDbjdxcXh6SkdFMHphcHdhUmZBM3p3eS1rMllLY0ZrSzNhTkFKZWMyM1czczM0QjZfTE1zNndzY2FsdFZDVHNCNjRzSzN1QVUyWkdPTUFpcE9Dc1pxSks1Qkl1UDY0TFJvZkRfcERYTXZFZ0V0UdIByAFBVV95cUxPMnlpV3h0bGdqLVJMNmY1dEM5ZTJNbG1EV3JaUHh1YXBFMURtN29rX3h4WUlsZjlIcVhyOVJvQUhpY29oVVZ3c1B0YTFuOE9YcER0Q3ZvcWtWRTF1SVFZNEhaZ0FhT2RXR2Vrd25aVkFUU3hhM0lEYnh0cU5XNlFqM2h4RU9ndHZrY1N0NHloZmFWM2ZOV01uM0lKd0lJMWxjazJGNjZqRUI5WldYaU9OYlRjQ2Zpbk5IUG0wMXhSMHhaMkVpNUl2UA?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic congestion increases by up to 30% during monsoon season.
