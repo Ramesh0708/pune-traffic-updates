@@ -6191,3 +6191,14 @@ Auto-rickshaw demand peaks during office commute hours.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Auto-rickshaw demand peaks during office commute hours.
+
+### 2026-07-30 08:24:43
+🚦 Pune Traffic Updates • 30 Jul 2026 • 08:24 AM
+
+• 🟢 [Fadnavis floors the pedal, wants network of new roads and tunnels in Pune ready by 2028 - ThePrint](https://news.google.com/rss/articles/CBMizAFBVV95cUxNLV9BMGdPenlCNWhIdjRYYmpGcFdCcmExVG1KcHJ3OGRjVWZvbDFqSG5hWkJYeUp0V29OeXNIYUx6aHpqY2M3bUhUVWVJdkxYcFBFeTdJWFI5S2NmNkJmXzNQbTlYajVxZ1R3NlJjYW1VUzUydTZBNjlsbzNWTUN4dE5XVmU2LWpBX3pJZWl3NFZyY0lna3djRW9tVXRxMm9OSkpUZmZNSjFqS0ZWYndFNGM2STlVSjFsVHdQUTg0NkRxd2swakJ0ZjJCQlfSAdIBQVVfeXFMTktjRkhDeGphV3BtYWZBcUh6UW5ESnBMSWc0RUVZeWpib2JiRWEzYTJ2eXNVNXhnM25QUTlYQ3FrWldtbVY1ZzNET0RkWWNaNVp5c1hnc3JKQUZQQ1hBNVlWc2c1VnRxTU42WU1IVC1Cenc3UWNhNHVzUjJtSGEyNHJOQVBWcVB5VVBlRFM0XzdhdG1kdkQ1WHhVTU5IRHVxTlVVbUxSbDRpZjNLTTFtb0tFbG9lNC0xaDZtazVoMFR3UEhYa3Fva0ZUUGM1TDN6Wk5n?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune traffic is heavily influenced by IT park shift timings.
