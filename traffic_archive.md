@@ -6213,3 +6213,16 @@ Pune traffic is heavily influenced by IT park shift timings.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune traffic is heavily influenced by IT park shift timings.
+
+### 2026-07-31 11:58:43
+🚦 Pune Traffic Updates • 31 Jul 2026 • 11:58 AM
+
+• 🟢 [Changing City: How a twin-arm flyover is set to transform Navi Mumbai-Pune commute - The Indian Express](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZm0wYW5lYTFOa3dZY1Q1VWdKUXJSM0RpeXBMVmU1bEstZmg1WUNRQVF2X2g1aTRzMEt2MEpfTjE4N0RTMXJwNlFZYXptRUN1NHFTNm9EakZtUWFDN2huRXZnQWhIYXdiNURwVWZDSlRsTXNVTG9PSG1KRHJVckx5aEcyLVJyeFJ0a1MwaVk5QXdxVUNvejB6WXo2TWFxM3c0VDRULVlCOHZmeThMMW9ISNIBtwFBVV95cUxObHlwQ0JOQW1nYW1jYWthSXBPUkp3SjVHR0tIUVNGY0I1SVdtR0hSeGVaMlhxcTJlbUVpdDFpQmZOdWlURkJXbjZST0RzN3ByWHlXZEVJVG5DYWdvUjJvaDVCWC00TWtYWTMwMlNBNldsejJMSGw1QkpORkZVOTlTd2dHVUJKU0taMnVUUWVJNGJkamFXLWc3WU9TZzd2bEUxTEZHb05fbVAyQkxVNHYwNW9GZWk3VTg?oc=5)
+• 🟡 [MP Rajabhau Waje raises Nashik-Pune traffic congestion issue in Lok Sabha - The Times of India](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOWRLbzZMc1g0SF9GSzJqRGlCdU13ekRuYURhTzM0UmZKbEEwMHEzZ1hMRW85bVhkaVJHX2FDeWtFQzVoNENaY21uRldxUFRXZ2FiNUVJTWFJVEF0WnNkLVJFZG5NTXdFSjlZZFF4TjkwN3RFOWNleElFTFpDYUItTElNaGQ4S1NXRS1rUnFQS0NJbXN4eDlhMjF1Xzh0a1lrc3hwd1ByV1U2eGNXSWtQbFFfMFp3YTBJbUdybTNSX0R5Qnp2YUYtWHpZQWNfWExOSzJzQkpTTHJtcmp2bXFpctIB5gFBVV95cUxPejBtMC1ZZEYyRWw2Nm1fbmo0UGhwTEdsaUtzakJDSlI0Um5CQ3hvcVNIeUZMaTY0bkFsTmNPLXRzWjNnSXdqSFhmSldYUXM4WURDZW1OemxrRWk2N3p3blc1SFBjblhtT1dtZFNsOE4wcUxDUFVyU2M1UjBYZDl1eXVvYktFWHIyOUFsS1RvQTMwemx6cndQdEtOakV1MmpwUldjWmNta1pSakpyOHVIbWNmdjIwbFoxTmpNSzl5RnplSlRKeTJMYlFTOXpNX0VHRVN3a0ZQazF6S2J6X1ZrV2cyU3RfUQ?oc=5)
+• 🟢 [Pune’s Kharadi-Keshavnagar Bridge to open for traffic by August 15 - The Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXo5MWtyZW5sNWdwSnhEWXJyNmVib0otdmFXODZ2cDByOWN0LUM1SHRzRzNYRkhQUTBfWUIyYTRBM2xLLVVXNkJWUmdxajVNcER4WWEzcG96ZVpyYjFNbnY2RGtRSUk4QWZwci1ISmVmR0JOX2xudEZ3Mm9OZzlYQUJxVXF4bUVmdVVSWlVVLTNVZ2Q4MXBjY29aNjFOYUM1RnBUSzFPTFVJODlPcHNURFlYbUpFRUNwSEF0UkN30gHEAUFVX3lxTE5tQmduclJtZXJRbDdVT3E2TzRxLUNub194NUFETkFaQUVUT1RfbmdTTjY3Y3FMb1NPclRPZmdjTzFsYndrNXotNDMxcTVZdGkxR192ZzI4UFdXSGozLTZPcll2N3d0M2hUdWhDUHNTRDFMdkd6cWc0N0lKVnVSTEY3V1JRb21ET0NpckhxQnVjOElhNkd2dlBFWmY2YS1SQVNTc29ONUVUdGpqeFZIeEdRaHpJc0RkTG5fVUpIenFWNUJKZnQ?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Camp area roads experience high pedestrian and vehicle interaction.
