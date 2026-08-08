@@ -6359,3 +6359,14 @@ Pune’s road infrastructure struggles to keep pace with rapid vehicle growth.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s road infrastructure struggles to keep pace with rapid vehicle growth.
+
+### 2026-08-08 07:48:21
+🚦 Pune Traffic Updates • 08 Aug 2026 • 07:48 AM
+
+• 🟢 [Pune police rev up crackdown on modified silencers, but residents demand sustained action - Mid-Day](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcVExNnZ2anpwVXRJUUVrMEZqSEhBSGRlUENzSU1YU2VfMEFVUGVwWWNzYzVveVByUk01dTRvcWIzWkx2X0tmUnhLUDNmSXA3R0hfUEhkSXp0OTc3WU90dWdyd080dXVoLXVsSlB1WXlZUW9SeldlUjF0WnFhYXp2dGdHUmlwVnB5VHlnck5uay14cHNrNG1qZHZ4SEtYRWJXZmtLcDZlYkZ3ZjdVYmhYZjl2bG83eFRqeXFNWlc3WGNTT1pUOWk0SzB5cDZqY0hnY3JfbGkwcFFfZ2pMQlRrSE5n0gHnAUFVX3lxTE5OS2xFd1pjNFhPSTN6b1hWeVMyMFMzSVBKMDdJNWpzWndiWnFhYmFYSVBWdlRrRFpmLXZLNW90SjdIUU93NDJLOEdHRDRUZzluaWRtOU9CWmxaaURNZ2FEQXY1cWcxT0ZES1hVYTMzNnZOYVVLQWprRndPZUlYdmdGMEZpeTJNdnppQlVwOXdnZXhma1pRai11YlN4NW14RXJ5VWU1REdpVnlnVFg5N3pBcl9UUTdDcmJtcDI3SVNhSnZHbjlfcEpNdGh6bi16b3FkeHk0UVVCdnRDRGhOU3FQZ1JRdFZxRQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Metro construction zones frequently cause temporary traffic diversions.
