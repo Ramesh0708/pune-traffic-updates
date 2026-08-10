@@ -6420,3 +6420,15 @@ School zones contribute significantly to morning traffic spikes.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Weekend traffic near malls and cafes increases in areas like Viman Nagar.
+
+### 2026-08-10 07:38:39
+🚦 Pune Traffic Updates • 10 Aug 2026 • 07:38 AM
+
+• 🟢 [Pune traffic advisory: Key roads to be restricted for Tiranga rally tomorrow - The Indian Express](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldLZzJlbGNNa1h4VmNqMGNRT2ZYR3VuWmxNQk1vMGRfc19XdEZLX0dMV0xDYjhRVGc3UVFuemEzM21zRVhUSjdyZHJ6ZDBFa2pMWHQ4QzBHT2JZY1FUN2pJejdWLVZGVE1hVnVvdFNUN0E2ZGdUV0NLN0t4ZF92d2JXNlFhR2UzaG42VkN5eFBmTVJWVVZEaTBEQ1VmOEdlY1E?oc=5)
+• 🟢 [Pune Traffic To Fall After Elevated Roads And HCMTR - constructionworld.in](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQUNYRTlSam01TFR2bkJmZUFTM0puVG1LUGR6dGgwNTNvRFBnd2ZqS3I2NldXb1FHdEd6a1JDUDJNMmdwX1BKWXdUYzVmTEVFRGNGOEJnSXcxRldJVUtJMVVxX2FPMDNiT1FIUTd0WDBHRVZVbkVDdFdCSHE1bWo4UDZsQkFLcWdUZF9yWFBXU01NMjEwVlNIbEVEaGZ4X3dSQm16bVgzNHgxM3JRdlBKcTZUY09GRWItRU5kak1qQlhxLUh6ZkRBQkZ2dldmOUhxdVZMY3J3V1ZabVAyTkdrVGV6MA?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Weekend traffic near malls and cafes increases in areas like Viman Nagar.
