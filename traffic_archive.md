@@ -6449,3 +6449,15 @@ Weekend traffic near malls and cafes increases in areas like Viman Nagar.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Weekend traffic near malls and cafes increases in areas like Viman Nagar.
+
+### 2026-08-11 03:42:43
+🚦 Pune Traffic Updates • 11 Aug 2026 • 03:42 AM
+
+• 🟢 [Kharadi-Keshav Nagar bridge to open to traffic by I-Day | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxObGNIY2s4WGtoUkRyZmh2aGw0dUp2cHI0RFF3NVpjVGRDak9Rbl9uaVRrMXJTM1VDVUxOX1NVX1oydzlBY0NFZW03RDFxdmgtQ18wbjVLQUpTU09KSEQ5R0hCSzM3MDNLYnlXVWVSbXktcWw3VUU4RTRTNVFUa29NT0dhWWR6bUdfTlVvenpQUnhWaHgtQ2t4M1JPQjFKUW5yek5aSEY1S1ktSG5CcFlvVU8yd0E2N0FKWms4ZkRyUdIBxAFBVV95cUxPT3B0TXR6VjdWalE2aWZYdUFwRWthMDdjbWRuQTE0dXRPR0Y4cDB1a2ZZeDk2WXJsZFQ3aDlkenpHODR5b3o5cHhFN2s0UDJJRmY3ODlkOWVvUEQ0dVI0SlhRQklzTkJvU2tpNENTVHdMajhnV05xc3JwSWpNUUtnRDh1NDk3bVFvcXR1MU1FVWlXb3FnR0hsbVowc25VR0RyR29oMldtMmNmNXJLM0hWNDBvNDN1VllWUlBjaXZJSWMwUjFQ?oc=5)
+• 🟢 [Pune traffic advisory: Key roads to be restricted for Tiranga rally tomorrow - The Indian Express](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM0tqWHdtbC1jWUlxblkzWldERFY3TEtzRnhZeGIyUFFFU1hwZWpVc09qTUF0RWQwdU91MlhlN3RIcEstYUdSX0dLZW4yT2RjUUhzY2hheEVMOEF6dHZYa2FlOEw5bHp5cl9iS1h1R3loZ2wwYjhJRTBjZVhfVTNzMzhzeExnSm0yc1Jla3hiRnVCbUZmQXJhakRKdVZjZHI0VTMzTTZob1XSAagBQVVfeXFMTTNLalh3bWwtY1lJcW5ZM1pXRERWN0xLc0Z4WXhiMlBRRVNYcGVqVXNPak1BdEVkMHVPdTJYZTd0SHBLLWFHUl9HS2VuMk9kY1FIc2NoYXhFTDhBenR2WGthZThMOWx6eXJfYktYdUd5aGdsMGI4SUUwY2VYX1UzczM4c3hMZ0ptMnNSZWt4YkZ1Qm1GZkFyYWpESnVWY2RyNFUzM002aG9V?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Hadapsar experiences major traffic buildup during industrial shift hours.
