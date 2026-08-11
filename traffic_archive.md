@@ -6478,3 +6478,15 @@ Hadapsar experiences major traffic buildup during industrial shift hours.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Hadapsar experiences major traffic buildup during industrial shift hours.
+
+### 2026-08-11 16:01:23
+🚦 Pune Traffic Updates • 11 Aug 2026 • 04:01 PM
+
+• 🟢 [Mumbai-Pune Expressway Connecting Link to close for 3 hours on August 12 for repairs, check details - Mid-Day](https://news.google.com/rss/articles/CBMimAJBVV95cUxNSW5LWVRqY3JaWXBBZnNralNKVU5WWlAyOHVHeHI5QTRmMDJ4S1JKYWpNZWp5X21Jam5sNUlwUTd6VjZCSFRhR0sxdVozZ2JlY0JoYlhDQXIxSFZ6S1g0NDdVS1dwNEhOcmJZeVFkdFR6M0xZaUdPT3E5N2drR0Q3dXNJc2JrSkl0QnMwYlZIT3NsVXNFcktEVjBlejN4NFE2TjhZcnZhcElpdTlkWVFJVXdoYmZuLUhxeTFDNFRnRGh4aVREZ2R1Q2MyZVVRMnpyY2E5dVFSMEU1eEpORDAtV1lVZ28tcXVGclpHODdWVUtudGdpVlZaZlRIZnZSRFFvZ3pieXpUNWY5MHd3RGRnQ1NVcHdtbVly0gGeAkFVX3lxTFB2b0VmQWpIWUNWZklFWldsQ2p6RU8wZmR2blVTYkRUWEZiaWlOcHFObVl6Q3NMUUs5Rmx2LU9ZXy00X18xS0NldEVYcXBtS2M4dlJxempTbjBQUGtLLUZEQV9Hd2lpSFdLNnVRVmNRclpnaktXVnZuQWR2RDI4YXkxWHAtb2lDa2xTc0xIX1Fpdk1ZRmRxRUN5WlNOUEx3aDdPLWYxYVoyR0NNeWJsNF9NWmNrOVFDYkkzZFp2N3FWdThhc0tGdW1EdS1HLUR0M2Rwb050bmJ2LU9kczhfVC1qTTdkaW5tSkttWGxNWENlMGVnaEphWVEzV1FJT19BdzdPMUYzdFJ2dzkwNHpaU1QxTjMyYXlCRG5vQ0xFTVE?oc=5)
+• 🟢 [‘Pune Has Failed As A City’: Techie Says Traffic And Roads Have Made Life A ‘Mental Toll’; Internet Users J - News18](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWUJEZGtabnN4ZWpPV084My1BalVPZ1l1MDNjLWdUdU1tb1NpS1BVMVFnamxZT0ZoSTBRaGtObF9sV3paNV9RaHQ5N3FURWdMMWxxclR2U21ETk9WTl9aTDJPajlGSmYyVGZYdGhUSWdhRlVTb0Iyd1pYTjdjOHpzVUVGeVV3bmNsWHc5TFUtUC1KaWFVYi1xRHF5ckhsTXNYQVd1aFg2cFhnYkdmMWpTOHItamFkcDNaWVpEQXViUFlsTUZHY0tCZ08xSUQzTG1RM3JRenlrZE1iTGR3cVVwR0gwVm03ZTZvV2lUeENWYlnSAfABQVVfeXFMTVlCRGRrWm5zeGVqT1dPODMtQWpVT2dZdTAzYy1nVHVNbW9TaUtQVTFRZ2psWU9GaEkwUWhrTmxfbFd6WjVfUWh0OTdxVEVnTDFscXJUdlNtRE5PVk5fWkwyT2o5RkpmMlRmWHRoVElnYUZVU29CMndaWE43Yzh6c1VFRnlVd25jbFh3OUxVLVAtSmlhVWItcURxeXJIbE1zWEFXdWhYNnBYZ2JHZjFqUzhyLWphZHAzWllaREF1YlBZbE1GR2NLQmdPMUlEM0xtUTNyUXp5a2RNYkxkd3FVcEdIMFZtN2U2b1dpVHhDVmJZ?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Hadapsar experiences major traffic buildup during industrial shift hours.
