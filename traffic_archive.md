@@ -6490,3 +6490,14 @@ Hadapsar experiences major traffic buildup during industrial shift hours.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Hadapsar experiences major traffic buildup during industrial shift hours.
+
+### 2026-08-12 04:06:36
+🚦 Pune Traffic Updates • 12 Aug 2026 • 04:06 AM
+
+• 🟡 [Pune Police Introduces Special Plan to Ease City’s Worsening Traffic Congestion - Pune Mirror](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTljUTJDcUZlTEU1Z3QwdFVIdS01WlpkekxjLVJJSmFuY3BoeXFQYWtDWGUwSXU1LWN4a0Y4MTkzVUJ4RUU1YmJtam9lbW1LSTlzYVpaaFNxWG9DSm1lUUpscUczNTRtbnF6Y1BlbEZDVHpPMy1uaFlPMFhjM0hZSzhINkFJT29LUTVqZ2lYX0hKY1htTjRBMUdYZjlpT0habGt4MWtMa3MwYTA?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s narrow internal roads add to congestion in old city areas.
