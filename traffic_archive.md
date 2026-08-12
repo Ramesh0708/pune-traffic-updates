@@ -6512,3 +6512,15 @@ Pune’s narrow internal roads add to congestion in old city areas.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s narrow internal roads add to congestion in old city areas.
+
+### 2026-08-12 11:43:47
+🚦 Pune Traffic Updates • 12 Aug 2026 • 11:43 AM
+
+• 🔴 [Pune-Mumbai Expressway traffic diversion for maintenance, repair work | India News - Hindustan Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQa0VMamRPVkZEZ18zZTk5YzZLMkpkMVNUUmxudThnU0N5eVlLMk1zWnA4SVVBMnV5UzBJR1RnU0hZck5LU1p0X3NTV3ZEZVRfcTJ1dDBfY0VSb2RyOHZsMlEzMGtBUk5EMzNGSXJielVZZkZJb1g0anZ5VkYtME1JaGRaWTNNY0c4Z1h5bmlWNEFfZ08tWnN2Y3FNM05sWGVEbjE2UjFSSlJUTkdtUWNjZVQxVUlkR0xyUVNYdWgwazZmcFlLVWxhQ0JJSGFuLVV6Y2tfVdIB2gFBVV95cUxQamZfVVN6d1dNTUFoV1RNWEhtajF2anp0VkJzYWlqVUUtMVpvUHV0ajRmc2pmeVY5Qk1yUHd4eFlQeWhUZm44NjVyLXhLdGFISXowWEY2cXhWajdMZjRxZUNQMW1JQW9qZHlNaU1VSElZdm9seGExZ2lnVXVfSm9kcDRGUTQ3MkgtY1lmVkNLNTlsWWxHUWE2XzlJRXdtbURQc19lcldsYkJ6dXcwTVFSNUh4bERyTHNJOE9PdmFwVGpZMGNuajJqcWxSZFVxUmhMX1ZJR2U5Snk4Zw?oc=5)
+• 🔴 [Pune-Mumbai Expressway traffic diversion for maintenance, repair work | India News - Hindustan Times](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamZfVVN6d1dNTUFoV1RNWEhtajF2anp0VkJzYWlqVUUtMVpvUHV0ajRmc2pmeVY5Qk1yUHd4eFlQeWhUZm44NjVyLXhLdGFISXowWEY2cXhWajdMZjRxZUNQMW1JQW9qZHlNaU1VSElZdm9seGExZ2lnVXVfSm9kcDRGUTQ3MkgtY1lmVkNLNTlsWWxHUWE2XzlJRXdtbURQc19lcldsYkJ6dXcwTVFSNUh4bERyTHNJOE9PdmFwVGpZMGNuajJqcWxSZFVxUmhMX1ZJR2U5Snk4Z9IB2gFBVV95cUxQamZfVVN6d1dNTUFoV1RNWEhtajF2anp0VkJzYWlqVUUtMVpvUHV0ajRmc2pmeVY5Qk1yUHd4eFlQeWhUZm44NjVyLXhLdGFISXowWEY2cXhWajdMZjRxZUNQMW1JQW9qZHlNaU1VSElZdm9seGExZ2lnVXVfSm9kcDRGUTQ3MkgtY1lmVkNLNTlsWWxHUWE2XzlJRXdtbURQc19lcldsYkJ6dXcwTVFSNUh4bERyTHNJOE9PdmFwVGpZMGNuajJqcWxSZFVxUmhMX1ZJR2U5Snk4Zw?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s narrow internal roads add to congestion in old city areas.
