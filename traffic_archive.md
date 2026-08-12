@@ -6501,3 +6501,14 @@ Hadapsar experiences major traffic buildup during industrial shift hours.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s narrow internal roads add to congestion in old city areas.
+
+### 2026-08-12 08:15:49
+🚦 Pune Traffic Updates • 12 Aug 2026 • 08:15 AM
+
+• 🟢 [First conversion-law FIRs, food-safety crackdown, Tiranga Yatra traffic chaos: What is trending in Pune t - The Times of India](https://news.google.com/rss/articles/CBMiigJBVV95cUxPWnFNYzltbkJVLWRNdXlFWG1BR2JXUDdoQmFaaWdvMTdacEQxU3ozZ1NwdGNoeHlhaS1sWmdlOWhwRktXN2VscDNJYVktdGo4akxNRGQ0dFlXbXBodC1rd0YwVzVUdGRCSW9fZ1RXdGdOZGFFVEJYeHlON0hDdGo3V3FxOFhicDJoOFBOQV8tdl9GZlJJSHNoVHhJYzRrN1EwZHZUYmlQM3psOTJoQjJmS1hpS1g5TnVBSldHYWgxV0FtX25NZ1ZQSlhNX1dsb1g2SHZjOFJaLUttYUlvNFRZRGc4YWlhMER5UkU5bjVFdU1hSGItdE1mZXhzd0JVbWY3ZExFaVFhdjZRUdIBjwJBVV95cUxOcE83TFBXc2FOTWNXekJrUEg0ajB1U0h6Si1WSmR0UnBWMzBjSDZzbkZCcU5tQnBHT3NpajZxT085b3cyM2hWTnBwekxVdFhoRVVZS01HbUJ5TENoU3pZdF9DWUk3Z2x1cDlmaUtBUjdzS0Y2VzdoUGYzbUp3Zm5ZY0RsMDFhSUktVmdOUmo4OHVxSmk2bk5yU3VmM3VCSjJremR4UFN3dGQxelRxVjU3UmNJN19pR2h2UjFPZVgyUzZRNU8zNG41NVNzUHpDYmlydGEzVXhWNzRZY1NZOTNwZ3EtdjdJS0lVR05FUF9Od1d0OXUwbDFBUUVRT2dqV3R2dVdvUktZeUJFSnd4QkZR?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s narrow internal roads add to congestion in old city areas.
