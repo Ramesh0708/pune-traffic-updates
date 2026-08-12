@@ -6524,3 +6524,16 @@ Pune’s narrow internal roads add to congestion in old city areas.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s narrow internal roads add to congestion in old city areas.
+
+### 2026-08-12 15:58:29
+🚦 Pune Traffic Updates • 12 Aug 2026 • 03:58 PM
+
+• 🟢 [Pune: 20 Firms Shift from Chakan MIDC Due to Traffic, Infra - Rediff MoneyWiz](https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEtXa09ZWHc4WmZkU21vU1JwMmZRLXBlWjhRQi1DQ2hsRkNGRXF3WG5veEpIak51Z2ZlS0xzQjFvNWZWbEJ2WXZaVXd1NUthbEdVWnF0ODV2NGxWVmd5ZkNvRW4yMjNreVVkWkFsQ0thQWVnVlE1Q2FjVTZ6bF92ZEV5cGdsMXNtYlp5dEtIWUdoNGxpUF9XTkduUnM2VS1QUW1YYi12X3FVVUR1TWZfemR4b9IBswFBVV95cUxOVEtXa09ZWHc4WmZkU21vU1JwMmZRLXBlWjhRQi1DQ2hsRkNGRXF3WG5veEpIak51Z2ZlS0xzQjFvNWZWbEJ2WXZaVXd1NUthbEdVWnF0ODV2NGxWVmd5ZkNvRW4yMjNreVVkWkFsQ0thQWVnVlE1Q2FjVTZ6bF92ZEV5cGdsMXNtYlp5dEtIWUdoNGxpUF9XTkduUnM2VS1QUW1YYi12X3FVVUR1TWZfemR4bw?oc=5)
+• 🟢 [Pune: 20 Firms Shift from Chakan MIDC Due to Traffic, Infra - Rediff MoneyWiz](https://news.google.com/rss/articles/CBMirgFBVV95cUxPMm5SajUyblFQU1d3THlxN1ZTMktmdE14ZE0tVVZ1b191OGxUcFVVRTZOcnN1NG9VN0xVUVktUmdCZHVZNDdMTzJrajVmZEswZkFERVdveW1oeHR2cUFxSTFmNUxUZnN6clhkSUVVN053bnpVMjk4TXU0WmRhcEtlOG16SldUemJGMHhpQ3N0MUZOVERoSXNBWElTRDlEbDZvMUpmZ3VZUW9VWWw4OGfSAbMBQVVfeXFMTlRLV2tPWVh3OFpmZFNtb1NScDJmUS1wZVo4UUItQ0NobEZDRkVxd1hub3hKSGpOdWdmZUtMc0IxbzVmVmxCdll2WlV3dTVLYWxHVVpxdDg1djRsVlZneWZDb0VuMjIza3lVZFpBbENLYUFlZ1ZRNUNhY1U2emxfdmRFeXBnbDFzbWJaeXRLSFlHaDRsaVBfV05HblJzNlUtUFFtWGItdl9xVVVEdU1mX3pkeG8?oc=5)
+• 🔴 [Tiranga Yatra leads to massive traffic jam - The Times of India](https://news.google.com/rss/articles/CBMitAFBVV95cUxORkhULVlETWVVcGcwVHhsVXBST1dFMEF2dm5YQVVfcHZQSllVM0wxV3RpbnhmU1JFVG10ZDNaYlJSMnB5VC1sRU5jOFMyaVQzeTJ1TENqa1NDcUktRGVCakQ0ODgwOVVlS2FJS2xvZUlpTHZib3N5NUZLTEVJQ2tFMVVXNHVGS0NNRjVnU2tSTHo2aENPeHpSNXNsYW9DWkF5WGRJMzZtX0FzZW1IMlNSQUdJdFrSAboBQVVfeXFMTlVvN3ZIbzhfeXRxNmZNZi1PZEs5TFZrcURzaXdLYUxVcmVWVGNzbW1jdlhZNW0zM2gyUVJyLTQ4MDRIRVpqbDFYTmxydW52TDBDVW1uUWF6U016Uk53ZTEtbGx1WUxqS0NOb1dhVTVLbkdiVjkyOF9YcHdPaVNDenRrMFBCMjhzQk9MQW11NkVEdzRkTVJXX2hoVTg1ZzdWZmZiOXZzRGFKSDVOQmFXMkxqLTVDQmJvVjd3?oc=5)
+
+🔍 Summary: Heavy congestion reported at multiple points.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s narrow internal roads add to congestion in old city areas.
