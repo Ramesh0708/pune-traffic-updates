@@ -6560,3 +6560,14 @@ Traffic near Pune Railway Station remains heavy throughout the day.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Traffic near Pune Railway Station remains heavy throughout the day.
+
+### 2026-08-13 11:44:15
+🚦 Pune Traffic Updates • 13 Aug 2026 • 11:44 AM
+
+• 🟢 [Road cave-in, water works and the monsoon infrastructure test: What is trending in Pune today - The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTC1MeTRoc0tSbFRaNjdBVTB6WEQ3dDB5bFNEemlkempCREVOSWFHXzNDeF81amd2TXh1WGNDUXN6bTJOQjBCTlpJUVdNLVhfak5lM28wN0lNUHZZajBDMm5xQWtibjl2d3BudGRlZTJKSnp6VEc3enFnXzJwdnpxMlFLaHNOcVhRWXctcHBReFhRNVJjRjVWTWt4Wk83RjR1RkJUcXZZWU1mZktORVI0UGUzOUs1aUd4TV93bG9tblJsQ3RrS2xleFRyaldqZmFIeWNYa0FOMERsRHc2MHk5SThENmNmWkVmdTRqX2tjWUZub3IySFHSAfsBQVVfeXFMTWdKY2IzU1VFRENMQ0EyMkUzNEFzbkx5c1laSzMzT1F4VmdObG5ycjhDN210bFVhV0stLU04ejVFWkRPeWtMX1F4TGd1eDBzNUtwUG90LU01VkdaaHRwN0ZSR1RCcFViTEZaMzhTMmhzYTgycXZsMzhMbUd5d2RadUF6SjAzdV9yOUpzeWlvUjVlbTVGYnlXTWJFOE9Uakx2XzcyN1lNTGhqVDFwbHUxdFhOM2NVajFHcDVEd05iQXNkOUtLWlItQW1kTjRsU05YZWVDZXpHdnJ6UHFRVjk2NkJoaXZmYUpQTWhSU2tpaHhqeGk0ckxHX2JSZk0?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic near Pune Railway Station remains heavy throughout the day.
