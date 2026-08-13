@@ -6537,3 +6537,15 @@ Pune’s narrow internal roads add to congestion in old city areas.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s narrow internal roads add to congestion in old city areas.
+
+### 2026-08-13 04:11:03
+🚦 Pune Traffic Updates • 13 Aug 2026 • 04:11 AM
+
+• 🟢 [PMC’s water works damage road in Upper Indiranagar, traffic diverted for repairs - timesofindia.indiatimes.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRlhBSVNLVzFpZlJZeGZUZmtqb3RBNkNGRk9pOC1HcXRINXpPOVlSOFZxVkVseXJraDl0YmFKWkotMnpvNkZiRF9zUm9ZcGRrRVV3MER6dEN0NkpyMmNRUUFSaUR0djBxdnpiY2hpWHQ1dG5TUGJxYUg3UHJVd2Nxemw5ck1yXzBjVUFtNkxqNF8tNkFDc0c1RnNYb09BSzd6VmFyNDlEQVJlenFfYTlZRzVzYUY4QTUtT0RXWnNDNVZEa2prVXluYldJUGtFVVFfUFhyX0ZycWM4bGZvV3FZcm5fUmTSAeoBQVVfeXFMUGd4NUpBeHF3UkJySGJjZVpMNTl0X280eUN2WUctNmdMM3Y3SWJwLThBcXNCRUEzNnZBcFEtQ3lnNEhhS2VCQk9RNWJCT1MzMkE2R3dOTXdJelNYUkMtSC16WWJqMHh6OUJQaXoxbGt0UzJycXpUaUtyWUpla19LMnlkMTQtSk1RWUlRQVlqYk9kV093Nnl1bnJaQkFBcVh4N2hqVjA5S2JGcTdlZ0VlM0RjcXZmdU44TVRWUUVUN3VpUDNhYWZ0d3dad2RqVVVkaldwdGp0QUxjcUY2eDNzY1k1cU9qUWlDcS1n?oc=5)
+• 🟢 [20 firms consider Chakan exit over traffic, Infra woes | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDBrbGduMUNpRk80ZW81aE0wZDJPZ1F6V3RGTV9lTzlzdk1UWXhoWFJubDBiSEJRcGRWRFBnY0tsb2lQOHVHcVdwTzlKLVprc2tKMGZlaXp4akRwdGdKREpFc1k0bW9nXzM3SWJlVlJsSkJfekZTaXJIWW9PVi1zMTkyU2hDN0diLU5jeUpKOTZuZGZFNFVKd043VE9QTlBZRHNTM1R1d3JxY2FlcExQcFhFNVFhX0JDSVhCdFNiaE0zOV9u0gHEAUFVX3lxTE10MGtsZ24xQ2lGTzRlbzVoTTBkMk9nUXpXdEZNX2VPOXN2TVRZeGhYUm5sMGJIQlFwZFZEUGdjS2xvaVA4dUdxV3BPOUotWmtza0owZmVpenhqRHB0Z0pESkVzWTRtb2dfMzdJYmVWUmxKQl96RlNpckhZb09WLXMxOTJTaEM3R2ItTmN5Sko5Nm5kZkU0VUp3TjdUT1BOUFlEc1MzVHV3cnFjYWVwTFBwWEU1UWFfQkNJWEJ0U2JoTTM5X24?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic near Pune Railway Station remains heavy throughout the day.
