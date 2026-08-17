@@ -6693,3 +6693,14 @@ Two-wheelers dominate Pune traffic, especially during peak hours.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Two-wheelers dominate Pune traffic, especially during peak hours.
+
+### 2026-08-17 03:55:27
+🚦 Pune Traffic Updates • 17 Aug 2026 • 03:55 AM
+
+• 🟢 [Industry heat over Chakan roads & traffic spurs Maharashtra govt to act, panel formed to fix issues - livemint.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSnEtQ3duQzd4T0RrRmM1RUgtaUtTeXRSV3FwZ3NTVjJvMHZMTWlQbVB3bGFrUUNBUi1VRFAyS3FEX3RtSXZhNWNOdXk0bUJjVHh3M0R2ZTNDQkk0MjdOQXFrcmUxTmVmbHlnQnNUNlV6OW9lc01HMGczeUYtd0U2WXI0OTRRVjdieS1ORHRaSUpJc2Y4QTVhTldYOE1oYnM5RUpNb1VOVjd5SktIUGxZbHloVUs1elV1cWhrSXJXVUg1d1FhcElsekh2ZTVLbHZaXzEtbndMTVhyS29Nd2pCTQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic police frequently manage congestion manually at busy intersections.
