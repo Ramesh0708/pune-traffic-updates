@@ -6715,3 +6715,15 @@ Traffic police frequently manage congestion manually at busy intersections.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Traffic police frequently manage congestion manually at busy intersections.
+
+### 2026-08-17 16:25:32
+🚦 Pune Traffic Updates • 17 Aug 2026 • 04:25 PM
+
+• 🟡 [Potholed roads, traffic snarls, industry exit threat: Maharashtra to fix infrastructure gaps at Pune’s Chakan belt - livemint.com](https://news.google.com/rss/articles/CBMi-wFBVV95cUxORV9VUjdoaTZxR1F1bGl4QVlEQlE0OUhOZzhRd3pzRE5ic2U2ZVdfc3NvYmxvODFGeHBlZmNnazdxaVZpTWkyWndtVGFDTHNwb3lMRl9CdGxtb0w0bFU2WGVEeTV0ZHNyMEI1ZnU3d3BDSzgtc0ZwbXFxTk1pSGVRTFpYdmU3djdKNWtLeVRVWV93T0lwUGt4RmRJam9LV1FKZmRJQ0JLTzBzU0owNWh1Q1FzYWkydEZpZS1uRXlrNUZLUnluUmZVTjRxY1cweFBfUW1nTl9LNW5OclRJa2FQd2YwdmNJNDNael9wSGFvTVFRRkZIOWFkaFpka9IBgAJBVV95cUxPaTZYb041dXlZdXlrUXNyVUxzWDFxS1RMenBheVVPSm9UUHRGenN4ZEhrZ25pSVhoR0VDSkZNR0JsNWRIT0d3Y0oxdmtyTTJTa2xKT1lhODkwVEQ4U1Jab3VvNGdTMmZvT1BleW9sWXMta0E3SkFhWk1UZUxIOElEREdFU3hjdWl6Snk0X2VuQU12WW5saUxVUndhdEcybTVwdTBUV2NHNlFTMDBrSFNkOTFKSFdlVW5yT2toOU9ONUpPLTM3TjlBNWswbkU1OXdIdGxqMkdNTG8wYjFlRGN0ZC1xZGNaeDdOcVlZeWhnUzNGUEJuYVIyaFdXSnc2dGk2?oc=5)
+• 🟢 [Rs 164 crore Pune road project gets moving with 60-metre flyover, bridge and 430-metre underpass - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbm9seUJXNjJqWFhyYndkbUQ4eHJTdktjb2NKM3R5OUREQ29qcDdTZWRpc3ZRWW1KNThkeDNJZXlOVjNEOUFCdkhWZzVMQ2VfRm5kZzgzZDR5WFpsY0tyRHE0VFBSbE1sMVk4ZVhrSXB5ODlqRHpTRzBJb0lPSC1Bc01pQkZFRFZDZ0xTT3M5UTVNSmpOUVo3V1laSzI3Y0JER3lCZDFBVzRqTFF6dGhtZzktN1cwV3cwQlJmUGMyaGtUbFh1RVFiUm04bEtXV2M4WVA0SjBnZEJZcndReUZ2Nl9OS2V2bXFaWFlYdjBiQXlBNktGcExKVVpXb9IBgAJBVV95cUxObHVURHVjVUFxd3pvMVNNRHJVanI3QnFLYnV5V3dWb3dTQkxzdEhHdjRjQVR1eEhxcldQcDFqa1U0cHZBZHc2Y0VpMzd4NlBrU0N0dzU5dWlnNHo3LTNEOHA2R2doaGh5QkVZMWlpNlp4ZnVQRk1ZOWI1bFNEcWVCZXlja1hFZVVieGJOSkF5XzV6T2daWjN5QjM0eXpJYVVRS0ZoSVdXamtNSkR2UHNodmExTTM4YzBQOF9GTXZDTUQyMFlBbjQ0QlVTdktsMzFNN09lMVBidkNzVVFEYUs4bFhhWFFTY2JzRjZaQWRzOFhQS0xXN3c4cnRMRHozdTcx?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic police frequently manage congestion manually at busy intersections.
