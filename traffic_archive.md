@@ -6749,3 +6749,15 @@ Unauthorized parking is a leading cause of traffic slowdowns.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Unauthorized parking is a leading cause of traffic slowdowns.
+
+### 2026-08-18 16:29:32
+🚦 Pune Traffic Updates • 18 Aug 2026 • 04:29 PM
+
+• 🟡 [Chakan traffic: Pune district administration sets August 31 deadline to fix roads, MSF personnel to help ease congestion - Mid-Day](https://news.google.com/rss/articles/CBMijgJBVV95cUxPRXJRU3E3akpFYUNudjN5U1FJT3dsblZBY3ROdU9rLVlDVEw5eGhDSUE4aElwdTIySG5KckFUT2lJc01reXFVc2pkQXNJaXR2ZEtfR2xaREItUU01dldEUG52ZGlFaDBjWTBnM3ktR3htdzc2b2QyZTVOLXNDZDR1RlVGWHB6dl9qODZFcFlQanVlZkhleTlzc2pZc3I5VVgyZ3kzSU14RHEwX1dKQXMwTERCeUFFM2kxVEZvTEgyZmZnQ1dqdHpWVE1PbjhtN2pkVWlKOGpVQThobl9ZRDhMUTdjZnp4OVg3TVZwWjBmT0tXcHI0U1VpYTVJRTlLX2M1bDRUYXZRWjZGSWEyRmfSAZMCQVVfeXFMT2RoRzI2ak9CQkQwZ2UzVGpYTF9uV1B1UFBBX3Y3Z2hNUFZ5cm0temRQZ2NNUElHT21rTC1OUDBjZU0xUDU4ZnNsVlBOM2JzdmpFWWlMSDZUMkdFQ2cyV2cyZXpSTHRKeVRWUEtSZ1hLVHcwWWhmLXhPRjdYQnh2TTZDRVVzZVY3UTRFQ05BalljNFUyUUhqZ3dyME51N3p5b0JjVDBoMVotZ0xaSnpJZndNQTRUdERVT3FQNFJKckt3SDd5M3ptZEYzcm9DU0l4Q04zeFZUWVZWRWtRTUtIX25ZdmNQTkE3Y2NWME16QVJBd2l4aUtPYm1FQ1ktVWJFVHdDRVNoUTRGU1ZHM2ZEUlVsa00?oc=5)
+• 🟢 [After 3 decades on paper, Pune Metro, HCMTR to intersect 20+ times; viaduct to pass above road - The Times of India](https://news.google.com/rss/articles/CBMi9AFBVV95cUxONFNjeDNzUWExdlJCNlEwYzFrcnpzRjBWbm9BNmxkeU53bDR6ZkduZE41cjRrODVYU1NRb2xkQTAxdGtQUV9ENEs5TmQ3TWUwMzh1TTY3RWRLZnRkczJ4RmZrYzRPZGRORzVFWDdwUGhOYU5OYl9KUnl0Um51dmJKNDNWeGRnU1BHQ1oyQ2ZtRkotR2ZHcWtIVmo1MWVIRlFtMGszUFl0a3NiSlZ6V29BcDdMbFVLQXBDVzNyQ0g3cFZyWkZwQ3gtX3pPc3k3S3dRMnkwd2NSeV9WVFBNSFV5eEdmV0dLRGlkNkpwanJoeXE5djdH0gH6AUFVX3lxTE9fM08wNnFVc2xHR1lvNmlIRmpUNWozc25xWThuR01HaldQaWxvTkV4Z1dKYmMtTlF1OTBzVWVCY0RwaUVpUkxjMmZxTGtfSjJxNlVManJTYjhjb3FOUFQ4VWdoclZZX0NVZkd1OHY4YzlaZTZhT0VIb0JfeU5uX0MzQzE3Y056Nmg2WFF0T1hob21SVVdJQjZKNC1rTnY5OFBYUERZOHVlSkxzQ0s4OUhoakFfMENaNS1xWDJpZTIxRXVQaXhUbWNtWW5ER2hsa2tnMWU1eHlIamlyaDdhT3haYk5tU3h1SjkyQXk0RG91cENyUTRnMzJscEE?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Unauthorized parking is a leading cause of traffic slowdowns.
