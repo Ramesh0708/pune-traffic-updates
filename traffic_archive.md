@@ -6803,3 +6803,15 @@ Pune’s ring road project aims to reduce city congestion in future.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s ring road project aims to reduce city congestion in future.
+
+### 2026-08-20 03:45:23
+🚦 Pune Traffic Updates • 20 Aug 2026 • 03:45 AM
+
+• 🟢 [Committees and plans pile up, but Pune traffic mess continues | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeUk3c05qRDdEdTlRbTdRQ3hlRnVHQ2R5akJkTXhaR2c1MkF4Qm5XTkU2R2drSks1Y1ZHNnNIVENscnBKbUFzU2p4a0hMcFo1bnNrX1RsOC1YRUtkYmhtZFQycTh5b2N2NEUyX1J6Tlhud3I3M2ZDcGkxV251a09SWEo0QWFJbDlBVHdwWnUtcklkYlRjT1Fydy1ZSUVlV3ZCeXdwTHlQNnhDbDdVVWcyWEJLYUFXb2xKcGhFUWVyNWYzZmNuN0V1YtIBzgFBVV95cUxQaGdVbzhJbENwcFhNRzJNWVlsRzVMcE53MnA5NVVUSmdmSFN2T0xFYmR6RkJXeHZCc0dVU2U1QVZieVJkR29YNmg5UXhPR3BQT3RGWlBVc1RReWIteHJCd2NSR1ZxbGVkbHFEd2Izb2tSR3lHZlZmbVFSdFFLRWJOUXdCb2RjbzVjWGVsejJ3WU9lajZwODVCUjlMU2l0dHZBdnRzQUI1STlSZnJtc3V0S3p3dnduYTByWkp0ZU5HMkpmSVc5Ri1MaHlQZmxFdw?oc=5)
+• 🟢 [₹28,227 crore infra makeover: Mumbai to Pune travel gets two mega upgrades - Business Today](https://news.google.com/rss/articles/CBMizgFBVV95cUxOWDZHSUVlaG1sMU92b3BPWUlBamRSWU9QVHdqcm95bElkT252RV9ZeFhTM3lwSi1rVjMzZnhZY1l1YnhwekY1RlZaZEFuUUF5UUhWQmpyS0VQTFp0NlZadWtNQ3hJY2VtSHUxZWpZMTRkak5zTTJuaTE5MVlqVWZkRTEwWUVKaExHMEVPcmRBY1E5b0dqQjFsOFhoUGhiVmdQUWdMR2dld1Y1WG5RUC1qN2NHdGFneHFnQlBXdklsemRRRXlJQVNHWGtiVnIxd9IB0wFBVV95cUxQNFBDYW1LMzhRVjA3ZFUtOXZjMkN1Sk5BR1BpUEZVZ245WTdkUVd0ZnpIYXZEdldDZ3Y4SFA5QjZiU01TU0Q1RllkY3MwTTloT01zcEFFWldubEtrWXZLMGIyRFpUZ0hKOTFOSTRpazVrYXRDWi1TTjFGWTN1MG1KejhzaTFWWWNfeXNSV3hVOXBtQnJQOHg1bGhsQ3lIbzRpTUQtckhwdTdNN0puZ1kyemVNU2hONFZ2TlZJOTBQU3FGQVFqalVlSGpCWFRYZFZEUFBj?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Swargate remains one of Pune’s busiest and most complex junctions.
