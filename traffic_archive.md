@@ -6826,3 +6826,14 @@ Swargate remains one of Pune’s busiest and most complex junctions.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Swargate remains one of Pune’s busiest and most complex junctions.
+
+### 2026-08-20 15:31:37
+🚦 Pune Traffic Updates • 20 Aug 2026 • 03:31 PM
+
+• 🟢 [Pune civic body starts planning 1.7 km twin tunnel, NCP seeks to cancel one arm - The Indian Express](https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3dlV2xQVjlBSU1TV3oxak1neF9LVk1ieU1jTFg0YnhOSHBoOXBrNURYdWJHZlZJcWhpaXhrYjhIS1psZHVNLUp6Nm9PczVMU3RXVFVDbTVWaktxZXQ0R1BKUy1nYVAxWjVWQ0pxTVlaWWtKNTdnLXlDT3dael9iZHg4TF9XNE1nMUxyR1RyQXBxSGRrem1fQ3U0Z29XdjdCbzFtbmNIVl9UQTBZOXFSWE50TEhfaXMweVd0QlA0a0x0dGc4SllsZ0RYSE1LUdIB1AFBVV95cUxPTUdsaU5wNFhUcjBZdlNnLU9IOUg3OEZkU25IdHBWRzBNMHVTS0tWODk0dUZhamZjSGpjTkZiamZNclItQTFGVE51Ri1ycmFMVkpaelVJbWlCaHRFV1dHMTVIMzNLTzRzOW5ONmYxbnc1V2VoSlV0ZXA4UHN0VXNhbkxfd0hqdTRpTlowQXhZMmxWbjRGc1h3ZGtTN0hrNGdWaGpQLVF2bW9URVdhdlpzRTdCRUd5elYzNURfM1ZLUnlXeTYwaWZJN2VyM2tOcDNVQmR5Zg?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Swargate remains one of Pune’s busiest and most complex junctions.
