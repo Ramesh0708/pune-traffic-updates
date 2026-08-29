@@ -7043,3 +7043,14 @@ Metro Phase 1 aims to ease congestion on key city corridors.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Metro Phase 1 aims to ease congestion on key city corridors.
+
+### 2026-08-29 12:20:38
+🚦 Pune Traffic Updates • 29 Aug 2026 • 12:20 PM
+
+• 🟢 [Vimannagar residents struggle with wrong-side driving, demand robust steps - The Times of India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdkwydnRkbWJpR0RJOTRLQXBBT3k4YkxEOFR1NjFBQWFXdmtGclZBYi02X08wNDdQMTJuYVRsSVozb2k5aXpITWJXamJKNHN0OFJ4cWNTYmRScG83WHVZcGNpV0VsMVY5cUswU1RDV2M2QTF4WjNnWExuSzZpOTBTcldrUkJJN1VNQmdpSXBBREw5eGdzUC1YWVZqUllMOVcwWjBUQnU4SjhfVEdDVHVfT3FUeXlFanNTaHI4TVNHbm5kd3FNWDNRb1FqT0dBMDRVdE1Zb0hmSGlIMFhXdlHSAeMBQVVfeXFMUEpwLWZyNFROMGJ4Ny1INlhhS00xRW9OaksxdlFjR1RiZkdaQkw0UlJwMjFLdEtzWGVzV3BoTGdoT0daMXlnNE1HMlJHalF6YVlrQ0ZDOWZPVjVLSUZ2NW1SNmdERWpEbHB6eEhVcHlka0M5cFlZTGVtUWRacFNPREhxQ0p4Q1dEa0FkbTJOemliRFVuY19CM2stVmdneTllaUp0TzlENVYzc3kyTVhtb01Wb2Z3NGdwZEpQdUo3YWJaOUpCY1g3bEQ4RTRNYjRYTlA3T0k1X2JHUW9fenRHZnN0NTQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Auto-rickshaw demand peaks during office commute hours.
