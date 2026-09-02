@@ -7078,3 +7078,15 @@ Pune traffic is heavily influenced by IT park shift timings.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Camp area roads experience high pedestrian and vehicle interaction.
+
+### 2026-09-02 08:24:36
+🚦 Pune Traffic Updates • 02 Sep 2026 • 08:24 AM
+
+• 🟢 [Reel stunt on Pune-Bengaluru Highway lands two in trouble, SUVs seized | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORl9DYk5tN2FTMGJ4YnhXZ2xienFxdHhvempaUzU3UTVPdEg1ZkwzV3h3VDJZVEJCaDBwb2prTjM0NVg4Z2JjMHRXd0FwaGhZZVNvbTNXTXJKX00xOXU5VjRvdTQ2LWN0N0p6d1B5ZnluN2g1US1rMDFmSWo3R1lfNllkWDdjRVFEX0xoelFrZTJkT1hRazBtTjZuZ1NhMTV4eV9Bc0lUdHFoa3NEdjZQWGFoM0RPek9yLWJoUUZMbEdhTHAtOWhXOWtCUWFJSEExZS1Ja9IB2gFBVV95cUxPVnpubHBIejl2MUhQUXMwYVlNQlpXTmJKdWFTVHBKTEpBcmotWW5Hby1UdlhFUi1PMkJOWDQwY2ladmhLcU0zMkJTRVJyRjRYcU9RSTNtdGgzbjZaZ09zR1pwQ1k4ODBscEQ5ZVpneUlBU2pJbFF4VjJQcFUxSFdjSDQtWGN3Z2FlaEFCakVmMnhRYmlWVEpXSEEwUXRBNVd4X2ZqTDdNZVdMNTh0ZVJWMG90cUxzN2h1QjZVY2VzQUQ4eHNoVm5XanhKZjcyLUUxMG9kb01aRmR0dw?oc=5)
+• 🟢 [Rain, traffic chaos push Metro daily footfall to 2.4 lakh in Aug, highest for any month this year so far - The Times of India](https://news.google.com/rss/articles/CBMiigJBVV95cUxNV3FCb2ZmRHprb2EteE9veDBsTEpWYlV4X3cyMVZBblAtV0VqYjd4SGNXQXlJU2ZlU05rdDZ2X3BSSW4yWlcwanl1UU1EREZvM3lWb0x4cjRqUjRleW8xYU1OT1JYbTRseS1scjFDZmwybG0ya3R5T3lJNW1rb0lTaFF5OXZleWhIeDc0eGhCamhSX09mQW54dW5aVjRETkdEdmJxRm5icENDQU9UOTZidEhtNEJ5eF92bTE2QWk4YUtjMjFiaUN2S1IzQzdxYk1adXB0TlZZem16b2YxYzFvYjBTdi0zbG14SFNrLUl1bTJVTndJRW9IVnBDdjgtM0ZwbTcyeWVFNFh6QdIBigJBVV95cUxNV3FCb2ZmRHprb2EteE9veDBsTEpWYlV4X3cyMVZBblAtV0VqYjd4SGNXQXlJU2ZlU05rdDZ2X3BSSW4yWlcwanl1UU1EREZvM3lWb0x4cjRqUjRleW8xYU1OT1JYbTRseS1scjFDZmwybG0ya3R5T3lJNW1rb0lTaFF5OXZleWhIeDc0eGhCamhSX09mQW54dW5aVjRETkdEdmJxRm5icENDQU9UOTZidEhtNEJ5eF92bTE2QWk4YUtjMjFiaUN2S1IzQzdxYk1adXB0TlZZem16b2YxYzFvYjBTdi0zbG14SFNrLUl1bTJVTndJRW9IVnBDdjgtM0ZwbTcyeWVFNFh6QQ?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Baner Road traffic increases sharply during evening office return hours.
