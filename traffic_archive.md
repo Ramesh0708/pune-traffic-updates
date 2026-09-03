@@ -7090,3 +7090,16 @@ Camp area roads experience high pedestrian and vehicle interaction.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Baner Road traffic increases sharply during evening office return hours.
+
+### 2026-09-03 11:56:10
+🚦 Pune Traffic Updates • 03 Sep 2026 • 11:56 AM
+
+• 🟢 [Pune’s industrial belt gets a new traffic plan as road upgrades gather pace - Prop News Time](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDhVN0tiSXhYRk1pYkJ3VXBROUJOTkcyN2o3Nnprb2o2NG4zaFZjQUJKOFpTOV9NV3REb2FlV1lpRmZ1OWdqR0o1a1RWMGs0X1VfWjlXRC1ZajloVndGYmxaVmJRNUJxc3F5S2NYZVplN2p5Y0w2dVZxVVB6aGtQOEJreFlZbHdnVnRGWExJMF92Zm1IaldvTE9RMllMZ05RSFp6UXZkSGRxTWRsNWN0Sk1aRUo2Sk13RWgyVHBoYTVwNFd0MFE?oc=5)
+• 🟢 [Pune Traffic Alert: These Roads Face Restrictions For Dahi Handi On September 4, 5 - News18](https://news.google.com/rss/articles/CBMizwFBVV95cUxNTl8xUUZpMlZsTllmUklIdTEzZ0JMcGFmaC15RUwwTUROVVdhU1RlQ2NDZnZ6MF9kNWJ0OGpZT1QxSmZfSko5RjNFWUtkX2FuWWxIZlhLZXJmS3V1dXJQZVhvXzR2eGJHbk92VFZKSkRtSGF2TmZFbmZ6amZCYlJyeW1QNE1HSFZGczd1WWlZUzFOaWhMMEU4VzhNYlhFMVhVeGMwSUZTTFFiV3FfeUZYUF9VOHJISlkyRXh6cVJyTEZPc3hiNnB5VWRvbzdPSUXSAdQBQVVfeXFMT0JMQmJNaDU4VmJkd3d1aV9FY09xckNsb2l5ZC1fWlpfWE9MeTFvS0l5ZnNFeHJhNGliVkVCZmpQeHFTMFBRbVhuNzZ0akIydjRwZHdPbV9TcDVSVlVMcVpiNnRjR1QtanNHRXZUNFRFVlptLVVsb3p0emFVN09YNzc4el9HU0lSaDBBNUcwZjlMSVJ0VjZGT2ptLUdYMG5GZEo2NDlfVUFzZ0R4Rk1pbGl0VkxoNGxnZ3lOZ1J4NmcteHBuM2pKZ2puTnp2TnI0VUxDaEw?oc=5)
+• 🟢 [Pune city traffic police take to using PMC’s pothole app for citizens, submit around 500 complaints to fa - The Times of India](https://news.google.com/rss/articles/CBMioAJBVV95cUxOTkpYUngtaV9sS1Z5SVliQkdrUGMyelk3eVR2dUx6Nk5UaTAta3JCUGo3dDNvRTJwQmpsMUJTakpBb1ZjTV9XeFR6TEZRRlBHQzFpQk9vVDZvWE82X2s3ZUtCdEVJRGFueDZyTVJYSkxDcFpad3lLNnZyNkpHUkcxVEtUdWh2TzM4QnBQRXFDemNJY2NDelNXOG9WLXhjRFhxQkhGeEE1NlhPLXNSNmNfbXVyLU9tZUdyWXlrSDVoa0t4cG1KRC1rc2I0N0tqUTdIY29seDhyTVZsNkctWjBzeGZ6OWJ0OURsUzFKanZLVXp5MXJSNlM2OUtxdEhZZnFXOWxzODR2a1BOQUJoN21XbFR2NTd4bHc0ME92ZkRWRjTSAaACQVVfeXFMTk5KWFJ4LWlfbEtWeUlZYkJHa1BjMnpZN3lUdnVMejZOVGkwLWtyQlBqN3Qzb0UycEJqbDFCU2pKQW9WY01fV3hUekxGUUZQR0MxaUJPb1Q2b1hPNl9rN2VLQnRFSURhbng2ck1SWEpMQ3BaWnd5SzZ2cjZKR1JHMVRLVHVodk8zOEJwUEVxQ3pjSWNjQ3pTVzhvVi14Y0RYcUJIRnhBNTZYTy1zUjZjX211ci1PbWVHcll5a0g1aGtLeHBtSkQta3NiNDdLalE3SGNvbHg4ck1WbDZHLVowc3hmejlidDlEbFMxSmp2S1V6eTFyUjZTNjlLcXRIWWZxVzlsczg0dmtQTkFCaDdtV2xUdjU3eGx3NDBPdmZEVkY0?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Wakad junction is one of the most congestion-prone areas in Pune.
