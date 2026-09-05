@@ -7114,3 +7114,14 @@ Wakad junction is one of the most congestion-prone areas in Pune.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Wakad junction is one of the most congestion-prone areas in Pune.
+
+### 2026-09-05 08:04:03
+🚦 Pune Traffic Updates • 05 Sep 2026 • 08:04 AM
+
+• 🔴 [Dahi Handi celebrations: Traffic diversions, road restrictions in Pune, Pimpri Chinchwad - The Times of India](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEJBZmZxVHhXZ0hXVlNYRnhXQkNxMGJ3MllxenVFRkp0U3pkM3JWNTNPb2R4TW9SSG5qQV8wWl9fQm1uYVBKV0QwYUtmQUc5ZC1oemZZTERvU195THVQbVNlY19od2JOT0kySXpNaWhWdU9NTkFDeFZSWGJ0N2J0R2I2X1NZdjNMbVEyaUduTUFPb0dtb3NoNkV4QlRkdW9zVVZnckFNRDlXZmR1X1VHMHJwaFllMk45bEFYakZXbmgwQy1ac0Q5RnJYd0dvcGREUHp0dzhpOWt6dHEzN0czckJIRzkxQjBpZkVoX2Rn0gHzAUFVX3lxTFBDLS1mWVlBMG8xYWpJQTY4a25xSFZFdXpQai1FSTQ1djdwUXFnOWJhQVNBOGsxbEVoYUtla29KUVZ3aTl1eElZdl92NEpmYnBQUk5nMkoxRi1mYVJLZDM5cmZ0ZzN4RkJHZXNVN0EwODFzeWljb1hlLTIwQkduN2lLbU5yeFZwV1M5bXZVSUhMc3c5a1dySVVXNDF3M2U2bjhDWkdzbXRJUjlDSU9yeEVXbWFWcV9EQVB3RlZiNnhaQi1ndnZwMWdZdWtDUFhmQmlZU2I2NTNla2ZaWm4tQ1hMX2U4bW9mOWFkVlc5cWYwN0h5RQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+University Circle handles one of the highest vehicle volumes daily.
