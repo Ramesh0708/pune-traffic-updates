@@ -7147,3 +7147,14 @@ University Circle handles one of the highest vehicle volumes daily.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 University Circle handles one of the highest vehicle volumes daily.
+
+### 2026-09-14 11:53:53
+🚦 Pune Traffic Updates • 14 Sep 2026 • 11:53 AM
+
+• 🟢 [Residents of Charholi battle lack of access roads, water & power woes - The Times of India](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFNZDZyV2hmVk5mT0xqSDYxeTRVb2EyTmpBSUtwQXN6UnpWT2lQRTZYbTB0VjdCa0k5aVNDRHJFM2lURU8yeld6NEM1X0ZPV0lpOGlsakMxb2U5NlRtZGM3SU9aTTdFV0VmQktMTVlnUXM3RmljampNa2o3NENvX3VkX1J3aERwbDF0UUNfQjlqZlpyRGlMd2hkZVZIbUhGZVVLRzkybGtpTW5JNEZ2TTI3Zng4U094Q2N3czVPR0pyM1ZxMTBQbHJqbmUtY2h6OER2MdIB2gFBVV95cUxOQ3k1WXE5cGw0d1hWZ3N2dE42OV9WSU5HVTBCcWRyRUJsTEtOV284NVFRZklvTDFkTFp1VkJQckFzRDFudUJVN2hFSGV2Z1FLUkZ4LWZpRjNhMHNWTnRDX3kxR1FMVWVKSWJuU1FEVUZvYlBMYmh2UE1YajNZR0k3dk80RlZLTUpOV0xmMTJyTU9kLXRGblo4V3VvY2VjbUJBeUVEdXEwMDRkZzVxY0ctbm92dng5QXhveC1ONXFFWGVPMUZkdWR4dWVJejFMOHJ3R0VZcUotYVM2QQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Airport Road sees increased traffic during early morning and late evening flights.
