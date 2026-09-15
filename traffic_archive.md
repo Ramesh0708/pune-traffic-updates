@@ -7158,3 +7158,16 @@ University Circle handles one of the highest vehicle volumes daily.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Airport Road sees increased traffic during early morning and late evening flights.
+
+### 2026-09-15 16:20:15
+🚦 Pune Traffic Updates • 15 Sep 2026 • 04:20 PM
+
+• 🟢 [PUNE: PIMPRI-CHINCHWAD TRAFFIC POLICE TAKE ACTION AGAINST PORSCHE CAR OVER BLACK FILM ON WINDOWS | VISUALS - Press Trust of India](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTlVUSm1qVEF0S1dnZkpOaXZkcjZzWXpxNnpHRUdITkxvOUFNVHJFeG40dGx1UFJKWk14U3JUbDdNeFBJbnBmRWR1NHB4TnREYXloY1dvQTRNeEE5ZjJNa2hHOEpLUXNvM3lQU0xuTTEwSUVLb2hDU1RPblBKX1ZwUjFFX0x6UjRLRGotdG95TzJSclRUVlQzY0tNUG9jY05TTC1WTEhYRXZTQzNZcHlOUWR6YmFaSUNzQWNWaXpfUUJwRktEYWtaUjUzb2RQZkpDZnJqdldJUURsczc4UjN0ZHRB?oc=5)
+• 🟢 [Chakan industrial area sees some traffic relief as factories begin staggered shifts - The Times of India](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNN2pWaE1CQWoyY2JoQWQzZDk5LTgwSFViX2lnVnNTemVyZVJoelB4MVZ6OFFMNlcyNlhyc3dFSDBkbm9NVzFBQ3BXLTNyX1VuQXh6d2Z0OXl2ejd6ekg2SjFJMWN0ck9DYTZXUy1NSUFkNHRYa1NmMmFld0pldGtCN0t1LVV3VlpjNzNBamhEOEstamNNZThxQUxHV1l6TkEwcF9QYk5EN3ZWY01fSkpnSjJPS2c3b2xlaGlidHE3Z19UNC1ZckdJRVFIa1JEcHEzOFNUTjVJMXNwdzF5NGV5eWVUYUhjTWZabTBB0gHwAUFVX3lxTE8weld5OUV1aEl5bVZ0U2NrcEJEVGhrV2M1VjZ0N3laMGR5RVJrZXRwY1kyeUhPZm9uZEFmN3BvRHNwWjZyUF8yaV9zbEpta2VUOW91NDNITWRWekJrdVJkS0VRTjAzMW9zeDQwY1RrMl9DTXdQQnlOT21YT1dxVElmaUFSa3pKVHhSOXVJdURjMjB4eF9OLWc1ZWtmU0tDTTE2ZmdnZkZVQVJscWR6MlN4N2lPMlVUa2ZjODI2VjFPWWhORWRlTU14aW43c1lQMUw4VDlGU3Z5SllwdjdOU2NZS1piV3J2b1RCUTdLbWJFOA?oc=5)
+• 🔴 [Pune: Illegal roadside shops choke Chakan roads, workers lose hours in daily jams - The Times of India](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2VwZUZlM3NYbmtlaEIwVVBxNkNtdVgtTHZ3bXdmdjE1ZmlvaHViMDBzeGtpQ0ZMc0RkZmE3aGFWSk80UDFLUnhJd0RLUHhhWjlFVHM4bDBJbGZVYS12Tmkyb2JtTlB0aXdzeUxCcjZSVVBxaFJVWlhWMGtLbUhRZFUzSVNQdjN3RHRwRHBlUGJ1dHROcTRmRkQ1VUdUZGh1aXpMRzUxZWo1RlZIbk12OW50d3JjYVZOOFlnTDRDX1cyX1JwdzFqVGIzczJyZ3p0Q3hvLTRXaUdiaC1fUFBteHFlVHFvZ9IB6wFBVV95cUxQbmpkVTE1TTRabWpzREtQRXRaSHRJemlYalZqUHFiQm1xYkw2VU1faGtJUDFMM0lfM0FwTVE5djMzZjQtRTRNd3RmajAwNDlyY2hCcVdXdE5Pcks2Zy1lVnJNXy0xeHhQSE0xaVNPaXNLN05iS0N2Q0MxX3NWWlhSX2pOLWVrR3lHbjFqaVRZTjctZXR2YU1YVDQ0b0w1R0FXdHpTbWxNd0ZucUtkZXkyUnp1dGZQeVV5VUdsbkY5X0dlVi1ieTR2d002SzA2eENQd0E3SGNEOFdXczlxSVpSeFNZOThNT0JLT1NR?oc=5)
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Signal synchronization issues often contribute to delays at major junctions.
