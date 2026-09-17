@@ -7182,3 +7182,15 @@ Signal synchronization issues often contribute to delays at major junctions.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Two-wheelers dominate Pune traffic, especially during peak hours.
+
+### 2026-09-17 16:18:33
+🚦 Pune Traffic Updates • 17 Sep 2026 • 04:18 PM
+
+• 🟢 [VIP movement adds to Pune traffic woes during Ganeshotsav | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxNdzV4UERzZUVfenJqVXF5cDhqQXhPWjYxZzh1OEsydElORUMxaWNKSC1RbXA5U3dJcERPbU5lUGxYaDJKNUNrZ3hUak55dUtsRHhBNW5yZE5EVTNuU0RUOFpHNV9FeGJTa1VmbTVadlpwUGZWVHlKcUhhOHJQa24xVHlaSHk5dS1oZG1FSGNiZ0R4aFVPREdobXdTZFNEcGhubm5sS1pjdFpGemZQa3l2eTdHYm5SdWNaVUwyT0xBdHdWU09v0gHKAUFVX3lxTE9Ob1ZmekR6YlJwOXJaSERNbENRLU5jT0hGNGQtbFNDSXItaUpHenFWYUJ1NDMwUmFTbXNXSkVucEdibDg1WFh3TWVEbkc2cmRmM0wzUGtfR1RzaEotckxCQklyT2VJTlBBNVB5QWpRNTNiWXVCek4wMXREX3dtejY1bjBBWFhDZER6NndLX1FmYm5td1JsUG8ySVBBaUxBSVlLbGVuZXRMV1dtZmk1YkIza1dMTHJ2S1BoMnRBN3EyTzlYaWlVakNoX2c?oc=5)
+• 🟢 [PMC standing panel clears ₹17.9 crore to deploy 500 traffic wardens - The Times of India](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkYyaEp1X0VPQ296cXhSSG0zRnJudnNOOFBlWWtlcFlORFpXdmw4ejZhU3hMclZmdU5pZ3ZpWVFkdlhDTkJ6WE5CbXRkUWRQaldQc2lONmZjWkdabUdCX2RYQU1wYmZVTUtLc3NlOUVOYXpFWWNMNWcwWVdLZlQ4Yi1IbFpJWXlrc2hocjlERm1VcVVUWW00WGI1LXpxMGljTmQxbUJfYWtmb09fVTIyZ195VG1DcGNwRnZ0QkNPN2Y1Zk9IX01tS0NrZzZHbGpHTkdiTdIB2gFBVV95cUxQaVdvVjNpVkdMSGFkUHZZbkZRMTVvaXMxNXlVQzVUVHI3eGxKdkNXS0VNR0IyVVgzTFBjSF9wRUNRRjhkUzU1cXZxNXdWeTNQaTlrcTR5djlDNEEtMmVHYVVLV2h1c0JDbURTYTRNNEVpQWRZUEc1UXM1QUx6aXEtUzRoUFR0eV9LRWVqbFhBU05RVGxhNUZONFZ1R29zRjh2OG1VcFdrN09udVlsYlhkSWVZTXFGb2UzSnBVa2tLTWcxTklocXRyZWpvUnlmbDBPSmdReU9jTDM5UQ?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic police frequently manage congestion manually at busy intersections.
