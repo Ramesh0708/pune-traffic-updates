@@ -7208,3 +7208,15 @@ Traffic police frequently manage congestion manually at busy intersections.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s ring road project aims to reduce city congestion in future.
+
+### 2026-09-26 03:42:20
+🚦 Pune Traffic Updates • 26 Sep 2026 • 03:42 AM
+
+• 🔴 [Pune: 17 Roads in Pune Completely Closed for Traffic Today; Decision Made Due to Ganpati Immersion Procession - Lokshahi English News](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX0dlblRmU1lLVExDSXNQRW1wZXhZZVFXOXBIZUVmNzd5SVZ6NFp1ZHR0N0FkRTlXS2J3QklTQTNUT0pid1FPZGlyY1g5cTF1cnk0b3pXUFVoeXJ0eURQU1dfaTJjRnlqYnlQRHZINVRDd2NiYVZNenZ4R2xWTlAwZC0zd2RWcU5LQ280bkRvMS1aQUltWjhmM2dCV1A1dVFYRl9hTS1vT05LaFhmQjNrdEFIMGVueEFmRlNZMnJEOGQ2MDJMVnVsbTVtUmVveUtlOE82M1pxQ0MzUFZRQjloY1hzdzRIOXFhSDVvNNIB7AFBVV95cUxOX0dlblRmU1lLVExDSXNQRW1wZXhZZVFXOXBIZUVmNzd5SVZ6NFp1ZHR0N0FkRTlXS2J3QklTQTNUT0pid1FPZGlyY1g5cTF1cnk0b3pXUFVoeXJ0eURQU1dfaTJjRnlqYnlQRHZINVRDd2NiYVZNenZ4R2xWTlAwZC0zd2RWcU5LQ280bkRvMS1aQUltWjhmM2dCV1A1dVFYRl9hTS1vT05LaFhmQjNrdEFIMGVueEFmRlNZMnJEOGQ2MDJMVnVsbTVtUmVveUtlOE82M1pxQ0MzUFZRQjloY1hzdzRIOXFhSDVvNA?oc=5)
+• 🟢 [Ganeshotsav wraps up, Pune bids farewell to Bappa amid noise pollution debate - The Indian Express](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2QtTDJWQmptRG1RNGlmWnF3M0t1R0llek9tWTZlRnlOcGhKckEteFZvdF9KTVg1b19uMDZyeVZRYjRLMTVRLTlwWFhsZXZmZ01RX0NudGVOVnZpVjRrRUUyNVBES2dEdm9hdWhjRUY3azMxOTBKYnJhU2wtb2VKNzM2bGlBSDFRaXBLQWxsV0R3SW5JMmg5WGRXYjFlMDRwQUdXWndRTDNaMVdfeXhibnNhMNIBugFBVV95cUxQOHpTLXp5cnBPOUQ4cDlUazhxWTBBRXBLVWRkRC1QdktoYzJYcXF5b0h5Z21nQVpMd2dqYnQ5SVNuWlctVkE4cm4wVXFGVmpNRU9YakR6LWRSbExncWFmaXVGN3Y1ajY5MDVNWTJhT2FWOF9XTWI0UHV2VlAteF9jd2c1QjZmT3dKQ3pGOFRVaE5iNVFSMTJDR2pEWUpoTVVJLWhxM1J2MThMcWlXUkN4SWc5YUozXzBqU1E?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s public transport usage is still lower than private vehicle usage.
