@@ -7220,3 +7220,15 @@ Pune’s ring road project aims to reduce city congestion in future.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s public transport usage is still lower than private vehicle usage.
+
+### 2026-09-28 03:51:03
+🚦 Pune Traffic Updates • 28 Sep 2026 • 03:51 AM
+
+• 🟡 [Delays in Pune’s Sadhu Vaswani bridge project leave residents trapped - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWFVHMk13ekpBZFI4MFJaWFhOMkxPendNUDItZ2dhYkVfb3lnYnZtbVMwcldHbXBXQUNFQ0toeUpsRVdMakExTENYRS1VbWpWRFoyQmRvLVdiUDVDR250Q1dMSE1ONXk5UnZ3QXhLRnZzLTFaMkN4ZEI1VEZidFBRTE0xc3JobmtIWVBuVTNaX2hzWE9NWWhiMWppcVlZYTJidjNIREpmU3VqWGxoY0RYd0VZOGZ3bW9DWnNEYkV1eU9lME9FdHFnLW1PbG92YmRUMFBFUEtJRdIB3AFBVV95cUxNd3NkSllkOXhSbG43VHBpNS0tY3hJZXFsTWthMUtkR3RTYkcxUGoyd1VNM0VnN3BvVVVleUpSVXNBWktOR0M5TWo4U2IzMVdEME9odHM4WUNWVVZxMms0U2s1Qm4wUWpCRnh3cGYwQ2VUMXc2Z2pncnE1bF94VG5fQlI1cTN1bGRoOVZXdHE0RmpENVZiV2pzTWhrbXFPakJJSEVwdTBWR0RKV2RURE1pNWhzV3l0UGZMVjZCMGNUdkd6ekNmV2ZqdkJmYmdGd3VRODA0SWZLM1NOOTNV?oc=5)
+• 🔴 [Heavy traffic in core Pune prompts commuters to turn to Metro, PMPML services during Ganeshotsav - The Times of India](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSDYtaFVpbko1cUc2SGJVTmJrdlM0MDRENkRzSHJ6UkVlRDE2bXlmbUU4djNxNGY5dFY0dGhZa3hHOHM3X21xdS1UeThzbW1TTEk5ZTZYakNVQ0p0MG9neWM4YVdiZGk2YjVxR3dxNXVjbzdhTUtza2sxT3JtWW1CejZmYmUxNFdnSEh2RjJOWkNaUF92bUt2LVgxMjRRTkVuWmx3YkU0SEJiRER1TWhVNjlzZ1UxOHJESU93MUJ1clQzeUxxRXNCYjctMjRPMUpqU2ZnOVg4dkF4TmdMd1JIWUhOYkpzUnFydVFKY3V4UmFnQVhibDlQTDRZTdIBgAJBVV95cUxOYnAwTi10bEIxSS1acVZJMlNMTUo3T2xoYUt2MmtWWUxkQzNtd0tMLW5xQ01vdG1DWWsxWGs1dHBmcVYyNWNhQjNrdDNKRWU3MWY0ak5UYktTMTFDR3UxLXpvYW1qUmZsZ0dqcjBScm9sVWI2emswRkpvVXNhUGpzbl9kc1liTVNtUDZxYzFEa2QwX2VLVnBaNjJjX1djaG1zZjRyVGFmRVhSTE9TVnJ4QXNoV29mZy1HQURmcmxZQTExTG1VeG5TbTV1aldRenU0MDV5N084WlZyOXZKQUl4TmhYQTNXMzhWQnR3QzVSV1RkT1Ital9CeFJoam9vcEtR?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic congestion increases by up to 30% during monsoon season.
