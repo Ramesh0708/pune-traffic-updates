@@ -7232,3 +7232,15 @@ Pune’s public transport usage is still lower than private vehicle usage.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Traffic congestion increases by up to 30% during monsoon season.
+
+### 2026-09-29 04:25:46
+🚦 Pune Traffic Updates • 29 Sep 2026 • 04:25 AM
+
+• 🟢 [Fadnavis gives in-principle approval to Rs1,826cr plan for Chakan, Hinjewadi infrastructure - The Times of India](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcDBINVBDWUxGSGpXY0JWbm90TEl2SWxVYUhKbmZiTWVMWVZCZTExYWM2cjJIcVFaRUZFcVFZYWZYSk45emoxZXJ0ZlFxaUxNWHRvZ0ZyYjNHRnIzUHN3eTAyMzk0ZlN4ME84VW9DQzFqbEhHQ3J1ZzduNW0wTnNMX0NQRzhMZVBnMGdNRVJNREQ2VUhFa1VZdEc0UHBmd01mZ2RzR0I0a1lDTmlod1czUzJvSF81YUVMT3NRZUdVOUR5c3BENHFINzkwb0JJUVVHYzEwSnhJZWt4WVhPenFNckYzNEFWNlBvcTdfSmVJYi1OQjjSAfgBQVVfeXFMUDBoOFhzdGVZb3VERHA0Z1VhSHVDS2tTU1Q3ZHhWSGZrT29RM2FwWkhsT0wwbmpXNWJkaVpMc1U2TG5zYmNqSzVkeVJBVWR0TEJLbktGMlFGdkRjc1JiTGpLdGdEbGtNTDJoby1NbGhjbTRqb0NfLWdaSzZUckIyYVF5QzJURTlyTVRMRlVXdDFiS0NnUW1fNVV6R05NTE8yRnRVQmV3NldZOGF5SlU3UjVVSDgyOXZoczZLVVpXMWJIeEVtdGZ6Y2FLRGp2VHlla3owQlNzNGdXZTVYaXczeWdqVnRteDEwdVFYZUJCWnFrdTJqRVlXMjg?oc=5)
+• 🟢 [Rs 1,400-crore plan for Chakan roads, drainage; Rs 426 crore for Hinjewadi traffic - The Indian Express](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPemJfMnZSZ1RpcFdLLTQ3U0RSQjV6Nk9Ic0FydVhMRzVqNWNiQ0lFMmpHaTRlSkdJUVZiTWR3dUNUYjdrajhXR3FyNjVaYjdITzN0VmptVEtUb2VOYUNjdVVGX1JhYWFoLUVNeDBSXzVLcldzYjR5QzdEV1ctR1lMRm85LWs5Q25pRmFPVXRHMUlHdVczc3B5bjZPSWxvbkZnM1E2dHNLVW1vcGVZY05EN0libndJTXlSMS13T0ozNVN2VGpCSlpHUWtocnNzcDlp0gHXAUFVX3lxTE9kZjFCYXRHR0VzbkEzdXVObU9wWlYyMG0yUDFLR3JfQWJaWkpKOFBDZlRrTloyZ2ZWc3lVamFlR3hsajU5RmtJQmtlNWxPbWd2VUMyNVpGcUNtLV9uMWprMFRHNUJ6VmFIM3VEZXphcF84UHdaRHhRRXRNeWdlZHdQUXJ0bUxWM0M5c2d0VlpFaHZGTzB0SjQ5MFk5Rk1nVnBjbjh3QVB0bTUyYk1YNGpQd1d0aDZ4TWxjamZ6em9uOUViaG44ZExscUNKMHVMdkxzbmtVZDU0?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Auto-rickshaw demand peaks during office commute hours.
