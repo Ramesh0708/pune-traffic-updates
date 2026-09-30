@@ -7244,3 +7244,15 @@ Traffic congestion increases by up to 30% during monsoon season.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Auto-rickshaw demand peaks during office commute hours.
+
+### 2026-09-30 08:02:08
+🚦 Pune Traffic Updates • 30 Sep 2026 • 08:02 AM
+
+• 🟢 [Citizens demand FIRs against Ganesh mandals after illegal arches collapse on Pune-Alandi road - The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRERkRDVaQUh2UVNqT3J6dlJHaHRzS2pzYUdQa0VJRVZIaXZmN19DbVROamYtYzEwZEVTV1ZqUFM1SEpDMlY3VTRoWGlTT0NyLTdFczBxM0g1TDBoTHAwZ0FFaGlkSHJUOWZCaDI2YkhBc3VEV0ZVOU01ZzA2cU5IcHI0YnB6UXBpa0dPcXhsc3g5Q01JREpCYXp5alRVUVV5X3d1WHNZQ1UwLUtad2FkTUNzUnNzMjJtOGVwQUpCVmZTR3h1OUFrd2dxc0tueGFvM09ZeUxzVnF5eV9xUWQ5aXlHcHVmUVBtdmRUdnVZYzUwSjBHTk1jNdIB_gFBVV95cUxOSEtDNGg3TmgxMjQtYVJndW5HblVUa3hDLXNGYVprdkRyckhkQ0UwNUIzRGc5YS1iQkk2c0t3dHJjQzVOalgzajRkMnF2dmVLSV91T2ZtdEF4ZF9ycVlyTEdhUXFxZmJ6LWVWVG9FX0kydC1yOHdSV0FTVDNMdktFTjFWNFk3QmI2WGF5ZlFaMlZGZDNkUVJybVR5T0d1MHBDdFgyaE9sMkRJc0p0RUNZVFpjQjVPc09wWWt1MWJZR3JRVmd6QVFqdlBRenVxZkQyc0lXYzhydmc3eGNNWnVSUDI4NHdrMEk5WmtESFRPT09MMU81cnFkZnNfU203QQ?oc=5)
+• 🟢 [Mired in land row, Pune’s Baner-Pashan Link Road work to resume after 12 years - The Indian Express](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFJOT1kzZ0dfdlFCSFBtYm5udG9DSWtQb1YyQUdjYk4xUV9NS1BjbU1Bd2tkbzZ5cU1wTXJ3RWxBeDhjNG1EQlRnOFR1VTNwQjRGNjlhR3RsMHRpOTRnZjlHTFh1MVA4SHpRNFZZOEhaRU5lS2o5aGpyVGV3Rm01Q2pNRHl5TU54ZDlhU0V2OFFJVHY3aXNNcE0zbkNIUnZKVUpfYjBB0gGsAUFVX3lxTE1jal9oQ1o1eTBlXzRZcVZjUHlCQy04QnlqVUl5NmsxZjFHZFZpY3hyY2x2WURJSFQ3bllKbnJmUnc1Y1I4aW1OSlJhRVhkWjRDT3VVOEliZ2FIdVRNYWVUaXNlYlQ4ZWR6dzFYdmNSZ2J2RUJfZ2JLTmlfRVA5VDBUcHhtMDlJeUZpSXJ2NXVZYXhVYnNJU0NwdkM0N2l4WEVHc09oMTAxbzl0MW4?oc=5)
+
+🔍 Summary: Expect congestion around Baner–Balewadi area.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune traffic is heavily influenced by IT park shift timings.
