@@ -7316,3 +7316,20 @@ Kharadi IT Park contributes heavily to peak-hour traffic density.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 University Circle handles one of the highest vehicle volumes daily.
+
+### 2026-10-10 15:43:36
+🚦 Pune Traffic Updates • 10 Oct 2026 • 03:43 PM
+
+• 🟢 [Katraj PMPML Bus Stop May Shift Amid Pune Construction - Urban Acres](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnBCYmFqT1IxX2lqVFZwdjUxNTVVMldVNjFUeEFQQ1RZaE10OFBRbnNvMFhpaFJpdDhBVkVkNTF2UjJLTk15T2VmTW1MY1BINFYyeFpXZXhIYm5hWWhVRVpOZkxUUl9KUVZhck9ySW85WDlxV1d2cjliX0VfZUx1bTdnTEM0N0xvUTdzYVFha1h2Z2J0dUVRdg?oc=5)
+• 🟢 [Pune Traffic Signals Fail at 51 Junctions During Meter Work - urbanacres.in](https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVlSRkhJb1pHbjJhUmtaVG9OY3ZNQTBZQ2xVUFQyRUJHWWNTd29ROS15cXpzaE03SEhGcXBvT0lsOFNDNWtyZmZFd1hsQ3ZqZkVnX0hDTm51UHVQMDRtem9nODRVenA1WEF0WjVpRDBhTjlaY0JxdkJMdXpSZkhRR2lmOW9YaElEWGM1Sw?oc=5)
+• 🟢 [Pune Traffic Signals: 60 Junctions Hit by Power Cut - Urban Acres](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHYzQTIyWXB3RFhSNjVBU29yQTdTUURJQ3B0amp0R3BPM24zQWl2c0VBUGQ0aXlxNnNpdnZxYUx5TUNSZ2E1SThIVGhkWk9IQTNVd0hIX3lpM0JGNEZsVTd3Vm9selloalMtbEJSOUNIUnVhNGFyYTZRTFIxN0JRVElHZDg1UUFL?oc=5)
+• 🟢 [Pune Traffic Signals Fail at 51 Junctions During Meter Work - Urban Acres](https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHdTU2pTencxZWJLcjh0bkh1dkYxTXJERWhtNHFMVG1EeWl6MFdZNXQ2QXZRUU1NajQxVUVSa1lUSThRcnFhdk5zb29iTXNJRENkWm5LUGdkTDQ0TVhkTHhXYkJvX055LWtnanpManp5ZEdDekZfdzZxbFZKX1A2Mi1zdW9ZVmNFZnc?oc=5)
+• 🟢 [Pune Metro Pillars Expose a Dangerous Street-Design Failure - Urban Acres](https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGJlZVM5Y0VuSXA3eGllYW1LeXctbDNGcXlzb1BZUXotcGVhNVk2TEd5djF4RmRBLXFsU0w4Qk5JSmJVUy1LYWFuZHUzWmsxU1hIRTVaOUN4aUpqREZCNEQ2MTBlQkR0Q0M1VVFEUWFDQ29TUW1wZFRMZ05IQnBMdmFIWlBJVmc4UGc?oc=5)
+
+...and 3 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Weekend traffic near malls and cafes increases in areas like Viman Nagar.
