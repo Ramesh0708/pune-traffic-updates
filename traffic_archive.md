@@ -7344,3 +7344,14 @@ Weekend traffic near malls and cafes increases in areas like Viman Nagar.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Hadapsar experiences major traffic buildup during industrial shift hours.
+
+### 2026-10-18 16:26:13
+🚦 Pune Traffic Updates • 18 Oct 2026 • 04:26 PM
+
+• 🟢 [Inner Ring Road and HCMTR land surveys must be completed by month-end to speed up Pune acquisition process - Swarajya](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGJYaVdrWDFDUU9uMzFCX1MteGF4cGtfZ25EVDl3TG1xbnRZaVVWaDJnYjR6a0V2ZVdSY2tvY0syY0JzWGVrTDlTclFfTFpudXZhaVNJcWlVUjREem0wcUhiMlZNZUNXMS1ZcXoxeTN3TGNIMlVLQlhHbzE5anh4dWZUdmRCNE1IT0lwY3FCWUN1Mno5R0dzQ0pTTkoycDdXSGJyMlpHelpmbDJRM2tTcVBhLXlfRlJDYzFzT1hUb2dRSHNOMzZFSV8tWmkyOVJsenFfQjRMYzLSAegBQVVfeXFMT2pDMmNJeklUZlJrVHcyVGRjcFI3eXlsS19kUUhJRFRCdk5HMUVUeXZWV0NMTjhhTU5HaGNNRGxYdGgtVzNRZFU5Q1RjMFhSRTFGN21PbUhmTTlSdDE5VFpOSHJ0cmtoOWNKSjNfYVg3dmhlZGdpdWtWd01ibVIwNFluSW15VE54TWtHTFo5NDlfOVdqRTdGOVlsOE1DbG1taU92cGVUQXI4WGE2dl9GcmRvYzVFTEZvdXpHMTJzMzF1YjkyVE43eklMMUFGU1pfVTNPdmY1WlM1Q2NCNHBIM284STdpWjE5Nw?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Unauthorized parking is a leading cause of traffic slowdowns.
