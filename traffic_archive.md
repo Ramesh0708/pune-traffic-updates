@@ -7381,3 +7381,20 @@ Pune’s ring road project aims to reduce city congestion in future.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Swargate remains one of Pune’s busiest and most complex junctions.
+
+### 2026-10-28 04:10:29
+🚦 Pune Traffic Updates • 28 Oct 2026 • 04:10 AM
+
+• 🔴 [Pune Traffic Diversion: Buses, Trucks Banned on Kothrud Route - Urban Acres](https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1prMlBVbGxsMzBFblNJTkRwRVhwVktJMld6Q21PaURWX2lhdVJoQkVjWm0xWDlhSWFoX29BbHJpR2pQTDc1aExYMWk3ejZGZlNLNXZXLWlfeU8wYWlkc1k1dURjTGl6VGtxY2lGNC1MQzUxSWI4SFZVa3c0S05kZ3V3elJWSWMtRkFncGdjYw?oc=5)
+• 🟢 [PWD plans three flyovers, one grade separator for Rs 227 crore to alleviate Hinjewadi traffic woes - The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS1NtdnJGUVlUclZfQVJZT0lGWmUyeGlqRHhDZzV3SS1wSkpveHFBY2Q2UGRNMG1jNExFM29xSFA5bUNwYkNESUVWVnEyVTBvZzZoTkMzRUFaV2FPR3hLcjFlMDltTVoyNEdSRjlxR2VhYW1KQkNZaFRxSTd6bjIyUE1ZdFBYU1NXMm9vVHhXbWoteFdxVmt5dWtWcUtNSVc1enlpSEhuSXZNcTZQNEthYnlYdkNsRlJXVHJTYzJyZ2Q0QTJKOUQyM1IxMmhVNU5fcmVneHI0eFQ2ZU1Id28yWUxFeG1sVHVic3JFRU9EbHdfMWNOU0YxbFhxYW1fQdIBgwJBVV95cUxOaFh2V2haaE9xcVNNaXp3d25fM1FESnJHMGFsYzlJeFE1dVNMVlZpeFFtQlM1cjJJR2JGTnpWZUswYzhZekN2d1VQZGRQbDJod1JodHBmR3V4X2tEcjBzZ1otNkEyZFFuRmhRYU5HekxvV2xVSGNZVDlHZ216c3NMRk9rbmxBemdobVJHY0pUSDFoUmNLZ21GRmNmNVVCU0xpUHJIdl9XU21BWUZqRTFKbmR1M2VCSWp4RWNHRkhqSjNnSVJkM2tyNDJtSUtqSE5XRXQtNEgwZUI0TG92N2NrS0laM3ExUVhjM2JnazNZNHFBMmtTSTZ1WkhYSi1POVRZb19J?oc=5)
+• 🔴 [Mumbai–Pune Expressway missing link: Strict speed caps, permanent restrictions on heavy, cargo vehicles from - India.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTEF1VkVIZE01SXJjSEFOV2Q2NTgwYy1DUVZ2Qm83R3R1NlVuVnIxSFJpMjMxRHNXUFp2MWVxalpQZXh6Nm05VHpveEdUUDlRaDJERE1qdkhTLVlCdkcycHlwUy1sOWdOZlJmb1J6RWE1TFdSOWJiejVBbWF5UkpKNnp1cFdjY0FLZUYweGMzcmtHTnhNUUN5d3JPdXcxSU85VXVkUDk2T1VkOGNuVEtxdTF4MXF5XzR6b1FYNVRDQkZTVk5zU0xnSUE3TXphQmN2LWE2SW0zUmFHamFXR3JoQy1Rc2pZNUxH0gHuAUFVX3lxTFBYcXRVcmEyRjNPTFVzVEFKdGRmNDRnbk0zcWkySll3aUREejZXYUtVdXZkRWRoblRkcFFIdUNpZmhMWThsdm5KMWJPN1REbWIxSC1TYXZQRmJLSjIzWVVTX0NWMTQwb24tOEFuUGc3ZHRid01Xem5MRWNwS0oxMzZ0UlNnNXdrQVVNMVQtMC0wYUxBay1mUG1MWGtNNHNQUnJUSU9vMk5TejFXQUZ3VzVHQVR3WTF1WHFFWi03ME42RVFqczlPa2pUOWdhWEw0d3dpQTRYbURoNzNaZnlPRnIwSlJ1Ym9vb0sxYllmRFE?oc=5)
+• 🟡 [Pune Traffic Congestion Worsens in Dhayari - Urban Acres](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQlZTTU5tYmhIMFBiTVlETEJLdXdKNmZDVDdFSlRYckRiYl8tWFgzMURxQ09iRWtFNUZkTEQxWEEycWYyeDV0TWNzaW04a2dTc2JDSS1rdTA5ZW9HSXZ6NG1nNmdjX2J0ZUdYa3AtVjdzaEQxaUNnNkxpcDItS2QwWUc1WnlOaUt1dnI4?oc=5)
+• 🟢 [Mumbai-Pune Expressway Missing Link Traffic Rules - Urban Acres](https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDFHRmE4RkQtSDA0RXVPSzNXLXBDemxMOEZ4U0NjNmU3VlA2MEF3RnNxZHFzTDltSjFmeVFNMFVXUjU0bTZJSGw0bUVGU1A4TUc2MEFWN0FyNVFmbGZmS1owbU9ucHY1NW5hTzVFdGVrMWFZMUFxU2tFbzc4WDc0ejdTVDkwU0EtdDRGRQ?oc=5)
+
+...and 14 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Traffic congestion increases by up to 30% during monsoon season.
