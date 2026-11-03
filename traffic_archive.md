@@ -7435,3 +7435,20 @@ Pune traffic is heavily influenced by IT park shift timings.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Hinjewadi Phase 1 sees peak congestion between 9 AM and 11 AM on weekdays.
+
+### 2026-11-03 07:35:23
+🚦 Pune Traffic Updates • 03 Nov 2026 • 07:35 AM
+
+• 🔴 [Heavy unseasonal rain lashes Pune, traffic snarls reported across major roads - Mid-Day](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYnhFSDExMkJWa0lqMDdOMXJNV0lfaFJ4SFdST1lYVzg3WVlZZ2pfaU1DTGFvZVBUYU5hM2pxUmlNdWdOSGVnTVJTYms0RTd3NW9sSnVPeEpWb3pmT1dEVkd0QkJuRmVDN3JlVS1rNVF4Q0tXbndjelNtQ0Z1X3Z6MjdqVG8xQ1pmSW82TnJwZExXd1VkOElGRGpUTkRnUFdmcHItRUMxRDdlVUVPaEZnNmhwUU9GT2JFR05lbGxwYU9YMTVxQVhXcl8xeDNEZXhPTmREcWstdkVKdw?oc=5)
+• 🟢 [PM Modi to virtually inaugurate Pune Metro Line-3 today - Gulf News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdTEtQjR3VVZsV2NkenR1d19XZU5RTXdNclFEMHp1WFpfcXB0RGpxREk4Q19wdnlINmNaQWozSUY1c0laRGxUM0VjZDRiTHdKU3AzSDZzYkRXa0xGQ0hKRTJtWXhGMjNwVEN2UlQwamV1VVNvUWZBSjNjemRoS2VIblVpSDMydU42QVlCaU9TTGJmdk41RS0tOVlvWWxWMHB2Rmo1RTlDeDHSAb4BQVVfeXFMTVpNV0VDdVVsTXlBTnN2azB5WC13SFgwaUZaaFFWb2dHY2FiY2ZMNW9pXzVqSWFaNV9MRVFTcVYwZmRoZ1BGSHhmNEtmc09GX0lYQ2NnemZTWDhOYl80UE9Ia2FfTjRjZkZGTTdKbVhHWG9sSVoyTlVZczNtMFZwOVRSRTNRR1BOdldOV2p6SjV0OHNiNXN2dzNES1ZzajBPbWthOC1pNWltUDB5VXFrWVBpWFppTzFmQy1DZ3VMUQ?oc=5)
+• 🟢 [Travellers likely to face traffic troubles along Pune-Bengaluru h’way; Shetti-led blockade kicks in at Ki - The Times of India](https://news.google.com/rss/articles/CBMilgJBVV95cUxNRW53b2t0TDhyMXY3ZXBwTEJCeWJHRGo2MVU2eUh6ay1YVmlxQUdMaWx6RHM4VXgwV0IzdUlJM2xRYm5VbUYzbThyeG1zN1ZDRzMwRnZ3ZzE1NzBzcDgxUVEwX2tMRUVWLW5mcHpJVWg3ekxxTV9vX2RQb08wdDFVckVCMHVxNGpmdkk3S2FSQkRmN1pPWTBkMEppeWkxUmctTW9GdmhHVm5wUUJIOWdBakhhNzl3R1dBaWgwb0NibmtlODJvWWJJS3poZU9qd3lsX0pEVWJLMXBXOEJpTXJILTdMVzI3M1BJeTlCc1VuZGtnZnVhVFBZLWFvSjRHQ0lFMjRSeFdpSlkyZTQ5dmMwOXV3cWtlQdIBmwJBVV95cUxQOE1xMFREWFp6aEZxQVI0X0RLUnBrRjNlRDRmWmNZemhXYW5HYjgtYk1sZnhDRDVRam5tWlM4NXBzc19xOGRlRzNpZWxXS1pJODlYeTN4M25NRlduUlZRbnowOVd1Q1h5S0NLNmk0NlNXX01fam9sZTB6QU15eVhmeG8xcHZWdWRndFdOamc3U3dOVG41LUZlaVM3VzBLRTdTSUlMUndORDNFbEVrMkRQTnM5NWNSQUtYUTBOeHB0VGhjbFF0N2NNMTA3UFNfelEtQ0lWLWpZOGFsb3RuZDA4a0M2dkM0ZTlJZDZrSGRMQkpkM21JMUdWazFUemJqWUFnb0dYek8tS3k2OC0xRk1MOEx6VXZES0x5SFN3?oc=5)
+• 🟢 [Pune Camp Encroachments Push Pedestrians Into Traffic on MG Road - Urban Acres](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUWxfb2hSNzhSWktEZ1pScjBneERyeXAxRld2aWZpLXo3enRHdGV1ZUl1SkM5Q3R0Rjd0VkdUbzBOU1p0eEhJN3lXLTYySlhpVnJwMkQ3RXNpVUFCR0NNakU3ckFQaXMtblcwWjM2MG5xeXNYcTlCQnBqcldBU1Jia2pYcnVLZ0d5UVlpT2tJSEI?oc=5)
+• 🟢 [Pune Diwali Shopping Rush Brings New Traffic Curbs - Urban Acres](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGZxeVJtWmtucGNNTzlhYnJ5SzZKOXVoUWZXdUJoM2pXMWl1bWgxQWVmQW1qX2ViRU5GUFB2UUtoMDFFMUNpeTdzQThhcDNMTkpBZ2Q5ODI4SVhfaWdzSGtFeWdHaXBxaWQ0Smh3Ym90TlNCYmFZLVFFb29rOEw3OGc0NXU1dlB4LXVpeGlubkd3Rk8wS2dOanl3?oc=5)
+
+...and 5 more updates. Stay tuned!
+
+🔍 Summary: Roadwork/metro construction slowing traffic.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Wakad junction is one of the most congestion-prone areas in Pune.
