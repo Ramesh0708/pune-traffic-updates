@@ -7508,3 +7508,16 @@ Heavy rainfall often leads to waterlogging near Balewadi High Street.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Heavy rainfall often leads to waterlogging near Balewadi High Street.
+
+### 2026-11-07 08:21:53
+🚦 Pune Traffic Updates • 07 Nov 2026 • 08:21 AM
+
+• 🟢 [Metro’s foot overbridge work in last phases, Baba Bhide bridge opens for traffic, relief for road users - The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxPc1E2SjZGYjVJd1F0VWM2d3hWSFJCWElhWXQ5MThWSXJCajRKTXJMSjRmZ0FLUUFGUEJDUFdNOHBubXY5dUNnOUVzUGF2NE1CQzBXcWRHRnlZSXhZQ2hyRDFEZzdubEE2c2p1VG1LbXItV0N2ZF9KT25HSjVlZUh6T2xvalZwWlk2Wk9OenJRWXdpRl9RTTN4UlAxcmVPaDVsdHctbnJHVkRXODBXeEZwejY1aWtkLVBxM2lBYUlETDJ5VnRaM0EtODlpZ0syNTJabE9PY2VDMXBUZ2lJSlhTbHRJMncwR3c5aVdwdDlsYUtmVnBqZHpucHBDTC1WMkVUVXfSAYcCQVVfeXFMTnFFZjV1WUdZX2RIMnAteU1Ed0tWY2FUZnJyak1WZUpxMTljQWhFRERyNloyUEFYQlhuSXFxSkFaYTNCMXlPME5qd0dkQkhWS2s0N1dhV0F4dmVkZ0ZaQ3RoSzhoVWRPRUlRMnlsQVdONWJ0UGd6dllZd2JUYkZrY29YNm9Wc01ZdDUtTU9ZSmtXWlpDcGtYeTNSS0hWMkVhM3U0M0lmdFNTdEc5dnF0Wk5SNlhWZUU1M3cxaGxuU3VRNk9DOVNWaHE3aWdtcWFUYWxSbWZyS1JWTEdSSl9BaXlzb3Z0YVAyTGNJVzJGYVlJakZuTlRMX2FjQzZJQ2NiQTJxd3BJUlU?oc=5)
+• 🟢 [Sakhar Sankul Flyover Gets ₹76.80 Crore Pune Civic Approval - Urban Acres](https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWtWekFOSU90SFl1OUgybnpoVUZhVzRneDV4WlBXbG1CQlVBeHIycjk5VEdkQks2TXFsVHA0TlVyU3hPTVllUnpuQ05yMUpkWl9FMFhFSGszVGxjMmdMZ0ZMNVlQaXoxVXpFZUdFaUJ2d0JsNk5UVGM2T2Q2VmEzbGVuakYzTG1lVzBpd28za2xDTlVp?oc=5)
+• 🟢 [Rs 77-crore flyover planned to connect Sakhar Sankul with Old Pune-Mumbai Road - The Indian Express](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWURkNHltdFBCTkU1OE9GZXhnNVJ3Zi1YaWYtdEVPdWNIRW5MZnh5VzBqdEhmYkdGSGtaNWFodTU1NVBrUXZPMENWR0hJdmcwUVUyTHpSeFFrWmUtSlIxVkZrVUFBaDcxR3lXa0VTN2Y3YWQ3am45UHlNQVQyUHhfcGE1amJoWE1mRWQxOTh1RGxhWXczX0FHRzA2dzJYcW5BMUNOcEhtY3dhZHPSAbIBQVVfeXFMTlE4NVNzakNzOGQxV0pVdF8tM25SN1h1T1lzWVZxSzFIRnRud1QyS2luMjBlN1l4OXhyYjFKRF9UR3AyaE1LWW5KNU80OTE5RjZFYXhZTUE1ME0tZ0VzUkJwblY5NDR2YjJFWjhVREtRcDU4RVFSc0I2RHZMc1JDcXBXTjh3RFVCeDFEeFVIbkZwbEF1Tldsc0czUFk5b29zZ1VYd0pLTU9rT085SHpDeFFGdw?oc=5)
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s road infrastructure struggles to keep pace with rapid vehicle growth.
