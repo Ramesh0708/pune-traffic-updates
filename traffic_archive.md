@@ -7538,3 +7538,18 @@ Pune’s road infrastructure struggles to keep pace with rapid vehicle growth.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Metro construction zones frequently cause temporary traffic diversions.
+
+### 2026-11-10 12:07:52
+🚦 Pune Traffic Updates • 10 Nov 2026 • 12:07 PM
+
+• 🟢 [Old Mumbai-Pune Highway To Be Widened To 6 Lanes At A Cost Of ₹6,000 Crore - Curly Tales](https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXNSbzVXUTBQcTFldWNremxFYXVoSnVsY1JZZ0pZNmphWTk4azg2cXlVV1piVWFBaGRuS2dVM3lGLWFKa2tUcnFxWHZUNlBLdURXSHRtUW1JSGJXOHU2eFhOTEo2TWVVbWRKUUpzaGs2YkhSZ0gwVzRpOFJ2b3BmOXU1cnpZTU50eHlOSnNsRFFMWEUtdlJXNGFsa0JVUnRwUDdvc056MNIBrAFBVV95cUxOQVdORklqdkFUckhyUDZqTkgzRDlVUThXb01uVnNZd3RZVjlQSnEySV9xQjJNRFpmR1hqSk9CUUE3S2JzYjFfa1FtYmgxOThNX3Bhek1XX3lfZTZZSzVrT0UzamxOeDVVY1hmNWMwZUxwWWlIOWVLQ3hGWXcxQTA1eXJ0NEtEVFpLZmtlczBTZ2VkX0RMOTBLcTVJbldMN1VabDdZZklwZHFNN1dN?oc=5)
+• 🟢 [Pune News: Major Changes To DP ! 36-Metre-Wide Roads Reduced To 24 Metres; Highway In Undri Set To Be Narrowed - PUNE PULSE](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeURpWnhrZlBrZVZ0eUF4YlU3NXduQms1Q2hZNHo4RmN4bWs3alBVcGJtbE5iX0RIVEcwZGJKMDdjVEhEQnBsOGtneTh4UmRMT2xqTjlDemxWbVNLZGpmLXJoN3cxS2tERm94a0RVZXl1djV2OWthT0xJdjcwWFBjX1ZiUEhTV01WaVVIb1Y0VEllenVDNk00ZTIzLVV2cl9EUmNOMXJPa3oydUlIZGNTbW5ZOUxzVTBfOXFDaE0tcGhWTWtJMkplTGZjcllXVU5p?oc=5)
+• 🟢 [British-Era Mumbai–Pune Highway Set For Makeover; MSRDC Plans 6-Laning Of 111-km Nigdi–Shilphata Stretch - Free Press Journal](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNzdPZHUtRVVHRGZkVVdWWG1qVWp4Z2VQOFBoSVBWZVBWRENKNU5FdGV5cHowc1JIcU5DcUhBLTFEQTY0UTdEQllncUFPUXZqbHl1SnpfaGk1QzBkY2JIOVRqamtKdVRtY1MyWmJFQzR5YV9sSmQ1SXAxcnBrbVVPb205OWZGb2t1RW56UDdidVlrWWkyaHhxTGo5d285U3NiYVFSYjZUT1ZXRUZUVms4RjgxSl9VVDVsY0E0Q3BudW96b296d05TekJWbHdJOW5BaG9sdW1sWdIB3AFBVV95cUxOUWdqV25MNTFkZEdvamEtR19ZSUtvcGhOYmZhSVhtc1VFT3NHNUREQVF1NTNYN2t1dVFqY1dCN3FFdEpPcU1qY0YwSU02Nkl2QU9mT3RrZ3J0WE1tUVB2NWZLdC1fdDI2TDZhU3dmUjZRWUJaWjFtQ1VpLWhiQVdRak5EMTdEY2U2NkRRd2hObFBRM0l4TVMyQnhfbDh3VTB4enZkUS1LT21KLXIzREVWbTdfNnNvdWlrZ19kVW9xV3JuN3BCUFAwOVd0ZVN0TktfbVFab20wbDV5OHBl?oc=5)
+• 🟢 [Pune Cycling Decline: How Cars and Two-Wheelers Took Over - Urban Acres](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGxXVmh4VVZ5cFlXdzJIWmZ0Mm9zM0NKUlJkYU5nQmtyOVgxc2xKWjVrZEFUTUxXVlNLb2xNdEZacjF3UDVwclE0aXJPdl9KTmF1MFFDaUo5QUFKSVhKZEd1azZ3NnVZZWJBSzZnUEZBeDJhR0QyWGdmNEF4T2x5S1ZjZEtZNlh0YVlmUA?oc=5)
+• 🟢 [Mumbai-Pune Old Highway Set To Get Six Lanes: Project Details To Alternative Traffic Routes, 10 Things To K - News18](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOGpFMlZJelRBb1F6NFBEVFVPNEVxOHhtWEFMWUhSclBValBoZzg4S3V2QnBFYVZvV3p4ZVR3SjRueU5UV3l5Y1BLU2IzWEhjSXgwTTVoaEhBckVWX2JZRmxQVVZXWUdoV05PczBJd0xWcWpQbjFBUHRNYzVSdEJmaDNYeWJ1WEwzaXlxeklPdU9KX1pMekRCN1pCeWk5M2t4UUhuV3JTQjJsNHFNTjZ1ZjRDNlQ5WDVWakJ5NXBsWmQxYzBKMlNJZktZUElOb1NSZUpMUlhMUFduMGJBT290Nk9hTDc1ckxIQXFoMV9qZnLSAfYBQVVfeXFMUC1scS1UNVN4RHg5NXRveXNzNVhRQzhQOFZ5NkFXUHU2c0Z5OEJ2aHdSZlJNcHkzYUJoNGNoXy1RUjVUdWxTcDdKcHpZNVJrNm1ydFhEdVNCb0daekpxaExPa3dKN1UxT3BCQ0NSWDRFMkNJMk12N1gzWlZXeXIzQjg1UmFTVFBuNVRUeFl6c0dfSjRZU2xkdlZJV0xqd2g3cEs4SkpkbG5yUkZRaldBRndkVjg3M0R6eWxVYUNBMFFQVGlQNDRBWHBWbEk4THlDWEF2bGlITllYOVdPMXlOYlhfMW5ZWms1Nnh5Z0JTX3NqTGdqMUJR?oc=5)
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Weekend traffic near malls and cafes increases in areas like Viman Nagar.
