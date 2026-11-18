@@ -7553,3 +7553,20 @@ Metro construction zones frequently cause temporary traffic diversions.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Weekend traffic near malls and cafes increases in areas like Viman Nagar.
+
+### 2026-11-18 16:10:57
+🚦 Pune Traffic Updates • 18 Nov 2026 • 04:10 PM
+
+• 🟢 [Pune: Residents Question Temporary Pothole Repairs Near Majestique Memories In Undri, Seek Proper Road Resurfacing - Punekar News](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb0VkYnE0NmQ1VVlvQWoybFZqVzhxLVlaMDkwTDJseTkzVUlyX1lfVHkyaFdQc2ItVUJzWV9QdmFxVWNNV3NGa3B6OUc2cjUtX1MxLWJtdmxXQUdXUnNZMGxUZDFfVEV0WXNISF9ILTFwLU84TFBKQUo3UGN1UlJ0elc5bkFkYWc5b2pUYnRlR21aRG9qMjVfNHQ1SE9qNU0tZERYaGNmUFJNNEtvU25zNnUwTlVIdlZMYjNyOTlXMGxhbHdvWEVxNWN6SGJjeWxrYWJWTHVTTQ?oc=5)
+• 🟢 [Sasanenagar Canal Bridge Repairs Stall as Pune Traffic Risk Grows - Urban Acres](https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUxwSnRCUW83S3NwV0VCRnJFY3B5VjlCVFZTRzN1Zy1GZk5fRlZvQkl6RzIzOVM3TEhuZ1p2ZEZyMUFmaEs4MU5MaktWSWp6X2FweWZacHJoRnc0NnV2OGJmSTFDM2RzeGhfRm1hMEdVSzBWUEFNSjQ1V1g3QTZvWXhaLVhER1h0cDQ4TW1VNnB4UQ?oc=5)
+• 🟢 [Bhide Bridge Closure Disrupts Pune Traffic for Metro Work - Urban Acres](https://news.google.com/rss/articles/CBMingFBVV95cUxPRFJTUksxSGhJQnpkUFhDT0tFVjEtc3RCNlk3WGc3YVlyZkpnQkdjZlo4a1JXbjlFQWFyLThYZEJ4NkYxeU4wVFZBTXJNeGU3NjAzZjZ1NjlKX0UwTDlPRFhuMzYyUUhWX1llRGRUTUFVeV9rLUJsOXlEVU9tdGFCWGQzem5GeGFIX2ZsWlIzUlduMXU0UXV5LVkxNHlmdw?oc=5)
+• 🟢 [Pune Bhide Bridge Closure Disrupts Traffic for Metro Footbridge Work - Urban Acres](https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzl0S0lnZDVuXzF0WE5VNHRTdWY0TkRoWEJMZ1lTRzdHcG1iSDNMZTRPZm8yY1o4Q3l6djRkOTE2TUVyZWRhb2hBVUhGeF9xcXBnZVJORWJVNlVNYzlabHZhVG9HZms5Sm5OWFFJNWo5UEl5N2dyam04Y0FMS245NHJqejJKb25FX2MwV0hDcVJrWHY1SXc?oc=5)
+• 🟢 [Pune Traffic Falls 37.79% During Diwali, Data Shows - Urban Acres](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYUZOQlJUYk5LbFYzdjgya1p1ZkJtamtQLURaOUpZakVoX3dBNXhhYTNoU2luUTRwRkdfR080aFUzWU1XU0R3RF9lS252VHppTG01OWl4aEN0eFJvZV94ZV8td0dJX2hkLUVMcF9fcTZiU3V3eTRjSDBkME1CSDRtY29VRFRGNnNzWFRUXw?oc=5)
+
+...and 8 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Unauthorized parking is a leading cause of traffic slowdowns.
