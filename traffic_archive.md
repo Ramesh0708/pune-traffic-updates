@@ -7570,3 +7570,20 @@ Weekend traffic near malls and cafes increases in areas like Viman Nagar.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Unauthorized parking is a leading cause of traffic slowdowns.
+
+### 2026-11-19 16:18:29
+🚦 Pune Traffic Updates • 19 Nov 2026 • 04:18 PM
+
+• 🟢 [142 individuals nabbed by Pune police on Holi for driving under influence of alcohol - PUNE PULSE](https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVF3WWtwejZXYnRTekZEc2FyUWdYM25tQTRCOUZDbUFjN1ZZZExSd0JLekxtaVF2aWNUTVdtaDFoN3NvcFM4SWJaNmh2VFozblNMbDF1d3BzTzNiUG02NVNMbExHdXFvNmduWEY1Q29CTUQ0TkpHdnVGVngzdlg2RFY4RGQ1WWZsYjJZM3BzcWpJbW5PdllTd0p2bDBjdVp5djFabjlkdGRpcjRFSHc?oc=5)
+• 🟢 [Deactivate Traffic Lights During Peak Heat Hours, Urge Pune Residents - PUNE PULSE](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEhEYlhQSzk2RUpaZ3lINURSLWkzSE9Ia1huWVlUNjhKclNRN1M3SjRxV2k1aTJ6c2xlX3MxM0tMalZWcmJSM0d0bV9jMmFkUmh3TkhWYTVNMC1ZYUpOTUdEdGZZT0UxYWFKYlBOU0llOHlVR09ORkNLUnVpc1ZrVkQ2b2pxbzczMVhiWE5tdWNKSlB4bk9yLQ?oc=5)
+• 🟡 [Breach Candy residents express concerns over traffic congestion and environmental impact of Mumbai’s Coastal Road - PUNE PULSE](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOFBNaGZuRmtEb1NNN3lMc3g5NzJKMm5LZlRQclBBZVdZQmoyTFp3SGEtaW1JczdmOGpGMXVET2FGOHpXYjFSUTJ5MnpVcHBUbUdxUHByQ2hWRmxPWmltd0RuRnV4RV9aSmpXcTRUQkZfV2dPYnZkcVc5MjRYRV9vLVRRdzZMVG50alVNUkJsU0Z4TU5XMnoyU3VwaE9aUDVjTUF2cVE4VmJSUHRMNG1sd05teE1PRnBXSGltdlV5SU5UZzJzRS00OEN6eHc4NjRyejJV?oc=5)
+• 🟢 [Pimpri-Chinchwad Traffic Police Get 350 Body-Worn Cameras To Ensure Transparency During Enforcement - PUNE PULSE](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHBhLU9wNUZtUGNGYlhKMTF3SnQ0R1FjYkNBdGVIVGJXMVp3cXBEWlh1OHVESFJ0THdpX2RRSmdvRGc4UkExbENEcU5aS04xN0hmTTdjV1RSZURyWWkzMTVBdll1cndnUEFoaVRLRVJnNVZVQ2VWRk1LMnpQYlQxUFp2T1FBTVVsN3BpLWxYem51eWZoYnYwbUtLc0w3Rk1VeWlmRDhfQmtkT1VTNVFaNUJIanpjZnhNLTRONW5weENZUQ?oc=5)
+• 🟢 [Pune Collector orders Time-Bound Action on Encroachments, Traffic and Roads in Chakan-Talegaon Industrial Belt - Pune Mirror](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSEtLdmJQQUJmRUp4Uk42anhLbFJNb0hyNFdMUFQtUHdERFBIck5ZNmYtTHFQa1hUQVFMTHpJVlNzOWt2WG95MkczZzhzMzRoLVNLSFd0WXgxZ25hdTFlV0VyM3pNa0QzVG9aRWgyVVU3ODZnM2FpVHhLbmM3cW5HZjFYb0Z1S00zTndWc01VNHcxOFZ0N1ZOMVpEbFpqTGMxc1pxZnZrSEhsXzhJNlRuWWlJejRib1RCYzk5eG01bXFRZ0RlY09vLXRheXprMmM4YXlMWQ?oc=5)
+
+...and 2 more updates. Stay tuned!
+
+🔍 Summary: No major bottlenecks this hour.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Pune’s ring road project aims to reduce city congestion in future.
