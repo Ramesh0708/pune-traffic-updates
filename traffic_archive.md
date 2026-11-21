@@ -7587,3 +7587,20 @@ Unauthorized parking is a leading cause of traffic slowdowns.
 🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
 
 Pune’s ring road project aims to reduce city congestion in future.
+
+### 2026-11-21 03:45:37
+🚦 Pune Traffic Updates • 21 Nov 2026 • 03:45 AM
+
+• 🟡 [Traffic snarls hit Deccan as Pune's Bhide bridge shut till December - ET Infra](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnBqY3p1NGt2SlJtelZSTzZrM2FqSnlRaWJKZmJOaWpVa01OZlBqZFl3bUhVR1lJamkwY3RoOXZmVTJSWHZGRFh1Ml80R3R3VjJ4YmlreDV4VE5vMEFUZnY5MW9yMS1HU0VGOUw1cjFlQWdia21vVmVJR1F2V0NJOURFTkg3ZnRnY21KaDJfUk1MS2hhNkQ2SEREWUx2dXI4TC1CeUotWVJ6MVliX0tnX3Z3Rl8ydFVvVWdiLWZZWEQweG1MakJpUXJ0Z1Y4UW5sRDk3b3Z3eFVOWmdfTGfSAeIBQVVfeXFMT2FBcmVwSGZFMTZpSjZ5dld3bmRZMklrck5Pay1JMkdXTTYtZU5SU2hKbnU2MmY4WVpjTVpMdTNMRTVZZVA2RnFxRmNrZzVUVDMtWmVYRkR6a045Q0h0LW1kcXU5TEV2ZllOVDlNOHc1d083STRQamVjY05LQ0xkeGVSUEE5Z1Q4VW9xVHJVX29kUEF0ZUk1NjRZTFROVFdlX2dhUXgyQ0NaemRHNFNkaHJPS05TMWtELWlJczFDTlpIcm1iQ1hZSW5zTmFfdEoxNlBJYUxFOXl6M2VfSmtVc0M5Zw?oc=5)
+• 🔴 [Pune Katraj Traffic Diversions Begin for Metro Work - Urban Acres](https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFIxd3c0dHBSTmlaMzFzSTBUZzBGMjJlYjJiWnhodVJ2S2RSSHJWdHdhd3NwQkNtc0NkQ3N5czJWWWFqeGJWaVJCeWlPUkJ4eXo4X0ZKbVNFdkVYTkF0STRaV3FGOW5ySVBxdE9mMlVEblMzbzNCSlhvUzM5NnhPdmNOVWpEenE5ZU1sZE9lNGczOFN5LWFNY3V4VjZfQUY0?oc=5)
+• 🟢 [Pune: Traffic Police Introduce No-Parking Zones at Two Locations in Kondhwa - Punekar News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOck1ZM0lCXzdNaW9zTmh6ZTlrdkhIdVBYSWdTbHpPWGpIa0dhNFRPQlNKNkxzNndrVVd2M3l5Q0VLNW5HQmZma0ZmSTI5ZmY0TEYzRW1GM3FuakZxd3JJblA2akp3WFNRajVEMXhSc3JMN2ZZeW9MY2R6aW9QNHdiSFliZUc0N2ljOVN0SEYwOC0yWUlGd2x2c2dnbk1acmVRbXdsWQ?oc=5)
+• 🟢 [Pune Prioritises 23 km Bhosari-Undri Underground Tunnel - Construction World](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNnNHMktaTHNmNE9Nd0xmSmsxRUdJa0VXWEYzMDBqWFVGZF9FWnR3WXl5OF82TmNDWVNoMXpYdEZjWTdOb2cwMDd1OExwOXctLUJqZmRtS1BERkdzajBXVUVTZ3RKXzdiTjFBOEZCM0FJekNRcHNnNVlVanVTUWplYUhPVnFQLU15THlDTVVqb05NYzR6UFJKWDIwZ1VoRVloaGIzSm16S0RabUxpejRZNXVNTkJ6dzM3aGlYYmNuWW5SY0lmMGpMdy12TlBxcExJY1d5aHpVLWFpVlVCZnhNdEY4NEExaXRTSHc?oc=5)
+• 🟢 [Pune: Car Driver Assaults Traffic Officer In Hadapsar; Two Arrested After Attack - PUNE PULSE](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUt1Tm5uTlZzX0tDVjJQRTJlajl4LWRBN0d2aFN4aE9hczZrOXJ4cnJjX3ozVVdrXzV6ZXpJc0ZWWXdIckpjWmZBNWxtT1VMei1yV3k3VUpZcFRpbkVPRkNSczNtSFV0N2lJd2NqRUVsRU9LVTRuNm4wd2p1RmtEZEFDTmxQS2FKaG1CaHZTUS1oeE92Q2ZQQkF1WldWV3EySUJrWTN3?oc=5)
+
+...and 15 more updates. Stay tuned!
+
+🔍 Summary: Possible delays near Navale Bridge.
+
+🗺️ Live Map: [Baner Traffic Map](https://www.google.com/maps/@18.5590,73.7799,15z/data=!5m1!1e1)
+
+Karve Road sees consistent traffic pressure throughout the day.
